@@ -125,6 +125,8 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
                          *args,
                          **kwargs)
 
+        if ensemble_size <= 1:
+            raise Exception("Ensemble size cannot be <= 1")
 
         self.scoring_function = scoring_function
         self.labels = np.unique(dataset.y)

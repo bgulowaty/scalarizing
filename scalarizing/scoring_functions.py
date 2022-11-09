@@ -20,20 +20,14 @@ def default_scoring_function(scorer, folds_iterator, classifiers, ensemble_size)
         best_clf_indices_by_test_accuracy = top_n_indicies(test_accuracies, ensemble_size)
         best_clf_indices = top_n_indicies(scores_for_single_fold, ensemble_size)
 
-        if ensemble_size == 1:
-            accuracies = {
-                'by_score': test_accuracies[best_clf_indices[0]],
-                'by_accuracy': test_accuracies[best_clf_indices_by_test_accuracy[0]]
-            }
 
-        else:
-            voting_clf = create_voting_classifier(classifiers[best_clf_indices], x_train, y_train)
-            voting_clf_by_test_acc = create_voting_classifier(classifiers[best_clf_indices_by_test_accuracy], x_train, y_train)
+        voting_clf = create_voting_classifier(classifiers[best_clf_indices], x_train, y_train)
+        voting_clf_by_test_acc = create_voting_classifier(classifiers[best_clf_indices_by_test_accuracy], x_train, y_train)
 
-            accuracies = {
-                'by_score': accuracy_score(y_test, voting_clf.predict(x_test)),
-                'by_accuracy': accuracy_score(y_test, voting_clf_by_test_acc.predict(x_test))
-            }
+        accuracies = {
+            'by_score': accuracy_score(y_test, voting_clf.predict(x_test)),
+            'by_accuracy': accuracy_score(y_test, voting_clf_by_test_acc.predict(x_test))
+        }
 
         calculated_test_accuracies.append(accuracies)
 
@@ -56,6 +50,7 @@ def diversity_metric_scoring_function(scorer, folds_iterator, classifiers, ensem
 
         test_accuracies = [accuracy_score(clf.predict(x_test), y_test) for clf in classifiers]
 
+
         for clf_idx, clf in enumerate(classifiers):  # Calculate score for every clf for this fold
             score = scorer(y_train, clf.predict(x_train))
             scores_for_single_fold.append(score)
@@ -63,33 +58,31 @@ def diversity_metric_scoring_function(scorer, folds_iterator, classifiers, ensem
         best_clf_indices_by_test_accuracy = top_n_indicies(test_accuracies, ensemble_size)
         best_clf_indices = top_n_indicies(scores_for_single_fold, ensemble_size)
 
-        if ensemble_size == 1:
-            accuracies = {
-                'by_score': test_accuracies[best_clf_indices[0]],
-                'by_accuracy': test_accuracies[best_clf_indices_by_test_accuracy[0]]
-            }
+        classifiers_selected_by_score = classifiers[best_clf_indices]
 
-        else:
-            voting_clf = create_voting_classifier(classifiers[best_clf_indices], x_train, y_train)
-            voting_clf_by_test_acc = create_voting_classifier(classifiers[best_clf_indices_by_test_accuracy], x_train, y_train)
+        diversity_of_ensemble = np.average(
+            [diversity.Q_statistic(y_train, clf1.predict(x_train), clf2.predict(x_train))
+             for (clf1, clf2) in combinations(classifiers_selected_by_score, 2)]
+        )
 
-            accuracies = {
-                'by_score': accuracy_score(y_test, voting_clf.predict(x_test)),
-                'by_accuracy': accuracy_score(y_test, voting_clf_by_test_acc.predict(x_test))
-            }
+        voting_clf = create_voting_classifier(classifiers_selected_by_score, x_train, y_train)
+        voting_clf_by_test_acc = create_voting_classifier(classifiers[best_clf_indices_by_test_accuracy], x_train, y_train)
 
-        calculated_test_accuracies.append(accuracies)
+        scores = {
+            'by_score': accuracy_score(y_test, voting_clf.predict(x_test)),
+            'by_accuracy': accuracy_score(y_test, voting_clf_by_test_acc.predict(x_test)),
+            'diversity': diversity_of_ensemble
+        }
+
+        calculated_test_accuracies.append(scores)
 
     function_values = {
         'by_accuracy': np.average([1 - accuracy['by_accuracy'] for accuracy in calculated_test_accuracies]),
-        'by_score': np.average([1 - accuracy['by_score'] for accuracy in calculated_test_accuracies])
+        'by_score': np.average([1 - accuracy['by_score'] for accuracy in calculated_test_accuracies]),
+        'diversity': np.average([accuracy['diversity'] for accuracy in calculated_test_accuracies])
     }
 
-    if function_values['by_accuracy'] > function_values['by_score']:
-        return function_values['by_accuracy']
-    else:
-        return function_values['by_score']
-
+    return np.mean(function_values['diversity'] + function_values['by_accuracy'])
 
 
 
