@@ -1,6 +1,8 @@
 from copy import deepcopy
 
+import numpy as np
 import ray as ray
+from mlxtend.classifier import EnsembleVoteClassifier
 
 
 class predict_wrapper(object):
@@ -29,6 +31,19 @@ def extract_classifiers_from_bagging(bagging):
 @ray.remote
 def execute_in_ray(f, x):
     return f(x)
+
+def top_n_indicies(values, n):
+    return np.argpartition(values, -n)[-n:]
+
+
+def create_voting_classifier(clfs, x, y):
+    voting_clf = EnsembleVoteClassifier(clfs=clfs,
+                                        weights=[1 for _ in range(len(clfs))],
+                                        fit_base_estimators=False)
+    voting_clf.fit(x, y)  # Required by design, but does nothing apart from checking labels
+
+    return voting_clf
+
 
 class RayParallelization:
 

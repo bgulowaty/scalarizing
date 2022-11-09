@@ -6,7 +6,6 @@ from typing import Callable, List
 import numpy as np
 from imblearn.metrics import geometric_mean_score
 from loguru import logger
-from mlxtend.classifier import EnsembleVoteClassifier
 from pymoo.core.crossover import Crossover
 from pymoo.core.mutation import Mutation
 from pymoo.core.problem import ElementwiseProblem
@@ -15,6 +14,8 @@ from rules.utils.sympy_utils import get_all_possible_expression_addresses, modif
 from sklearn.metrics import balanced_accuracy_score, f1_score, accuracy_score, recall_score, precision_score
 from sklearn.model_selection import StratifiedKFold
 from sympy import symbols, parse_expr
+
+from scalarizing.scoring_functions import default_scoring_function
 
 balanced_accuracy = symbols('balanced_accuracy')
 f1 = symbols('f1')
@@ -106,17 +107,6 @@ class FindingBestExpressionProblemCrossover(Crossover):
         return X
 
 
-def top_n_indicies(values, n):
-    return np.argpartition(values, -n)[-n:]
-
-
-def create_voting_classifier(clfs, x, y):
-    voting_clf = EnsembleVoteClassifier(clfs=clfs,
-                                        weights=[1 for _ in range(len(clfs))],
-                                        fit_base_estimators=False)
-    voting_clf.fit(x, y)  # Required by design, but does nothing apart from checking labels
-
-    return voting_clf
 
 @dataclass
 class ScoringFunctionArguments:
@@ -124,14 +114,11 @@ class ScoringFunctionArguments:
     y_true: List
     y_pred: List
 
-
-def default_scoring_function(args: ScoringFunctionArguments):
-    return args.score
+from functools import cache
 
 class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
 
-    def __init__(self, dataset, classifiers, ensemble_size=3, splitter=StratifiedKFold(n_splits=3), scoring_function = default_scoring_function,
-                 selected_by_accuracy_influences_function=False, *args, **kwargs):
+    def __init__(self, dataset, classifiers, ensemble_size=3, splitter=StratifiedKFold(n_splits=3), scoring_function = default_scoring_function, *args, **kwargs):
         super().__init__(n_var=1,  # we minimize for one specific metric
                          n_obj=1,  # we treat the expression as single variable
                          n_constr=0,
@@ -139,7 +126,6 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
                          **kwargs)
         
         self.scoring_function = scoring_function
-        self.selected_by_accuracy_influences_function = selected_by_accuracy_influences_function
         self.labels = np.unique(dataset.y)
         self.ensemble_size = ensemble_size
         self.dataset = dataset
@@ -149,6 +135,8 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
         self.train_accuracies = []  # list[fold_idx][clf_idx] = accuracy, used for fallback
         self.test_accuracies = []  # list[fold_idx][clf_idx] = score
         self.predictions = []
+
+
 
         for clf in classifiers:
             self.predictions.append(clf.predict(dataset.x))
@@ -175,18 +163,7 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
     def _evaluate(self, individual, out, *args, **kwargs):
         scorer = scorer_creator(individual[0], labels=self.labels)  # individual has just the expression
 
-
-        function_value_by_acc, function_value = self.do_score(scorer, self.folds_iterator(), self.classifiers, self.ensemble_size)
-
-        if function_value_by_acc > function_value:
-            if self.selected_by_accuracy_influences_function:
-                out["F"] = function_value_by_acc
-            else:
-                out["F"] = function_value
-        else:
-            out["F"] = function_value
-
-        logger.info(f"{individual} -> {function_value} ({function_value_by_acc})")
+        out["F"] = self.scoring_function(scorer, self.folds_iterator(), self.classifiers, self.ensemble_size)
 
     def folds_iterator(self):
         for fold_idx, (train_idx, test_idx) in enumerate(zip(self.train_idx, self.test_idx)):
@@ -198,35 +175,3 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
                   self.test_accuracies[fold_idx], \
                   np.array(self.predictions)[:, train_idx],  \
                   np.array(self.predictions)[:, test_idx]
-
-    def do_score(self, scorer, folds_iterator, classifiers, ensemble_size):
-        test_accuracies_by_scorer = []
-        test_accuracies_by_acc_selection = []
-
-        for x_train, y_train, x_test, y_test, train_accuracies, test_accuracies, train_predicitons, test_predictions in folds_iterator:
-            scores_for_single_fold = []
-
-            for clf_idx, clf in enumerate(classifiers):  # Calculate score for every clf for this fold
-                score = scorer(y_train, train_predicitons[clf_idx])
-                scores_for_single_fold.append(score)
-
-            best_clf_indices_by_test_accuracy = top_n_indicies(test_accuracies, ensemble_size)
-            best_clf_indices = top_n_indicies(scores_for_single_fold, ensemble_size)
-
-            if self.ensemble_size == 1:
-                best_clf_test_accuracy = test_accuracies[best_clf_indices[0]]
-                best_clf_by_test_accuracy = test_accuracies[best_clf_indices_by_test_accuracy[0]]
-            else:
-                voting_clf = create_voting_classifier(classifiers[best_clf_indices], x_train,y_train)
-                voting_clf_by_test_acc = create_voting_classifier(classifiers[best_clf_indices_by_test_accuracy],
-                                                                  x_train, y_train)
-
-                best_clf_test_accuracy = accuracy_score(y_test, voting_clf.predict(x_test))
-                best_clf_by_test_accuracy = accuracy_score(y_test,voting_clf_by_test_acc.predict(x_test))
-
-            test_accuracies_by_acc_selection.append(best_clf_by_test_accuracy)
-            test_accuracies_by_scorer.append(best_clf_test_accuracy)
-
-        function_value_by_acc = np.average([1 - accuracy for accuracy in test_accuracies_by_acc_selection])
-        function_value = np.average([1 - accuracy for accuracy in test_accuracies_by_scorer])
-        return function_value_by_acc, function_value
