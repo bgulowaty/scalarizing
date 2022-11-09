@@ -1,7 +1,7 @@
 import random
 from dataclasses import dataclass
 from itertools import cycle
-from typing import Callable, List
+from typing import List
 
 import numpy as np
 from imblearn.metrics import geometric_mean_score
@@ -10,12 +10,13 @@ from pymoo.core.crossover import Crossover
 from pymoo.core.mutation import Mutation
 from pymoo.core.problem import ElementwiseProblem
 from pymoo.core.sampling import Sampling
-from rules.utils.sympy_utils import get_all_possible_expression_addresses, modify_expression
 from sklearn.metrics import balanced_accuracy_score, f1_score, accuracy_score, recall_score, precision_score
 from sklearn.model_selection import StratifiedKFold
 from sympy import symbols, parse_expr
 
+from rules.utils.sympy_utils import get_all_possible_expression_addresses, modify_expression
 from scalarizing.scoring_functions import default_scoring_function
+from scalarizing.utils import np_cache
 
 balanced_accuracy = symbols('balanced_accuracy')
 f1 = symbols('f1')
@@ -114,7 +115,6 @@ class ScoringFunctionArguments:
     y_true: List
     y_pred: List
 
-from functools import cache
 
 class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
 
@@ -124,7 +124,8 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
                          n_constr=0,
                          *args,
                          **kwargs)
-        
+
+
         self.scoring_function = scoring_function
         self.labels = np.unique(dataset.y)
         self.ensemble_size = ensemble_size
@@ -132,25 +133,14 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
         self.classifiers = np.copy(classifiers)
         self.train_idx = []
         self.test_idx = []
-        self.train_accuracies = []  # list[fold_idx][clf_idx] = accuracy, used for fallback
-        self.test_accuracies = []  # list[fold_idx][clf_idx] = score
         self.predictions = []
 
-
-
         for clf in classifiers:
-            self.predictions.append(clf.predict(dataset.x))
+            clf.predict = np_cache(maxsize=None)(clf.predict)
 
         for train_idx, test_idx in splitter.split(dataset.x, dataset.y):
             self.train_idx.append(train_idx)
             self.test_idx.append(test_idx)
-            test_accuracies = []
-            train_accuracies = []
-            for clf in classifiers:
-                train_accuracies.append(accuracy_score(dataset.y[train_idx], clf.predict(dataset.x[train_idx])))
-                test_accuracies.append(accuracy_score(dataset.y[test_idx], clf.predict(dataset.x[test_idx])))
-            self.test_accuracies.append(test_accuracies)
-            self.train_accuracies.append(train_accuracies)
 
     def __str__(self):
         return f"""
@@ -170,8 +160,4 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
             yield self.dataset.x[train_idx], \
                   self.dataset.y[train_idx], \
                   self.dataset.x[test_idx], \
-                  self.dataset.y[test_idx], \
-                  self.train_accuracies[fold_idx], \
-                  self.test_accuracies[fold_idx], \
-                  np.array(self.predictions)[:, train_idx],  \
-                  np.array(self.predictions)[:, test_idx]
+                  self.dataset.y[test_idx]

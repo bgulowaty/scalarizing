@@ -8,11 +8,13 @@ from itertools import combinations
 def default_scoring_function(scorer, folds_iterator, classifiers, ensemble_size):
     calculated_test_accuracies = []
 
-    for x_train, y_train, x_test, y_test, train_accuracies, test_accuracies, train_predictions_by_clf, test_predictions_by_clf in folds_iterator:
+    for x_train, y_train, x_test, y_test in folds_iterator:
         scores_for_single_fold = []
 
+        test_accuracies = [accuracy_score(clf.predict(x_test), y_test) for clf in classifiers]
+
         for clf_idx, clf in enumerate(classifiers):  # Calculate score for every clf for this fold
-            score = scorer(y_train, train_predictions_by_clf[clf_idx])
+            score = scorer(y_train, clf.predict(x_train))
             scores_for_single_fold.append(score)
 
         best_clf_indices_by_test_accuracy = top_n_indicies(test_accuracies, ensemble_size)
@@ -44,18 +46,18 @@ def default_scoring_function(scorer, folds_iterator, classifiers, ensemble_size)
         return function_values['by_accuracy']
     else:
         return function_values['by_score']
-
-
 
 
 def diversity_metric_scoring_function(scorer, folds_iterator, classifiers, ensemble_size):
     calculated_test_accuracies = []
 
-    for x_train, y_train, x_test, y_test, train_accuracies, test_accuracies, train_predictions_by_clf, test_predictions_by_clf in folds_iterator:
+    for x_train, y_train, x_test, y_test in folds_iterator:
         scores_for_single_fold = []
 
+        test_accuracies = [accuracy_score(clf.predict(x_test), y_test) for clf in classifiers]
+
         for clf_idx, clf in enumerate(classifiers):  # Calculate score for every clf for this fold
-            score = scorer(y_train, train_predictions_by_clf[clf_idx])
+            score = scorer(y_train, clf.predict(x_train))
             scores_for_single_fold.append(score)
 
         best_clf_indices_by_test_accuracy = top_n_indicies(test_accuracies, ensemble_size)
@@ -87,6 +89,7 @@ def diversity_metric_scoring_function(scorer, folds_iterator, classifiers, ensem
         return function_values['by_accuracy']
     else:
         return function_values['by_score']
+
 
 
 

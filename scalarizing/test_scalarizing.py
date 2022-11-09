@@ -34,7 +34,7 @@ def test_smoke():
     problem = FindingBestExpressionSingleDatasetProblem(dataset.train, extract_classifiers_from_bagging(bagging), ensemble_size=10)
     result = minimize(problem,
                       GA(
-                          pop_size=1,
+                          pop_size=5,
                           verbose=True,
                           seed=42,
                           eliminate_duplicates=False,
@@ -42,11 +42,10 @@ def test_smoke():
                           crossover=FindingBestExpressionProblemCrossover(),
                           sampling=FindingBestExpressionProblemSampling()
                       ),
-                      ("n_gen", 1),
+                      ("n_gen", 10),
                       verbose=True,
                       save_history=False,
                       seed=42)
-
 
 
 
