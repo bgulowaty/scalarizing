@@ -28,6 +28,7 @@ ray = {extras = ["default"], version = "^2.0.0"}
 datasets = "^2.6.1"
 DESlib = "^0.3.5"
 perceptron = "^1.1.0"
+aiocache = "^0.11.1"
 
 [tool.poetry.group.dev.dependencies]
 bokeh = "^2.4.3"
@@ -36,6 +37,7 @@ jupyterlab = "^3.2.8"
 distributed = "^2022.10.0"
 dask = {extras = ["distributed"], version = "^2022.6.1"}
 pytest = "^7.2.0"
+papermill = "^2.4.0"
 
 
 [build-system]

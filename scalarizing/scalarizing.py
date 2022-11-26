@@ -18,6 +18,10 @@ from rules.utils.sympy_utils import get_all_possible_expression_addresses, modif
 from scalarizing.scoring_functions import default_scoring_function
 from scalarizing.utils import np_cache
 
+from aiocache import cached, Cache
+from aiocache.serializers import PickleSerializer
+
+
 balanced_accuracy = symbols('balanced_accuracy')
 f1 = symbols('f1')
 accuracy = symbols('accuracy')
@@ -136,9 +140,9 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
         self.train_idx = []
         self.test_idx = []
         self.predictions = []
-
-        for clf in classifiers:
-            clf.predict = np_cache(maxsize=None)(clf.predict)
+        
+        # for clf in classifiers:
+        #     clf.predict = cached(cache=Cache.MEMORY, serializer=PickleSerializer())(clf.predict)
 
         for train_idx, test_idx in splitter.split(dataset.x, dataset.y):
             self.train_idx.append(train_idx)
