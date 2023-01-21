@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ba4c2c6ff0c34c2f85941907093c038e/artifacts
+end_time: 1669946923453
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba4c2c6ff0c34c2f85941907093c038e
+run_name: glamorous-skink-903
+run_uuid: ba4c2c6ff0c34c2f85941907093c038e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241494904
+status: 3
+tags: []
+user_id: unknown

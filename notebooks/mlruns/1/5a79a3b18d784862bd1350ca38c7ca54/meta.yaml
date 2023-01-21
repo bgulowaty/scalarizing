@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5a79a3b18d784862bd1350ca38c7ca54/artifacts
+end_time: 1670104716325
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a79a3b18d784862bd1350ca38c7ca54
+run_name: likeable-shrimp-90
+run_uuid: 5a79a3b18d784862bd1350ca38c7ca54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239980924
+status: 3
+tags: []
+user_id: unknown

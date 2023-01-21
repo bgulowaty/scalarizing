@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5af4879a4ab44b5dbc4e27bd7a3421a5/artifacts
+end_time: 1669952898639
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5af4879a4ab44b5dbc4e27bd7a3421a5
+run_name: overjoyed-donkey-296
+run_uuid: 5af4879a4ab44b5dbc4e27bd7a3421a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240385597
+status: 3
+tags: []
+user_id: unknown

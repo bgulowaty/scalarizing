@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/61b8885332b14974bfea1eceb5c76bba/artifacts
+end_time: 1670161748266
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 61b8885332b14974bfea1eceb5c76bba
+run_name: puzzled-shrew-942
+run_uuid: 61b8885332b14974bfea1eceb5c76bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150561244
+status: 3
+tags: []
+user_id: unknown

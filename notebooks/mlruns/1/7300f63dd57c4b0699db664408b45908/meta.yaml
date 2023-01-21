@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7300f63dd57c4b0699db664408b45908/artifacts
+end_time: 1669952594997
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7300f63dd57c4b0699db664408b45908
+run_name: dazzling-moth-204
+run_uuid: 7300f63dd57c4b0699db664408b45908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240444701
+status: 3
+tags: []
+user_id: unknown

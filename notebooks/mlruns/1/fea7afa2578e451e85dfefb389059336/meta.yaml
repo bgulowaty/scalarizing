@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fea7afa2578e451e85dfefb389059336/artifacts
+end_time: 1669950402550
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fea7afa2578e451e85dfefb389059336
+run_name: redolent-skunk-37
+run_uuid: fea7afa2578e451e85dfefb389059336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240771622
+status: 3
+tags: []
+user_id: unknown

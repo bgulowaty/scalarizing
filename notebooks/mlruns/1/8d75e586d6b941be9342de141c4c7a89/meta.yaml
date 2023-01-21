@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8d75e586d6b941be9342de141c4c7a89/artifacts
+end_time: 1669955024616
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d75e586d6b941be9342de141c4c7a89
+run_name: legendary-bug-820
+run_uuid: 8d75e586d6b941be9342de141c4c7a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240177816
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0afde6686fce4a6d8b26be7eccfec6fe/artifacts
+end_time: 1670105686884
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0afde6686fce4a6d8b26be7eccfec6fe
+run_name: worried-jay-90
+run_uuid: 0afde6686fce4a6d8b26be7eccfec6fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239919935
+status: 3
+tags: []
+user_id: unknown

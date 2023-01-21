@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/63fa86afbc7b42a18d42e9f83f91b29c/artifacts
+end_time: 1669954061998
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63fa86afbc7b42a18d42e9f83f91b29c
+run_name: popular-wolf-215
+run_uuid: 63fa86afbc7b42a18d42e9f83f91b29c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240272973
+status: 3
+tags: []
+user_id: unknown

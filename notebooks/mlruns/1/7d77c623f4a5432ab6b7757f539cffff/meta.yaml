@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7d77c623f4a5432ab6b7757f539cffff/artifacts
+end_time: 1669950651629
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d77c623f4a5432ab6b7757f539cffff
+run_name: bedecked-smelt-937
+run_uuid: 7d77c623f4a5432ab6b7757f539cffff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240761868
+status: 3
+tags: []
+user_id: unknown

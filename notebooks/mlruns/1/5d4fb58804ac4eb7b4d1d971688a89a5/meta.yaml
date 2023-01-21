@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5d4fb58804ac4eb7b4d1d971688a89a5/artifacts
+end_time: 1669945738693
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d4fb58804ac4eb7b4d1d971688a89a5
+run_name: brawny-crane-12
+run_uuid: 5d4fb58804ac4eb7b4d1d971688a89a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241741925
+status: 3
+tags: []
+user_id: unknown

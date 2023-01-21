@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a6449108bc3b4dd395c87838b90e0cac/artifacts
+end_time: 1670106293501
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6449108bc3b4dd395c87838b90e0cac
+run_name: sneaky-wren-38
+run_uuid: a6449108bc3b4dd395c87838b90e0cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239897682
+status: 3
+tags: []
+user_id: unknown

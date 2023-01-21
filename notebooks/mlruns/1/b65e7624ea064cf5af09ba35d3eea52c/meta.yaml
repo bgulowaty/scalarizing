@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b65e7624ea064cf5af09ba35d3eea52c/artifacts
+end_time: 1669945142774
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b65e7624ea064cf5af09ba35d3eea52c
+run_name: fearless-calf-894
+run_uuid: b65e7624ea064cf5af09ba35d3eea52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241870215
+status: 3
+tags: []
+user_id: unknown

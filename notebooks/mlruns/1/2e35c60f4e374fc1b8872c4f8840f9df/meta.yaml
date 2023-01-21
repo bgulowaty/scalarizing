@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2e35c60f4e374fc1b8872c4f8840f9df/artifacts
+end_time: 1669946040349
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e35c60f4e374fc1b8872c4f8840f9df
+run_name: bald-duck-748
+run_uuid: 2e35c60f4e374fc1b8872c4f8840f9df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241704581
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c2a7030444f54a25a41523e0dc3faaea/artifacts
+end_time: 1670102112726
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2a7030444f54a25a41523e0dc3faaea
+run_name: thoughtful-chimp-782
+run_uuid: c2a7030444f54a25a41523e0dc3faaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242648647
+status: 3
+tags: []
+user_id: unknown

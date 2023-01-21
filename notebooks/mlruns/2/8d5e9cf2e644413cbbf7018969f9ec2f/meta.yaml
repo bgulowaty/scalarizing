@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8d5e9cf2e644413cbbf7018969f9ec2f/artifacts
+end_time: 1670162395270
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8d5e9cf2e644413cbbf7018969f9ec2f
+run_name: magnificent-stag-937
+run_uuid: 8d5e9cf2e644413cbbf7018969f9ec2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150341819
+status: 3
+tags: []
+user_id: unknown

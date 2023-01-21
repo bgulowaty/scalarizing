@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7d4bd31e3f78412f99feb4ad49078e42/artifacts
+end_time: 1669952221212
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d4bd31e3f78412f99feb4ad49078e42
+run_name: sincere-ray-762
+run_uuid: 7d4bd31e3f78412f99feb4ad49078e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240496888
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9031c91258de4da8942f8f58881058d5/artifacts
+end_time: 1669951662192
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9031c91258de4da8942f8f58881058d5
+run_name: sedate-rat-515
+run_uuid: 9031c91258de4da8942f8f58881058d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240551445
+status: 3
+tags: []
+user_id: unknown

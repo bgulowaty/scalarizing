@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ae490eba4f74a438d6526fb10b373eb/artifacts
+end_time: 1670104196445
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ae490eba4f74a438d6526fb10b373eb
+run_name: unique-gull-523
+run_uuid: 1ae490eba4f74a438d6526fb10b373eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240013441
+status: 3
+tags: []
+user_id: unknown

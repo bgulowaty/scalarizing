@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/22341f1cf4bc415fad4397fd1c60d661/artifacts
+end_time: 1669943729128
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22341f1cf4bc415fad4397fd1c60d661
+run_name: bustling-conch-50
+run_uuid: 22341f1cf4bc415fad4397fd1c60d661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242254069
+status: 3
+tags: []
+user_id: unknown

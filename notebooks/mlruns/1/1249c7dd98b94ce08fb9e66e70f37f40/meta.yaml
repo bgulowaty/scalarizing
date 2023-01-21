@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1249c7dd98b94ce08fb9e66e70f37f40/artifacts
+end_time: 1669943987479
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1249c7dd98b94ce08fb9e66e70f37f40
+run_name: suave-ox-48
+run_uuid: 1249c7dd98b94ce08fb9e66e70f37f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242202098
+status: 3
+tags: []
+user_id: unknown

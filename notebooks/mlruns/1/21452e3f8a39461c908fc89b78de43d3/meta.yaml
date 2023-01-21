@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/21452e3f8a39461c908fc89b78de43d3/artifacts
+end_time: 1669948200237
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21452e3f8a39461c908fc89b78de43d3
+run_name: lyrical-hound-275
+run_uuid: 21452e3f8a39461c908fc89b78de43d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241245018
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1996495b28784b36b8c01e26b3ea45f7/artifacts
+end_time: 1670162299903
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1996495b28784b36b8c01e26b3ea45f7
+run_name: carefree-elk-296
+run_uuid: 1996495b28784b36b8c01e26b3ea45f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150363948
+status: 3
+tags: []
+user_id: unknown

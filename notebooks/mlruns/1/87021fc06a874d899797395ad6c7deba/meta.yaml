@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87021fc06a874d899797395ad6c7deba/artifacts
+end_time: 1669950037675
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87021fc06a874d899797395ad6c7deba
+run_name: lyrical-slug-654
+run_uuid: 87021fc06a874d899797395ad6c7deba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240858967
+status: 3
+tags: []
+user_id: unknown

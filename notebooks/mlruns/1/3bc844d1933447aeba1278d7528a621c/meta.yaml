@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3bc844d1933447aeba1278d7528a621c/artifacts
+end_time: 1670181724395
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3bc844d1933447aeba1278d7528a621c
+run_name: upset-midge-801
+run_uuid: 3bc844d1933447aeba1278d7528a621c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240023135
+status: 3
+tags: []
+user_id: unknown

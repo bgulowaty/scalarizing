@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/531052a4c62e4aeb912a5598ffca84ad/artifacts
+end_time: 1669946671587
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 531052a4c62e4aeb912a5598ffca84ad
+run_name: rogue-stoat-982
+run_uuid: 531052a4c62e4aeb912a5598ffca84ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241529743
+status: 3
+tags: []
+user_id: unknown

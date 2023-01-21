@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/58dcbc559a2a469784d29534199db603/artifacts
+end_time: 1669952834614
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58dcbc559a2a469784d29534199db603
+run_name: omniscient-stork-26
+run_uuid: 58dcbc559a2a469784d29534199db603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240398435
+status: 3
+tags: []
+user_id: unknown

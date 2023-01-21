@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45e6f7aa494e4b0a8117bfc855c40a7c/artifacts
+end_time: 1669943272911
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45e6f7aa494e4b0a8117bfc855c40a7c
+run_name: invincible-tern-174
+run_uuid: 45e6f7aa494e4b0a8117bfc855c40a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242374858
+status: 3
+tags: []
+user_id: unknown

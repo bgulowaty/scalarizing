@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/08868c0cdfaa4d53a22b75cc915c6acf/artifacts
+end_time: 1670103199557
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 08868c0cdfaa4d53a22b75cc915c6acf
+run_name: adventurous-foal-828
+run_uuid: 08868c0cdfaa4d53a22b75cc915c6acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240682662
+status: 3
+tags: []
+user_id: unknown

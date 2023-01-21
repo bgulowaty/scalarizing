@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4473cdb2acce4e4998d5577a244ca829/artifacts
+end_time: 1670104446575
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4473cdb2acce4e4998d5577a244ca829
+run_name: wise-colt-911
+run_uuid: 4473cdb2acce4e4998d5577a244ca829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239985942
+status: 3
+tags: []
+user_id: unknown

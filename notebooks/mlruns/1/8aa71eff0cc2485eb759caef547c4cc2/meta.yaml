@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8aa71eff0cc2485eb759caef547c4cc2/artifacts
+end_time: 1669946305959
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8aa71eff0cc2485eb759caef547c4cc2
+run_name: inquisitive-worm-531
+run_uuid: 8aa71eff0cc2485eb759caef547c4cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241606039
+status: 3
+tags: []
+user_id: unknown

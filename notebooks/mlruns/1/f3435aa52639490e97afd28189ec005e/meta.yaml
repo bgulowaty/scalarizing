@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f3435aa52639490e97afd28189ec005e/artifacts
+end_time: 1670103201076
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f3435aa52639490e97afd28189ec005e
+run_name: gentle-mare-496
+run_uuid: f3435aa52639490e97afd28189ec005e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241079317
+status: 3
+tags: []
+user_id: unknown

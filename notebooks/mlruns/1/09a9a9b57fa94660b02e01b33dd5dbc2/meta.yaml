@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09a9a9b57fa94660b02e01b33dd5dbc2/artifacts
+end_time: 1669942372744
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09a9a9b57fa94660b02e01b33dd5dbc2
+run_name: nimble-croc-354
+run_uuid: 09a9a9b57fa94660b02e01b33dd5dbc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242789020
+status: 3
+tags: []
+user_id: unknown

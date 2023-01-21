@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1d01dd24621042b9b56de391ff568a76/artifacts
+end_time: 1670162072312
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1d01dd24621042b9b56de391ff568a76
+run_name: defiant-turtle-690
+run_uuid: 1d01dd24621042b9b56de391ff568a76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150465003
+status: 3
+tags: []
+user_id: unknown

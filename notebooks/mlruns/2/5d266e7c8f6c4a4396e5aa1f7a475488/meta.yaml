@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5d266e7c8f6c4a4396e5aa1f7a475488/artifacts
+end_time: 1670162208445
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5d266e7c8f6c4a4396e5aa1f7a475488
+run_name: enchanting-steed-803
+run_uuid: 5d266e7c8f6c4a4396e5aa1f7a475488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150416319
+status: 3
+tags: []
+user_id: unknown

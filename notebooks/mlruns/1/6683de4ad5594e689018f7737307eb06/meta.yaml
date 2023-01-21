@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6683de4ad5594e689018f7737307eb06/artifacts
+end_time: 1669949415218
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6683de4ad5594e689018f7737307eb06
+run_name: gifted-squid-490
+run_uuid: 6683de4ad5594e689018f7737307eb06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241006360
+status: 3
+tags: []
+user_id: unknown

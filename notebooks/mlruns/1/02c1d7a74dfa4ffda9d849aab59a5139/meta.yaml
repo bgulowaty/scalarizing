@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/02c1d7a74dfa4ffda9d849aab59a5139/artifacts
+end_time: 1669955537454
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02c1d7a74dfa4ffda9d849aab59a5139
+run_name: able-midge-686
+run_uuid: 02c1d7a74dfa4ffda9d849aab59a5139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240157083
+status: 3
+tags: []
+user_id: unknown

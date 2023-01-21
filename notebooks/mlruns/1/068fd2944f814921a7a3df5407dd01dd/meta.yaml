@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/068fd2944f814921a7a3df5407dd01dd/artifacts
+end_time: 1669948276171
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 068fd2944f814921a7a3df5407dd01dd
+run_name: able-goose-326
+run_uuid: 068fd2944f814921a7a3df5407dd01dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241209706
+status: 3
+tags: []
+user_id: unknown

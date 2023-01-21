@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2c28fb598ead4a70bc474572c5c15cd8/artifacts
+end_time: 1669952530535
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c28fb598ead4a70bc474572c5c15cd8
+run_name: crawling-snail-519
+run_uuid: 2c28fb598ead4a70bc474572c5c15cd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240459880
+status: 3
+tags: []
+user_id: unknown

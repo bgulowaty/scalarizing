@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64b11a4af29743b88c2cbbdf06619a23/artifacts
+end_time: 1669949807023
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64b11a4af29743b88c2cbbdf06619a23
+run_name: fun-lamb-882
+run_uuid: 64b11a4af29743b88c2cbbdf06619a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240877762
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/20ad73cf9a6e4cc397de20721bb7ce9d/artifacts
+end_time: 1670105346935
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 20ad73cf9a6e4cc397de20721bb7ce9d
+run_name: classy-goose-31
+run_uuid: 20ad73cf9a6e4cc397de20721bb7ce9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239940590
+status: 3
+tags: []
+user_id: unknown

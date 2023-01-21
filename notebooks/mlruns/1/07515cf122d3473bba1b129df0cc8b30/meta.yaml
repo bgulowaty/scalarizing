@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/07515cf122d3473bba1b129df0cc8b30/artifacts
+end_time: 1669943715420
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07515cf122d3473bba1b129df0cc8b30
+run_name: rare-seal-159
+run_uuid: 07515cf122d3473bba1b129df0cc8b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242269692
+status: 3
+tags: []
+user_id: unknown

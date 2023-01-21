@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e37d8305546a4355bc6e377497e679c5/artifacts
+end_time: 1669942804013
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e37d8305546a4355bc6e377497e679c5
+run_name: shivering-crow-514
+run_uuid: e37d8305546a4355bc6e377497e679c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242505744
+status: 3
+tags: []
+user_id: unknown

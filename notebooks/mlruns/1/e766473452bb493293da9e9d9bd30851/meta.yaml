@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e766473452bb493293da9e9d9bd30851/artifacts
+end_time: 1669951296645
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e766473452bb493293da9e9d9bd30851
+run_name: stately-duck-646
+run_uuid: e766473452bb493293da9e9d9bd30851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240614383
+status: 3
+tags: []
+user_id: unknown

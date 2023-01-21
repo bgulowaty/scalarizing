@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/77db925c7ebb4b74939aa2af35ccee9d/artifacts
+end_time: 1669955920507
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77db925c7ebb4b74939aa2af35ccee9d
+run_name: adorable-ant-360
+run_uuid: 77db925c7ebb4b74939aa2af35ccee9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240099163
+status: 3
+tags: []
+user_id: unknown

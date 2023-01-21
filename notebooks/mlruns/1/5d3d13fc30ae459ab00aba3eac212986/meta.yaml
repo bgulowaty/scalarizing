@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5d3d13fc30ae459ab00aba3eac212986/artifacts
+end_time: 1669948529421
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d3d13fc30ae459ab00aba3eac212986
+run_name: sincere-toad-18
+run_uuid: 5d3d13fc30ae459ab00aba3eac212986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241160721
+status: 3
+tags: []
+user_id: unknown

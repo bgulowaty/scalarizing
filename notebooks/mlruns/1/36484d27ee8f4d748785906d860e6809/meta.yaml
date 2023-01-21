@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/36484d27ee8f4d748785906d860e6809/artifacts
+end_time: 1669952836572
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36484d27ee8f4d748785906d860e6809
+run_name: gregarious-owl-151
+run_uuid: 36484d27ee8f4d748785906d860e6809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240413036
+status: 3
+tags: []
+user_id: unknown

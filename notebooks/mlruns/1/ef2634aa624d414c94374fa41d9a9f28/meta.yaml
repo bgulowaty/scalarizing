@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ef2634aa624d414c94374fa41d9a9f28/artifacts
+end_time: 1670102017371
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef2634aa624d414c94374fa41d9a9f28
+run_name: unique-chimp-972
+run_uuid: ef2634aa624d414c94374fa41d9a9f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242677935
+status: 3
+tags: []
+user_id: unknown

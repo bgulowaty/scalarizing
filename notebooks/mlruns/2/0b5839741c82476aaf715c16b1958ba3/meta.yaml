@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0b5839741c82476aaf715c16b1958ba3/artifacts
+end_time: 1670162295657
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0b5839741c82476aaf715c16b1958ba3
+run_name: welcoming-swan-476
+run_uuid: 0b5839741c82476aaf715c16b1958ba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150353791
+status: 3
+tags: []
+user_id: unknown

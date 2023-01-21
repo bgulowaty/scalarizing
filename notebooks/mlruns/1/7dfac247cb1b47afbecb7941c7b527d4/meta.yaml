@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7dfac247cb1b47afbecb7941c7b527d4/artifacts
+end_time: 1669955606467
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7dfac247cb1b47afbecb7941c7b527d4
+run_name: flawless-steed-751
+run_uuid: 7dfac247cb1b47afbecb7941c7b527d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240130544
+status: 3
+tags: []
+user_id: unknown

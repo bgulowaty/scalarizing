@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/906255ed16ff435c98f2451a17e08565/artifacts
+end_time: 1669953879712
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 906255ed16ff435c98f2451a17e08565
+run_name: unruly-conch-231
+run_uuid: 906255ed16ff435c98f2451a17e08565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240287910
+status: 3
+tags: []
+user_id: unknown

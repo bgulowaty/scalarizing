@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9352bce76fab491d9a35b96dc90b0977/artifacts
+end_time: 1669951906581
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9352bce76fab491d9a35b96dc90b0977
+run_name: handsome-quail-515
+run_uuid: 9352bce76fab491d9a35b96dc90b0977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240518910
+status: 3
+tags: []
+user_id: unknown

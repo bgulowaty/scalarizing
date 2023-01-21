@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ba333b15201f42c985396f47d974f49a/artifacts
+end_time: 1669955084538
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba333b15201f42c985396f47d974f49a
+run_name: casual-toad-935
+run_uuid: ba333b15201f42c985396f47d974f49a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240164276
+status: 3
+tags: []
+user_id: unknown

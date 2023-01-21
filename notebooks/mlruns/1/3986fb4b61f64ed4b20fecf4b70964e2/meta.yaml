@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3986fb4b61f64ed4b20fecf4b70964e2/artifacts
+end_time: 1670180603034
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3986fb4b61f64ed4b20fecf4b70964e2
+run_name: agreeable-smelt-397
+run_uuid: 3986fb4b61f64ed4b20fecf4b70964e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242163113
+status: 3
+tags: []
+user_id: unknown

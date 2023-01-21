@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bee8854d4e474304b74f8b31c63421e2/artifacts
+end_time: 1669953164863
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bee8854d4e474304b74f8b31c63421e2
+run_name: melodic-carp-627
+run_uuid: bee8854d4e474304b74f8b31c63421e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240363931
+status: 3
+tags: []
+user_id: unknown

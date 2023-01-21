@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/346c196262934416bfeef22fe12a22b2/artifacts
+end_time: 1669954716521
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 346c196262934416bfeef22fe12a22b2
+run_name: shivering-doe-0
+run_uuid: 346c196262934416bfeef22fe12a22b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240208427
+status: 3
+tags: []
+user_id: unknown

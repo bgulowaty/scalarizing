@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/468a9a2926d34ee08d3aa7319554ddcb/artifacts
+end_time: 1669943546551
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 468a9a2926d34ee08d3aa7319554ddcb
+run_name: orderly-hare-84
+run_uuid: 468a9a2926d34ee08d3aa7319554ddcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242305179
+status: 3
+tags: []
+user_id: unknown

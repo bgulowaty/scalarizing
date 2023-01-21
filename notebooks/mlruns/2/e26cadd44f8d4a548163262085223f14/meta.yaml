@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e26cadd44f8d4a548163262085223f14/artifacts
+end_time: 1670162079391
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e26cadd44f8d4a548163262085223f14
+run_name: skittish-bug-238
+run_uuid: e26cadd44f8d4a548163262085223f14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150434259
+status: 3
+tags: []
+user_id: unknown

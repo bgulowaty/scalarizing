@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6abd2dcdf72e4b018894d9cdbf8629ab/artifacts
+end_time: 1670106261194
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6abd2dcdf72e4b018894d9cdbf8629ab
+run_name: peaceful-shrike-793
+run_uuid: 6abd2dcdf72e4b018894d9cdbf8629ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904571
+status: 3
+tags: []
+user_id: unknown

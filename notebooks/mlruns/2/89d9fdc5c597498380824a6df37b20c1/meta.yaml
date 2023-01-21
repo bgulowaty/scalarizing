@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/89d9fdc5c597498380824a6df37b20c1/artifacts
+end_time: 1670162617250
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 89d9fdc5c597498380824a6df37b20c1
+run_name: sedate-snipe-944
+run_uuid: 89d9fdc5c597498380824a6df37b20c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150250930
+status: 3
+tags: []
+user_id: unknown

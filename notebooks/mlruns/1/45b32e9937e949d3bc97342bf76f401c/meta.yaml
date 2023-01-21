@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45b32e9937e949d3bc97342bf76f401c/artifacts
+end_time: 1669955975609
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45b32e9937e949d3bc97342bf76f401c
+run_name: kindly-deer-540
+run_uuid: 45b32e9937e949d3bc97342bf76f401c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240085474
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0aaa2701dd064d9ca2c71158e6e2e111/artifacts
+end_time: 1669948814012
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0aaa2701dd064d9ca2c71158e6e2e111
+run_name: rogue-bat-73
+run_uuid: 0aaa2701dd064d9ca2c71158e6e2e111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241102928
+status: 3
+tags: []
+user_id: unknown

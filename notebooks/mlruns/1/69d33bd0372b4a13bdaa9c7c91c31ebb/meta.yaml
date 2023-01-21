@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/69d33bd0372b4a13bdaa9c7c91c31ebb/artifacts
+end_time: 1670180872825
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69d33bd0372b4a13bdaa9c7c91c31ebb
+run_name: debonair-shoat-821
+run_uuid: 69d33bd0372b4a13bdaa9c7c91c31ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241433844
+status: 3
+tags: []
+user_id: unknown

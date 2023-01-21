@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b97c987d5ca84b7589c2e2eb395d384e/artifacts
+end_time: 1669948843635
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b97c987d5ca84b7589c2e2eb395d384e
+run_name: judicious-koi-717
+run_uuid: b97c987d5ca84b7589c2e2eb395d384e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241100633
+status: 3
+tags: []
+user_id: unknown

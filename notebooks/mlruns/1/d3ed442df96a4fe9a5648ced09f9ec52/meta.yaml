@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d3ed442df96a4fe9a5648ced09f9ec52/artifacts
+end_time: 1669948698382
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3ed442df96a4fe9a5648ced09f9ec52
+run_name: masked-ram-573
+run_uuid: d3ed442df96a4fe9a5648ced09f9ec52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241195068
+status: 3
+tags: []
+user_id: unknown

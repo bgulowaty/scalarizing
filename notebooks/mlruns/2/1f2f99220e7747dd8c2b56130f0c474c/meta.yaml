@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1f2f99220e7747dd8c2b56130f0c474c/artifacts
+end_time: 1670162621370
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1f2f99220e7747dd8c2b56130f0c474c
+run_name: treasured-wasp-134
+run_uuid: 1f2f99220e7747dd8c2b56130f0c474c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150242487
+status: 3
+tags: []
+user_id: unknown

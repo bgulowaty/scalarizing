@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e1c63a2e206e4bf4b4756cd55cb8fb70/artifacts
+end_time: 1669955915653
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1c63a2e206e4bf4b4756cd55cb8fb70
+run_name: intelligent-grub-694
+run_uuid: e1c63a2e206e4bf4b4756cd55cb8fb70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240107553
+status: 3
+tags: []
+user_id: unknown

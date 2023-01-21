@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/02ac8de168b94681897799413dc058d5/artifacts
+end_time: 1669950652229
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02ac8de168b94681897799413dc058d5
+run_name: sassy-sheep-823
+run_uuid: 02ac8de168b94681897799413dc058d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240758948
+status: 3
+tags: []
+user_id: unknown

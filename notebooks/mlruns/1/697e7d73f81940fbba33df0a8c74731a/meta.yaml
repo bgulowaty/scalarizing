@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/697e7d73f81940fbba33df0a8c74731a/artifacts
+end_time: 1669945365066
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 697e7d73f81940fbba33df0a8c74731a
+run_name: unequaled-tern-936
+run_uuid: 697e7d73f81940fbba33df0a8c74731a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241962585
+status: 3
+tags: []
+user_id: unknown

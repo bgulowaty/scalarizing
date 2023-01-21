@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/92e89982e0eb4a29b96e9d16518369e4/artifacts
+end_time: 1670162071101
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 92e89982e0eb4a29b96e9d16518369e4
+run_name: colorful-goat-118
+run_uuid: 92e89982e0eb4a29b96e9d16518369e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150446546
+status: 3
+tags: []
+user_id: unknown

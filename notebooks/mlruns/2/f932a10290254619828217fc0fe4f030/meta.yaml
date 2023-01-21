@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f932a10290254619828217fc0fe4f030/artifacts
+end_time: 1670162504625
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f932a10290254619828217fc0fe4f030
+run_name: gregarious-ray-647
+run_uuid: f932a10290254619828217fc0fe4f030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150304337
+status: 3
+tags: []
+user_id: unknown

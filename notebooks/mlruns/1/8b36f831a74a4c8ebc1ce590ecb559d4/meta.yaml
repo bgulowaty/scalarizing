@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8b36f831a74a4c8ebc1ce590ecb559d4/artifacts
+end_time: 1669955671070
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b36f831a74a4c8ebc1ce590ecb559d4
+run_name: puzzled-frog-640
+run_uuid: 8b36f831a74a4c8ebc1ce590ecb559d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240111522
+status: 3
+tags: []
+user_id: unknown

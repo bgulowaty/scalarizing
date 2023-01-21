@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/41817f172b6d403daff93783911186bf/artifacts
+end_time: 1669947560287
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41817f172b6d403daff93783911186bf
+run_name: sincere-mouse-181
+run_uuid: 41817f172b6d403daff93783911186bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241370222
+status: 3
+tags: []
+user_id: unknown

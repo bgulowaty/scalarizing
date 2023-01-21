@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bafb140c98194ad99408f0eaa56791a0/artifacts
+end_time: 1669946301902
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bafb140c98194ad99408f0eaa56791a0
+run_name: righteous-newt-288
+run_uuid: bafb140c98194ad99408f0eaa56791a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241639582
+status: 3
+tags: []
+user_id: unknown

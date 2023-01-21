@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/be7e56f0b514494380e790caedba0819/artifacts
+end_time: 1670162071380
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: be7e56f0b514494380e790caedba0819
+run_name: bustling-mole-918
+run_uuid: be7e56f0b514494380e790caedba0819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150447325
+status: 3
+tags: []
+user_id: unknown

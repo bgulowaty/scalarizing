@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/99ad9aa9f1a2479182fc812a8757749c/artifacts
+end_time: 1670162180471
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 99ad9aa9f1a2479182fc812a8757749c
+run_name: glamorous-gull-392
+run_uuid: 99ad9aa9f1a2479182fc812a8757749c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150412925
+status: 3
+tags: []
+user_id: unknown

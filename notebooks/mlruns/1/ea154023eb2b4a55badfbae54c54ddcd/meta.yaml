@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ea154023eb2b4a55badfbae54c54ddcd/artifacts
+end_time: 1669950039953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea154023eb2b4a55badfbae54c54ddcd
+run_name: dashing-perch-681
+run_uuid: ea154023eb2b4a55badfbae54c54ddcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240859839
+status: 3
+tags: []
+user_id: unknown

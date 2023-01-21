@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f75c43b103064ee3b8ae1f89933c394f/artifacts
+end_time: 1670105351441
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f75c43b103064ee3b8ae1f89933c394f
+run_name: bustling-tern-699
+run_uuid: f75c43b103064ee3b8ae1f89933c394f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239941739
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/2e791e74ff7f425ea902512cc51c6483/artifacts
+end_time: 1670161976856
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2e791e74ff7f425ea902512cc51c6483
+run_name: rebellious-trout-980
+run_uuid: 2e791e74ff7f425ea902512cc51c6483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150470617
+status: 3
+tags: []
+user_id: unknown

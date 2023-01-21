@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4213f0a4e80f4336a8fbf6aa2ddbddc3/artifacts
+end_time: 1670180598892
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4213f0a4e80f4336a8fbf6aa2ddbddc3
+run_name: merciful-turtle-128
+run_uuid: 4213f0a4e80f4336a8fbf6aa2ddbddc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242160926
+status: 4
+tags: []
+user_id: unknown

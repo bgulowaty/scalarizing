@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fa4be5679b4d486dacb8fb18219b176d/artifacts
+end_time: 1670162026047
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fa4be5679b4d486dacb8fb18219b176d
+run_name: monumental-lynx-118
+run_uuid: fa4be5679b4d486dacb8fb18219b176d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150505766
+status: 3
+tags: []
+user_id: unknown

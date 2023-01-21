@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f11478f578e54f23b0584e86ee546ccc/artifacts
+end_time: 1669944355461
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f11478f578e54f23b0584e86ee546ccc
+run_name: nervous-cow-366
+run_uuid: f11478f578e54f23b0584e86ee546ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242079793
+status: 3
+tags: []
+user_id: unknown

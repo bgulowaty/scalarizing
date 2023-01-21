@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8058712ea4ea4ef99a2ecf8fb6fa4f35/artifacts
+end_time: 1669947256006
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8058712ea4ea4ef99a2ecf8fb6fa4f35
+run_name: treasured-fowl-640
+run_uuid: 8058712ea4ea4ef99a2ecf8fb6fa4f35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241402149
+status: 3
+tags: []
+user_id: unknown

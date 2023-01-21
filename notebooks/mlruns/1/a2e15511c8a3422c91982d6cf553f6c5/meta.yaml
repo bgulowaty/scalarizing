@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a2e15511c8a3422c91982d6cf553f6c5/artifacts
+end_time: 1669952835984
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2e15511c8a3422c91982d6cf553f6c5
+run_name: vaunted-wolf-286
+run_uuid: a2e15511c8a3422c91982d6cf553f6c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240403998
+status: 3
+tags: []
+user_id: unknown

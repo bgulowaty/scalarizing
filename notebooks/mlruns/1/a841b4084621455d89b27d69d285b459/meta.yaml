@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a841b4084621455d89b27d69d285b459/artifacts
+end_time: 1670102908764
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a841b4084621455d89b27d69d285b459
+run_name: exultant-finch-464
+run_uuid: a841b4084621455d89b27d69d285b459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241635575
+status: 3
+tags: []
+user_id: unknown

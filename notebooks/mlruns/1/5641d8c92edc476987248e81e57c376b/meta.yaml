@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5641d8c92edc476987248e81e57c376b/artifacts
+end_time: 1669950426083
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5641d8c92edc476987248e81e57c376b
+run_name: peaceful-shad-946
+run_uuid: 5641d8c92edc476987248e81e57c376b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240777395
+status: 3
+tags: []
+user_id: unknown

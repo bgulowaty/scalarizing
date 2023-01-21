@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2c3794759a6e4fceb84ed81855aeeded/artifacts
+end_time: 1669951045569
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c3794759a6e4fceb84ed81855aeeded
+run_name: nervous-goat-876
+run_uuid: 2c3794759a6e4fceb84ed81855aeeded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240647678
+status: 3
+tags: []
+user_id: unknown

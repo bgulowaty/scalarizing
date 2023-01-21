@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a9f6ee4583af4c54a215e728d306f282/artifacts
+end_time: 1669955630136
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a9f6ee4583af4c54a215e728d306f282
+run_name: flawless-rat-424
+run_uuid: a9f6ee4583af4c54a215e728d306f282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240117251
+status: 3
+tags: []
+user_id: unknown

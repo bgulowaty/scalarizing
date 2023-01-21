@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1eac652ea0774f68be701d8bfbeabdb1/artifacts
+end_time: 1669951965604
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1eac652ea0774f68be701d8bfbeabdb1
+run_name: kindly-zebra-700
+run_uuid: 1eac652ea0774f68be701d8bfbeabdb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240502251
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/94d4958279c54261beb05b5319b0331a/artifacts
+end_time: 1669943183214
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94d4958279c54261beb05b5319b0331a
+run_name: delightful-bear-488
+run_uuid: 94d4958279c54261beb05b5319b0331a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242412801
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/67ed1138216445b0a3d951939a8b8f83/artifacts
+end_time: 1669955095394
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 67ed1138216445b0a3d951939a8b8f83
+run_name: dazzling-sheep-43
+run_uuid: 67ed1138216445b0a3d951939a8b8f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240167893
+status: 3
+tags: []
+user_id: unknown

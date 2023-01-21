@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/91da3fc9b2774b5eaa39d7ccaabcb904/artifacts
+end_time: 1669943272639
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91da3fc9b2774b5eaa39d7ccaabcb904
+run_name: loud-penguin-828
+run_uuid: 91da3fc9b2774b5eaa39d7ccaabcb904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242388752
+status: 3
+tags: []
+user_id: unknown

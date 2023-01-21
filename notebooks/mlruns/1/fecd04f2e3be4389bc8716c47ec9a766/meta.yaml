@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fecd04f2e3be4389bc8716c47ec9a766/artifacts
+end_time: 1669942820494
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fecd04f2e3be4389bc8716c47ec9a766
+run_name: illustrious-owl-88
+run_uuid: fecd04f2e3be4389bc8716c47ec9a766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242503903
+status: 3
+tags: []
+user_id: unknown

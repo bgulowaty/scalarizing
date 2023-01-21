@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dd71590e0a2948a581f8bf41dfe02ca2/artifacts
+end_time: 1670105343815
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd71590e0a2948a581f8bf41dfe02ca2
+run_name: blushing-frog-3
+run_uuid: dd71590e0a2948a581f8bf41dfe02ca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239940780
+status: 3
+tags: []
+user_id: unknown

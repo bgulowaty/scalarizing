@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8cc5c5be8d624f3887ccb28bd56712a9/artifacts
+end_time: 1670162291680
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8cc5c5be8d624f3887ccb28bd56712a9
+run_name: auspicious-kite-845
+run_uuid: 8cc5c5be8d624f3887ccb28bd56712a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150357999
+status: 3
+tags: []
+user_id: unknown

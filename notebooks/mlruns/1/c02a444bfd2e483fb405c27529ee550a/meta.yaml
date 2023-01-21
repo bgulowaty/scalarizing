@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c02a444bfd2e483fb405c27529ee550a/artifacts
+end_time: 1669944334094
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c02a444bfd2e483fb405c27529ee550a
+run_name: lyrical-colt-495
+run_uuid: c02a444bfd2e483fb405c27529ee550a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242093837
+status: 3
+tags: []
+user_id: unknown

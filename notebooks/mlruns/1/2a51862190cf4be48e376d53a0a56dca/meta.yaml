@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2a51862190cf4be48e376d53a0a56dca/artifacts
+end_time: 1669955356080
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a51862190cf4be48e376d53a0a56dca
+run_name: amazing-midge-455
+run_uuid: 2a51862190cf4be48e376d53a0a56dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240134426
+status: 3
+tags: []
+user_id: unknown

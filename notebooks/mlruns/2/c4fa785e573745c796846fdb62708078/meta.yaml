@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c4fa785e573745c796846fdb62708078/artifacts
+end_time: 1670162180002
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c4fa785e573745c796846fdb62708078
+run_name: salty-hawk-58
+run_uuid: c4fa785e573745c796846fdb62708078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150409578
+status: 3
+tags: []
+user_id: unknown

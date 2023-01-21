@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0435f4c592d84ca1a72b14aedb1bb592/artifacts
+end_time: 1669943115409
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0435f4c592d84ca1a72b14aedb1bb592
+run_name: debonair-koi-125
+run_uuid: 0435f4c592d84ca1a72b14aedb1bb592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242420623
+status: 3
+tags: []
+user_id: unknown

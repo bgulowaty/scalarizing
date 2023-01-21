@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/44be6b20eab248d5a685579e70e8a73c/artifacts
+end_time: 1669950406181
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44be6b20eab248d5a685579e70e8a73c
+run_name: resilient-hen-978
+run_uuid: 44be6b20eab248d5a685579e70e8a73c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240764543
+status: 3
+tags: []
+user_id: unknown

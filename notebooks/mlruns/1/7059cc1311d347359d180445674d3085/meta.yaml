@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7059cc1311d347359d180445674d3085/artifacts
+end_time: 1669956280909
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7059cc1311d347359d180445674d3085
+run_name: legendary-doe-357
+run_uuid: 7059cc1311d347359d180445674d3085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240064007
+status: 3
+tags: []
+user_id: unknown

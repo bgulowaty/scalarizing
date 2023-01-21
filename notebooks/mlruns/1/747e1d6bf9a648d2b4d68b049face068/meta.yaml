@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/747e1d6bf9a648d2b4d68b049face068/artifacts
+end_time: 1669955940552
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 747e1d6bf9a648d2b4d68b049face068
+run_name: dazzling-snake-432
+run_uuid: 747e1d6bf9a648d2b4d68b049face068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240093390
+status: 3
+tags: []
+user_id: unknown

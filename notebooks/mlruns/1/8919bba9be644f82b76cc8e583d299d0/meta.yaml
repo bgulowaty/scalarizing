@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8919bba9be644f82b76cc8e583d299d0/artifacts
+end_time: 1669955922820
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8919bba9be644f82b76cc8e583d299d0
+run_name: fearless-hare-219
+run_uuid: 8919bba9be644f82b76cc8e583d299d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240106038
+status: 3
+tags: []
+user_id: unknown

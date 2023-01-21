@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9fe25a879093401484c12a4bbe6c70c9/artifacts
+end_time: 1670162829188
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9fe25a879093401484c12a4bbe6c70c9
+run_name: charming-mouse-939
+run_uuid: 9fe25a879093401484c12a4bbe6c70c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150201920
+status: 3
+tags: []
+user_id: unknown

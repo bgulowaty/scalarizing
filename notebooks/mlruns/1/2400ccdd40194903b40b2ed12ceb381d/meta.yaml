@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2400ccdd40194903b40b2ed12ceb381d/artifacts
+end_time: 1669951908591
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2400ccdd40194903b40b2ed12ceb381d
+run_name: treasured-crab-836
+run_uuid: 2400ccdd40194903b40b2ed12ceb381d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240526768
+status: 3
+tags: []
+user_id: unknown

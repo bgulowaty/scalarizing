@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c4514564dc2a412e900ad5e08dde950e/artifacts
+end_time: 1669946055418
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4514564dc2a412e900ad5e08dde950e
+run_name: powerful-goat-697
+run_uuid: c4514564dc2a412e900ad5e08dde950e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241654790
+status: 3
+tags: []
+user_id: unknown

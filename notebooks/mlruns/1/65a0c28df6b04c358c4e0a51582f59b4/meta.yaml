@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/65a0c28df6b04c358c4e0a51582f59b4/artifacts
+end_time: 1670105165208
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65a0c28df6b04c358c4e0a51582f59b4
+run_name: bald-fox-19
+run_uuid: 65a0c28df6b04c358c4e0a51582f59b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239954706
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/27c43e0e3d1e40d185802adad2e09700/artifacts
+end_time: 1669955919651
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27c43e0e3d1e40d185802adad2e09700
+run_name: youthful-hen-328
+run_uuid: 27c43e0e3d1e40d185802adad2e09700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240094607
+status: 3
+tags: []
+user_id: unknown

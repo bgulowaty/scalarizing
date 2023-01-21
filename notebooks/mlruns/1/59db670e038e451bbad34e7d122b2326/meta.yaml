@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59db670e038e451bbad34e7d122b2326/artifacts
+end_time: 1670105673326
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59db670e038e451bbad34e7d122b2326
+run_name: stately-mouse-973
+run_uuid: 59db670e038e451bbad34e7d122b2326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239921141
+status: 3
+tags: []
+user_id: unknown

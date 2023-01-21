@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da7139a201b5442b9184d4208cfcd9f2/artifacts
+end_time: 1670181119454
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da7139a201b5442b9184d4208cfcd9f2
+run_name: placid-ant-793
+run_uuid: da7139a201b5442b9184d4208cfcd9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241096368
+status: 3
+tags: []
+user_id: unknown

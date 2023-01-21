@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7480670bac0243e2be81faf4dbdf5591/artifacts
+end_time: 1670102434682
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7480670bac0243e2be81faf4dbdf5591
+run_name: lyrical-squid-903
+run_uuid: 7480670bac0243e2be81faf4dbdf5591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242574182
+status: 3
+tags: []
+user_id: unknown

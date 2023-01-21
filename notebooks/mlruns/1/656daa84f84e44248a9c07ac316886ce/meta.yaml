@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/656daa84f84e44248a9c07ac316886ce/artifacts
+end_time: 1670104742182
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 656daa84f84e44248a9c07ac316886ce
+run_name: rare-squirrel-369
+run_uuid: 656daa84f84e44248a9c07ac316886ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239975710
+status: 3
+tags: []
+user_id: unknown

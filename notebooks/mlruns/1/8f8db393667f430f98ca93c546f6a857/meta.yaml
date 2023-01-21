@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8f8db393667f430f98ca93c546f6a857/artifacts
+end_time: 1669945165005
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f8db393667f430f98ca93c546f6a857
+run_name: defiant-horse-29
+run_uuid: 8f8db393667f430f98ca93c546f6a857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241872379
+status: 3
+tags: []
+user_id: unknown

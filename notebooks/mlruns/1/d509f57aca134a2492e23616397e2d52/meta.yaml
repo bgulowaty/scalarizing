@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d509f57aca134a2492e23616397e2d52/artifacts
+end_time: 1669944813869
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d509f57aca134a2492e23616397e2d52
+run_name: unique-crow-31
+run_uuid: d509f57aca134a2492e23616397e2d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241969578
+status: 3
+tags: []
+user_id: unknown

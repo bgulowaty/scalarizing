@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/89b854f1049148ae83777ba0e85e88ff/artifacts
+end_time: 1670162069871
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 89b854f1049148ae83777ba0e85e88ff
+run_name: efficient-swan-856
+run_uuid: 89b854f1049148ae83777ba0e85e88ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150460159
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ed4821ab4b74f658f3af9b5ba48995b/artifacts
+end_time: 1669947412889
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ed4821ab4b74f658f3af9b5ba48995b
+run_name: dashing-moth-775
+run_uuid: 1ed4821ab4b74f658f3af9b5ba48995b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241383910
+status: 3
+tags: []
+user_id: unknown

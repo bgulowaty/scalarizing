@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4cb4b960cf4b4607b69a2d15475121cb/artifacts
+end_time: 1669945085533
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4cb4b960cf4b4607b69a2d15475121cb
+run_name: indecisive-crab-117
+run_uuid: 4cb4b960cf4b4607b69a2d15475121cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241884986
+status: 3
+tags: []
+user_id: unknown

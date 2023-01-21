@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/66a492f4155e4710b21a39656d104137/artifacts
+end_time: 1669952835896
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66a492f4155e4710b21a39656d104137
+run_name: rumbling-worm-972
+run_uuid: 66a492f4155e4710b21a39656d104137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240410091
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/139b700d3da642bf98363ee0a64bd17b/artifacts
+end_time: 1669953481677
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 139b700d3da642bf98363ee0a64bd17b
+run_name: burly-worm-436
+run_uuid: 139b700d3da642bf98363ee0a64bd17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240337175
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/47812e8e6dfc48bca65afc23eca5e282/artifacts
+end_time: 1670105659459
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47812e8e6dfc48bca65afc23eca5e282
+run_name: clean-bee-33
+run_uuid: 47812e8e6dfc48bca65afc23eca5e282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239925533
+status: 3
+tags: []
+user_id: unknown

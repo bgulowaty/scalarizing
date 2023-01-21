@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5027448cdea14447987031e0931efb61/artifacts
+end_time: 1669942480054
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5027448cdea14447987031e0931efb61
+run_name: omniscient-shoat-63
+run_uuid: 5027448cdea14447987031e0931efb61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242870111
+status: 3
+tags: []
+user_id: unknown

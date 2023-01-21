@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ca8cbe9282dc4b0fb43fc524d259c68d/artifacts
+end_time: 1669947882919
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca8cbe9282dc4b0fb43fc524d259c68d
+run_name: sincere-donkey-125
+run_uuid: ca8cbe9282dc4b0fb43fc524d259c68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241287588
+status: 3
+tags: []
+user_id: unknown

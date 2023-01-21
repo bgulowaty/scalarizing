@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/098481ddf61a4a1084f5fddc4342bd65/artifacts
+end_time: 1669943613683
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 098481ddf61a4a1084f5fddc4342bd65
+run_name: youthful-skink-695
+run_uuid: 098481ddf61a4a1084f5fddc4342bd65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242287943
+status: 3
+tags: []
+user_id: unknown

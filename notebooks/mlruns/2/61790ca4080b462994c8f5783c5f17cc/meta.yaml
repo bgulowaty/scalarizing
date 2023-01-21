@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/61790ca4080b462994c8f5783c5f17cc/artifacts
+end_time: 1670162082305
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 61790ca4080b462994c8f5783c5f17cc
+run_name: amusing-goat-311
+run_uuid: 61790ca4080b462994c8f5783c5f17cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150443582
+status: 3
+tags: []
+user_id: unknown

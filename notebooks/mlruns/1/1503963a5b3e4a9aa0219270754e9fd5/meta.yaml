@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1503963a5b3e4a9aa0219270754e9fd5/artifacts
+end_time: 1670104711890
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1503963a5b3e4a9aa0219270754e9fd5
+run_name: nosy-wren-707
+run_uuid: 1503963a5b3e4a9aa0219270754e9fd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239982636
+status: 3
+tags: []
+user_id: unknown

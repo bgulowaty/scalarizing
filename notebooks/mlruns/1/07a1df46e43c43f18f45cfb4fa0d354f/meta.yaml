@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/07a1df46e43c43f18f45cfb4fa0d354f/artifacts
+end_time: 1669950109026
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07a1df46e43c43f18f45cfb4fa0d354f
+run_name: blushing-shad-328
+run_uuid: 07a1df46e43c43f18f45cfb4fa0d354f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240830011
+status: 3
+tags: []
+user_id: unknown

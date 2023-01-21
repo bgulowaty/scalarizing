@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5dd26a92b77d4db1845dafa8cf41d2fe/artifacts
+end_time: 1669950104768
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5dd26a92b77d4db1845dafa8cf41d2fe
+run_name: sedate-frog-234
+run_uuid: 5dd26a92b77d4db1845dafa8cf41d2fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240816256
+status: 3
+tags: []
+user_id: unknown

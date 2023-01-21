@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9967b7c29495440baaf6b8fc65e36823/artifacts
+end_time: 1669949494531
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9967b7c29495440baaf6b8fc65e36823
+run_name: bright-roo-158
+run_uuid: 9967b7c29495440baaf6b8fc65e36823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240917885
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/85f84c9ca9104220b9d18164d7cddc6b/artifacts
+end_time: 1670162723408
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 85f84c9ca9104220b9d18164d7cddc6b
+run_name: marvelous-mare-458
+run_uuid: 85f84c9ca9104220b9d18164d7cddc6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150233510
+status: 3
+tags: []
+user_id: unknown

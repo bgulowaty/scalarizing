@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e5d0f865ad0f4dcd9f81e7de7d647b05/artifacts
+end_time: 1669944683444
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5d0f865ad0f4dcd9f81e7de7d647b05
+run_name: gaudy-lynx-569
+run_uuid: e5d0f865ad0f4dcd9f81e7de7d647b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242013685
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/01b89cc7867148a6af38ae3524374b87/artifacts
+end_time: 1669948629096
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01b89cc7867148a6af38ae3524374b87
+run_name: caring-mink-833
+run_uuid: 01b89cc7867148a6af38ae3524374b87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241248908
+status: 3
+tags: []
+user_id: unknown

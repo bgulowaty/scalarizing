@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/99a8b1c0ce0d40d7aaa2ffe0e04056e2/artifacts
+end_time: 1669951356705
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99a8b1c0ce0d40d7aaa2ffe0e04056e2
+run_name: wise-gull-751
+run_uuid: 99a8b1c0ce0d40d7aaa2ffe0e04056e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240588564
+status: 3
+tags: []
+user_id: unknown

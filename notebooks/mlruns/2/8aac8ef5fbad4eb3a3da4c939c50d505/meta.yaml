@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8aac8ef5fbad4eb3a3da4c939c50d505/artifacts
+end_time: 1670162179432
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8aac8ef5fbad4eb3a3da4c939c50d505
+run_name: loud-bee-227
+run_uuid: 8aac8ef5fbad4eb3a3da4c939c50d505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150415915
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64c6ac6ad24446b8b6432fefa66bb3ef/artifacts
+end_time: 1670106272135
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64c6ac6ad24446b8b6432fefa66bb3ef
+run_name: whimsical-pig-76
+run_uuid: 64c6ac6ad24446b8b6432fefa66bb3ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239899305
+status: 3
+tags: []
+user_id: unknown

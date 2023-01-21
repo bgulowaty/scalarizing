@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ea9363622aa0440cb21879ed66c69ddb/artifacts
+end_time: 1670105047384
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea9363622aa0440cb21879ed66c69ddb
+run_name: debonair-bear-958
+run_uuid: ea9363622aa0440cb21879ed66c69ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239957437
+status: 3
+tags: []
+user_id: unknown

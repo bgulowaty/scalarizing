@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/051b1a1a976f4bb0a65f2a24f48d333f/artifacts
+end_time: 1669945433200
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 051b1a1a976f4bb0a65f2a24f48d333f
+run_name: clean-seal-62
+run_uuid: 051b1a1a976f4bb0a65f2a24f48d333f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241826338
+status: 3
+tags: []
+user_id: unknown

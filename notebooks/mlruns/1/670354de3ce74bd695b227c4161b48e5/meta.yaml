@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/670354de3ce74bd695b227c4161b48e5/artifacts
+end_time: 1670181756097
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 670354de3ce74bd695b227c4161b48e5
+run_name: amazing-slug-90
+run_uuid: 670354de3ce74bd695b227c4161b48e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239919091
+status: 3
+tags: []
+user_id: unknown

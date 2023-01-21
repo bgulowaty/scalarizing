@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/176900545fdf434f8204e3e433e5d983/artifacts
+end_time: 1670180683058
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 176900545fdf434f8204e3e433e5d983
+run_name: painted-bee-927
+run_uuid: 176900545fdf434f8204e3e433e5d983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242229021
+status: 3
+tags: []
+user_id: unknown

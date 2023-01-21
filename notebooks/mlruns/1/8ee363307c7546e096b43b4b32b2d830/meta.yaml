@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8ee363307c7546e096b43b4b32b2d830/artifacts
+end_time: 1669953784696
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ee363307c7546e096b43b4b32b2d830
+run_name: secretive-lynx-166
+run_uuid: 8ee363307c7546e096b43b4b32b2d830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240309293
+status: 3
+tags: []
+user_id: unknown

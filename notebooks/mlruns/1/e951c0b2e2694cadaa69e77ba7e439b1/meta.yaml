@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e951c0b2e2694cadaa69e77ba7e439b1/artifacts
+end_time: 1669950041007
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e951c0b2e2694cadaa69e77ba7e439b1
+run_name: fearless-crab-559
+run_uuid: e951c0b2e2694cadaa69e77ba7e439b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240838062
+status: 3
+tags: []
+user_id: unknown

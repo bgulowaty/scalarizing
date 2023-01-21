@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a15f133e7afe4541b1655abf3081ff4a/artifacts
+end_time: 1670106336033
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a15f133e7afe4541b1655abf3081ff4a
+run_name: glamorous-perch-874
+run_uuid: a15f133e7afe4541b1655abf3081ff4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239896110
+status: 3
+tags: []
+user_id: unknown

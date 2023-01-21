@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/38d7c25ff3844f43b99848fccd8eac46/artifacts
+end_time: 1669948278158
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38d7c25ff3844f43b99848fccd8eac46
+run_name: industrious-toad-673
+run_uuid: 38d7c25ff3844f43b99848fccd8eac46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241236308
+status: 3
+tags: []
+user_id: unknown

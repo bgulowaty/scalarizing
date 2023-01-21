@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ee58e863d5354190b1e71e1f0b20309c/artifacts
+end_time: 1669953535705
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee58e863d5354190b1e71e1f0b20309c
+run_name: enchanting-elk-880
+run_uuid: ee58e863d5354190b1e71e1f0b20309c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240322742
+status: 3
+tags: []
+user_id: unknown

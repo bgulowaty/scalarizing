@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/83697171d92f49a89c207c0683b965ef/artifacts
+end_time: 1669948870828
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83697171d92f49a89c207c0683b965ef
+run_name: auspicious-shoat-120
+run_uuid: 83697171d92f49a89c207c0683b965ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241075093
+status: 3
+tags: []
+user_id: unknown

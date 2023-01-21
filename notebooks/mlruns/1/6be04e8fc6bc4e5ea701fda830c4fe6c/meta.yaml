@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6be04e8fc6bc4e5ea701fda830c4fe6c/artifacts
+end_time: 1669954083060
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6be04e8fc6bc4e5ea701fda830c4fe6c
+run_name: orderly-dolphin-303
+run_uuid: 6be04e8fc6bc4e5ea701fda830c4fe6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240277609
+status: 3
+tags: []
+user_id: unknown

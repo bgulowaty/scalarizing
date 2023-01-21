@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dcdd19a9aedf467e87072fa067d6bcc2/artifacts
+end_time: 1669953535429
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcdd19a9aedf467e87072fa067d6bcc2
+run_name: handsome-goose-34
+run_uuid: dcdd19a9aedf467e87072fa067d6bcc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240318935
+status: 3
+tags: []
+user_id: unknown

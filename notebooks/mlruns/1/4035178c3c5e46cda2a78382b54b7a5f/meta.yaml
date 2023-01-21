@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4035178c3c5e46cda2a78382b54b7a5f/artifacts
+end_time: 1670181452875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4035178c3c5e46cda2a78382b54b7a5f
+run_name: angry-grouse-64
+run_uuid: 4035178c3c5e46cda2a78382b54b7a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240215858
+status: 3
+tags: []
+user_id: unknown

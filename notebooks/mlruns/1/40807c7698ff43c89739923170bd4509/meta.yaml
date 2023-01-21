@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/40807c7698ff43c89739923170bd4509/artifacts
+end_time: 1670105049484
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40807c7698ff43c89739923170bd4509
+run_name: luminous-bass-817
+run_uuid: 40807c7698ff43c89739923170bd4509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239954959
+status: 3
+tags: []
+user_id: unknown

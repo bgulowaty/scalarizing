@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ed376db75fe41cf918bc7b9647f395a/artifacts
+end_time: 1669945200373
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ed376db75fe41cf918bc7b9647f395a
+run_name: thoughtful-grouse-76
+run_uuid: 1ed376db75fe41cf918bc7b9647f395a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241853966
+status: 3
+tags: []
+user_id: unknown

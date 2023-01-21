@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0d05a1efc0e546f3a160b70e26687cfe/artifacts
+end_time: 1670181124732
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d05a1efc0e546f3a160b70e26687cfe
+run_name: clumsy-squirrel-741
+run_uuid: 0d05a1efc0e546f3a160b70e26687cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240864717
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f746ee825c0244f6b0f6fc9c2a1dc116/artifacts
+end_time: 1669952838163
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f746ee825c0244f6b0f6fc9c2a1dc116
+run_name: unleashed-frog-762
+run_uuid: f746ee825c0244f6b0f6fc9c2a1dc116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240401846
+status: 3
+tags: []
+user_id: unknown

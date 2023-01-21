@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/99286250521b48fe9b1f1b30af4e8714/artifacts
+end_time: 1669945737361
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99286250521b48fe9b1f1b30af4e8714
+run_name: monumental-grub-535
+run_uuid: 99286250521b48fe9b1f1b30af4e8714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241737606
+status: 3
+tags: []
+user_id: unknown

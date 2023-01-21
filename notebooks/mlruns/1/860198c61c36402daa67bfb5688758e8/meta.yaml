@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/860198c61c36402daa67bfb5688758e8/artifacts
+end_time: 1670105653698
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 860198c61c36402daa67bfb5688758e8
+run_name: omniscient-tern-70
+run_uuid: 860198c61c36402daa67bfb5688758e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239925892
+status: 3
+tags: []
+user_id: unknown

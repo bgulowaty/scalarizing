@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/33c3af69b69042b8809251c86eb4e4e4/artifacts
+end_time: 1669952833860
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33c3af69b69042b8809251c86eb4e4e4
+run_name: carefree-mink-10
+run_uuid: 33c3af69b69042b8809251c86eb4e4e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240403163
+status: 3
+tags: []
+user_id: unknown

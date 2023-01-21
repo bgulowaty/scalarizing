@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/11d321c2da164fecac7addd965793752/artifacts
+end_time: 1669952238950
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11d321c2da164fecac7addd965793752
+run_name: adorable-loon-421
+run_uuid: 11d321c2da164fecac7addd965793752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240488970
+status: 3
+tags: []
+user_id: unknown

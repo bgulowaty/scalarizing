@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5addd2c88cc14966a3bc0cb1f203ba31/artifacts
+end_time: 1669946983057
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5addd2c88cc14966a3bc0cb1f203ba31
+run_name: agreeable-seal-695
+run_uuid: 5addd2c88cc14966a3bc0cb1f203ba31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241453342
+status: 3
+tags: []
+user_id: unknown

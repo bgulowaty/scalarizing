@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45f1c5add8294e669936ffa1e2cfe877/artifacts
+end_time: 1669951668582
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45f1c5add8294e669936ffa1e2cfe877
+run_name: merciful-vole-56
+run_uuid: 45f1c5add8294e669936ffa1e2cfe877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240545251
+status: 3
+tags: []
+user_id: unknown

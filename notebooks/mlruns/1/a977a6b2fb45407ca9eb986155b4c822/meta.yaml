@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a977a6b2fb45407ca9eb986155b4c822/artifacts
+end_time: 1669944293354
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a977a6b2fb45407ca9eb986155b4c822
+run_name: gaudy-wolf-106
+run_uuid: a977a6b2fb45407ca9eb986155b4c822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242190731
+status: 3
+tags: []
+user_id: unknown

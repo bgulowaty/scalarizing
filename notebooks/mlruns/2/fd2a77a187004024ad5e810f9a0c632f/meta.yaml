@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fd2a77a187004024ad5e810f9a0c632f/artifacts
+end_time: 1670162399723
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fd2a77a187004024ad5e810f9a0c632f
+run_name: bemused-stag-565
+run_uuid: fd2a77a187004024ad5e810f9a0c632f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150319799
+status: 3
+tags: []
+user_id: unknown

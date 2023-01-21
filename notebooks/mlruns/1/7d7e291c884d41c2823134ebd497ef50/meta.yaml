@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7d7e291c884d41c2823134ebd497ef50/artifacts
+end_time: 1670105681966
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d7e291c884d41c2823134ebd497ef50
+run_name: dazzling-shrike-457
+run_uuid: 7d7e291c884d41c2823134ebd497ef50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239917840
+status: 3
+tags: []
+user_id: unknown

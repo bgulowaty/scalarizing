@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1c4b3df5c8894405b81be6123ca764d4/artifacts
+end_time: 1669950652789
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c4b3df5c8894405b81be6123ca764d4
+run_name: rebellious-tern-485
+run_uuid: 1c4b3df5c8894405b81be6123ca764d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240763315
+status: 3
+tags: []
+user_id: unknown

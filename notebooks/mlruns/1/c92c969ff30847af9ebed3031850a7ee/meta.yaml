@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c92c969ff30847af9ebed3031850a7ee/artifacts
+end_time: 1669945720354
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c92c969ff30847af9ebed3031850a7ee
+run_name: suave-stoat-297
+run_uuid: c92c969ff30847af9ebed3031850a7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241757585
+status: 3
+tags: []
+user_id: unknown

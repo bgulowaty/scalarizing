@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c80a7369ae5e49b3b6fae3c9c658da7d/artifacts
+end_time: 1669944926822
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c80a7369ae5e49b3b6fae3c9c658da7d
+run_name: delicate-conch-374
+run_uuid: c80a7369ae5e49b3b6fae3c9c658da7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241935112
+status: 3
+tags: []
+user_id: unknown

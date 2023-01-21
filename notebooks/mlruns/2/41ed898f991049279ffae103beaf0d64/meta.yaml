@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/41ed898f991049279ffae103beaf0d64/artifacts
+end_time: 1670161738976
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 41ed898f991049279ffae103beaf0d64
+run_name: flawless-shrimp-196
+run_uuid: 41ed898f991049279ffae103beaf0d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150593168
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aaeb5c9355ff4b4c90db677387736e71/artifacts
+end_time: 1669951382446
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aaeb5c9355ff4b4c90db677387736e71
+run_name: flawless-zebra-701
+run_uuid: aaeb5c9355ff4b4c90db677387736e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240595423
+status: 3
+tags: []
+user_id: unknown

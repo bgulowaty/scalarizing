@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9dd440f0ef3d488a8a818a17fa515564/artifacts
+end_time: 1669947915001
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dd440f0ef3d488a8a818a17fa515564
+run_name: sedate-smelt-0
+run_uuid: 9dd440f0ef3d488a8a818a17fa515564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241275050
+status: 3
+tags: []
+user_id: unknown

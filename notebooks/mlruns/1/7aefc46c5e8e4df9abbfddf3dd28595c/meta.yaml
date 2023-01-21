@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7aefc46c5e8e4df9abbfddf3dd28595c/artifacts
+end_time: 1670105961786
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7aefc46c5e8e4df9abbfddf3dd28595c
+run_name: delicate-hen-993
+run_uuid: 7aefc46c5e8e4df9abbfddf3dd28595c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239914414
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/83adc9672d6a4f54804d5735b275ee2b/artifacts
+end_time: 1669944116655
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83adc9672d6a4f54804d5735b275ee2b
+run_name: victorious-whale-303
+run_uuid: 83adc9672d6a4f54804d5735b275ee2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242147563
+status: 3
+tags: []
+user_id: unknown

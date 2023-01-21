@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7f8d53b31d9f4479a9f60fb825998d8f/artifacts
+end_time: 1669951359120
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7f8d53b31d9f4479a9f60fb825998d8f
+run_name: treasured-panda-187
+run_uuid: 7f8d53b31d9f4479a9f60fb825998d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240602760
+status: 3
+tags: []
+user_id: unknown

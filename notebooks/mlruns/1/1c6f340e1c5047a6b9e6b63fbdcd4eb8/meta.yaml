@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1c6f340e1c5047a6b9e6b63fbdcd4eb8/artifacts
+end_time: 1669943648743
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c6f340e1c5047a6b9e6b63fbdcd4eb8
+run_name: hilarious-cub-766
+run_uuid: 1c6f340e1c5047a6b9e6b63fbdcd4eb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242284840
+status: 3
+tags: []
+user_id: unknown

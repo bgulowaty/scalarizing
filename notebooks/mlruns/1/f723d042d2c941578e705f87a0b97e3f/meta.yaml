@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f723d042d2c941578e705f87a0b97e3f/artifacts
+end_time: 1670181787737
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f723d042d2c941578e705f87a0b97e3f
+run_name: valuable-grub-472
+run_uuid: f723d042d2c941578e705f87a0b97e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239888261
+status: 3
+tags: []
+user_id: unknown

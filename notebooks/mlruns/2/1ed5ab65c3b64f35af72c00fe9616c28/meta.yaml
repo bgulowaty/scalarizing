@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1ed5ab65c3b64f35af72c00fe9616c28/artifacts
+end_time: 1670162399506
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1ed5ab65c3b64f35af72c00fe9616c28
+run_name: whimsical-shrimp-283
+run_uuid: 1ed5ab65c3b64f35af72c00fe9616c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150341677
+status: 3
+tags: []
+user_id: unknown

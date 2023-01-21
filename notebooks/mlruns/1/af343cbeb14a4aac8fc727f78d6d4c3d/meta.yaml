@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/af343cbeb14a4aac8fc727f78d6d4c3d/artifacts
+end_time: 1669954716443
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af343cbeb14a4aac8fc727f78d6d4c3d
+run_name: honorable-crane-737
+run_uuid: af343cbeb14a4aac8fc727f78d6d4c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240207245
+status: 3
+tags: []
+user_id: unknown

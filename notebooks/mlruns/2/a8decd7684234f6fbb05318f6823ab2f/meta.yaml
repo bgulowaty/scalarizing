@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a8decd7684234f6fbb05318f6823ab2f/artifacts
+end_time: 1670162284266
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a8decd7684234f6fbb05318f6823ab2f
+run_name: dazzling-ray-995
+run_uuid: a8decd7684234f6fbb05318f6823ab2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150382416
+status: 3
+tags: []
+user_id: unknown

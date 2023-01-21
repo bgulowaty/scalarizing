@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab2dfe9fd79148b3946c5ae93ed47325/artifacts
+end_time: 1669951090119
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab2dfe9fd79148b3946c5ae93ed47325
+run_name: awesome-penguin-858
+run_uuid: ab2dfe9fd79148b3946c5ae93ed47325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240652616
+status: 3
+tags: []
+user_id: unknown

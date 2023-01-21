@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c96d512a9fe5442589f135b2b0f147f2/artifacts
+end_time: 1669952900731
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c96d512a9fe5442589f135b2b0f147f2
+run_name: spiffy-shad-449
+run_uuid: c96d512a9fe5442589f135b2b0f147f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240385471
+status: 3
+tags: []
+user_id: unknown

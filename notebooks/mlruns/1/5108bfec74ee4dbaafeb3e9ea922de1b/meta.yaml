@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5108bfec74ee4dbaafeb3e9ea922de1b/artifacts
+end_time: 1669942862651
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5108bfec74ee4dbaafeb3e9ea922de1b
+run_name: nosy-ram-887
+run_uuid: 5108bfec74ee4dbaafeb3e9ea922de1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242739677
+status: 3
+tags: []
+user_id: unknown

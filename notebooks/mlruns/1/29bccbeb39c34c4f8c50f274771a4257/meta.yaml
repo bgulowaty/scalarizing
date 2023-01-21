@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/29bccbeb39c34c4f8c50f274771a4257/artifacts
+end_time: 1669954119343
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29bccbeb39c34c4f8c50f274771a4257
+run_name: traveling-ray-400
+run_uuid: 29bccbeb39c34c4f8c50f274771a4257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240256766
+status: 3
+tags: []
+user_id: unknown

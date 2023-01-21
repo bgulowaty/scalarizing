@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e105b50f63ed4dd698ac57c4cb7ffbf9/artifacts
+end_time: 1670162203417
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e105b50f63ed4dd698ac57c4cb7ffbf9
+run_name: fearless-penguin-111
+run_uuid: e105b50f63ed4dd698ac57c4cb7ffbf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150395494
+status: 3
+tags: []
+user_id: unknown

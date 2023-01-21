@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/91d2370e5a0e4a24a5699b9d14bebcdd/artifacts
+end_time: 1670106277322
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91d2370e5a0e4a24a5699b9d14bebcdd
+run_name: unruly-shad-411
+run_uuid: 91d2370e5a0e4a24a5699b9d14bebcdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239900657
+status: 3
+tags: []
+user_id: unknown

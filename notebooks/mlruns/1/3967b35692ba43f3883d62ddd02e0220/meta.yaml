@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3967b35692ba43f3883d62ddd02e0220/artifacts
+end_time: 1670180873826
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3967b35692ba43f3883d62ddd02e0220
+run_name: ambitious-kit-428
+run_uuid: 3967b35692ba43f3883d62ddd02e0220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241298695
+status: 3
+tags: []
+user_id: unknown

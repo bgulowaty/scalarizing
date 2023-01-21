@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64219e8d27934fef9d8924a8cfce6953/artifacts
+end_time: 1669955670883
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64219e8d27934fef9d8924a8cfce6953
+run_name: carefree-snipe-18
+run_uuid: 64219e8d27934fef9d8924a8cfce6953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240110884
+status: 3
+tags: []
+user_id: unknown

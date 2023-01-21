@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2cf0f79fa68042179ad9592bdb20fcdf/artifacts
+end_time: 1669942557875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2cf0f79fa68042179ad9592bdb20fcdf
+run_name: unequaled-duck-22
+run_uuid: 2cf0f79fa68042179ad9592bdb20fcdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242761543
+status: 3
+tags: []
+user_id: unknown

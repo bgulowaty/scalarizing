@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b4346dd1f95849f5ac02a0a262023616/artifacts
+end_time: 1669944488934
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4346dd1f95849f5ac02a0a262023616
+run_name: sincere-stork-50
+run_uuid: b4346dd1f95849f5ac02a0a262023616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242057506
+status: 3
+tags: []
+user_id: unknown

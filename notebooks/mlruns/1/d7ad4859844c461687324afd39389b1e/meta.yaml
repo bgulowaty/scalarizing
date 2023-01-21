@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d7ad4859844c461687324afd39389b1e/artifacts
+end_time: 1670103516845
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7ad4859844c461687324afd39389b1e
+run_name: orderly-shrimp-109
+run_uuid: d7ad4859844c461687324afd39389b1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240248278
+status: 3
+tags: []
+user_id: unknown

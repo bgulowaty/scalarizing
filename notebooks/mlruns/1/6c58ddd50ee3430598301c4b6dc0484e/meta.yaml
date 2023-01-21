@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6c58ddd50ee3430598301c4b6dc0484e/artifacts
+end_time: 1669955980533
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6c58ddd50ee3430598301c4b6dc0484e
+run_name: tasteful-toad-530
+run_uuid: 6c58ddd50ee3430598301c4b6dc0484e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240085074
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1556ff4b206d402785383423d3a6a779/artifacts
+end_time: 1669954090544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1556ff4b206d402785383423d3a6a779
+run_name: useful-bird-394
+run_uuid: 1556ff4b206d402785383423d3a6a779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240262710
+status: 3
+tags: []
+user_id: unknown

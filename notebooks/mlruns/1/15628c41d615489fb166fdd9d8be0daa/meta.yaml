@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/15628c41d615489fb166fdd9d8be0daa/artifacts
+end_time: 1670181182311
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15628c41d615489fb166fdd9d8be0daa
+run_name: bald-midge-991
+run_uuid: 15628c41d615489fb166fdd9d8be0daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240610738
+status: 3
+tags: []
+user_id: unknown

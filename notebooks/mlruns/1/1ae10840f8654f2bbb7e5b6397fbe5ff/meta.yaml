@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ae10840f8654f2bbb7e5b6397fbe5ff/artifacts
+end_time: 1669956225947
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ae10840f8654f2bbb7e5b6397fbe5ff
+run_name: calm-elk-434
+run_uuid: 1ae10840f8654f2bbb7e5b6397fbe5ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240084106
+status: 3
+tags: []
+user_id: unknown

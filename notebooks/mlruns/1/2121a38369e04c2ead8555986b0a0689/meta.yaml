@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2121a38369e04c2ead8555986b0a0689/artifacts
+end_time: 1669955667970
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2121a38369e04c2ead8555986b0a0689
+run_name: wistful-snail-326
+run_uuid: 2121a38369e04c2ead8555986b0a0689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240108404
+status: 3
+tags: []
+user_id: unknown

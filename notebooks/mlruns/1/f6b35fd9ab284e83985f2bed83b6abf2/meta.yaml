@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f6b35fd9ab284e83985f2bed83b6abf2/artifacts
+end_time: 1669951603015
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6b35fd9ab284e83985f2bed83b6abf2
+run_name: luxuriant-loon-229
+run_uuid: f6b35fd9ab284e83985f2bed83b6abf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240564501
+status: 3
+tags: []
+user_id: unknown

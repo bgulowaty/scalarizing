@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4d0bcf1f6be24fc8987f0b8341edea71/artifacts
+end_time: 1669951018592
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d0bcf1f6be24fc8987f0b8341edea71
+run_name: delightful-jay-942
+run_uuid: 4d0bcf1f6be24fc8987f0b8341edea71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240672231
+status: 3
+tags: []
+user_id: unknown

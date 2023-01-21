@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8909119ea4b84083ae033d89ef99dbeb/artifacts
+end_time: 1670104742948
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8909119ea4b84083ae033d89ef99dbeb
+run_name: nervous-ox-10
+run_uuid: 8909119ea4b84083ae033d89ef99dbeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239975336
+status: 3
+tags: []
+user_id: unknown

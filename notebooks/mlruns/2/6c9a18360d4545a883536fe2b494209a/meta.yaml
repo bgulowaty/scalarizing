@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6c9a18360d4545a883536fe2b494209a/artifacts
+end_time: 1670162287143
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6c9a18360d4545a883536fe2b494209a
+run_name: enthused-midge-175
+run_uuid: 6c9a18360d4545a883536fe2b494209a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150375170
+status: 3
+tags: []
+user_id: unknown

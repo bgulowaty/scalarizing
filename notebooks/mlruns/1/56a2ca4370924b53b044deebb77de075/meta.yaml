@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/56a2ca4370924b53b044deebb77de075/artifacts
+end_time: 1670181727406
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56a2ca4370924b53b044deebb77de075
+run_name: painted-squirrel-714
+run_uuid: 56a2ca4370924b53b044deebb77de075
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239962539
+status: 3
+tags: []
+user_id: unknown

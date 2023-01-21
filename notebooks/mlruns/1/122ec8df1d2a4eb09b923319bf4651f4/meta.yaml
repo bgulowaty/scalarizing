@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/122ec8df1d2a4eb09b923319bf4651f4/artifacts
+end_time: 1669946707234
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 122ec8df1d2a4eb09b923319bf4651f4
+run_name: industrious-goat-829
+run_uuid: 122ec8df1d2a4eb09b923319bf4651f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241557860
+status: 3
+tags: []
+user_id: unknown

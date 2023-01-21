@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/83ea701a6aaf444989c2cf88dc26d445/artifacts
+end_time: 1670180604008
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83ea701a6aaf444989c2cf88dc26d445
+run_name: delicate-fox-668
+run_uuid: 83ea701a6aaf444989c2cf88dc26d445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242179003
+status: 3
+tags: []
+user_id: unknown

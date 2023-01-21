@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aaabbec2a7104c98bf7105b3f62c9764/artifacts
+end_time: 1669952225231
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aaabbec2a7104c98bf7105b3f62c9764
+run_name: illustrious-sheep-4
+run_uuid: aaabbec2a7104c98bf7105b3f62c9764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240477555
+status: 3
+tags: []
+user_id: unknown

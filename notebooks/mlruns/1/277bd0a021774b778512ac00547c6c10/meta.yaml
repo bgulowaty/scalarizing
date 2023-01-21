@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/277bd0a021774b778512ac00547c6c10/artifacts
+end_time: 1669943203523
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 277bd0a021774b778512ac00547c6c10
+run_name: rogue-fawn-229
+run_uuid: 277bd0a021774b778512ac00547c6c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242496890
+status: 3
+tags: []
+user_id: unknown

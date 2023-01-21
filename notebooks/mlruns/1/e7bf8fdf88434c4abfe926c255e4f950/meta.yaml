@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e7bf8fdf88434c4abfe926c255e4f950/artifacts
+end_time: 1669950035041
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7bf8fdf88434c4abfe926c255e4f950
+run_name: intrigued-rat-777
+run_uuid: e7bf8fdf88434c4abfe926c255e4f950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240836884
+status: 3
+tags: []
+user_id: unknown

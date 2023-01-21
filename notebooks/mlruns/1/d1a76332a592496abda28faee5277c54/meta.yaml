@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d1a76332a592496abda28faee5277c54/artifacts
+end_time: 1669953781728
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1a76332a592496abda28faee5277c54
+run_name: delicate-chimp-314
+run_uuid: d1a76332a592496abda28faee5277c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240308746
+status: 3
+tags: []
+user_id: unknown

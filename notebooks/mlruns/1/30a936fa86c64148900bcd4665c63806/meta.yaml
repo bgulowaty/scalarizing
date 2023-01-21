@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/30a936fa86c64148900bcd4665c63806/artifacts
+end_time: 1670105361904
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30a936fa86c64148900bcd4665c63806
+run_name: tasteful-koi-552
+run_uuid: 30a936fa86c64148900bcd4665c63806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239934596
+status: 3
+tags: []
+user_id: unknown

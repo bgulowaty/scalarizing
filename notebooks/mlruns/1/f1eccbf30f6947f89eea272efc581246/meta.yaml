@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f1eccbf30f6947f89eea272efc581246/artifacts
+end_time: 1669945080933
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1eccbf30f6947f89eea272efc581246
+run_name: agreeable-pig-777
+run_uuid: f1eccbf30f6947f89eea272efc581246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241889160
+status: 3
+tags: []
+user_id: unknown

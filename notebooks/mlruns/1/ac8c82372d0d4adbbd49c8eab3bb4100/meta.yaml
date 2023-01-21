@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac8c82372d0d4adbbd49c8eab3bb4100/artifacts
+end_time: 1669945141717
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac8c82372d0d4adbbd49c8eab3bb4100
+run_name: mysterious-hog-584
+run_uuid: ac8c82372d0d4adbbd49c8eab3bb4100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241923941
+status: 3
+tags: []
+user_id: unknown

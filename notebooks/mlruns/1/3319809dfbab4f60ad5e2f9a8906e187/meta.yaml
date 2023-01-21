@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3319809dfbab4f60ad5e2f9a8906e187/artifacts
+end_time: 1670181152002
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3319809dfbab4f60ad5e2f9a8906e187
+run_name: big-ox-604
+run_uuid: 3319809dfbab4f60ad5e2f9a8906e187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240638838
+status: 3
+tags: []
+user_id: unknown

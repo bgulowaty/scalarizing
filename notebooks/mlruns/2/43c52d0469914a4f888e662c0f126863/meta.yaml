@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/43c52d0469914a4f888e662c0f126863/artifacts
+end_time: 1670162079515
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 43c52d0469914a4f888e662c0f126863
+run_name: debonair-moose-396
+run_uuid: 43c52d0469914a4f888e662c0f126863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150462419
+status: 3
+tags: []
+user_id: unknown

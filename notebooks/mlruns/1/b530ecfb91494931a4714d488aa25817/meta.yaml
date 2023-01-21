@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b530ecfb91494931a4714d488aa25817/artifacts
+end_time: 1669951746793
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b530ecfb91494931a4714d488aa25817
+run_name: handsome-gnu-701
+run_uuid: b530ecfb91494931a4714d488aa25817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240564688
+status: 3
+tags: []
+user_id: unknown

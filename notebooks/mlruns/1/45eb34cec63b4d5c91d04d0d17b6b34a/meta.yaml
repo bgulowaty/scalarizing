@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45eb34cec63b4d5c91d04d0d17b6b34a/artifacts
+end_time: 1669945769108
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45eb34cec63b4d5c91d04d0d17b6b34a
+run_name: enchanting-vole-838
+run_uuid: 45eb34cec63b4d5c91d04d0d17b6b34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241720279
+status: 3
+tags: []
+user_id: unknown

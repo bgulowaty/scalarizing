@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/df07ac8d3e4f44eda486d34d19972f4c/artifacts
+end_time: 1669953274761
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df07ac8d3e4f44eda486d34d19972f4c
+run_name: exultant-fish-224
+run_uuid: df07ac8d3e4f44eda486d34d19972f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240366931
+status: 3
+tags: []
+user_id: unknown

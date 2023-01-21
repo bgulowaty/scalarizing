@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/adcdf9c6b4394e2b92a81d4ef5dd4240/artifacts
+end_time: 1669943519829
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adcdf9c6b4394e2b92a81d4ef5dd4240
+run_name: caring-swan-788
+run_uuid: adcdf9c6b4394e2b92a81d4ef5dd4240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242310247
+status: 3
+tags: []
+user_id: unknown

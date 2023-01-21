@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f8b5d741303f472789ab1729e131e56d/artifacts
+end_time: 1669955609266
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f8b5d741303f472789ab1729e131e56d
+run_name: illustrious-lark-21
+run_uuid: f8b5d741303f472789ab1729e131e56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240121152
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/00a777e5b0cc4250a5eb2542a41dfa84/artifacts
+end_time: 1670162615888
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 00a777e5b0cc4250a5eb2542a41dfa84
+run_name: dazzling-jay-528
+run_uuid: 00a777e5b0cc4250a5eb2542a41dfa84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150258183
+status: 3
+tags: []
+user_id: unknown

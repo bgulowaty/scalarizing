@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0bdd79aa68224ccdb8e479b6f1e91bbd/artifacts
+end_time: 1670181454755
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0bdd79aa68224ccdb8e479b6f1e91bbd
+run_name: amazing-shrew-558
+run_uuid: 0bdd79aa68224ccdb8e479b6f1e91bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240185803
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e55f4b65a584d459dae1b75cfe6f894/artifacts
+end_time: 1669944912906
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e55f4b65a584d459dae1b75cfe6f894
+run_name: nosy-trout-812
+run_uuid: 3e55f4b65a584d459dae1b75cfe6f894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241973414
+status: 3
+tags: []
+user_id: unknown

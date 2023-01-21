@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/044ae1e10f9a4cf1aa0832e7a6c27c7c/artifacts
+end_time: 1669948270896
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 044ae1e10f9a4cf1aa0832e7a6c27c7c
+run_name: dapper-shad-408
+run_uuid: 044ae1e10f9a4cf1aa0832e7a6c27c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241197991
+status: 3
+tags: []
+user_id: unknown

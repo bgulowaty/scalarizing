@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09f04aeee154449ea7aacbd28e85b518/artifacts
+end_time: 1670181183430
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09f04aeee154449ea7aacbd28e85b518
+run_name: glamorous-stag-178
+run_uuid: 09f04aeee154449ea7aacbd28e85b518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240505275
+status: 3
+tags: []
+user_id: unknown

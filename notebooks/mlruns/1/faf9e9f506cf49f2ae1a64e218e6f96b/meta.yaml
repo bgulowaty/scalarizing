@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/faf9e9f506cf49f2ae1a64e218e6f96b/artifacts
+end_time: 1670104095185
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: faf9e9f506cf49f2ae1a64e218e6f96b
+run_name: zealous-hen-876
+run_uuid: faf9e9f506cf49f2ae1a64e218e6f96b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240018553
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a7abb2b5bcc44b2bc4c9e8b095e5182/artifacts
+end_time: 1669955616970
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a7abb2b5bcc44b2bc4c9e8b095e5182
+run_name: fortunate-bear-538
+run_uuid: 4a7abb2b5bcc44b2bc4c9e8b095e5182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240125291
+status: 3
+tags: []
+user_id: unknown

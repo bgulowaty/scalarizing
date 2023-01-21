@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a6644ac5ecc4c3991a47df55989e02d/artifacts
+end_time: 1669953779987
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a6644ac5ecc4c3991a47df55989e02d
+run_name: luxuriant-shark-296
+run_uuid: 4a6644ac5ecc4c3991a47df55989e02d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240306816
+status: 3
+tags: []
+user_id: unknown

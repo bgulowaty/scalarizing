@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b7e56b7afb2a4277b54d2480bf972f48/artifacts
+end_time: 1670181185636
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7e56b7afb2a4277b54d2480bf972f48
+run_name: aged-frog-393
+run_uuid: b7e56b7afb2a4277b54d2480bf972f48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240498747
+status: 3
+tags: []
+user_id: unknown

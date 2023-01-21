@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ec1e55e14994aed905b51f88349dfce/artifacts
+end_time: 1669951968886
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ec1e55e14994aed905b51f88349dfce
+run_name: casual-colt-762
+run_uuid: 7ec1e55e14994aed905b51f88349dfce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240512220
+status: 3
+tags: []
+user_id: unknown

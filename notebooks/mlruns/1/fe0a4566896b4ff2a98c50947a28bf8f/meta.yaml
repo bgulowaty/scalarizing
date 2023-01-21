@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fe0a4566896b4ff2a98c50947a28bf8f/artifacts
+end_time: 1670181121406
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe0a4566896b4ff2a98c50947a28bf8f
+run_name: overjoyed-bass-815
+run_uuid: fe0a4566896b4ff2a98c50947a28bf8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241045266
+status: 3
+tags: []
+user_id: unknown

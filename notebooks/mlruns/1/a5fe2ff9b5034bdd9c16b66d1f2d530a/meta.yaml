@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a5fe2ff9b5034bdd9c16b66d1f2d530a/artifacts
+end_time: 1669950993294
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5fe2ff9b5034bdd9c16b66d1f2d530a
+run_name: awesome-cub-824
+run_uuid: a5fe2ff9b5034bdd9c16b66d1f2d530a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240659607
+status: 3
+tags: []
+user_id: unknown

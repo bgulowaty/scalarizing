@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ff0dbfa6e454f2d909141464c15f5cc/artifacts
+end_time: 1669948824437
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ff0dbfa6e454f2d909141464c15f5cc
+run_name: traveling-bat-942
+run_uuid: 4ff0dbfa6e454f2d909141464c15f5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241090006
+status: 3
+tags: []
+user_id: unknown

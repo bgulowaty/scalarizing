@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1af3816457dc4e8d8cda706a9558c079/artifacts
+end_time: 1670105360788
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1af3816457dc4e8d8cda706a9558c079
+run_name: efficient-fish-621
+run_uuid: 1af3816457dc4e8d8cda706a9558c079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239934819
+status: 3
+tags: []
+user_id: unknown

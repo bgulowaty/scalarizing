@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59fec60ff482435daf0753e3dd96f110/artifacts
+end_time: 1669942233846
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59fec60ff482435daf0753e3dd96f110
+run_name: vaunted-ox-885
+run_uuid: 59fec60ff482435daf0753e3dd96f110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242852563
+status: 3
+tags: []
+user_id: unknown

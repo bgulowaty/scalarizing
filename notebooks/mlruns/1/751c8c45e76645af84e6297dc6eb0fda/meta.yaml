@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/751c8c45e76645af84e6297dc6eb0fda/artifacts
+end_time: 1669951003180
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 751c8c45e76645af84e6297dc6eb0fda
+run_name: abrasive-bear-189
+run_uuid: 751c8c45e76645af84e6297dc6eb0fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240656287
+status: 3
+tags: []
+user_id: unknown

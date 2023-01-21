@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c231258dec634372a9fe83ba2f107f32/artifacts
+end_time: 1670106271621
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c231258dec634372a9fe83ba2f107f32
+run_name: placid-bass-668
+run_uuid: c231258dec634372a9fe83ba2f107f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239902115
+status: 3
+tags: []
+user_id: unknown

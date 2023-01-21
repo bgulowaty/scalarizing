@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d0bbd029d39a49948a87258008744b40/artifacts
+end_time: 1669945453604
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0bbd029d39a49948a87258008744b40
+run_name: smiling-roo-599
+run_uuid: d0bbd029d39a49948a87258008744b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241799519
+status: 3
+tags: []
+user_id: unknown

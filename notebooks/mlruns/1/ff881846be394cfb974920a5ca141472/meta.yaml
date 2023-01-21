@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff881846be394cfb974920a5ca141472/artifacts
+end_time: 1669944178929
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff881846be394cfb974920a5ca141472
+run_name: placid-yak-123
+run_uuid: ff881846be394cfb974920a5ca141472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242126604
+status: 3
+tags: []
+user_id: unknown

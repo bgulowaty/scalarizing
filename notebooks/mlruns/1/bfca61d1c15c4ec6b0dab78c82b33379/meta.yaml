@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bfca61d1c15c4ec6b0dab78c82b33379/artifacts
+end_time: 1669950051277
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfca61d1c15c4ec6b0dab78c82b33379
+run_name: skillful-croc-873
+run_uuid: bfca61d1c15c4ec6b0dab78c82b33379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240854442
+status: 3
+tags: []
+user_id: unknown

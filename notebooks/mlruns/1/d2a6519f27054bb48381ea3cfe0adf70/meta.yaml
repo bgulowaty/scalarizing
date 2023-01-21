@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d2a6519f27054bb48381ea3cfe0adf70/artifacts
+end_time: 1669947386561
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2a6519f27054bb48381ea3cfe0adf70
+run_name: upset-perch-439
+run_uuid: d2a6519f27054bb48381ea3cfe0adf70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241375974
+status: 3
+tags: []
+user_id: unknown

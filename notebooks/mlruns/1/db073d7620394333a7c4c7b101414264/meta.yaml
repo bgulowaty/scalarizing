@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/db073d7620394333a7c4c7b101414264/artifacts
+end_time: 1670180880019
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db073d7620394333a7c4c7b101414264
+run_name: receptive-koi-737
+run_uuid: db073d7620394333a7c4c7b101414264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241225924
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/451b7149c30e4b4591e34761bdca3db3/artifacts
+end_time: 1669947937920
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 451b7149c30e4b4591e34761bdca3db3
+run_name: big-doe-858
+run_uuid: 451b7149c30e4b4591e34761bdca3db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241273847
+status: 3
+tags: []
+user_id: unknown

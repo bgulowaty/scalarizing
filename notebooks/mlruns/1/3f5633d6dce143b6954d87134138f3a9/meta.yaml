@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3f5633d6dce143b6954d87134138f3a9/artifacts
+end_time: 1669943181788
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f5633d6dce143b6954d87134138f3a9
+run_name: placid-squid-286
+run_uuid: 3f5633d6dce143b6954d87134138f3a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242401620
+status: 3
+tags: []
+user_id: unknown

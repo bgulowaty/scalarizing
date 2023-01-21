@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dec0197685894c5fa78e002bd69ed15a/artifacts
+end_time: 1669952524120
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dec0197685894c5fa78e002bd69ed15a
+run_name: colorful-moose-521
+run_uuid: dec0197685894c5fa78e002bd69ed15a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240442390
+status: 3
+tags: []
+user_id: unknown

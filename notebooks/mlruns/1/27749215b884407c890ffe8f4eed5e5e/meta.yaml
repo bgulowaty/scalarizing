@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/27749215b884407c890ffe8f4eed5e5e/artifacts
+end_time: 1669950347571
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27749215b884407c890ffe8f4eed5e5e
+run_name: popular-croc-38
+run_uuid: 27749215b884407c890ffe8f4eed5e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240789571
+status: 3
+tags: []
+user_id: unknown

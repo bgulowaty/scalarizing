@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/53bde7f311d24e1c8b6402e2a836c92c/artifacts
+end_time: 1670102311522
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53bde7f311d24e1c8b6402e2a836c92c
+run_name: sneaky-crow-468
+run_uuid: 53bde7f311d24e1c8b6402e2a836c92c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242620363
+status: 3
+tags: []
+user_id: unknown

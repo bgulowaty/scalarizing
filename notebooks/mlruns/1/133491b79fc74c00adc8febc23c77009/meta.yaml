@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/133491b79fc74c00adc8febc23c77009/artifacts
+end_time: 1670181775659
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 133491b79fc74c00adc8febc23c77009
+run_name: victorious-colt-671
+run_uuid: 133491b79fc74c00adc8febc23c77009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669236883329
+status: 3
+tags: []
+user_id: unknown

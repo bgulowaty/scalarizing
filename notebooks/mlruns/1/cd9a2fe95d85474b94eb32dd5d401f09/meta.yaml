@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cd9a2fe95d85474b94eb32dd5d401f09/artifacts
+end_time: 1669955607960
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd9a2fe95d85474b94eb32dd5d401f09
+run_name: valuable-snipe-870
+run_uuid: cd9a2fe95d85474b94eb32dd5d401f09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240119213
+status: 3
+tags: []
+user_id: unknown

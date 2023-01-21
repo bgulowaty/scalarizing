@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f620f6d70a36429791d7fa4a903bf9eb/artifacts
+end_time: 1669944731267
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f620f6d70a36429791d7fa4a903bf9eb
+run_name: wistful-boar-685
+run_uuid: f620f6d70a36429791d7fa4a903bf9eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241994721
+status: 3
+tags: []
+user_id: unknown

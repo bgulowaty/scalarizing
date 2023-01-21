@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/cab6c8a030f740f3b8d5c2d6cae1b66b/artifacts
+end_time: 1670161879255
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cab6c8a030f740f3b8d5c2d6cae1b66b
+run_name: colorful-snake-647
+run_uuid: cab6c8a030f740f3b8d5c2d6cae1b66b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150531527
+status: 3
+tags: []
+user_id: unknown

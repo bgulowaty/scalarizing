@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64ba2df5b6864b7b8699fb76b22de5cf/artifacts
+end_time: 1669942931116
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64ba2df5b6864b7b8699fb76b22de5cf
+run_name: delicate-tern-844
+run_uuid: 64ba2df5b6864b7b8699fb76b22de5cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242468362
+status: 3
+tags: []
+user_id: unknown

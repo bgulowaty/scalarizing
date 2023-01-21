@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c0d96566881345d68650bb4ed7ab650b/artifacts
+end_time: 1670162101258
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c0d96566881345d68650bb4ed7ab650b
+run_name: sneaky-panda-699
+run_uuid: c0d96566881345d68650bb4ed7ab650b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150536820
+status: 3
+tags: []
+user_id: unknown

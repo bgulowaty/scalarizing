@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/88995d44c24d4588b6ba7e2735b1dd6d/artifacts
+end_time: 1669954414029
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 88995d44c24d4588b6ba7e2735b1dd6d
+run_name: learned-steed-611
+run_uuid: 88995d44c24d4588b6ba7e2735b1dd6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240238514
+status: 3
+tags: []
+user_id: unknown

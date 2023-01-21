@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/31107aeef3044766b7574eb06e580f53/artifacts
+end_time: 1669947055480
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 31107aeef3044766b7574eb06e580f53
+run_name: loud-flea-700
+run_uuid: 31107aeef3044766b7574eb06e580f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241440771
+status: 3
+tags: []
+user_id: unknown

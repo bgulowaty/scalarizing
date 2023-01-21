@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/83cf989fc28140a4a9429a25571d1ad0/artifacts
+end_time: 1670161751662
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 83cf989fc28140a4a9429a25571d1ad0
+run_name: nimble-frog-918
+run_uuid: 83cf989fc28140a4a9429a25571d1ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150553355
+status: 3
+tags: []
+user_id: unknown

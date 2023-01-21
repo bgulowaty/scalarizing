@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/de4bc41f51c747d58cdc6914d1b18f2e/artifacts
+end_time: 1670181182412
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de4bc41f51c747d58cdc6914d1b18f2e
+run_name: chill-skunk-455
+run_uuid: de4bc41f51c747d58cdc6914d1b18f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240456577
+status: 3
+tags: []
+user_id: unknown

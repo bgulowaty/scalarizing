@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3900f96c9cae45bd88e3015c9e20b2fa/artifacts
+end_time: 1669949463462
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3900f96c9cae45bd88e3015c9e20b2fa
+run_name: popular-fly-800
+run_uuid: 3900f96c9cae45bd88e3015c9e20b2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240938043
+status: 3
+tags: []
+user_id: unknown

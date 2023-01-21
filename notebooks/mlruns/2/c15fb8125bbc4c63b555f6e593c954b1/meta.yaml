@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c15fb8125bbc4c63b555f6e593c954b1/artifacts
+end_time: 1670162728500
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c15fb8125bbc4c63b555f6e593c954b1
+run_name: painted-koi-769
+run_uuid: c15fb8125bbc4c63b555f6e593c954b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150215705
+status: 3
+tags: []
+user_id: unknown

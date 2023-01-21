@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/482852e8bfc14209951a138e1a8bdaf7/artifacts
+end_time: 1670102039801
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 482852e8bfc14209951a138e1a8bdaf7
+run_name: melodic-steed-920
+run_uuid: 482852e8bfc14209951a138e1a8bdaf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242678299
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8a1955ddbb994c83bc9c82ebe1b6d4d0/artifacts
+end_time: 1670180613341
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a1955ddbb994c83bc9c82ebe1b6d4d0
+run_name: beautiful-crane-52
+run_uuid: 8a1955ddbb994c83bc9c82ebe1b6d4d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242180951
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/99127f4b5ca34cabb9ae1889b1fecc33/artifacts
+end_time: 1669947234010
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99127f4b5ca34cabb9ae1889b1fecc33
+run_name: rumbling-finch-167
+run_uuid: 99127f4b5ca34cabb9ae1889b1fecc33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241438758
+status: 3
+tags: []
+user_id: unknown

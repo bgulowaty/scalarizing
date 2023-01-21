@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a4743e1dc4fc402bbff1c91e9283df4d/artifacts
+end_time: 1669948225191
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4743e1dc4fc402bbff1c91e9283df4d
+run_name: classy-skink-386
+run_uuid: a4743e1dc4fc402bbff1c91e9283df4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241221611
+status: 3
+tags: []
+user_id: unknown

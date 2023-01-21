@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8fddc4c900844513868cfa5e6d79f065/artifacts
+end_time: 1670180625128
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8fddc4c900844513868cfa5e6d79f065
+run_name: agreeable-cub-577
+run_uuid: 8fddc4c900844513868cfa5e6d79f065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242599886
+status: 3
+tags: []
+user_id: unknown

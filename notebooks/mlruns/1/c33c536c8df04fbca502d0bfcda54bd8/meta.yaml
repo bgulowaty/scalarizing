@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c33c536c8df04fbca502d0bfcda54bd8/artifacts
+end_time: 1669950674394
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c33c536c8df04fbca502d0bfcda54bd8
+run_name: classy-hog-26
+run_uuid: c33c536c8df04fbca502d0bfcda54bd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240710211
+status: 3
+tags: []
+user_id: unknown

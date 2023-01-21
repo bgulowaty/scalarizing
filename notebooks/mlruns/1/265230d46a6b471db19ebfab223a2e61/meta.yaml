@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/265230d46a6b471db19ebfab223a2e61/artifacts
+end_time: 1669955664698
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 265230d46a6b471db19ebfab223a2e61
+run_name: unique-bass-463
+run_uuid: 265230d46a6b471db19ebfab223a2e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240115536
+status: 3
+tags: []
+user_id: unknown

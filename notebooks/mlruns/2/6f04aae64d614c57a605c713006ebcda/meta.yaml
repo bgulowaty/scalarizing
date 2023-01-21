@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6f04aae64d614c57a605c713006ebcda/artifacts
+end_time: 1670162445310
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6f04aae64d614c57a605c713006ebcda
+run_name: worried-lamb-43
+run_uuid: 6f04aae64d614c57a605c713006ebcda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150423616
+status: 3
+tags: []
+user_id: unknown

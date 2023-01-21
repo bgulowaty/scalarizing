@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/863a5f8e1e6c46f4af7e689a4c7336a1/artifacts
+end_time: 1670102316250
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 863a5f8e1e6c46f4af7e689a4c7336a1
+run_name: fun-worm-861
+run_uuid: 863a5f8e1e6c46f4af7e689a4c7336a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242618990
+status: 3
+tags: []
+user_id: unknown

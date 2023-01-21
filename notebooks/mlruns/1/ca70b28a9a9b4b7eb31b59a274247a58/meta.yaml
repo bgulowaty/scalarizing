@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ca70b28a9a9b4b7eb31b59a274247a58/artifacts
+end_time: 1669943549985
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca70b28a9a9b4b7eb31b59a274247a58
+run_name: dashing-jay-157
+run_uuid: ca70b28a9a9b4b7eb31b59a274247a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242325153
+status: 3
+tags: []
+user_id: unknown

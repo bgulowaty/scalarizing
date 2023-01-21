@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8a937b0bc9a34bd4a342bec5b000e43c/artifacts
+end_time: 1669955608891
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a937b0bc9a34bd4a342bec5b000e43c
+run_name: tasteful-mouse-962
+run_uuid: 8a937b0bc9a34bd4a342bec5b000e43c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240118541
+status: 3
+tags: []
+user_id: unknown

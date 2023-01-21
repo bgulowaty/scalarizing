@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/237e421e686747e8a12eb6fe35855279/artifacts
+end_time: 1669948316845
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 237e421e686747e8a12eb6fe35855279
+run_name: enchanting-stork-392
+run_uuid: 237e421e686747e8a12eb6fe35855279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241216706
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c1d081fc2ab74b1781562a422a21a4c9/artifacts
+end_time: 1669946083989
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c1d081fc2ab74b1781562a422a21a4c9
+run_name: gaudy-squirrel-434
+run_uuid: c1d081fc2ab74b1781562a422a21a4c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241668309
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/01af9f3aaa634ec2ba52ac9ba4e9732a/artifacts
+end_time: 1670162828511
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 01af9f3aaa634ec2ba52ac9ba4e9732a
+run_name: crawling-seal-413
+run_uuid: 01af9f3aaa634ec2ba52ac9ba4e9732a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150203773
+status: 3
+tags: []
+user_id: unknown

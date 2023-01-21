@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cbf96ae96cea482a8599eff7c5120e9b/artifacts
+end_time: 1669953799762
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbf96ae96cea482a8599eff7c5120e9b
+run_name: mysterious-lamb-427
+run_uuid: cbf96ae96cea482a8599eff7c5120e9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240308296
+status: 3
+tags: []
+user_id: unknown

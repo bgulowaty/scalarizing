@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/99ec2a67b8874ba3ade0ba5917a5f70d/artifacts
+end_time: 1669942498221
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99ec2a67b8874ba3ade0ba5917a5f70d
+run_name: powerful-hound-408
+run_uuid: 99ec2a67b8874ba3ade0ba5917a5f70d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242820700
+status: 3
+tags: []
+user_id: unknown

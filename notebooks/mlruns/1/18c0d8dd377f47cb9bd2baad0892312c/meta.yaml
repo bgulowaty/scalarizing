@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/18c0d8dd377f47cb9bd2baad0892312c/artifacts
+end_time: 1669954128795
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18c0d8dd377f47cb9bd2baad0892312c
+run_name: lyrical-owl-468
+run_uuid: 18c0d8dd377f47cb9bd2baad0892312c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240258771
+status: 3
+tags: []
+user_id: unknown

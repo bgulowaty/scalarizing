@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d4924b1bc28c4cc681891c5e96d5d052/artifacts
+end_time: 1670102314936
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4924b1bc28c4cc681891c5e96d5d052
+run_name: rebellious-fish-24
+run_uuid: d4924b1bc28c4cc681891c5e96d5d052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242623030
+status: 3
+tags: []
+user_id: unknown

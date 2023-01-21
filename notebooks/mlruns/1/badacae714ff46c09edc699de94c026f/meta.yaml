@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/badacae714ff46c09edc699de94c026f/artifacts
+end_time: 1669951967999
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: badacae714ff46c09edc699de94c026f
+run_name: dashing-duck-532
+run_uuid: badacae714ff46c09edc699de94c026f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240506977
+status: 3
+tags: []
+user_id: unknown

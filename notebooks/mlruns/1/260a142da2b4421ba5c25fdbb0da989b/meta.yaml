@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/260a142da2b4421ba5c25fdbb0da989b/artifacts
+end_time: 1669953782452
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 260a142da2b4421ba5c25fdbb0da989b
+run_name: handsome-slug-262
+run_uuid: 260a142da2b4421ba5c25fdbb0da989b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240310504
+status: 3
+tags: []
+user_id: unknown

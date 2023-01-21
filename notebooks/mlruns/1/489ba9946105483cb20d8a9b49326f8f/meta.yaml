@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/489ba9946105483cb20d8a9b49326f8f/artifacts
+end_time: 1670102677830
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 489ba9946105483cb20d8a9b49326f8f
+run_name: redolent-whale-424
+run_uuid: 489ba9946105483cb20d8a9b49326f8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242545665
+status: 3
+tags: []
+user_id: unknown

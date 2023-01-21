@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc6aa85d499744a2b132c004c7f53626/artifacts
+end_time: 1669952529929
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc6aa85d499744a2b132c004c7f53626
+run_name: abrasive-grouse-829
+run_uuid: fc6aa85d499744a2b132c004c7f53626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240447521
+status: 3
+tags: []
+user_id: unknown

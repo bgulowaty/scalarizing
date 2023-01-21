@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d2ee9a00ad3a4ec2bbe3a1b4157ac36e/artifacts
+end_time: 1669945760080
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2ee9a00ad3a4ec2bbe3a1b4157ac36e
+run_name: whimsical-bug-371
+run_uuid: d2ee9a00ad3a4ec2bbe3a1b4157ac36e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241734725
+status: 3
+tags: []
+user_id: unknown

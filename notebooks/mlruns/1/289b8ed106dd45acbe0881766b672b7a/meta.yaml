@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/289b8ed106dd45acbe0881766b672b7a/artifacts
+end_time: 1669944680340
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 289b8ed106dd45acbe0881766b672b7a
+run_name: abrasive-crow-773
+run_uuid: 289b8ed106dd45acbe0881766b672b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242012221
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/42755049caa445f8943f13dcc819f5b4/artifacts
+end_time: 1669943877034
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42755049caa445f8943f13dcc819f5b4
+run_name: rare-swan-349
+run_uuid: 42755049caa445f8943f13dcc819f5b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242209321
+status: 3
+tags: []
+user_id: unknown

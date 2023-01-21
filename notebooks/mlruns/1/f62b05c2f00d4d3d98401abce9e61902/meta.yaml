@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f62b05c2f00d4d3d98401abce9e61902/artifacts
+end_time: 1670181155874
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f62b05c2f00d4d3d98401abce9e61902
+run_name: nervous-squid-699
+run_uuid: f62b05c2f00d4d3d98401abce9e61902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240774794
+status: 3
+tags: []
+user_id: unknown

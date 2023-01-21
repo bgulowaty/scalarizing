@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8b9a3ea5dd4c4118846e4fea963ec5e5/artifacts
+end_time: 1670105681333
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b9a3ea5dd4c4118846e4fea963ec5e5
+run_name: receptive-foal-55
+run_uuid: 8b9a3ea5dd4c4118846e4fea963ec5e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239920451
+status: 3
+tags: []
+user_id: unknown

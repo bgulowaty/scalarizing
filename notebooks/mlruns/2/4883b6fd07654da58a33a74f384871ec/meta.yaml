@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/4883b6fd07654da58a33a74f384871ec/artifacts
+end_time: 1670162074968
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4883b6fd07654da58a33a74f384871ec
+run_name: unleashed-mink-424
+run_uuid: 4883b6fd07654da58a33a74f384871ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150437522
+status: 3
+tags: []
+user_id: unknown

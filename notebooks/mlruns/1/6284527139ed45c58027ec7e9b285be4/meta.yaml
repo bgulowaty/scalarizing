@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6284527139ed45c58027ec7e9b285be4/artifacts
+end_time: 1669954454918
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6284527139ed45c58027ec7e9b285be4
+run_name: orderly-wolf-185
+run_uuid: 6284527139ed45c58027ec7e9b285be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240222667
+status: 3
+tags: []
+user_id: unknown

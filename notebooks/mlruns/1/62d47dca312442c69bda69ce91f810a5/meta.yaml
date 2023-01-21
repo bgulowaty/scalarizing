@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/62d47dca312442c69bda69ce91f810a5/artifacts
+end_time: 1670102705327
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62d47dca312442c69bda69ce91f810a5
+run_name: silent-lynx-216
+run_uuid: 62d47dca312442c69bda69ce91f810a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242073776
+status: 3
+tags: []
+user_id: unknown

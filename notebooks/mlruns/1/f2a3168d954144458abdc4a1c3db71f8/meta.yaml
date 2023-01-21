@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f2a3168d954144458abdc4a1c3db71f8/artifacts
+end_time: 1669950993878
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2a3168d954144458abdc4a1c3db71f8
+run_name: peaceful-owl-320
+run_uuid: f2a3168d954144458abdc4a1c3db71f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240655680
+status: 3
+tags: []
+user_id: unknown

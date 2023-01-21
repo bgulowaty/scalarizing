@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1715311a555f43af8a57d568b98d537e/artifacts
+end_time: 1669944919114
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1715311a555f43af8a57d568b98d537e
+run_name: bustling-gnat-33
+run_uuid: 1715311a555f43af8a57d568b98d537e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241945849
+status: 3
+tags: []
+user_id: unknown

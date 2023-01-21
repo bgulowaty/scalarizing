@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/73f3591c10214c5fb7fac83562fea0c2/artifacts
+end_time: 1670162833028
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 73f3591c10214c5fb7fac83562fea0c2
+run_name: intrigued-carp-951
+run_uuid: 73f3591c10214c5fb7fac83562fea0c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150195433
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4f996b1122ed48c9b1a4a1bc141e5c06/artifacts
+end_time: 1669944577351
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f996b1122ed48c9b1a4a1bc141e5c06
+run_name: peaceful-fowl-583
+run_uuid: 4f996b1122ed48c9b1a4a1bc141e5c06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242033672
+status: 3
+tags: []
+user_id: unknown

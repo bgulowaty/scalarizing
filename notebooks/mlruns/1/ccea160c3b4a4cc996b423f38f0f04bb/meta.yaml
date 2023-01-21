@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ccea160c3b4a4cc996b423f38f0f04bb/artifacts
+end_time: 1669950995139
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ccea160c3b4a4cc996b423f38f0f04bb
+run_name: wistful-jay-226
+run_uuid: ccea160c3b4a4cc996b423f38f0f04bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240660963
+status: 3
+tags: []
+user_id: unknown

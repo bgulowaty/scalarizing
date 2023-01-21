@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/60424405f51542c4a1f5578a29538870/artifacts
+end_time: 1670180567314
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60424405f51542c4a1f5578a29538870
+run_name: handsome-snake-100
+run_uuid: 60424405f51542c4a1f5578a29538870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242341887
+status: 3
+tags: []
+user_id: unknown

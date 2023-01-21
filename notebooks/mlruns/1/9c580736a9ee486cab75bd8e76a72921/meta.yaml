@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9c580736a9ee486cab75bd8e76a72921/artifacts
+end_time: 1669943925181
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c580736a9ee486cab75bd8e76a72921
+run_name: wistful-lynx-315
+run_uuid: 9c580736a9ee486cab75bd8e76a72921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242189148
+status: 3
+tags: []
+user_id: unknown

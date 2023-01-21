@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/05129b5f0646465fb1ca940192ab122f/artifacts
+end_time: 1670162392607
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 05129b5f0646465fb1ca940192ab122f
+run_name: popular-shoat-277
+run_uuid: 05129b5f0646465fb1ca940192ab122f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150345092
+status: 3
+tags: []
+user_id: unknown

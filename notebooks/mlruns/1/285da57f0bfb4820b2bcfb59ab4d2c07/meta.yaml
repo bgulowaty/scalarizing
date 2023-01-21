@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/285da57f0bfb4820b2bcfb59ab4d2c07/artifacts
+end_time: 1670103026662
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 285da57f0bfb4820b2bcfb59ab4d2c07
+run_name: kindly-dog-42
+run_uuid: 285da57f0bfb4820b2bcfb59ab4d2c07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242209069
+status: 3
+tags: []
+user_id: unknown

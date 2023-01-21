@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a10b0e0aabe642d6bf0084d4eed5f919/artifacts
+end_time: 1670104095738
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a10b0e0aabe642d6bf0084d4eed5f919
+run_name: angry-stag-495
+run_uuid: a10b0e0aabe642d6bf0084d4eed5f919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240019824
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/880eeb4c360a4702b409f9d1509cfeee/artifacts
+end_time: 1669943463756
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 880eeb4c360a4702b409f9d1509cfeee
+run_name: zealous-foal-549
+run_uuid: 880eeb4c360a4702b409f9d1509cfeee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242332832
+status: 3
+tags: []
+user_id: unknown

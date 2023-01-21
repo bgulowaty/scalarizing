@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f1c8514023cf43aeb63f3ad0461152f7/artifacts
+end_time: 1669949401836
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1c8514023cf43aeb63f3ad0461152f7
+run_name: clumsy-snipe-934
+run_uuid: f1c8514023cf43aeb63f3ad0461152f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241002434
+status: 3
+tags: []
+user_id: unknown

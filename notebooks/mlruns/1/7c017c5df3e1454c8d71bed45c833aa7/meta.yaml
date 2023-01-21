@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7c017c5df3e1454c8d71bed45c833aa7/artifacts
+end_time: 1669951354683
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c017c5df3e1454c8d71bed45c833aa7
+run_name: colorful-whale-294
+run_uuid: 7c017c5df3e1454c8d71bed45c833aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240589283
+status: 3
+tags: []
+user_id: unknown

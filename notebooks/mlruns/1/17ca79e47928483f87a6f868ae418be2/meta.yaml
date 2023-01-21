@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/17ca79e47928483f87a6f868ae418be2/artifacts
+end_time: 1669951298763
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17ca79e47928483f87a6f868ae418be2
+run_name: stylish-moth-522
+run_uuid: 17ca79e47928483f87a6f868ae418be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240632454
+status: 3
+tags: []
+user_id: unknown

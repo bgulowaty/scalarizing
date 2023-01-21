@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5ca057d796c94af39f89dff38c23252d/artifacts
+end_time: 1669951295993
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ca057d796c94af39f89dff38c23252d
+run_name: mysterious-dove-364
+run_uuid: 5ca057d796c94af39f89dff38c23252d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240619662
+status: 3
+tags: []
+user_id: unknown

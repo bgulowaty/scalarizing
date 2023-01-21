@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2c4f1669ed59423496a6c88dd0bc9b72/artifacts
+end_time: 1669944292340
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c4f1669ed59423496a6c88dd0bc9b72
+run_name: wise-sponge-773
+run_uuid: 2c4f1669ed59423496a6c88dd0bc9b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242100468
+status: 3
+tags: []
+user_id: unknown

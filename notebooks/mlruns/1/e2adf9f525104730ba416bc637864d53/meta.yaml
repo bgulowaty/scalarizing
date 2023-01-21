@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e2adf9f525104730ba416bc637864d53/artifacts
+end_time: 1669955610988
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2adf9f525104730ba416bc637864d53
+run_name: ambitious-goose-545
+run_uuid: e2adf9f525104730ba416bc637864d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240123783
+status: 3
+tags: []
+user_id: unknown

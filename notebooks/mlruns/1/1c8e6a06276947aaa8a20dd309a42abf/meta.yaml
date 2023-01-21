@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1c8e6a06276947aaa8a20dd309a42abf/artifacts
+end_time: 1669949128844
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c8e6a06276947aaa8a20dd309a42abf
+run_name: sedate-worm-760
+run_uuid: 1c8e6a06276947aaa8a20dd309a42abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241045902
+status: 3
+tags: []
+user_id: unknown

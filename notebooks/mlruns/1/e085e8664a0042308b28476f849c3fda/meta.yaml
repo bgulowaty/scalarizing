@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e085e8664a0042308b28476f849c3fda/artifacts
+end_time: 1670106273265
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e085e8664a0042308b28476f849c3fda
+run_name: painted-donkey-951
+run_uuid: e085e8664a0042308b28476f849c3fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239901419
+status: 3
+tags: []
+user_id: unknown

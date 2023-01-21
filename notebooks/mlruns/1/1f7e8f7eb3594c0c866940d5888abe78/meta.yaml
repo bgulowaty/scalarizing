@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1f7e8f7eb3594c0c866940d5888abe78/artifacts
+end_time: 1669947238259
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1f7e8f7eb3594c0c866940d5888abe78
+run_name: legendary-stag-719
+run_uuid: 1f7e8f7eb3594c0c866940d5888abe78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241418959
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/61ea503ec4054ac9824909da3843c901/artifacts
+end_time: 1670181735850
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61ea503ec4054ac9824909da3843c901
+run_name: bemused-fish-757
+run_uuid: 61ea503ec4054ac9824909da3843c901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239990203
+status: 3
+tags: []
+user_id: unknown

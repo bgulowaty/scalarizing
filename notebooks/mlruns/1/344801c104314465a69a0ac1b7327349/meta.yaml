@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/344801c104314465a69a0ac1b7327349/artifacts
+end_time: 1670181454292
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 344801c104314465a69a0ac1b7327349
+run_name: flawless-moth-109
+run_uuid: 344801c104314465a69a0ac1b7327349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240164169
+status: 3
+tags: []
+user_id: unknown

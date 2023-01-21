@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc4c7b83c02f4f8d89333b7736e46ab2/artifacts
+end_time: 1669950462181
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc4c7b83c02f4f8d89333b7736e46ab2
+run_name: painted-slug-796
+run_uuid: cc4c7b83c02f4f8d89333b7736e46ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240789166
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/bbd5ef2af6e14899b726fe7980a506cb/artifacts
+end_time: 1670162070211
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bbd5ef2af6e14899b726fe7980a506cb
+run_name: ambitious-asp-147
+run_uuid: bbd5ef2af6e14899b726fe7980a506cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150450397
+status: 3
+tags: []
+user_id: unknown

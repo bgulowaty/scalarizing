@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/07173440ffc4434395afff1cc468b409/artifacts
+end_time: 1669942615347
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07173440ffc4434395afff1cc468b409
+run_name: nimble-flea-61
+run_uuid: 07173440ffc4434395afff1cc468b409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242714651
+status: 3
+tags: []
+user_id: unknown

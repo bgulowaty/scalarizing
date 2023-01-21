@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c7f65bab0b94038abce0ca400b5238b/artifacts
+end_time: 1669952892523
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c7f65bab0b94038abce0ca400b5238b
+run_name: polite-crow-628
+run_uuid: 3c7f65bab0b94038abce0ca400b5238b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240385353
+status: 3
+tags: []
+user_id: unknown

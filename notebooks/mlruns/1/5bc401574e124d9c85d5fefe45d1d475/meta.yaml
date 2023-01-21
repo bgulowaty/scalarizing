@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5bc401574e124d9c85d5fefe45d1d475/artifacts
+end_time: 1669950348625
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5bc401574e124d9c85d5fefe45d1d475
+run_name: tasteful-sponge-651
+run_uuid: 5bc401574e124d9c85d5fefe45d1d475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240812326
+status: 3
+tags: []
+user_id: unknown

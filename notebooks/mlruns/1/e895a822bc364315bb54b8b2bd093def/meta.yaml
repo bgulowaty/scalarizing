@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e895a822bc364315bb54b8b2bd093def/artifacts
+end_time: 1669946050844
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e895a822bc364315bb54b8b2bd093def
+run_name: victorious-bass-70
+run_uuid: e895a822bc364315bb54b8b2bd093def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241653871
+status: 3
+tags: []
+user_id: unknown

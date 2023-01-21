@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3705e0a3143d43a98025a5a184fbdd41/artifacts
+end_time: 1670104411949
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3705e0a3143d43a98025a5a184fbdd41
+run_name: funny-bird-338
+run_uuid: 3705e0a3143d43a98025a5a184fbdd41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240001286
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/210e3b0919cc4c9698b3e7a1463d4cd5/artifacts
+end_time: 1669951602788
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 210e3b0919cc4c9698b3e7a1463d4cd5
+run_name: zealous-fish-590
+run_uuid: 210e3b0919cc4c9698b3e7a1463d4cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240572074
+status: 3
+tags: []
+user_id: unknown

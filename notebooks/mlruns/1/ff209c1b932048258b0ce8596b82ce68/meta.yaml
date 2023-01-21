@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff209c1b932048258b0ce8596b82ce68/artifacts
+end_time: 1670106274086
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff209c1b932048258b0ce8596b82ce68
+run_name: nosy-yak-599
+run_uuid: ff209c1b932048258b0ce8596b82ce68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239899974
+status: 3
+tags: []
+user_id: unknown

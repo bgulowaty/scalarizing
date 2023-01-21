@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0f604c935dee4ff6a9a272976df7172e/artifacts
+end_time: 1669946048556
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f604c935dee4ff6a9a272976df7172e
+run_name: bright-bee-498
+run_uuid: 0f604c935dee4ff6a9a272976df7172e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241654318
+status: 3
+tags: []
+user_id: unknown

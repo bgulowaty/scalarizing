@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/94b1755b60d641dca9e3325cb117386e/artifacts
+end_time: 1670103191845
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94b1755b60d641dca9e3325cb117386e
+run_name: sedate-sloth-582
+run_uuid: 94b1755b60d641dca9e3325cb117386e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241086406
+status: 3
+tags: []
+user_id: unknown

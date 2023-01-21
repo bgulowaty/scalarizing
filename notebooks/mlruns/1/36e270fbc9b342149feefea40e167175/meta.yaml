@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/36e270fbc9b342149feefea40e167175/artifacts
+end_time: 1670181425529
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36e270fbc9b342149feefea40e167175
+run_name: vaunted-mole-728
+run_uuid: 36e270fbc9b342149feefea40e167175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240341685
+status: 3
+tags: []
+user_id: unknown

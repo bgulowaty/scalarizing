@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b807d77813e44b48a62f815edcd7cc66/artifacts
+end_time: 1670162083128
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b807d77813e44b48a62f815edcd7cc66
+run_name: funny-shad-767
+run_uuid: b807d77813e44b48a62f815edcd7cc66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150435139
+status: 3
+tags: []
+user_id: unknown

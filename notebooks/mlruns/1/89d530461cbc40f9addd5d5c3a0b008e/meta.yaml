@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89d530461cbc40f9addd5d5c3a0b008e/artifacts
+end_time: 1669943652507
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89d530461cbc40f9addd5d5c3a0b008e
+run_name: stately-sheep-83
+run_uuid: 89d530461cbc40f9addd5d5c3a0b008e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242278050
+status: 3
+tags: []
+user_id: unknown

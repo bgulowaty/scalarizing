@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3f34e46224b44491bd8da0bd68e89a43/artifacts
+end_time: 1669948874194
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f34e46224b44491bd8da0bd68e89a43
+run_name: welcoming-owl-391
+run_uuid: 3f34e46224b44491bd8da0bd68e89a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241089013
+status: 3
+tags: []
+user_id: unknown

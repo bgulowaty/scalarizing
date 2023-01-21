@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fbd5c930b5ac4fcc9f966c2b03a1995a/artifacts
+end_time: 1670104723771
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fbd5c930b5ac4fcc9f966c2b03a1995a
+run_name: bittersweet-auk-872
+run_uuid: fbd5c930b5ac4fcc9f966c2b03a1995a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239974129
+status: 3
+tags: []
+user_id: unknown

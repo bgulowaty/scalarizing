@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7812ea683d284438b3af7f892dba9d70/artifacts
+end_time: 1670162405284
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7812ea683d284438b3af7f892dba9d70
+run_name: melodic-crow-92
+run_uuid: 7812ea683d284438b3af7f892dba9d70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150328040
+status: 3
+tags: []
+user_id: unknown

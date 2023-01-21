@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d715982595264b018bc81d339763b03e/artifacts
+end_time: 1670104119622
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d715982595264b018bc81d339763b03e
+run_name: dashing-croc-893
+run_uuid: d715982595264b018bc81d339763b03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240009174
+status: 3
+tags: []
+user_id: unknown

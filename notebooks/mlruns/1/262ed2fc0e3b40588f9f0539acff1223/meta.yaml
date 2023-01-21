@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/262ed2fc0e3b40588f9f0539acff1223/artifacts
+end_time: 1669943700637
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 262ed2fc0e3b40588f9f0539acff1223
+run_name: unleashed-steed-512
+run_uuid: 262ed2fc0e3b40588f9f0539acff1223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242263078
+status: 3
+tags: []
+user_id: unknown

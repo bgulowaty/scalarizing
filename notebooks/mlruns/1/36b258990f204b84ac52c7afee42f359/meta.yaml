@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/36b258990f204b84ac52c7afee42f359/artifacts
+end_time: 1669950349579
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36b258990f204b84ac52c7afee42f359
+run_name: magnificent-kite-844
+run_uuid: 36b258990f204b84ac52c7afee42f359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240790494
+status: 3
+tags: []
+user_id: unknown

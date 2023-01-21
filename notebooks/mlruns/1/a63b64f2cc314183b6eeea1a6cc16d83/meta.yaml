@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a63b64f2cc314183b6eeea1a6cc16d83/artifacts
+end_time: 1669945052842
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a63b64f2cc314183b6eeea1a6cc16d83
+run_name: unleashed-skunk-411
+run_uuid: a63b64f2cc314183b6eeea1a6cc16d83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241912765
+status: 3
+tags: []
+user_id: unknown

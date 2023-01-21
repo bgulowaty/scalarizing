@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1a4f4a8af5014c9a843d6dd6795c1261/artifacts
+end_time: 1670162832235
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1a4f4a8af5014c9a843d6dd6795c1261
+run_name: grandiose-shoat-537
+run_uuid: 1a4f4a8af5014c9a843d6dd6795c1261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150198676
+status: 3
+tags: []
+user_id: unknown

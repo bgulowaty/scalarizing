@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8c0dab456e4e48b78a260ff53f916cc2/artifacts
+end_time: 1669948507338
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c0dab456e4e48b78a260ff53f916cc2
+run_name: silent-yak-705
+run_uuid: 8c0dab456e4e48b78a260ff53f916cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241149068
+status: 3
+tags: []
+user_id: unknown

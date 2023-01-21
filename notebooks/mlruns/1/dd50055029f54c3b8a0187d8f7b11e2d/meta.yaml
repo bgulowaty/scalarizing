@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dd50055029f54c3b8a0187d8f7b11e2d/artifacts
+end_time: 1670106600459
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd50055029f54c3b8a0187d8f7b11e2d
+run_name: efficient-ray-529
+run_uuid: dd50055029f54c3b8a0187d8f7b11e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239892482
+status: 3
+tags: []
+user_id: unknown

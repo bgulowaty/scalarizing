@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8c3f45e6fe9e42a4836aba48d6544015/artifacts
+end_time: 1670181152392
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c3f45e6fe9e42a4836aba48d6544015
+run_name: wistful-squirrel-63
+run_uuid: 8c3f45e6fe9e42a4836aba48d6544015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240810304
+status: 3
+tags: []
+user_id: unknown

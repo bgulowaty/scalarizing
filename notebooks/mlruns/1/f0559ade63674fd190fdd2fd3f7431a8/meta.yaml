@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f0559ade63674fd190fdd2fd3f7431a8/artifacts
+end_time: 1669954060731
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0559ade63674fd190fdd2fd3f7431a8
+run_name: sedate-roo-48
+run_uuid: f0559ade63674fd190fdd2fd3f7431a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240273956
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8d8a8d84cca740389b795e666d2931b2/artifacts
+end_time: 1669948293638
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d8a8d84cca740389b795e666d2931b2
+run_name: upset-wren-656
+run_uuid: 8d8a8d84cca740389b795e666d2931b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241206041
+status: 3
+tags: []
+user_id: unknown

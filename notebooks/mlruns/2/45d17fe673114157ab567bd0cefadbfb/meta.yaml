@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/45d17fe673114157ab567bd0cefadbfb/artifacts
+end_time: 1670162180898
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 45d17fe673114157ab567bd0cefadbfb
+run_name: overjoyed-shrimp-399
+run_uuid: 45d17fe673114157ab567bd0cefadbfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150404580
+status: 3
+tags: []
+user_id: unknown

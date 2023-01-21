@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/98c1592fb09548c9b640db9c8ed2884d/artifacts
+end_time: 1669948878868
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98c1592fb09548c9b640db9c8ed2884d
+run_name: blushing-robin-719
+run_uuid: 98c1592fb09548c9b640db9c8ed2884d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241082193
+status: 3
+tags: []
+user_id: unknown

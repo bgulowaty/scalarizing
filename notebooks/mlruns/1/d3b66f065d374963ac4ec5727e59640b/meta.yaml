@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d3b66f065d374963ac4ec5727e59640b/artifacts
+end_time: 1669955328680
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3b66f065d374963ac4ec5727e59640b
+run_name: upset-whale-561
+run_uuid: d3b66f065d374963ac4ec5727e59640b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240154335
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6720a21b5c5648e384e45e9c33dbc788/artifacts
+end_time: 1669945768823
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6720a21b5c5648e384e45e9c33dbc788
+run_name: gentle-wren-702
+run_uuid: 6720a21b5c5648e384e45e9c33dbc788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241720952
+status: 3
+tags: []
+user_id: unknown

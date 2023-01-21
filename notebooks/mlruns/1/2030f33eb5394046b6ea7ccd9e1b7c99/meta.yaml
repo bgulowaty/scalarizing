@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2030f33eb5394046b6ea7ccd9e1b7c99/artifacts
+end_time: 1669948873405
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2030f33eb5394046b6ea7ccd9e1b7c99
+run_name: incongruous-seal-811
+run_uuid: 2030f33eb5394046b6ea7ccd9e1b7c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241082934
+status: 3
+tags: []
+user_id: unknown

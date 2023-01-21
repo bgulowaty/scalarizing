@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f7bc4d042a3849a09860c1b85d2db952/artifacts
+end_time: 1669942245465
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7bc4d042a3849a09860c1b85d2db952
+run_name: dapper-seal-70
+run_uuid: f7bc4d042a3849a09860c1b85d2db952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242868336
+status: 3
+tags: []
+user_id: unknown

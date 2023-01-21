@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5213aece54784e7f99016be139cbf0dc/artifacts
+end_time: 1669955040231
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5213aece54784e7f99016be139cbf0dc
+run_name: adventurous-koi-392
+run_uuid: 5213aece54784e7f99016be139cbf0dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240174411
+status: 3
+tags: []
+user_id: unknown

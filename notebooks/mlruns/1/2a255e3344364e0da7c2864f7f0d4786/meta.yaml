@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2a255e3344364e0da7c2864f7f0d4786/artifacts
+end_time: 1669943151542
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a255e3344364e0da7c2864f7f0d4786
+run_name: fortunate-fly-458
+run_uuid: 2a255e3344364e0da7c2864f7f0d4786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242411813
+status: 3
+tags: []
+user_id: unknown

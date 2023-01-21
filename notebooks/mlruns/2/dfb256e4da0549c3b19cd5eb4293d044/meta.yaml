@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/dfb256e4da0549c3b19cd5eb4293d044/artifacts
+end_time: 1670162407685
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: dfb256e4da0549c3b19cd5eb4293d044
+run_name: upbeat-asp-411
+run_uuid: dfb256e4da0549c3b19cd5eb4293d044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150313143
+status: 3
+tags: []
+user_id: unknown

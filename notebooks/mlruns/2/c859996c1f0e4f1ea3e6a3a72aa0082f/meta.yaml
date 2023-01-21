@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c859996c1f0e4f1ea3e6a3a72aa0082f/artifacts
+end_time: 1670162725366
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c859996c1f0e4f1ea3e6a3a72aa0082f
+run_name: skillful-vole-206
+run_uuid: c859996c1f0e4f1ea3e6a3a72aa0082f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150234137
+status: 3
+tags: []
+user_id: unknown

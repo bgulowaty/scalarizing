@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3215e453d6154dc8af7b8dacd8e5904e/artifacts
+end_time: 1669943550416
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3215e453d6154dc8af7b8dacd8e5904e
+run_name: treasured-auk-450
+run_uuid: 3215e453d6154dc8af7b8dacd8e5904e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242307832
+status: 3
+tags: []
+user_id: unknown

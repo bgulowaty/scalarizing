@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aebb77b1003f400e9e2e048ba1a0fa28/artifacts
+end_time: 1669950648447
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aebb77b1003f400e9e2e048ba1a0fa28
+run_name: skittish-quail-353
+run_uuid: aebb77b1003f400e9e2e048ba1a0fa28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240759112
+status: 3
+tags: []
+user_id: unknown

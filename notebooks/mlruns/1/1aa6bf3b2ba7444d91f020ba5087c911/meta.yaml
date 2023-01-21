@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1aa6bf3b2ba7444d91f020ba5087c911/artifacts
+end_time: 1669942649842
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1aa6bf3b2ba7444d91f020ba5087c911
+run_name: spiffy-dove-676
+run_uuid: 1aa6bf3b2ba7444d91f020ba5087c911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242715842
+status: 3
+tags: []
+user_id: unknown

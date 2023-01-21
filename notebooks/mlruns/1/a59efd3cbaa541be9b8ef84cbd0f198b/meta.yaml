@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a59efd3cbaa541be9b8ef84cbd0f198b/artifacts
+end_time: 1670106323106
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a59efd3cbaa541be9b8ef84cbd0f198b
+run_name: nervous-rook-483
+run_uuid: a59efd3cbaa541be9b8ef84cbd0f198b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239902884
+status: 3
+tags: []
+user_id: unknown

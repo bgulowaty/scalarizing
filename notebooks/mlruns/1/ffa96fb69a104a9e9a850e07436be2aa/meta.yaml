@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ffa96fb69a104a9e9a850e07436be2aa/artifacts
+end_time: 1669952227491
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffa96fb69a104a9e9a850e07436be2aa
+run_name: efficient-smelt-924
+run_uuid: ffa96fb69a104a9e9a850e07436be2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240493236
+status: 3
+tags: []
+user_id: unknown

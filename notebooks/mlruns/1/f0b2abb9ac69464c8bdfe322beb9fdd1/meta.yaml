@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f0b2abb9ac69464c8bdfe322beb9fdd1/artifacts
+end_time: 1669946300204
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0b2abb9ac69464c8bdfe322beb9fdd1
+run_name: capable-crane-823
+run_uuid: f0b2abb9ac69464c8bdfe322beb9fdd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241616674
+status: 3
+tags: []
+user_id: unknown

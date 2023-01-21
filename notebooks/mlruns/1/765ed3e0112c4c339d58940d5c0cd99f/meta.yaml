@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/765ed3e0112c4c339d58940d5c0cd99f/artifacts
+end_time: 1669952336237
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 765ed3e0112c4c339d58940d5c0cd99f
+run_name: delicate-cat-481
+run_uuid: 765ed3e0112c4c339d58940d5c0cd99f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240473323
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9deedc2476dd4c3e8ed47e7d4fbfd34b/artifacts
+end_time: 1670162398627
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9deedc2476dd4c3e8ed47e7d4fbfd34b
+run_name: bouncy-shoat-519
+run_uuid: 9deedc2476dd4c3e8ed47e7d4fbfd34b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150326027
+status: 3
+tags: []
+user_id: unknown

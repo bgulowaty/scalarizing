@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a89b68947b3c4cbc977e615c3a63482a/artifacts
+end_time: 1670106577410
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a89b68947b3c4cbc977e615c3a63482a
+run_name: bustling-boar-400
+run_uuid: a89b68947b3c4cbc977e615c3a63482a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239890594
+status: 3
+tags: []
+user_id: unknown

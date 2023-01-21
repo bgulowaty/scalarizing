@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/db8db6cdad1848bd9c124018349d567e/artifacts
+end_time: 1670104437013
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db8db6cdad1848bd9c124018349d567e
+run_name: grandiose-crane-752
+run_uuid: db8db6cdad1848bd9c124018349d567e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239986290
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bb145ed5ba154cde99aaa3b3fb32fbdc/artifacts
+end_time: 1669950345169
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb145ed5ba154cde99aaa3b3fb32fbdc
+run_name: abrasive-sheep-121
+run_uuid: bb145ed5ba154cde99aaa3b3fb32fbdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240794213
+status: 3
+tags: []
+user_id: unknown

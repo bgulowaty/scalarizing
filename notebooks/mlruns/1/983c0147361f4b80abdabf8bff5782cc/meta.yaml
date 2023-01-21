@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/983c0147361f4b80abdabf8bff5782cc/artifacts
+end_time: 1669947240754
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 983c0147361f4b80abdabf8bff5782cc
+run_name: welcoming-fish-22
+run_uuid: 983c0147361f4b80abdabf8bff5782cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241416899
+status: 3
+tags: []
+user_id: unknown

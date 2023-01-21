@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fdded43516564183b37e976c1cb28f07/artifacts
+end_time: 1670102117478
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdded43516564183b37e976c1cb28f07
+run_name: incongruous-fawn-968
+run_uuid: fdded43516564183b37e976c1cb28f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242646603
+status: 3
+tags: []
+user_id: unknown

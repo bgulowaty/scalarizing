@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/734eb14d05a444809969af34e2af0428/artifacts
+end_time: 1669954998514
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 734eb14d05a444809969af34e2af0428
+run_name: delightful-crab-743
+run_uuid: 734eb14d05a444809969af34e2af0428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240201366
+status: 3
+tags: []
+user_id: unknown

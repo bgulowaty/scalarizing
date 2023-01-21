@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3106ec9dfd5241e385e685eeac0437ed/artifacts
+end_time: 1670181454834
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3106ec9dfd5241e385e685eeac0437ed
+run_name: delicate-elk-526
+run_uuid: 3106ec9dfd5241e385e685eeac0437ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240137738
+status: 3
+tags: []
+user_id: unknown

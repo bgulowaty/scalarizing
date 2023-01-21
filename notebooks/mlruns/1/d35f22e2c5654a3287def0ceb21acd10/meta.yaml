@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d35f22e2c5654a3287def0ceb21acd10/artifacts
+end_time: 1669944638745
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d35f22e2c5654a3287def0ceb21acd10
+run_name: upbeat-goat-149
+run_uuid: d35f22e2c5654a3287def0ceb21acd10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242017730
+status: 3
+tags: []
+user_id: unknown

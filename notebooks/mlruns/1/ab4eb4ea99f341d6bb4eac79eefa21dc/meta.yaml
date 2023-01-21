@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab4eb4ea99f341d6bb4eac79eefa21dc/artifacts
+end_time: 1669953850843
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab4eb4ea99f341d6bb4eac79eefa21dc
+run_name: shivering-squid-54
+run_uuid: ab4eb4ea99f341d6bb4eac79eefa21dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240314290
+status: 3
+tags: []
+user_id: unknown

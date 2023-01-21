@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d795b01281b94226bb0652c2eda86bbf/artifacts
+end_time: 1669945722106
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d795b01281b94226bb0652c2eda86bbf
+run_name: rebellious-rat-525
+run_uuid: d795b01281b94226bb0652c2eda86bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241744615
+status: 3
+tags: []
+user_id: unknown

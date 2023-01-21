@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aee58e326f204c5cae3c47895bdc5f46/artifacts
+end_time: 1669948531368
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aee58e326f204c5cae3c47895bdc5f46
+run_name: bouncy-mink-256
+run_uuid: aee58e326f204c5cae3c47895bdc5f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241143179
+status: 3
+tags: []
+user_id: unknown

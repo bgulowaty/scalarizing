@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e56d61869fce46098c8c5cdedd67ede7/artifacts
+end_time: 1669953889418
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e56d61869fce46098c8c5cdedd67ede7
+run_name: whimsical-shoat-866
+run_uuid: e56d61869fce46098c8c5cdedd67ede7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240292431
+status: 3
+tags: []
+user_id: unknown

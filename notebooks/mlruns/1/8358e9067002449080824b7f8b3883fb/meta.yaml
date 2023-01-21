@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8358e9067002449080824b7f8b3883fb/artifacts
+end_time: 1669945991082
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8358e9067002449080824b7f8b3883fb
+run_name: upbeat-calf-939
+run_uuid: 8358e9067002449080824b7f8b3883fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241679520
+status: 3
+tags: []
+user_id: unknown

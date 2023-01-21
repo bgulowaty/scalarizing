@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/97329bbb490e496c8b1d86095225528e/artifacts
+end_time: 1670104407959
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97329bbb490e496c8b1d86095225528e
+run_name: industrious-fish-981
+run_uuid: 97329bbb490e496c8b1d86095225528e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239990699
+status: 3
+tags: []
+user_id: unknown

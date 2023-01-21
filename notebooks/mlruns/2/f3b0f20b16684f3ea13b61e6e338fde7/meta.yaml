@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f3b0f20b16684f3ea13b61e6e338fde7/artifacts
+end_time: 1670162188887
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f3b0f20b16684f3ea13b61e6e338fde7
+run_name: peaceful-duck-45
+run_uuid: f3b0f20b16684f3ea13b61e6e338fde7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150391942
+status: 3
+tags: []
+user_id: unknown

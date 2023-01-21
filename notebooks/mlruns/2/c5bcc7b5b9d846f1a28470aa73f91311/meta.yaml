@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c5bcc7b5b9d846f1a28470aa73f91311/artifacts
+end_time: 1670162832220
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c5bcc7b5b9d846f1a28470aa73f91311
+run_name: enchanting-midge-437
+run_uuid: c5bcc7b5b9d846f1a28470aa73f91311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150197047
+status: 3
+tags: []
+user_id: unknown

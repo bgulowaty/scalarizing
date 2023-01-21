@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bb69c6b3314e427aa9b66bb38020716c/artifacts
+end_time: 1669955614358
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb69c6b3314e427aa9b66bb38020716c
+run_name: orderly-seal-521
+run_uuid: bb69c6b3314e427aa9b66bb38020716c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240125372
+status: 3
+tags: []
+user_id: unknown

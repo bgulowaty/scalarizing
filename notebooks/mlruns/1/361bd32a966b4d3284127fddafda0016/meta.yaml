@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/361bd32a966b4d3284127fddafda0016/artifacts
+end_time: 1669946871489
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 361bd32a966b4d3284127fddafda0016
+run_name: lyrical-panda-5
+run_uuid: 361bd32a966b4d3284127fddafda0016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241594283
+status: 3
+tags: []
+user_id: unknown

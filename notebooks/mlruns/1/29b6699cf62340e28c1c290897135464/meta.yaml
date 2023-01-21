@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/29b6699cf62340e28c1c290897135464/artifacts
+end_time: 1669951606178
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29b6699cf62340e28c1c290897135464
+run_name: upbeat-finch-555
+run_uuid: 29b6699cf62340e28c1c290897135464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240576910
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/2ef5b6f1a3724832b41e57f573c6400b/artifacts
+end_time: 1670162294322
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2ef5b6f1a3724832b41e57f573c6400b
+run_name: powerful-stoat-637
+run_uuid: 2ef5b6f1a3724832b41e57f573c6400b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150352256
+status: 3
+tags: []
+user_id: unknown

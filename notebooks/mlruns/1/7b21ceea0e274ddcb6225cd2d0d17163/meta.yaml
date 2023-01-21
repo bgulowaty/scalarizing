@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7b21ceea0e274ddcb6225cd2d0d17163/artifacts
+end_time: 1669949426711
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b21ceea0e274ddcb6225cd2d0d17163
+run_name: abrasive-dolphin-353
+run_uuid: 7b21ceea0e274ddcb6225cd2d0d17163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241005654
+status: 3
+tags: []
+user_id: unknown

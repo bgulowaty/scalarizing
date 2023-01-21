@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/294ac675ff764a4dbd96110343c63ece/artifacts
+end_time: 1670102341999
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 294ac675ff764a4dbd96110343c63ece
+run_name: dapper-midge-760
+run_uuid: 294ac675ff764a4dbd96110343c63ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242665498
+status: 3
+tags: []
+user_id: unknown

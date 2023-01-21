@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/be49da5d5d5643c2bc2f2bff7f8f80fd/artifacts
+end_time: 1669942596087
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be49da5d5d5643c2bc2f2bff7f8f80fd
+run_name: welcoming-mole-813
+run_uuid: be49da5d5d5643c2bc2f2bff7f8f80fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242732164
+status: 3
+tags: []
+user_id: unknown

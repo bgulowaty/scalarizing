@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/88eba9d3aa4f4599b5087f36ef9fa0fd/artifacts
+end_time: 1670162399031
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 88eba9d3aa4f4599b5087f36ef9fa0fd
+run_name: flawless-wolf-339
+run_uuid: 88eba9d3aa4f4599b5087f36ef9fa0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150327593
+status: 3
+tags: []
+user_id: unknown

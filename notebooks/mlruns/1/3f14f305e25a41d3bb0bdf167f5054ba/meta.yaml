@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3f14f305e25a41d3bb0bdf167f5054ba/artifacts
+end_time: 1669943003374
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f14f305e25a41d3bb0bdf167f5054ba
+run_name: dapper-roo-110
+run_uuid: 3f14f305e25a41d3bb0bdf167f5054ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242463405
+status: 3
+tags: []
+user_id: unknown

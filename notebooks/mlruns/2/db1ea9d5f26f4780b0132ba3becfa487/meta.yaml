@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/db1ea9d5f26f4780b0132ba3becfa487/artifacts
+end_time: 1670162079997
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: db1ea9d5f26f4780b0132ba3becfa487
+run_name: clean-turtle-331
+run_uuid: db1ea9d5f26f4780b0132ba3becfa487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150429832
+status: 3
+tags: []
+user_id: unknown

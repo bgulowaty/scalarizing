@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46b0341b7d954c228eac6b3f3997845a/artifacts
+end_time: 1669944234871
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46b0341b7d954c228eac6b3f3997845a
+run_name: smiling-grub-910
+run_uuid: 46b0341b7d954c228eac6b3f3997845a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242112203
+status: 3
+tags: []
+user_id: unknown

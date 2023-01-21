@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/18c7b981e0724912ba2c84838d5af673/artifacts
+end_time: 1670162512725
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 18c7b981e0724912ba2c84838d5af673
+run_name: mysterious-wolf-575
+run_uuid: 18c7b981e0724912ba2c84838d5af673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150288540
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/57c4fc64de6d4cce975ef12966397400/artifacts
+end_time: 1670105043473
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57c4fc64de6d4cce975ef12966397400
+run_name: tasteful-shrimp-580
+run_uuid: 57c4fc64de6d4cce975ef12966397400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239955360
+status: 3
+tags: []
+user_id: unknown

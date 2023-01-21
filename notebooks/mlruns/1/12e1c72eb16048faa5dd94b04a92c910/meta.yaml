@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/12e1c72eb16048faa5dd94b04a92c910/artifacts
+end_time: 1669953336376
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12e1c72eb16048faa5dd94b04a92c910
+run_name: orderly-croc-137
+run_uuid: 12e1c72eb16048faa5dd94b04a92c910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240352757
+status: 3
+tags: []
+user_id: unknown

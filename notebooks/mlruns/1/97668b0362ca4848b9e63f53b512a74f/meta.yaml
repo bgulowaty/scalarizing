@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/97668b0362ca4848b9e63f53b512a74f/artifacts
+end_time: 1670106316232
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97668b0362ca4848b9e63f53b512a74f
+run_name: shivering-ant-535
+run_uuid: 97668b0362ca4848b9e63f53b512a74f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239897994
+status: 3
+tags: []
+user_id: unknown

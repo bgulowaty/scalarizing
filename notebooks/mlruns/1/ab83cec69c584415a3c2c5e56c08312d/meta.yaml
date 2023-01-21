@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab83cec69c584415a3c2c5e56c08312d/artifacts
+end_time: 1669954458857
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab83cec69c584415a3c2c5e56c08312d
+run_name: stately-owl-394
+run_uuid: ab83cec69c584415a3c2c5e56c08312d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240218088
+status: 3
+tags: []
+user_id: unknown

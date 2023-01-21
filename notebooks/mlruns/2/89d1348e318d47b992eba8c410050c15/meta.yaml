@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/89d1348e318d47b992eba8c410050c15/artifacts
+end_time: 1670161964227
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 89d1348e318d47b992eba8c410050c15
+run_name: caring-elk-144
+run_uuid: 89d1348e318d47b992eba8c410050c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150492536
+status: 3
+tags: []
+user_id: unknown

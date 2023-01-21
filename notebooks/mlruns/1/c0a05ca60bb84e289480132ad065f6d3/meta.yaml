@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c0a05ca60bb84e289480132ad065f6d3/artifacts
+end_time: 1669951909864
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0a05ca60bb84e289480132ad065f6d3
+run_name: nebulous-worm-61
+run_uuid: c0a05ca60bb84e289480132ad065f6d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240522043
+status: 3
+tags: []
+user_id: unknown

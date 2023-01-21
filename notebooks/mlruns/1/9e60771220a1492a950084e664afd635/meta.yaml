@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9e60771220a1492a950084e664afd635/artifacts
+end_time: 1669952217813
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e60771220a1492a950084e664afd635
+run_name: dazzling-slug-235
+run_uuid: 9e60771220a1492a950084e664afd635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240481024
+status: 3
+tags: []
+user_id: unknown

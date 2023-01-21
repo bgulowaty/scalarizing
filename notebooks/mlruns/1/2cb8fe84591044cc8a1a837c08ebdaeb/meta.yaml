@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2cb8fe84591044cc8a1a837c08ebdaeb/artifacts
+end_time: 1669949399607
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2cb8fe84591044cc8a1a837c08ebdaeb
+run_name: worried-foal-509
+run_uuid: 2cb8fe84591044cc8a1a837c08ebdaeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241008674
+status: 3
+tags: []
+user_id: unknown

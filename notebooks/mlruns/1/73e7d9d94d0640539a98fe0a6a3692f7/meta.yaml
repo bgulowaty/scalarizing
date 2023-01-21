@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/73e7d9d94d0640539a98fe0a6a3692f7/artifacts
+end_time: 1669949496246
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73e7d9d94d0640539a98fe0a6a3692f7
+run_name: big-goose-253
+run_uuid: 73e7d9d94d0640539a98fe0a6a3692f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240919332
+status: 3
+tags: []
+user_id: unknown

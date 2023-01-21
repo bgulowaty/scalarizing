@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c31e93cf9d484dac90ff49af86e9ae4c/artifacts
+end_time: 1669949803674
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c31e93cf9d484dac90ff49af86e9ae4c
+run_name: chill-hawk-80
+run_uuid: c31e93cf9d484dac90ff49af86e9ae4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240869844
+status: 3
+tags: []
+user_id: unknown

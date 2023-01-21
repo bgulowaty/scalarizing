@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/56aeddf84b0c43b9b10fcce059f56b0f/artifacts
+end_time: 1669944887734
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56aeddf84b0c43b9b10fcce059f56b0f
+run_name: charming-shoat-536
+run_uuid: 56aeddf84b0c43b9b10fcce059f56b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241983044
+status: 3
+tags: []
+user_id: unknown

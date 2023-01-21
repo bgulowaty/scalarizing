@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c0520bd72fd5464aa468a469b6939106/artifacts
+end_time: 1669945139474
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0520bd72fd5464aa468a469b6939106
+run_name: debonair-ox-355
+run_uuid: c0520bd72fd5464aa468a469b6939106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241862521
+status: 3
+tags: []
+user_id: unknown

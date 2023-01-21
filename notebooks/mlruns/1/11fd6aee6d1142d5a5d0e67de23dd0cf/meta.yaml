@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/11fd6aee6d1142d5a5d0e67de23dd0cf/artifacts
+end_time: 1670106581996
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11fd6aee6d1142d5a5d0e67de23dd0cf
+run_name: crawling-frog-22
+run_uuid: 11fd6aee6d1142d5a5d0e67de23dd0cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239889973
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/de4da4201a11408e833de1b4bdf0617c/artifacts
+end_time: 1669943615300
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de4da4201a11408e833de1b4bdf0617c
+run_name: amusing-duck-205
+run_uuid: de4da4201a11408e833de1b4bdf0617c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242300587
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/56e18ed074fa4fb29035ce43b8f511ea/artifacts
+end_time: 1670162452726
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 56e18ed074fa4fb29035ce43b8f511ea
+run_name: vaunted-fly-88
+run_uuid: 56e18ed074fa4fb29035ce43b8f511ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150356224
+status: 3
+tags: []
+user_id: unknown

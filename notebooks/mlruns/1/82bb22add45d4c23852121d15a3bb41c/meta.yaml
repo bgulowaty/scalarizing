@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/82bb22add45d4c23852121d15a3bb41c/artifacts
+end_time: 1670102322002
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82bb22add45d4c23852121d15a3bb41c
+run_name: hilarious-snipe-732
+run_uuid: 82bb22add45d4c23852121d15a3bb41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242640111
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2c17c61eb19d4aca9b60a195ab9adb7f/artifacts
+end_time: 1670104789656
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c17c61eb19d4aca9b60a195ab9adb7f
+run_name: amazing-hound-793
+run_uuid: 2c17c61eb19d4aca9b60a195ab9adb7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239967661
+status: 3
+tags: []
+user_id: unknown

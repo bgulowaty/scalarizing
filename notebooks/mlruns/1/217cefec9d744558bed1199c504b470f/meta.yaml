@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/217cefec9d744558bed1199c504b470f/artifacts
+end_time: 1670106293731
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 217cefec9d744558bed1199c504b470f
+run_name: colorful-mink-717
+run_uuid: 217cefec9d744558bed1199c504b470f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239898123
+status: 3
+tags: []
+user_id: unknown

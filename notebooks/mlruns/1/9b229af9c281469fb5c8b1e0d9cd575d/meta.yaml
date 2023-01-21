@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9b229af9c281469fb5c8b1e0d9cd575d/artifacts
+end_time: 1669954716267
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b229af9c281469fb5c8b1e0d9cd575d
+run_name: industrious-bear-807
+run_uuid: 9b229af9c281469fb5c8b1e0d9cd575d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240214135
+status: 3
+tags: []
+user_id: unknown

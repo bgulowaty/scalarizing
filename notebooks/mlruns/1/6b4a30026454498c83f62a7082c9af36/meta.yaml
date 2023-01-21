@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6b4a30026454498c83f62a7082c9af36/artifacts
+end_time: 1670105029398
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6b4a30026454498c83f62a7082c9af36
+run_name: unequaled-elk-205
+run_uuid: 6b4a30026454498c83f62a7082c9af36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239959179
+status: 3
+tags: []
+user_id: unknown

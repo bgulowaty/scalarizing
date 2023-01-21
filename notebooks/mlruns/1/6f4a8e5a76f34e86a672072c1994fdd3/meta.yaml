@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6f4a8e5a76f34e86a672072c1994fdd3/artifacts
+end_time: 1669955609045
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f4a8e5a76f34e86a672072c1994fdd3
+run_name: gregarious-ant-905
+run_uuid: 6f4a8e5a76f34e86a672072c1994fdd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240131701
+status: 3
+tags: []
+user_id: unknown

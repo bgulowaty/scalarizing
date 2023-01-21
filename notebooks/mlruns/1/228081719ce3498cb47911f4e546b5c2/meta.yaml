@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/228081719ce3498cb47911f4e546b5c2/artifacts
+end_time: 1669952592064
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 228081719ce3498cb47911f4e546b5c2
+run_name: spiffy-calf-722
+run_uuid: 228081719ce3498cb47911f4e546b5c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240455541
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ad9a452e00a04f8ba5ac6b35f048fff0/artifacts
+end_time: 1670162070652
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ad9a452e00a04f8ba5ac6b35f048fff0
+run_name: auspicious-duck-669
+run_uuid: ad9a452e00a04f8ba5ac6b35f048fff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150454935
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d25dd02708a84a539c90db76eb38a5d9/artifacts
+end_time: 1670162293334
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d25dd02708a84a539c90db76eb38a5d9
+run_name: big-conch-557
+run_uuid: d25dd02708a84a539c90db76eb38a5d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150360059
+status: 3
+tags: []
+user_id: unknown

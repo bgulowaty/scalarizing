@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e19777aee6fe409fa49b8f6c4dbe2762/artifacts
+end_time: 1669947573114
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e19777aee6fe409fa49b8f6c4dbe2762
+run_name: stately-goat-940
+run_uuid: e19777aee6fe409fa49b8f6c4dbe2762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241355361
+status: 3
+tags: []
+user_id: unknown

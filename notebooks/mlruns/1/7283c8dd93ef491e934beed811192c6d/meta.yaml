@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7283c8dd93ef491e934beed811192c6d/artifacts
+end_time: 1669954401192
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7283c8dd93ef491e934beed811192c6d
+run_name: bouncy-pig-278
+run_uuid: 7283c8dd93ef491e934beed811192c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240231331
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a417c33cdbf4454dbabae675d2040ddd/artifacts
+end_time: 1669950388437
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a417c33cdbf4454dbabae675d2040ddd
+run_name: skittish-ox-560
+run_uuid: a417c33cdbf4454dbabae675d2040ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240803898
+status: 3
+tags: []
+user_id: unknown

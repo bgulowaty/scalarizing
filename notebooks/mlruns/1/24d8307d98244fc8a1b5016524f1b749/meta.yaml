@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/24d8307d98244fc8a1b5016524f1b749/artifacts
+end_time: 1669948484989
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24d8307d98244fc8a1b5016524f1b749
+run_name: gifted-frog-848
+run_uuid: 24d8307d98244fc8a1b5016524f1b749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241168328
+status: 3
+tags: []
+user_id: unknown

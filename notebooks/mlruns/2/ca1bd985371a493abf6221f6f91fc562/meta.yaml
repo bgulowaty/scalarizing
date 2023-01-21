@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ca1bd985371a493abf6221f6f91fc562/artifacts
+end_time: 1670162286530
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ca1bd985371a493abf6221f6f91fc562
+run_name: orderly-grub-726
+run_uuid: ca1bd985371a493abf6221f6f91fc562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150371550
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/02fdec9951484c85a49a92ab7b58e2a8/artifacts
+end_time: 1669955301845
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02fdec9951484c85a49a92ab7b58e2a8
+run_name: aged-squid-36
+run_uuid: 02fdec9951484c85a49a92ab7b58e2a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240147344
+status: 3
+tags: []
+user_id: unknown

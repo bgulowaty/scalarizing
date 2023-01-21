@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce1e82411dd0423fab0178f2d5a2a74a/artifacts
+end_time: 1669947294408
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce1e82411dd0423fab0178f2d5a2a74a
+run_name: debonair-gull-804
+run_uuid: ce1e82411dd0423fab0178f2d5a2a74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241385563
+status: 3
+tags: []
+user_id: unknown

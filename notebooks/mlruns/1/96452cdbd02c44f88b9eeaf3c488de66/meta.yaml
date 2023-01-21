@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/96452cdbd02c44f88b9eeaf3c488de66/artifacts
+end_time: 1670181450749
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 96452cdbd02c44f88b9eeaf3c488de66
+run_name: sedate-swan-646
+run_uuid: 96452cdbd02c44f88b9eeaf3c488de66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240200943
+status: 4
+tags: []
+user_id: unknown

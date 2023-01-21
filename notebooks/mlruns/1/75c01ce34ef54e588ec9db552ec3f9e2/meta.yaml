@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/75c01ce34ef54e588ec9db552ec3f9e2/artifacts
+end_time: 1669949203633
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75c01ce34ef54e588ec9db552ec3f9e2
+run_name: rare-zebra-743
+run_uuid: 75c01ce34ef54e588ec9db552ec3f9e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241031911
+status: 3
+tags: []
+user_id: unknown

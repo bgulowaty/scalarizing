@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/977a5643b53c4abfb38961531cb242d2/artifacts
+end_time: 1670103482759
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 977a5643b53c4abfb38961531cb242d2
+run_name: peaceful-hare-994
+run_uuid: 977a5643b53c4abfb38961531cb242d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240583287
+status: 3
+tags: []
+user_id: unknown

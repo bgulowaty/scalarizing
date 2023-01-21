@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/26c48cbbb08f4fd7b091dce5bdd4687a/artifacts
+end_time: 1670162293462
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 26c48cbbb08f4fd7b091dce5bdd4687a
+run_name: masked-grouse-437
+run_uuid: 26c48cbbb08f4fd7b091dce5bdd4687a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150356771
+status: 3
+tags: []
+user_id: unknown

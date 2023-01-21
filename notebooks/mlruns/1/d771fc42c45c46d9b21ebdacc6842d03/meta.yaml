@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d771fc42c45c46d9b21ebdacc6842d03/artifacts
+end_time: 1669944257627
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d771fc42c45c46d9b21ebdacc6842d03
+run_name: big-hog-902
+run_uuid: d771fc42c45c46d9b21ebdacc6842d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242119099
+status: 3
+tags: []
+user_id: unknown

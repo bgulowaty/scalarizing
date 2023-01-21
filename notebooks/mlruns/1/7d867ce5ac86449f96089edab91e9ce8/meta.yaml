@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7d867ce5ac86449f96089edab91e9ce8/artifacts
+end_time: 1670181124666
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d867ce5ac86449f96089edab91e9ce8
+run_name: defiant-carp-651
+run_uuid: 7d867ce5ac86449f96089edab91e9ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241049620
+status: 3
+tags: []
+user_id: unknown

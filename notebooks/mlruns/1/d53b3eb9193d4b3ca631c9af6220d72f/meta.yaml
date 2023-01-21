@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d53b3eb9193d4b3ca631c9af6220d72f/artifacts
+end_time: 1669951684362
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d53b3eb9193d4b3ca631c9af6220d72f
+run_name: smiling-worm-108
+run_uuid: d53b3eb9193d4b3ca631c9af6220d72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240563071
+status: 3
+tags: []
+user_id: unknown

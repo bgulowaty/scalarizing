@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/abb949c7c2df49bd90dbae32c6241619/artifacts
+end_time: 1670106271793
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abb949c7c2df49bd90dbae32c6241619
+run_name: adorable-goat-851
+run_uuid: abb949c7c2df49bd90dbae32c6241619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239902143
+status: 3
+tags: []
+user_id: unknown

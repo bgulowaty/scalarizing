@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/51f6a50761b548ce8d31963603e89a9a/artifacts
+end_time: 1669947883044
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51f6a50761b548ce8d31963603e89a9a
+run_name: secretive-seal-317
+run_uuid: 51f6a50761b548ce8d31963603e89a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241288086
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9adf76aaee3f4aedbfe26ed9346951d9/artifacts
+end_time: 1670162398903
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9adf76aaee3f4aedbfe26ed9346951d9
+run_name: abundant-bass-35
+run_uuid: 9adf76aaee3f4aedbfe26ed9346951d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150327465
+status: 3
+tags: []
+user_id: unknown

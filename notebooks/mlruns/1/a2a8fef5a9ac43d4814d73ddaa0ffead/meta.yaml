@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a2a8fef5a9ac43d4814d73ddaa0ffead/artifacts
+end_time: 1669953801320
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2a8fef5a9ac43d4814d73ddaa0ffead
+run_name: hilarious-croc-53
+run_uuid: a2a8fef5a9ac43d4814d73ddaa0ffead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240295720
+status: 3
+tags: []
+user_id: unknown

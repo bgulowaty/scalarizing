@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e63220215b864f21bff8b66470655caf/artifacts
+end_time: 1669952334109
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e63220215b864f21bff8b66470655caf
+run_name: useful-carp-831
+run_uuid: e63220215b864f21bff8b66470655caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240463260
+status: 3
+tags: []
+user_id: unknown

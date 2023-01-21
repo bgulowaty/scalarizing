@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7df36dbe7a4f405bb95dcb9b7c50ccab/artifacts
+end_time: 1670162400513
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7df36dbe7a4f405bb95dcb9b7c50ccab
+run_name: thoughtful-crab-416
+run_uuid: 7df36dbe7a4f405bb95dcb9b7c50ccab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150319182
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0b63c1f8e09542c3bc65b4c5cce24577/artifacts
+end_time: 1669952625234
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b63c1f8e09542c3bc65b4c5cce24577
+run_name: likeable-boar-400
+run_uuid: 0b63c1f8e09542c3bc65b4c5cce24577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240439493
+status: 3
+tags: []
+user_id: unknown

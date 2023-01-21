@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9e5fbcce56094ae2b2bc11ce511204f3/artifacts
+end_time: 1670104099082
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e5fbcce56094ae2b2bc11ce511204f3
+run_name: kindly-rat-325
+run_uuid: 9e5fbcce56094ae2b2bc11ce511204f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240015753
+status: 3
+tags: []
+user_id: unknown

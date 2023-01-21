@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0ad301f12a6e49d2a360f13d8092a5ad/artifacts
+end_time: 1669942866593
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ad301f12a6e49d2a360f13d8092a5ad
+run_name: legendary-grub-484
+run_uuid: 0ad301f12a6e49d2a360f13d8092a5ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242483040
+status: 3
+tags: []
+user_id: unknown

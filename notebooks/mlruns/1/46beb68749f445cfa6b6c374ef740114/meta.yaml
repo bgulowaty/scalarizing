@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46beb68749f445cfa6b6c374ef740114/artifacts
+end_time: 1669943644704
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46beb68749f445cfa6b6c374ef740114
+run_name: calm-stork-638
+run_uuid: 46beb68749f445cfa6b6c374ef740114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242278420
+status: 3
+tags: []
+user_id: unknown

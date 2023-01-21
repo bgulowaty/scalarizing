@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/02c35eba888d4caf816229938211c697/artifacts
+end_time: 1670105680967
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02c35eba888d4caf816229938211c697
+run_name: capable-bug-417
+run_uuid: 02c35eba888d4caf816229938211c697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239918084
+status: 3
+tags: []
+user_id: unknown

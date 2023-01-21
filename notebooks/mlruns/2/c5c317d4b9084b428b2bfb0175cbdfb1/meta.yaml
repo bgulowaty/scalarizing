@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c5c317d4b9084b428b2bfb0175cbdfb1/artifacts
+end_time: 1670162512184
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c5c317d4b9084b428b2bfb0175cbdfb1
+run_name: colorful-fawn-139
+run_uuid: c5c317d4b9084b428b2bfb0175cbdfb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150276445
+status: 3
+tags: []
+user_id: unknown

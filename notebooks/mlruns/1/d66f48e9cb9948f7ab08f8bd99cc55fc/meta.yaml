@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d66f48e9cb9948f7ab08f8bd99cc55fc/artifacts
+end_time: 1669948532379
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d66f48e9cb9948f7ab08f8bd99cc55fc
+run_name: casual-dolphin-356
+run_uuid: d66f48e9cb9948f7ab08f8bd99cc55fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241146785
+status: 3
+tags: []
+user_id: unknown

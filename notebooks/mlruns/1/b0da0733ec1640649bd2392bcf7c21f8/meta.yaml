@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b0da0733ec1640649bd2392bcf7c21f8/artifacts
+end_time: 1669953545457
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0da0733ec1640649bd2392bcf7c21f8
+run_name: thoughtful-yak-442
+run_uuid: b0da0733ec1640649bd2392bcf7c21f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240319275
+status: 3
+tags: []
+user_id: unknown

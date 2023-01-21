@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/50372c9511824510a5fe4c43f2d870e9/artifacts
+end_time: 1669945680609
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50372c9511824510a5fe4c43f2d870e9
+run_name: kindly-fox-243
+run_uuid: 50372c9511824510a5fe4c43f2d870e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241763185
+status: 3
+tags: []
+user_id: unknown

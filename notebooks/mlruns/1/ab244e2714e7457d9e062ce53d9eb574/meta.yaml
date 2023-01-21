@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab244e2714e7457d9e062ce53d9eb574/artifacts
+end_time: 1670105679843
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab244e2714e7457d9e062ce53d9eb574
+run_name: dapper-fish-257
+run_uuid: ab244e2714e7457d9e062ce53d9eb574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239921779
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/83522b4649f74611a23ba4e427ee98c3/artifacts
+end_time: 1669944748511
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83522b4649f74611a23ba4e427ee98c3
+run_name: bouncy-slug-924
+run_uuid: 83522b4649f74611a23ba4e427ee98c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242013441
+status: 3
+tags: []
+user_id: unknown

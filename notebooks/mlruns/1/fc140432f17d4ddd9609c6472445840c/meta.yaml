@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc140432f17d4ddd9609c6472445840c/artifacts
+end_time: 1669945080219
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc140432f17d4ddd9609c6472445840c
+run_name: clean-swan-645
+run_uuid: fc140432f17d4ddd9609c6472445840c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241886088
+status: 3
+tags: []
+user_id: unknown

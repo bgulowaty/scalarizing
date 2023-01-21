@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59710aec9a984e388162bf923c788a82/artifacts
+end_time: 1669953784021
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59710aec9a984e388162bf923c788a82
+run_name: bemused-doe-691
+run_uuid: 59710aec9a984e388162bf923c788a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240309612
+status: 3
+tags: []
+user_id: unknown

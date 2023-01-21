@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/33f84514d28c4f53b3e44231b0939f06/artifacts
+end_time: 1670105368957
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33f84514d28c4f53b3e44231b0939f06
+run_name: blushing-mouse-749
+run_uuid: 33f84514d28c4f53b3e44231b0939f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239932865
+status: 3
+tags: []
+user_id: unknown

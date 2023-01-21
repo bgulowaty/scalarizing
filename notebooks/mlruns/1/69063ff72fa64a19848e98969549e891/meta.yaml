@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/69063ff72fa64a19848e98969549e891/artifacts
+end_time: 1670180599815
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69063ff72fa64a19848e98969549e891
+run_name: bright-mole-379
+run_uuid: 69063ff72fa64a19848e98969549e891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242658801
+status: 3
+tags: []
+user_id: unknown

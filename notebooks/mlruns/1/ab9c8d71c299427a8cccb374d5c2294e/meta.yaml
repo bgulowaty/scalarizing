@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab9c8d71c299427a8cccb374d5c2294e/artifacts
+end_time: 1670106293607
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab9c8d71c299427a8cccb374d5c2294e
+run_name: nimble-perch-314
+run_uuid: ab9c8d71c299427a8cccb374d5c2294e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239897321
+status: 3
+tags: []
+user_id: unknown

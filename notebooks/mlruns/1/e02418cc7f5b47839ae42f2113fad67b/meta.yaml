@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e02418cc7f5b47839ae42f2113fad67b/artifacts
+end_time: 1669953479928
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e02418cc7f5b47839ae42f2113fad67b
+run_name: respected-steed-975
+run_uuid: e02418cc7f5b47839ae42f2113fad67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240337289
+status: 3
+tags: []
+user_id: unknown

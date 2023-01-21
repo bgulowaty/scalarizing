@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/53fa47cf7fe0457eae0f3c69937a9ebe/artifacts
+end_time: 1670105374796
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53fa47cf7fe0457eae0f3c69937a9ebe
+run_name: magnificent-wolf-858
+run_uuid: 53fa47cf7fe0457eae0f3c69937a9ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239932340
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/979bbde31a5746eb8acff450b02045d4/artifacts
+end_time: 1669955610924
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 979bbde31a5746eb8acff450b02045d4
+run_name: marvelous-mouse-344
+run_uuid: 979bbde31a5746eb8acff450b02045d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240129726
+status: 3
+tags: []
+user_id: unknown

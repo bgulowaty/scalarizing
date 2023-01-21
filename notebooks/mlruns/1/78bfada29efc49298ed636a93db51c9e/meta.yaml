@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/78bfada29efc49298ed636a93db51c9e/artifacts
+end_time: 1669955917907
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78bfada29efc49298ed636a93db51c9e
+run_name: magnificent-snail-27
+run_uuid: 78bfada29efc49298ed636a93db51c9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240097995
+status: 3
+tags: []
+user_id: unknown

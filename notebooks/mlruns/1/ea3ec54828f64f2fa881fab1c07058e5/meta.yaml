@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ea3ec54828f64f2fa881fab1c07058e5/artifacts
+end_time: 1669949900049
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea3ec54828f64f2fa881fab1c07058e5
+run_name: abrasive-colt-182
+run_uuid: ea3ec54828f64f2fa881fab1c07058e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240872925
+status: 3
+tags: []
+user_id: unknown

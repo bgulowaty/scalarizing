@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b8ee717ebaeb4e38a5ec6498d59f8423/artifacts
+end_time: 1669949131822
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8ee717ebaeb4e38a5ec6498d59f8423
+run_name: fearless-hawk-820
+run_uuid: b8ee717ebaeb4e38a5ec6498d59f8423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241058644
+status: 3
+tags: []
+user_id: unknown

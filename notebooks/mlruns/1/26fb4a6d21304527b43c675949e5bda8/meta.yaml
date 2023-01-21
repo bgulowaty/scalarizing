@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/26fb4a6d21304527b43c675949e5bda8/artifacts
+end_time: 1670105648778
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26fb4a6d21304527b43c675949e5bda8
+run_name: skillful-wasp-44
+run_uuid: 26fb4a6d21304527b43c675949e5bda8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239928176
+status: 3
+tags: []
+user_id: unknown

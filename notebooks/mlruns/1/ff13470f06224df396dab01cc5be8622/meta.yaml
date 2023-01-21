@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff13470f06224df396dab01cc5be8622/artifacts
+end_time: 1670102944603
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff13470f06224df396dab01cc5be8622
+run_name: melodic-bass-64
+run_uuid: ff13470f06224df396dab01cc5be8622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242571458
+status: 3
+tags: []
+user_id: unknown

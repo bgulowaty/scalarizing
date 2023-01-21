@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fd189f461e8b4c4f9f4cd05cd8dd1de2/artifacts
+end_time: 1670104423450
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd189f461e8b4c4f9f4cd05cd8dd1de2
+run_name: skillful-mink-494
+run_uuid: fd189f461e8b4c4f9f4cd05cd8dd1de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239989757
+status: 3
+tags: []
+user_id: unknown

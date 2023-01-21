@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb80b72b5d6143d18265e44d5c6c9c0f/artifacts
+end_time: 1670181421154
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb80b72b5d6143d18265e44d5c6c9c0f
+run_name: loud-asp-97
+run_uuid: eb80b72b5d6143d18265e44d5c6c9c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240446057
+status: 3
+tags: []
+user_id: unknown

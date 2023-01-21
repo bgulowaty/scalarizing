@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1e74272f70b14a76be633f20ff8cc72b/artifacts
+end_time: 1669946297508
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e74272f70b14a76be633f20ff8cc72b
+run_name: awesome-tern-369
+run_uuid: 1e74272f70b14a76be633f20ff8cc72b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241633736
+status: 3
+tags: []
+user_id: unknown

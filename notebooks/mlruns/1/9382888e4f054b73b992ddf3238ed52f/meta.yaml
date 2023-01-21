@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9382888e4f054b73b992ddf3238ed52f/artifacts
+end_time: 1669943021737
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9382888e4f054b73b992ddf3238ed52f
+run_name: calm-toad-927
+run_uuid: 9382888e4f054b73b992ddf3238ed52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242439523
+status: 3
+tags: []
+user_id: unknown

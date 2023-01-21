@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab10a2138c4a424db621dfc805aeeda3/artifacts
+end_time: 1669949464283
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab10a2138c4a424db621dfc805aeeda3
+run_name: rogue-gnu-632
+run_uuid: ab10a2138c4a424db621dfc805aeeda3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240926931
+status: 3
+tags: []
+user_id: unknown

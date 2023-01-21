@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/62df17f31a444ebb96ecb6be74cf7e28/artifacts
+end_time: 1669948095727
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62df17f31a444ebb96ecb6be74cf7e28
+run_name: invincible-fawn-340
+run_uuid: 62df17f31a444ebb96ecb6be74cf7e28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241292666
+status: 3
+tags: []
+user_id: unknown

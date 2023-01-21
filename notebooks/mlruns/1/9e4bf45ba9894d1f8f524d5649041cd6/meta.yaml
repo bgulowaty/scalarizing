@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9e4bf45ba9894d1f8f524d5649041cd6/artifacts
+end_time: 1669956592657
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e4bf45ba9894d1f8f524d5649041cd6
+run_name: luxuriant-fish-232
+run_uuid: 9e4bf45ba9894d1f8f524d5649041cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240038635
+status: 3
+tags: []
+user_id: unknown

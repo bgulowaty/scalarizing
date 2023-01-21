@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ad9171ba393547a58f3da4cef4a258e5/artifacts
+end_time: 1669952523643
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad9171ba393547a58f3da4cef4a258e5
+run_name: delicate-bear-935
+run_uuid: ad9171ba393547a58f3da4cef4a258e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240442516
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a32d6b4b27c74f889962354a69278e03/artifacts
+end_time: 1669949748905
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a32d6b4b27c74f889962354a69278e03
+run_name: treasured-mole-49
+run_uuid: a32d6b4b27c74f889962354a69278e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240885078
+status: 3
+tags: []
+user_id: unknown

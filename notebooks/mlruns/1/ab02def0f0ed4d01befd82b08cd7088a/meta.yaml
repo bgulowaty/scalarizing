@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab02def0f0ed4d01befd82b08cd7088a/artifacts
+end_time: 1669942620708
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab02def0f0ed4d01befd82b08cd7088a
+run_name: rare-moth-507
+run_uuid: ab02def0f0ed4d01befd82b08cd7088a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242720185
+status: 3
+tags: []
+user_id: unknown

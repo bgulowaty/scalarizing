@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/acd9aaf4d0c2455faddd1c0a91d5b38b/artifacts
+end_time: 1670180534946
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acd9aaf4d0c2455faddd1c0a91d5b38b
+run_name: worried-wren-425
+run_uuid: acd9aaf4d0c2455faddd1c0a91d5b38b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242519795
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/95a3323f8fce4815bf50c961f9dae419/artifacts
+end_time: 1669943553141
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95a3323f8fce4815bf50c961f9dae419
+run_name: exultant-toad-637
+run_uuid: 95a3323f8fce4815bf50c961f9dae419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242304335
+status: 3
+tags: []
+user_id: unknown

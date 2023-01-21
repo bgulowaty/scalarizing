@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f87ebd18cb9c4594b475a0e0de40a707/artifacts
+end_time: 1669951065089
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f87ebd18cb9c4594b475a0e0de40a707
+run_name: unequaled-moth-630
+run_uuid: f87ebd18cb9c4594b475a0e0de40a707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240636307
+status: 3
+tags: []
+user_id: unknown

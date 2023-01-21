@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c1751b20ecd64bb78f2e3566832fb323/artifacts
+end_time: 1669945392316
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c1751b20ecd64bb78f2e3566832fb323
+run_name: lyrical-lynx-612
+run_uuid: c1751b20ecd64bb78f2e3566832fb323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241838419
+status: 3
+tags: []
+user_id: unknown

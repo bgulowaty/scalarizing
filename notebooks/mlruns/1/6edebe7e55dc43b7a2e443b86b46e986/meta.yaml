@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6edebe7e55dc43b7a2e443b86b46e986/artifacts
+end_time: 1669946989115
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6edebe7e55dc43b7a2e443b86b46e986
+run_name: efficient-elk-924
+run_uuid: 6edebe7e55dc43b7a2e443b86b46e986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241466436
+status: 3
+tags: []
+user_id: unknown

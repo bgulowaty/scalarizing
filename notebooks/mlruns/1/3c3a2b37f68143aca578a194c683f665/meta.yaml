@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c3a2b37f68143aca578a194c683f665/artifacts
+end_time: 1669944066808
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c3a2b37f68143aca578a194c683f665
+run_name: zealous-vole-41
+run_uuid: 3c3a2b37f68143aca578a194c683f665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242167274
+status: 3
+tags: []
+user_id: unknown

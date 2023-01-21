@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f0519901fd44491db363d1959c3b933a/artifacts
+end_time: 1670104712335
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0519901fd44491db363d1959c3b933a
+run_name: spiffy-wren-663
+run_uuid: f0519901fd44491db363d1959c3b933a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239978692
+status: 3
+tags: []
+user_id: unknown

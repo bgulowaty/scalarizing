@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/931a8547afd04a30b4e552b3516df4ab/artifacts
+end_time: 1670162070682
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 931a8547afd04a30b4e552b3516df4ab
+run_name: colorful-smelt-904
+run_uuid: 931a8547afd04a30b4e552b3516df4ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150458224
+status: 3
+tags: []
+user_id: unknown

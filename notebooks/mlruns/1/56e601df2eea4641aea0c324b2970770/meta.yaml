@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/56e601df2eea4641aea0c324b2970770/artifacts
+end_time: 1669945184960
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56e601df2eea4641aea0c324b2970770
+run_name: hilarious-pug-18
+run_uuid: 56e601df2eea4641aea0c324b2970770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241860563
+status: 3
+tags: []
+user_id: unknown

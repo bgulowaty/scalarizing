@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6340e227493d4426bb39cb0b366db208/artifacts
+end_time: 1669955925234
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6340e227493d4426bb39cb0b366db208
+run_name: redolent-shrimp-945
+run_uuid: 6340e227493d4426bb39cb0b366db208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240100426
+status: 3
+tags: []
+user_id: unknown

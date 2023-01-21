@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0103cd3098864777ad102c899b17a966/artifacts
+end_time: 1669942240850
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0103cd3098864777ad102c899b17a966
+run_name: nosy-whale-865
+run_uuid: 0103cd3098864777ad102c899b17a966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242841309
+status: 3
+tags: []
+user_id: unknown

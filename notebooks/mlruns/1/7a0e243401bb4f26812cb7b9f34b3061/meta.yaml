@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7a0e243401bb4f26812cb7b9f34b3061/artifacts
+end_time: 1669945993165
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a0e243401bb4f26812cb7b9f34b3061
+run_name: efficient-bee-220
+run_uuid: 7a0e243401bb4f26812cb7b9f34b3061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241693235
+status: 3
+tags: []
+user_id: unknown

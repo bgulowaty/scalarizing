@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fed5c1599ca04b4699646e9eaf458947/artifacts
+end_time: 1669950037654
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fed5c1599ca04b4699646e9eaf458947
+run_name: bold-whale-499
+run_uuid: fed5c1599ca04b4699646e9eaf458947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240852588
+status: 3
+tags: []
+user_id: unknown

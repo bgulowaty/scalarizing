@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e3165d1a8caf469291ae819b21ab2ab9/artifacts
+end_time: 1670162613840
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e3165d1a8caf469291ae819b21ab2ab9
+run_name: wistful-dog-943
+run_uuid: e3165d1a8caf469291ae819b21ab2ab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150265801
+status: 3
+tags: []
+user_id: unknown

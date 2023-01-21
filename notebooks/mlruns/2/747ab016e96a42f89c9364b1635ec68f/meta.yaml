@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/747ab016e96a42f89c9364b1635ec68f/artifacts
+end_time: 1670162179860
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 747ab016e96a42f89c9364b1635ec68f
+run_name: worried-vole-24
+run_uuid: 747ab016e96a42f89c9364b1635ec68f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150411897
+status: 3
+tags: []
+user_id: unknown

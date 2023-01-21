@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cfdd0a4d5ec844e8b6c37ccf16de928d/artifacts
+end_time: 1669955355620
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfdd0a4d5ec844e8b6c37ccf16de928d
+run_name: rumbling-crab-895
+run_uuid: cfdd0a4d5ec844e8b6c37ccf16de928d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240135286
+status: 3
+tags: []
+user_id: unknown

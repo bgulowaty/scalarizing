@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7c9894a1416d434c854e8f5930a8654e/artifacts
+end_time: 1669953531649
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c9894a1416d434c854e8f5930a8654e
+run_name: lyrical-foal-168
+run_uuid: 7c9894a1416d434c854e8f5930a8654e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240315924
+status: 3
+tags: []
+user_id: unknown

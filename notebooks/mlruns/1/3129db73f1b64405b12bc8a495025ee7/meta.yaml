@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3129db73f1b64405b12bc8a495025ee7/artifacts
+end_time: 1669948197538
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3129db73f1b64405b12bc8a495025ee7
+run_name: stylish-hound-83
+run_uuid: 3129db73f1b64405b12bc8a495025ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241248678
+status: 3
+tags: []
+user_id: unknown

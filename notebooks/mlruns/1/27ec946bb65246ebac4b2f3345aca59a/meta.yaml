@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/27ec946bb65246ebac4b2f3345aca59a/artifacts
+end_time: 1669944740901
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27ec946bb65246ebac4b2f3345aca59a
+run_name: hilarious-shark-823
+run_uuid: 27ec946bb65246ebac4b2f3345aca59a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242012466
+status: 3
+tags: []
+user_id: unknown

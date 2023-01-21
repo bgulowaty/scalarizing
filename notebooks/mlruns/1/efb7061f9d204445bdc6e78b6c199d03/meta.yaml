@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/efb7061f9d204445bdc6e78b6c199d03/artifacts
+end_time: 1670104275786
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efb7061f9d204445bdc6e78b6c199d03
+run_name: clumsy-hound-591
+run_uuid: efb7061f9d204445bdc6e78b6c199d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240012085
+status: 3
+tags: []
+user_id: unknown

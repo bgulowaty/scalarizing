@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/864ffa590b9d419b9cd538874b9cfb3c/artifacts
+end_time: 1669950347562
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 864ffa590b9d419b9cd538874b9cfb3c
+run_name: orderly-ray-332
+run_uuid: 864ffa590b9d419b9cd538874b9cfb3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240803422
+status: 3
+tags: []
+user_id: unknown

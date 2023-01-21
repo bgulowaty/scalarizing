@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/065a6a6d81764f65bc73ff14d21da8be/artifacts
+end_time: 1670162614567
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 065a6a6d81764f65bc73ff14d21da8be
+run_name: selective-bass-942
+run_uuid: 065a6a6d81764f65bc73ff14d21da8be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150266027
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8e096163149f4ec9ac98201cbc57dbac/artifacts
+end_time: 1669943733555
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e096163149f4ec9ac98201cbc57dbac
+run_name: suave-mink-702
+run_uuid: 8e096163149f4ec9ac98201cbc57dbac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242261018
+status: 3
+tags: []
+user_id: unknown

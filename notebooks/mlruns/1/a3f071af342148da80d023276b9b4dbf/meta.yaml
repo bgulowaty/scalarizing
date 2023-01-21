@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a3f071af342148da80d023276b9b4dbf/artifacts
+end_time: 1669954089144
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3f071af342148da80d023276b9b4dbf
+run_name: respected-finch-10
+run_uuid: a3f071af342148da80d023276b9b4dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240279187
+status: 3
+tags: []
+user_id: unknown

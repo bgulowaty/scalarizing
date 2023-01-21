@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e0edf3c8c8c4780ab21e3822fe95014/artifacts
+end_time: 1669948255416
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e0edf3c8c8c4780ab21e3822fe95014
+run_name: redolent-mink-850
+run_uuid: 4e0edf3c8c8c4780ab21e3822fe95014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241205215
+status: 3
+tags: []
+user_id: unknown

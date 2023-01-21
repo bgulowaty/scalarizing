@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/427cd1e2f0fd4801bdb5a3723896414d/artifacts
+end_time: 1669944272851
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 427cd1e2f0fd4801bdb5a3723896414d
+run_name: tasteful-sloth-925
+run_uuid: 427cd1e2f0fd4801bdb5a3723896414d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242143974
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/72948c2d92d34134aa28af5111bd1018/artifacts
+end_time: 1669942734074
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72948c2d92d34134aa28af5111bd1018
+run_name: bemused-goose-715
+run_uuid: 72948c2d92d34134aa28af5111bd1018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242531062
+status: 3
+tags: []
+user_id: unknown

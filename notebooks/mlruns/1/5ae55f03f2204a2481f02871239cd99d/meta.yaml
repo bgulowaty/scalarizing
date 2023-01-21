@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5ae55f03f2204a2481f02871239cd99d/artifacts
+end_time: 1670106582005
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ae55f03f2204a2481f02871239cd99d
+run_name: rebellious-hog-299
+run_uuid: 5ae55f03f2204a2481f02871239cd99d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239889125
+status: 3
+tags: []
+user_id: unknown

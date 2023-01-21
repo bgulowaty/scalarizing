@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/163121179d4948e899994f4717be80f2/artifacts
+end_time: 1670105035075
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 163121179d4948e899994f4717be80f2
+run_name: inquisitive-mule-348
+run_uuid: 163121179d4948e899994f4717be80f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239963731
+status: 3
+tags: []
+user_id: unknown

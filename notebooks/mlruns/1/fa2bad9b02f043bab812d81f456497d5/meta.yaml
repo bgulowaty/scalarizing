@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fa2bad9b02f043bab812d81f456497d5/artifacts
+end_time: 1669947308110
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa2bad9b02f043bab812d81f456497d5
+run_name: beautiful-lynx-638
+run_uuid: fa2bad9b02f043bab812d81f456497d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241383621
+status: 3
+tags: []
+user_id: unknown

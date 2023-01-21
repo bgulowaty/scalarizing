@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d344f0b7474d45acbbb44040f7a30068/artifacts
+end_time: 1669942900253
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d344f0b7474d45acbbb44040f7a30068
+run_name: industrious-elk-135
+run_uuid: d344f0b7474d45acbbb44040f7a30068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242481180
+status: 3
+tags: []
+user_id: unknown

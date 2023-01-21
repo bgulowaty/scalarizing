@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3240735656bd4396b669eb9e4c85d613/artifacts
+end_time: 1669948506053
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3240735656bd4396b669eb9e4c85d613
+run_name: grandiose-crab-23
+run_uuid: 3240735656bd4396b669eb9e4c85d613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241150195
+status: 3
+tags: []
+user_id: unknown

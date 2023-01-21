@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f799d3a86e441ecbb5be8f707a0b074/artifacts
+end_time: 1669953788670
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f799d3a86e441ecbb5be8f707a0b074
+run_name: casual-swan-901
+run_uuid: 9f799d3a86e441ecbb5be8f707a0b074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240312066
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/025096ba7a2047f4b73df0bcf87b7698/artifacts
+end_time: 1670105356171
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 025096ba7a2047f4b73df0bcf87b7698
+run_name: unleashed-skink-584
+run_uuid: 025096ba7a2047f4b73df0bcf87b7698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239937198
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3a50bca3bfaa46f6b43dc569de6e5b3d/artifacts
+end_time: 1670102451947
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a50bca3bfaa46f6b43dc569de6e5b3d
+run_name: treasured-lamb-63
+run_uuid: 3a50bca3bfaa46f6b43dc569de6e5b3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242567923
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a26f4d143f234e05aed250e815df0f64/artifacts
+end_time: 1669942359976
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a26f4d143f234e05aed250e815df0f64
+run_name: colorful-carp-458
+run_uuid: a26f4d143f234e05aed250e815df0f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242817354
+status: 3
+tags: []
+user_id: unknown

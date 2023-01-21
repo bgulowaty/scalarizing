@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9d54272d8b7544bbb8038da336e98664/artifacts
+end_time: 1670104435927
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9d54272d8b7544bbb8038da336e98664
+run_name: agreeable-swan-666
+run_uuid: 9d54272d8b7544bbb8038da336e98664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239985594
+status: 3
+tags: []
+user_id: unknown

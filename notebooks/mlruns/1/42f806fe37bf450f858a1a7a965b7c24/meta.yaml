@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/42f806fe37bf450f858a1a7a965b7c24/artifacts
+end_time: 1669948229882
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42f806fe37bf450f858a1a7a965b7c24
+run_name: grandiose-shad-512
+run_uuid: 42f806fe37bf450f858a1a7a965b7c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241209011
+status: 3
+tags: []
+user_id: unknown

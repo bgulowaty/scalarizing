@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d9d2503f7f574bf0b64176e5dd1122f2/artifacts
+end_time: 1670162294843
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d9d2503f7f574bf0b64176e5dd1122f2
+run_name: wistful-whale-575
+run_uuid: d9d2503f7f574bf0b64176e5dd1122f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150348313
+status: 3
+tags: []
+user_id: unknown

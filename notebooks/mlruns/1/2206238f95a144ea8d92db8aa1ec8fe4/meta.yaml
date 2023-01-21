@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2206238f95a144ea8d92db8aa1ec8fe4/artifacts
+end_time: 1669946926650
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2206238f95a144ea8d92db8aa1ec8fe4
+run_name: auspicious-lynx-322
+run_uuid: 2206238f95a144ea8d92db8aa1ec8fe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241498607
+status: 3
+tags: []
+user_id: unknown

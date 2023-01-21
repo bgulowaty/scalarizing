@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6cc2078ca20e4863bbaa8ad8ba922150/artifacts
+end_time: 1670162833007
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6cc2078ca20e4863bbaa8ad8ba922150
+run_name: skillful-crab-381
+run_uuid: 6cc2078ca20e4863bbaa8ad8ba922150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150189722
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0de9a6d296a742cd84e558eb4e13987b/artifacts
+end_time: 1670105679641
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0de9a6d296a742cd84e558eb4e13987b
+run_name: abundant-sow-732
+run_uuid: 0de9a6d296a742cd84e558eb4e13987b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239918217
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4c0c5e21f629489b94ef8e37933aaf65/artifacts
+end_time: 1669954415056
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c0c5e21f629489b94ef8e37933aaf65
+run_name: puzzled-squirrel-642
+run_uuid: 4c0c5e21f629489b94ef8e37933aaf65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240238416
+status: 3
+tags: []
+user_id: unknown

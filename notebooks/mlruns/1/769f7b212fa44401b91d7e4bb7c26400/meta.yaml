@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/769f7b212fa44401b91d7e4bb7c26400/artifacts
+end_time: 1670105340664
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 769f7b212fa44401b91d7e4bb7c26400
+run_name: suave-duck-591
+run_uuid: 769f7b212fa44401b91d7e4bb7c26400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239939874
+status: 3
+tags: []
+user_id: unknown

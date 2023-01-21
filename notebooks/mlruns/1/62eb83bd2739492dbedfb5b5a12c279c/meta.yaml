@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/62eb83bd2739492dbedfb5b5a12c279c/artifacts
+end_time: 1669946705920
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62eb83bd2739492dbedfb5b5a12c279c
+run_name: clumsy-croc-959
+run_uuid: 62eb83bd2739492dbedfb5b5a12c279c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241519443
+status: 3
+tags: []
+user_id: unknown

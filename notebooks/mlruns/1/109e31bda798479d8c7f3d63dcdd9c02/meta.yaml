@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/109e31bda798479d8c7f3d63dcdd9c02/artifacts
+end_time: 1670106580074
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 109e31bda798479d8c7f3d63dcdd9c02
+run_name: stately-swan-211
+run_uuid: 109e31bda798479d8c7f3d63dcdd9c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239893781
+status: 3
+tags: []
+user_id: unknown

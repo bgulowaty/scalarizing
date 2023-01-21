@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ddd01705936d41369e05f32c4b6d0ff7/artifacts
+end_time: 1670105026812
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ddd01705936d41369e05f32c4b6d0ff7
+run_name: smiling-cow-679
+run_uuid: ddd01705936d41369e05f32c4b6d0ff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239961605
+status: 3
+tags: []
+user_id: unknown

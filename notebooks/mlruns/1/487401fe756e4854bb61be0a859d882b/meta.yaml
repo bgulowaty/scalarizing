@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/487401fe756e4854bb61be0a859d882b/artifacts
+end_time: 1670106262203
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 487401fe756e4854bb61be0a859d882b
+run_name: intrigued-kite-88
+run_uuid: 487401fe756e4854bb61be0a859d882b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904843
+status: 3
+tags: []
+user_id: unknown

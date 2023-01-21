@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4d72e61b9e6c4691ab778df85d5e31c0/artifacts
+end_time: 1670181422548
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d72e61b9e6c4691ab778df85d5e31c0
+run_name: flawless-duck-873
+run_uuid: 4d72e61b9e6c4691ab778df85d5e31c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240419977
+status: 3
+tags: []
+user_id: unknown

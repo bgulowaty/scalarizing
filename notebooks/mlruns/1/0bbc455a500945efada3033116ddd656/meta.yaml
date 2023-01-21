@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0bbc455a500945efada3033116ddd656/artifacts
+end_time: 1669950400524
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0bbc455a500945efada3033116ddd656
+run_name: blushing-colt-152
+run_uuid: 0bbc455a500945efada3033116ddd656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240775826
+status: 3
+tags: []
+user_id: unknown

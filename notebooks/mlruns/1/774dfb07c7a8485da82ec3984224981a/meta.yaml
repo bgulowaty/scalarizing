@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/774dfb07c7a8485da82ec3984224981a/artifacts
+end_time: 1669949402287
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 774dfb07c7a8485da82ec3984224981a
+run_name: stately-skunk-1
+run_uuid: 774dfb07c7a8485da82ec3984224981a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241007310
+status: 3
+tags: []
+user_id: unknown

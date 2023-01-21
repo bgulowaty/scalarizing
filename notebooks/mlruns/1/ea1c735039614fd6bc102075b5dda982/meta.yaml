@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ea1c735039614fd6bc102075b5dda982/artifacts
+end_time: 1670103612476
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea1c735039614fd6bc102075b5dda982
+run_name: gentle-wolf-86
+run_uuid: ea1c735039614fd6bc102075b5dda982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240345201
+status: 3
+tags: []
+user_id: unknown

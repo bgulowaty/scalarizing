@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/846752764de34761a47d0d6c0d4382cd/artifacts
+end_time: 1669951661468
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 846752764de34761a47d0d6c0d4382cd
+run_name: chill-fly-983
+run_uuid: 846752764de34761a47d0d6c0d4382cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240545074
+status: 3
+tags: []
+user_id: unknown

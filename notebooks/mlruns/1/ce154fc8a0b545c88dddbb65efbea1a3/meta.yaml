@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce154fc8a0b545c88dddbb65efbea1a3/artifacts
+end_time: 1669950041854
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce154fc8a0b545c88dddbb65efbea1a3
+run_name: useful-rook-969
+run_uuid: ce154fc8a0b545c88dddbb65efbea1a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240849348
+status: 3
+tags: []
+user_id: unknown

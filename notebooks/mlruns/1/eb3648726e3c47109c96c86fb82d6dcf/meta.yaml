@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb3648726e3c47109c96c86fb82d6dcf/artifacts
+end_time: 1669952834661
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb3648726e3c47109c96c86fb82d6dcf
+run_name: bemused-wren-214
+run_uuid: eb3648726e3c47109c96c86fb82d6dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240408974
+status: 3
+tags: []
+user_id: unknown

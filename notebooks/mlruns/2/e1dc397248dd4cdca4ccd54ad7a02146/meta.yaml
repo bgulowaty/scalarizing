@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e1dc397248dd4cdca4ccd54ad7a02146/artifacts
+end_time: 1670162187555
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e1dc397248dd4cdca4ccd54ad7a02146
+run_name: blushing-shrike-721
+run_uuid: e1dc397248dd4cdca4ccd54ad7a02146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150413324
+status: 3
+tags: []
+user_id: unknown

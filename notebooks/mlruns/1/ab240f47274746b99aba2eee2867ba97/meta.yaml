@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab240f47274746b99aba2eee2867ba97/artifacts
+end_time: 1670102016626
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab240f47274746b99aba2eee2867ba97
+run_name: skittish-croc-543
+run_uuid: ab240f47274746b99aba2eee2867ba97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242693538
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a662505235cd42f587b7237288635d45/artifacts
+end_time: 1670104724177
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a662505235cd42f587b7237288635d45
+run_name: luminous-hawk-796
+run_uuid: a662505235cd42f587b7237288635d45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239978535
+status: 3
+tags: []
+user_id: unknown

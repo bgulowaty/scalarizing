@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1d932a5233e74bad936916bf53d31dca/artifacts
+end_time: 1670103398159
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d932a5233e74bad936916bf53d31dca
+run_name: indecisive-stag-238
+run_uuid: 1d932a5233e74bad936916bf53d31dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241209471
+status: 3
+tags: []
+user_id: unknown

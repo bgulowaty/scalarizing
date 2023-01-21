@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87f765f00228419ca763ed7b41d0bfc9/artifacts
+end_time: 1670105983532
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87f765f00228419ca763ed7b41d0bfc9
+run_name: magnificent-dog-738
+run_uuid: 87f765f00228419ca763ed7b41d0bfc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239909388
+status: 3
+tags: []
+user_id: unknown

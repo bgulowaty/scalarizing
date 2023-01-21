@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/466d72de11ab4f62ab1af5dfc8e30121/artifacts
+end_time: 1670180881654
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 466d72de11ab4f62ab1af5dfc8e30121
+run_name: fortunate-newt-720
+run_uuid: 466d72de11ab4f62ab1af5dfc8e30121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241358119
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/59ee632598374f1492edd16642ef6549/artifacts
+end_time: 1670162728976
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 59ee632598374f1492edd16642ef6549
+run_name: tasteful-ray-367
+run_uuid: 59ee632598374f1492edd16642ef6549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150209191
+status: 3
+tags: []
+user_id: unknown

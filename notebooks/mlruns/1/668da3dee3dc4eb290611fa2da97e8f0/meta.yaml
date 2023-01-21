@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/668da3dee3dc4eb290611fa2da97e8f0/artifacts
+end_time: 1669952335003
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 668da3dee3dc4eb290611fa2da97e8f0
+run_name: worried-colt-445
+run_uuid: 668da3dee3dc4eb290611fa2da97e8f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240463389
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/61957ac967e64c7895e7e3ab05086c1b/artifacts
+end_time: 1670102305482
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61957ac967e64c7895e7e3ab05086c1b
+run_name: charming-lamb-895
+run_uuid: 61957ac967e64c7895e7e3ab05086c1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242636906
+status: 3
+tags: []
+user_id: unknown

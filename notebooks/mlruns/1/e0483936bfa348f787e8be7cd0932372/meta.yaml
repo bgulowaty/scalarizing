@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e0483936bfa348f787e8be7cd0932372/artifacts
+end_time: 1669944941577
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0483936bfa348f787e8be7cd0932372
+run_name: able-swan-853
+run_uuid: e0483936bfa348f787e8be7cd0932372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241930664
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ee33dc9afb7746b88d1b6be558a880e6/artifacts
+end_time: 1669945208536
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee33dc9afb7746b88d1b6be558a880e6
+run_name: skittish-cow-599
+run_uuid: ee33dc9afb7746b88d1b6be558a880e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241851440
+status: 3
+tags: []
+user_id: unknown

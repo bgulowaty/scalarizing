@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/320a1f87752e4a53a3f14a802026a90b/artifacts
+end_time: 1669954455629
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 320a1f87752e4a53a3f14a802026a90b
+run_name: zealous-mare-131
+run_uuid: 320a1f87752e4a53a3f14a802026a90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240222568
+status: 3
+tags: []
+user_id: unknown

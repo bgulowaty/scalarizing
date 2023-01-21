@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/df3b37d58cab47a0ba2173424c3abf77/artifacts
+end_time: 1669955664559
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df3b37d58cab47a0ba2173424c3abf77
+run_name: upset-zebra-608
+run_uuid: df3b37d58cab47a0ba2173424c3abf77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240116033
+status: 3
+tags: []
+user_id: unknown

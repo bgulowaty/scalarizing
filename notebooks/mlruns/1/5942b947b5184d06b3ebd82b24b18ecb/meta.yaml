@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5942b947b5184d06b3ebd82b24b18ecb/artifacts
+end_time: 1669951049150
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5942b947b5184d06b3ebd82b24b18ecb
+run_name: rare-tern-418
+run_uuid: 5942b947b5184d06b3ebd82b24b18ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240638105
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5da73bab991344e781c756fa145b7d35/artifacts
+end_time: 1670162284126
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5da73bab991344e781c756fa145b7d35
+run_name: whimsical-hound-311
+run_uuid: 5da73bab991344e781c756fa145b7d35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150383867
+status: 3
+tags: []
+user_id: unknown

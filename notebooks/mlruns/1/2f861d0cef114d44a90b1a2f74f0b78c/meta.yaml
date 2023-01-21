@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2f861d0cef114d44a90b1a2f74f0b78c/artifacts
+end_time: 1669945416414
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f861d0cef114d44a90b1a2f74f0b78c
+run_name: able-snipe-847
+run_uuid: 2f861d0cef114d44a90b1a2f74f0b78c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241809053
+status: 3
+tags: []
+user_id: unknown

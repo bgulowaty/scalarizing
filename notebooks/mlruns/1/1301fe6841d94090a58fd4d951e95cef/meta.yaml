@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1301fe6841d94090a58fd4d951e95cef/artifacts
+end_time: 1670181118261
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1301fe6841d94090a58fd4d951e95cef
+run_name: luxuriant-cow-729
+run_uuid: 1301fe6841d94090a58fd4d951e95cef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240912717
+status: 3
+tags: []
+user_id: unknown

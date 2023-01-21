@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a4b54466815c4c71b38beacc032ebe74/artifacts
+end_time: 1669946310854
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4b54466815c4c71b38beacc032ebe74
+run_name: nebulous-stork-787
+run_uuid: a4b54466815c4c71b38beacc032ebe74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241615505
+status: 3
+tags: []
+user_id: unknown

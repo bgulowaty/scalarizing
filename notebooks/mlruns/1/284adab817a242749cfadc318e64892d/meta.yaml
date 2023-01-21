@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/284adab817a242749cfadc318e64892d/artifacts
+end_time: 1669948208073
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 284adab817a242749cfadc318e64892d
+run_name: aged-smelt-60
+run_uuid: 284adab817a242749cfadc318e64892d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241238665
+status: 3
+tags: []
+user_id: unknown

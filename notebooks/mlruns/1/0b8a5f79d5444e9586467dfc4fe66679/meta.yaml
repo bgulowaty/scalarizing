@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0b8a5f79d5444e9586467dfc4fe66679/artifacts
+end_time: 1669943055593
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b8a5f79d5444e9586467dfc4fe66679
+run_name: bald-mink-878
+run_uuid: 0b8a5f79d5444e9586467dfc4fe66679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242436022
+status: 3
+tags: []
+user_id: unknown

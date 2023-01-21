@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/94fc42f581ca4e738a72c0d3fc23c76e/artifacts
+end_time: 1669953475103
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94fc42f581ca4e738a72c0d3fc23c76e
+run_name: masked-lamb-246
+run_uuid: 94fc42f581ca4e738a72c0d3fc23c76e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240330664
+status: 3
+tags: []
+user_id: unknown

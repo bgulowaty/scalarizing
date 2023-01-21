@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/64584ad89d354b6e85a3f30eeefb6418/artifacts
+end_time: 1670162719746
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 64584ad89d354b6e85a3f30eeefb6418
+run_name: calm-wasp-831
+run_uuid: 64584ad89d354b6e85a3f30eeefb6418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150239613
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b856a4073ef2463db4521059795bc288/artifacts
+end_time: 1669953497507
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b856a4073ef2463db4521059795bc288
+run_name: angry-colt-597
+run_uuid: b856a4073ef2463db4521059795bc288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240326325
+status: 3
+tags: []
+user_id: unknown

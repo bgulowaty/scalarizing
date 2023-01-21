@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/042fffe401cb4c1b9c80d0bd80b95589/artifacts
+end_time: 1669947016608
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 042fffe401cb4c1b9c80d0bd80b95589
+run_name: caring-lark-53
+run_uuid: 042fffe401cb4c1b9c80d0bd80b95589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241442229
+status: 3
+tags: []
+user_id: unknown

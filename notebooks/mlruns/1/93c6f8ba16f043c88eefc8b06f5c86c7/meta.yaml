@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/93c6f8ba16f043c88eefc8b06f5c86c7/artifacts
+end_time: 1669952875630
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93c6f8ba16f043c88eefc8b06f5c86c7
+run_name: overjoyed-asp-978
+run_uuid: 93c6f8ba16f043c88eefc8b06f5c86c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240403721
+status: 3
+tags: []
+user_id: unknown

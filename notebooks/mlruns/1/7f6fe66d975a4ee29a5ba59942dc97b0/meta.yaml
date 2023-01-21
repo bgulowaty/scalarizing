@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7f6fe66d975a4ee29a5ba59942dc97b0/artifacts
+end_time: 1670104741129
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7f6fe66d975a4ee29a5ba59942dc97b0
+run_name: able-doe-805
+run_uuid: 7f6fe66d975a4ee29a5ba59942dc97b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239976901
+status: 3
+tags: []
+user_id: unknown

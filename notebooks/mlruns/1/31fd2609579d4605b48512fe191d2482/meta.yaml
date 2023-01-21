@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/31fd2609579d4605b48512fe191d2482/artifacts
+end_time: 1669949210806
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 31fd2609579d4605b48512fe191d2482
+run_name: monumental-newt-440
+run_uuid: 31fd2609579d4605b48512fe191d2482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241028458
+status: 3
+tags: []
+user_id: unknown

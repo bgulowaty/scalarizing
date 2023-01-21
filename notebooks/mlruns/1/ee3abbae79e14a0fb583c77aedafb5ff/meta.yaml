@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ee3abbae79e14a0fb583c77aedafb5ff/artifacts
+end_time: 1669949429357
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee3abbae79e14a0fb583c77aedafb5ff
+run_name: lyrical-goose-249
+run_uuid: ee3abbae79e14a0fb583c77aedafb5ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240988795
+status: 3
+tags: []
+user_id: unknown

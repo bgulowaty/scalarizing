@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/77f0e336650a49639a6e358fc7b17fab/artifacts
+end_time: 1669949157320
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77f0e336650a49639a6e358fc7b17fab
+run_name: caring-ray-886
+run_uuid: 77f0e336650a49639a6e358fc7b17fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241063086
+status: 3
+tags: []
+user_id: unknown

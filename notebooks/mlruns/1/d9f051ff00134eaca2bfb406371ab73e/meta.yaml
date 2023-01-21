@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d9f051ff00134eaca2bfb406371ab73e/artifacts
+end_time: 1669945681336
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9f051ff00134eaca2bfb406371ab73e
+run_name: beautiful-shrew-361
+run_uuid: d9f051ff00134eaca2bfb406371ab73e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241763866
+status: 3
+tags: []
+user_id: unknown

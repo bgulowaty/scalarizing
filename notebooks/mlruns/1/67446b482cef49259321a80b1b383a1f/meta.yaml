@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/67446b482cef49259321a80b1b383a1f/artifacts
+end_time: 1669944210008
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 67446b482cef49259321a80b1b383a1f
+run_name: sincere-moose-203
+run_uuid: 67446b482cef49259321a80b1b383a1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242123960
+status: 3
+tags: []
+user_id: unknown

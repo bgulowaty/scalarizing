@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2d4ae2201d0844eea30efe99418b64bc/artifacts
+end_time: 1670181119661
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d4ae2201d0844eea30efe99418b64bc
+run_name: handsome-eel-802
+run_uuid: 2d4ae2201d0844eea30efe99418b64bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241130077
+status: 3
+tags: []
+user_id: unknown

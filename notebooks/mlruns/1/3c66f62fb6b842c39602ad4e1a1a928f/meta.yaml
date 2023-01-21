@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c66f62fb6b842c39602ad4e1a1a928f/artifacts
+end_time: 1670102677486
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c66f62fb6b842c39602ad4e1a1a928f
+run_name: adventurous-stag-757
+run_uuid: 3c66f62fb6b842c39602ad4e1a1a928f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242192384
+status: 3
+tags: []
+user_id: unknown

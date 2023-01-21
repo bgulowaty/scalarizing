@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cbb2d22fd0fd4e69937fe34e138438a9/artifacts
+end_time: 1669946050163
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbb2d22fd0fd4e69937fe34e138438a9
+run_name: fearless-bug-717
+run_uuid: cbb2d22fd0fd4e69937fe34e138438a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241657024
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc579a110d14495e80fccc35935fee04/artifacts
+end_time: 1669945992685
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc579a110d14495e80fccc35935fee04
+run_name: fearless-fish-193
+run_uuid: fc579a110d14495e80fccc35935fee04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241710269
+status: 3
+tags: []
+user_id: unknown

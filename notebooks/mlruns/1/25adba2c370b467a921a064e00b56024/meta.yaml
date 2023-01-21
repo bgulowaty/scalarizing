@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/25adba2c370b467a921a064e00b56024/artifacts
+end_time: 1670105960552
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25adba2c370b467a921a064e00b56024
+run_name: orderly-sloth-728
+run_uuid: 25adba2c370b467a921a064e00b56024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239915222
+status: 3
+tags: []
+user_id: unknown

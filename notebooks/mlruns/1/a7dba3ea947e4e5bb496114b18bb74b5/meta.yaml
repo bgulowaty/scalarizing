@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a7dba3ea947e4e5bb496114b18bb74b5/artifacts
+end_time: 1670102313664
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7dba3ea947e4e5bb496114b18bb74b5
+run_name: adorable-mole-581
+run_uuid: a7dba3ea947e4e5bb496114b18bb74b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242626915
+status: 3
+tags: []
+user_id: unknown

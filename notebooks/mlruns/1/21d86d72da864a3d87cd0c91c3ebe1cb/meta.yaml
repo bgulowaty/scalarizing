@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/21d86d72da864a3d87cd0c91c3ebe1cb/artifacts
+end_time: 1669944757451
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21d86d72da864a3d87cd0c91c3ebe1cb
+run_name: melodic-croc-982
+run_uuid: 21d86d72da864a3d87cd0c91c3ebe1cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241989244
+status: 3
+tags: []
+user_id: unknown

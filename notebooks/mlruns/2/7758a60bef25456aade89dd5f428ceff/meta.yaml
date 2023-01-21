@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7758a60bef25456aade89dd5f428ceff/artifacts
+end_time: 1670162748580
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7758a60bef25456aade89dd5f428ceff
+run_name: kindly-skink-278
+run_uuid: 7758a60bef25456aade89dd5f428ceff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150207325
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f18d6444332947a59a36ccd9b938b521/artifacts
+end_time: 1669942494384
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f18d6444332947a59a36ccd9b938b521
+run_name: sneaky-stork-152
+run_uuid: f18d6444332947a59a36ccd9b938b521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242757452
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d1972da1c6934958af9ea074d40f2b33/artifacts
+end_time: 1669942343658
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1972da1c6934958af9ea074d40f2b33
+run_name: popular-smelt-537
+run_uuid: d1972da1c6934958af9ea074d40f2b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242818299
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/40137f21c4d344e29daa64c96b722ec4/artifacts
+end_time: 1669952905081
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40137f21c4d344e29daa64c96b722ec4
+run_name: handsome-foal-10
+run_uuid: 40137f21c4d344e29daa64c96b722ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240403597
+status: 3
+tags: []
+user_id: unknown

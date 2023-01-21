@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/74065a9ecaf146c5a622728a82a2c549/artifacts
+end_time: 1670106599993
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74065a9ecaf146c5a622728a82a2c549
+run_name: serious-shrew-781
+run_uuid: 74065a9ecaf146c5a622728a82a2c549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239887370
+status: 3
+tags: []
+user_id: unknown

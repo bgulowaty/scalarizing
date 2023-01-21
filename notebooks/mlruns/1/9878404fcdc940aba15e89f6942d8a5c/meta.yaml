@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9878404fcdc940aba15e89f6942d8a5c/artifacts
+end_time: 1669942240553
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9878404fcdc940aba15e89f6942d8a5c
+run_name: delicate-donkey-830
+run_uuid: 9878404fcdc940aba15e89f6942d8a5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242872053
+status: 3
+tags: []
+user_id: unknown

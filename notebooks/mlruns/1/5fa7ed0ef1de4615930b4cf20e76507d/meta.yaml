@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5fa7ed0ef1de4615930b4cf20e76507d/artifacts
+end_time: 1669942927938
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5fa7ed0ef1de4615930b4cf20e76507d
+run_name: amazing-shark-76
+run_uuid: 5fa7ed0ef1de4615930b4cf20e76507d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242491661
+status: 3
+tags: []
+user_id: unknown

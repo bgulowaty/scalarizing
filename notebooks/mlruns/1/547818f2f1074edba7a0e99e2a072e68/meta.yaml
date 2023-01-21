@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/547818f2f1074edba7a0e99e2a072e68/artifacts
+end_time: 1669953535071
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 547818f2f1074edba7a0e99e2a072e68
+run_name: mysterious-fawn-984
+run_uuid: 547818f2f1074edba7a0e99e2a072e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240316627
+status: 3
+tags: []
+user_id: unknown

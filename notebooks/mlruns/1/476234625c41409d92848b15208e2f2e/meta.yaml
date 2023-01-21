@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/476234625c41409d92848b15208e2f2e/artifacts
+end_time: 1670105994672
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 476234625c41409d92848b15208e2f2e
+run_name: thundering-doe-83
+run_uuid: 476234625c41409d92848b15208e2f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239905583
+status: 3
+tags: []
+user_id: unknown

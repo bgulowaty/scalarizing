@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/95c5864568e246e081c17b42d1f1a4b8/artifacts
+end_time: 1669944962006
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95c5864568e246e081c17b42d1f1a4b8
+run_name: amazing-bear-248
+run_uuid: 95c5864568e246e081c17b42d1f1a4b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241954009
+status: 3
+tags: []
+user_id: unknown

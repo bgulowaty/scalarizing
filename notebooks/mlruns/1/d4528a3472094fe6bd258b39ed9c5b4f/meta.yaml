@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d4528a3472094fe6bd258b39ed9c5b4f/artifacts
+end_time: 1669949789492
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4528a3472094fe6bd258b39ed9c5b4f
+run_name: blushing-sloth-598
+run_uuid: d4528a3472094fe6bd258b39ed9c5b4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240872222
+status: 3
+tags: []
+user_id: unknown

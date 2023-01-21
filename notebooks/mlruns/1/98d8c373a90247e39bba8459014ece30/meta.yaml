@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/98d8c373a90247e39bba8459014ece30/artifacts
+end_time: 1669951048465
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98d8c373a90247e39bba8459014ece30
+run_name: indecisive-moth-927
+run_uuid: 98d8c373a90247e39bba8459014ece30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240652925
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0fde24d1d3d048afb74b86d4abae5b54/artifacts
+end_time: 1669943710738
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0fde24d1d3d048afb74b86d4abae5b54
+run_name: merciful-moose-183
+run_uuid: 0fde24d1d3d048afb74b86d4abae5b54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242260202
+status: 3
+tags: []
+user_id: unknown

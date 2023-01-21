@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a746d1e41914db7a063cceb452aa06b/artifacts
+end_time: 1669944837652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a746d1e41914db7a063cceb452aa06b
+run_name: unleashed-roo-69
+run_uuid: 4a746d1e41914db7a063cceb452aa06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241977763
+status: 3
+tags: []
+user_id: unknown

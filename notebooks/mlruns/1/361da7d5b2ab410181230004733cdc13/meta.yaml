@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/361da7d5b2ab410181230004733cdc13/artifacts
+end_time: 1669944883619
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 361da7d5b2ab410181230004733cdc13
+run_name: defiant-sponge-481
+run_uuid: 361da7d5b2ab410181230004733cdc13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241957717
+status: 3
+tags: []
+user_id: unknown

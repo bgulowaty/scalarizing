@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a53c19b99a7042d5a50d08f33514acbd/artifacts
+end_time: 1670106297421
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a53c19b99a7042d5a50d08f33514acbd
+run_name: youthful-bat-322
+run_uuid: a53c19b99a7042d5a50d08f33514acbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239895666
+status: 3
+tags: []
+user_id: unknown

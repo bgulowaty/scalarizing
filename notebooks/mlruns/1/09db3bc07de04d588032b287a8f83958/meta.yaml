@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09db3bc07de04d588032b287a8f83958/artifacts
+end_time: 1670105363114
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09db3bc07de04d588032b287a8f83958
+run_name: spiffy-snake-57
+run_uuid: 09db3bc07de04d588032b287a8f83958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239936645
+status: 3
+tags: []
+user_id: unknown

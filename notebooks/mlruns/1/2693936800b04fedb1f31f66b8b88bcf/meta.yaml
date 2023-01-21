@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2693936800b04fedb1f31f66b8b88bcf/artifacts
+end_time: 1669943882174
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2693936800b04fedb1f31f66b8b88bcf
+run_name: redolent-fox-406
+run_uuid: 2693936800b04fedb1f31f66b8b88bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242238805
+status: 3
+tags: []
+user_id: unknown

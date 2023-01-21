@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dd27754ab480422d9c323c6e10771c20/artifacts
+end_time: 1669947237049
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd27754ab480422d9c323c6e10771c20
+run_name: upset-cub-928
+run_uuid: dd27754ab480422d9c323c6e10771c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241429172
+status: 3
+tags: []
+user_id: unknown

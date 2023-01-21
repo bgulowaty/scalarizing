@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/634b838228884f7da00a8dce64fcdd90/artifacts
+end_time: 1669952576184
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 634b838228884f7da00a8dce64fcdd90
+run_name: wise-kite-900
+run_uuid: 634b838228884f7da00a8dce64fcdd90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240430159
+status: 3
+tags: []
+user_id: unknown

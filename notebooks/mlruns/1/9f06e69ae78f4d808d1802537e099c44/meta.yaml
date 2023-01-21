@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f06e69ae78f4d808d1802537e099c44/artifacts
+end_time: 1669946857365
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f06e69ae78f4d808d1802537e099c44
+run_name: capricious-bird-656
+run_uuid: 9f06e69ae78f4d808d1802537e099c44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241546544
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f78c74596f4541d6a2a9adb40044ca8c/artifacts
+end_time: 1669954091091
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f78c74596f4541d6a2a9adb40044ca8c
+run_name: persistent-wolf-706
+run_uuid: f78c74596f4541d6a2a9adb40044ca8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240263640
+status: 3
+tags: []
+user_id: unknown

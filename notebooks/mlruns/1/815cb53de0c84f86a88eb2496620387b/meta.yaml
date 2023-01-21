@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/815cb53de0c84f86a88eb2496620387b/artifacts
+end_time: 1669942399902
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 815cb53de0c84f86a88eb2496620387b
+run_name: persistent-goose-14
+run_uuid: 815cb53de0c84f86a88eb2496620387b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242814534
+status: 3
+tags: []
+user_id: unknown

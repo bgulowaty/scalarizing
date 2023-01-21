@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a76cdc603c4145469d412eb5f7edc57d/artifacts
+end_time: 1670162082505
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a76cdc603c4145469d412eb5f7edc57d
+run_name: debonair-colt-456
+run_uuid: a76cdc603c4145469d412eb5f7edc57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150432140
+status: 3
+tags: []
+user_id: unknown

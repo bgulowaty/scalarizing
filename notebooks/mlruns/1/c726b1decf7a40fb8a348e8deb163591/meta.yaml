@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c726b1decf7a40fb8a348e8deb163591/artifacts
+end_time: 1669945439116
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c726b1decf7a40fb8a348e8deb163591
+run_name: invincible-elk-891
+run_uuid: c726b1decf7a40fb8a348e8deb163591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241820179
+status: 3
+tags: []
+user_id: unknown

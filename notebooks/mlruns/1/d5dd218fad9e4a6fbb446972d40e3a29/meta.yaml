@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d5dd218fad9e4a6fbb446972d40e3a29/artifacts
+end_time: 1669947779695
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5dd218fad9e4a6fbb446972d40e3a29
+run_name: mysterious-skunk-745
+run_uuid: d5dd218fad9e4a6fbb446972d40e3a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241338913
+status: 3
+tags: []
+user_id: unknown

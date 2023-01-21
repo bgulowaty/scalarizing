@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/92c9add39a834096a811af436c00fb21/artifacts
+end_time: 1670106579865
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92c9add39a834096a811af436c00fb21
+run_name: shivering-frog-203
+run_uuid: 92c9add39a834096a811af436c00fb21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239890891
+status: 3
+tags: []
+user_id: unknown

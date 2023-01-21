@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/86ef7e187f16481e88088f827b6c7468/artifacts
+end_time: 1669954458276
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86ef7e187f16481e88088f827b6c7468
+run_name: treasured-hog-4
+run_uuid: 86ef7e187f16481e88088f827b6c7468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240228548
+status: 3
+tags: []
+user_id: unknown

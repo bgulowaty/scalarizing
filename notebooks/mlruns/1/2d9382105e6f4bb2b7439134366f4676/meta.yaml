@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2d9382105e6f4bb2b7439134366f4676/artifacts
+end_time: 1669951628120
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d9382105e6f4bb2b7439134366f4676
+run_name: shivering-jay-874
+run_uuid: 2d9382105e6f4bb2b7439134366f4676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240580138
+status: 3
+tags: []
+user_id: unknown

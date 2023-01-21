@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c543a6f6c60f457195305ca1bcdab559/artifacts
+end_time: 1669945995999
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c543a6f6c60f457195305ca1bcdab559
+run_name: suave-rat-89
+run_uuid: c543a6f6c60f457195305ca1bcdab559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241675281
+status: 3
+tags: []
+user_id: unknown

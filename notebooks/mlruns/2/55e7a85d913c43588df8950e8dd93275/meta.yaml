@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/55e7a85d913c43588df8950e8dd93275/artifacts
+end_time: 1670162614143
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 55e7a85d913c43588df8950e8dd93275
+run_name: chill-dolphin-679
+run_uuid: 55e7a85d913c43588df8950e8dd93275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150260507
+status: 3
+tags: []
+user_id: unknown

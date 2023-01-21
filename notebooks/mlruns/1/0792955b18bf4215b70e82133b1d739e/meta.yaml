@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0792955b18bf4215b70e82133b1d739e/artifacts
+end_time: 1669954402063
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0792955b18bf4215b70e82133b1d739e
+run_name: amazing-grouse-117
+run_uuid: 0792955b18bf4215b70e82133b1d739e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240236102
+status: 3
+tags: []
+user_id: unknown

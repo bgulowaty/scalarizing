@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cef583733f2e452aa73416b181afbe65/artifacts
+end_time: 1670102434906
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cef583733f2e452aa73416b181afbe65
+run_name: skillful-carp-456
+run_uuid: cef583733f2e452aa73416b181afbe65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242569869
+status: 3
+tags: []
+user_id: unknown

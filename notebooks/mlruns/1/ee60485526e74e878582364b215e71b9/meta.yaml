@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ee60485526e74e878582364b215e71b9/artifacts
+end_time: 1669952933801
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee60485526e74e878582364b215e71b9
+run_name: whimsical-gnat-812
+run_uuid: ee60485526e74e878582364b215e71b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240404188
+status: 3
+tags: []
+user_id: unknown

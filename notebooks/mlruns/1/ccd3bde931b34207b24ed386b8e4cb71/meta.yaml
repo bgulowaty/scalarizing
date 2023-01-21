@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ccd3bde931b34207b24ed386b8e4cb71/artifacts
+end_time: 1669956282634
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ccd3bde931b34207b24ed386b8e4cb71
+run_name: brawny-smelt-729
+run_uuid: ccd3bde931b34207b24ed386b8e4cb71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240069725
+status: 3
+tags: []
+user_id: unknown

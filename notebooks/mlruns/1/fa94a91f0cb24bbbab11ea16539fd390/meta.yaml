@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fa94a91f0cb24bbbab11ea16539fd390/artifacts
+end_time: 1670103805559
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa94a91f0cb24bbbab11ea16539fd390
+run_name: defiant-goat-975
+run_uuid: fa94a91f0cb24bbbab11ea16539fd390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240033221
+status: 3
+tags: []
+user_id: unknown

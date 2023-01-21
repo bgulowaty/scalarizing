@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/cb9e63cc1d7c4808a81d531ae172365d/artifacts
+end_time: 1670162402563
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cb9e63cc1d7c4808a81d531ae172365d
+run_name: caring-lamb-420
+run_uuid: cb9e63cc1d7c4808a81d531ae172365d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150313614
+status: 3
+tags: []
+user_id: unknown

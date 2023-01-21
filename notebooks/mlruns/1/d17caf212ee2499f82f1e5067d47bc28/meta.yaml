@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d17caf212ee2499f82f1e5067d47bc28/artifacts
+end_time: 1669951688125
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d17caf212ee2499f82f1e5067d47bc28
+run_name: casual-loon-442
+run_uuid: d17caf212ee2499f82f1e5067d47bc28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240558583
+status: 3
+tags: []
+user_id: unknown

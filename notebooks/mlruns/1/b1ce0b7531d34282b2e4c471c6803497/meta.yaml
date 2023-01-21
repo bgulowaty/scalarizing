@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b1ce0b7531d34282b2e4c471c6803497/artifacts
+end_time: 1669954061278
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b1ce0b7531d34282b2e4c471c6803497
+run_name: brawny-whale-399
+run_uuid: b1ce0b7531d34282b2e4c471c6803497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240279465
+status: 3
+tags: []
+user_id: unknown

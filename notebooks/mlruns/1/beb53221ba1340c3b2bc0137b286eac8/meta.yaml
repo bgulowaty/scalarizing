@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/beb53221ba1340c3b2bc0137b286eac8/artifacts
+end_time: 1669951601728
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: beb53221ba1340c3b2bc0137b286eac8
+run_name: gifted-robin-673
+run_uuid: beb53221ba1340c3b2bc0137b286eac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240584130
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dbc9ebc921e64082a7ff6ef55cf244af/artifacts
+end_time: 1669955612645
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbc9ebc921e64082a7ff6ef55cf244af
+run_name: funny-bass-881
+run_uuid: dbc9ebc921e64082a7ff6ef55cf244af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240118870
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab524e2d78134ce58a0564cb8803189d/artifacts
+end_time: 1670104108455
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab524e2d78134ce58a0564cb8803189d
+run_name: grandiose-stork-990
+run_uuid: ab524e2d78134ce58a0564cb8803189d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240024413
+status: 3
+tags: []
+user_id: unknown

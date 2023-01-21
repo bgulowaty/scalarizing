@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/189996bc3d544451b06ad4630448e01e/artifacts
+end_time: 1670162080063
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 189996bc3d544451b06ad4630448e01e
+run_name: awesome-fly-990
+run_uuid: 189996bc3d544451b06ad4630448e01e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150429695
+status: 3
+tags: []
+user_id: unknown

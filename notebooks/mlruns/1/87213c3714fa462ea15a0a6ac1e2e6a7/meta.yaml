@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87213c3714fa462ea15a0a6ac1e2e6a7/artifacts
+end_time: 1669953482330
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87213c3714fa462ea15a0a6ac1e2e6a7
+run_name: salty-finch-791
+run_uuid: 87213c3714fa462ea15a0a6ac1e2e6a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240346053
+status: 3
+tags: []
+user_id: unknown

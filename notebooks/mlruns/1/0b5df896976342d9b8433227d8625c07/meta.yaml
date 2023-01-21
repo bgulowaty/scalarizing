@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0b5df896976342d9b8433227d8625c07/artifacts
+end_time: 1670105654061
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b5df896976342d9b8433227d8625c07
+run_name: sedate-shrimp-752
+run_uuid: 0b5df896976342d9b8433227d8625c07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239924039
+status: 3
+tags: []
+user_id: unknown

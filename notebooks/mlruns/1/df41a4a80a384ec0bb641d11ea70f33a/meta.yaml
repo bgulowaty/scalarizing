@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/df41a4a80a384ec0bb641d11ea70f33a/artifacts
+end_time: 1669949582329
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df41a4a80a384ec0bb641d11ea70f33a
+run_name: legendary-swan-36
+run_uuid: df41a4a80a384ec0bb641d11ea70f33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240922335
+status: 3
+tags: []
+user_id: unknown

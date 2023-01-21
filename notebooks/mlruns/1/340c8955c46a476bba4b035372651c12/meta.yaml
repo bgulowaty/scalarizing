@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/340c8955c46a476bba4b035372651c12/artifacts
+end_time: 1669943762782
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 340c8955c46a476bba4b035372651c12
+run_name: able-cow-514
+run_uuid: 340c8955c46a476bba4b035372651c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242265583
+status: 3
+tags: []
+user_id: unknown

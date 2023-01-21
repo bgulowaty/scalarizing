@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/442425d346af43ee8bc118b0db30c996/artifacts
+end_time: 1670105967672
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 442425d346af43ee8bc118b0db30c996
+run_name: nervous-colt-626
+run_uuid: 442425d346af43ee8bc118b0db30c996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239914591
+status: 3
+tags: []
+user_id: unknown

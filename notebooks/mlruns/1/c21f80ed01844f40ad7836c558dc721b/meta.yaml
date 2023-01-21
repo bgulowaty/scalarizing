@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c21f80ed01844f40ad7836c558dc721b/artifacts
+end_time: 1669951965347
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c21f80ed01844f40ad7836c558dc721b
+run_name: dazzling-pug-910
+run_uuid: c21f80ed01844f40ad7836c558dc721b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240506644
+status: 3
+tags: []
+user_id: unknown

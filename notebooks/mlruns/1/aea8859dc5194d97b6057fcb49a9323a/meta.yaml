@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aea8859dc5194d97b6057fcb49a9323a/artifacts
+end_time: 1670104099730
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aea8859dc5194d97b6057fcb49a9323a
+run_name: rebellious-bear-643
+run_uuid: aea8859dc5194d97b6057fcb49a9323a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240015535
+status: 3
+tags: []
+user_id: unknown

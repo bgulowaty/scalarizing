@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bf97a821525240d8a4df0140d756ddcd/artifacts
+end_time: 1669946985902
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf97a821525240d8a4df0140d756ddcd
+run_name: angry-sheep-67
+run_uuid: bf97a821525240d8a4df0140d756ddcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241508584
+status: 3
+tags: []
+user_id: unknown

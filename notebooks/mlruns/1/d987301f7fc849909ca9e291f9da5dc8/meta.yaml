@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d987301f7fc849909ca9e291f9da5dc8/artifacts
+end_time: 1669955318315
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d987301f7fc849909ca9e291f9da5dc8
+run_name: defiant-frog-512
+run_uuid: d987301f7fc849909ca9e291f9da5dc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240156523
+status: 3
+tags: []
+user_id: unknown

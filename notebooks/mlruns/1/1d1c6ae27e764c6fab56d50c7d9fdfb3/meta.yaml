@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1d1c6ae27e764c6fab56d50c7d9fdfb3/artifacts
+end_time: 1669955975453
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d1c6ae27e764c6fab56d50c7d9fdfb3
+run_name: sedate-chimp-160
+run_uuid: 1d1c6ae27e764c6fab56d50c7d9fdfb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240085340
+status: 3
+tags: []
+user_id: unknown

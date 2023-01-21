@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/57d4b4b19eae4c23bf2644b202ee5493/artifacts
+end_time: 1670104746361
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57d4b4b19eae4c23bf2644b202ee5493
+run_name: funny-fawn-279
+run_uuid: 57d4b4b19eae4c23bf2644b202ee5493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239967561
+status: 3
+tags: []
+user_id: unknown

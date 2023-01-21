@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7383fb1021c44862935bc3980b1b8d7f/artifacts
+end_time: 1669942265947
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7383fb1021c44862935bc3980b1b8d7f
+run_name: nosy-vole-382
+run_uuid: 7383fb1021c44862935bc3980b1b8d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242875822
+status: 3
+tags: []
+user_id: unknown

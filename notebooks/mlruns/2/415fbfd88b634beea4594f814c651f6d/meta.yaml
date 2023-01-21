@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/415fbfd88b634beea4594f814c651f6d/artifacts
+end_time: 1670162287256
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 415fbfd88b634beea4594f814c651f6d
+run_name: receptive-snake-759
+run_uuid: 415fbfd88b634beea4594f814c651f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150375660
+status: 3
+tags: []
+user_id: unknown

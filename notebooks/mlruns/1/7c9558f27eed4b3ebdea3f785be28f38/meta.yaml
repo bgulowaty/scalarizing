@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7c9558f27eed4b3ebdea3f785be28f38/artifacts
+end_time: 1669948822943
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c9558f27eed4b3ebdea3f785be28f38
+run_name: resilient-goat-346
+run_uuid: 7c9558f27eed4b3ebdea3f785be28f38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241108629
+status: 3
+tags: []
+user_id: unknown

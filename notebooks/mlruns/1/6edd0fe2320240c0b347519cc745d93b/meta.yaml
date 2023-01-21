@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6edd0fe2320240c0b347519cc745d93b/artifacts
+end_time: 1669950645861
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6edd0fe2320240c0b347519cc745d93b
+run_name: traveling-dove-335
+run_uuid: 6edd0fe2320240c0b347519cc745d93b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240740623
+status: 3
+tags: []
+user_id: unknown

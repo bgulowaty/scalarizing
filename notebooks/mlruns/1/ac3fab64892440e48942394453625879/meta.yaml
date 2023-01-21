@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac3fab64892440e48942394453625879/artifacts
+end_time: 1669951353479
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac3fab64892440e48942394453625879
+run_name: awesome-skunk-165
+run_uuid: ac3fab64892440e48942394453625879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240591549
+status: 3
+tags: []
+user_id: unknown

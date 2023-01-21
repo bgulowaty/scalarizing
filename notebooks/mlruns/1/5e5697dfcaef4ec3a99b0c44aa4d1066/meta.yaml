@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5e5697dfcaef4ec3a99b0c44aa4d1066/artifacts
+end_time: 1670103785498
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e5697dfcaef4ec3a99b0c44aa4d1066
+run_name: thoughtful-steed-711
+run_uuid: 5e5697dfcaef4ec3a99b0c44aa4d1066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240183863
+status: 3
+tags: []
+user_id: unknown

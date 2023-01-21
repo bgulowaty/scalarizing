@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f2d2ec73f3ad4e16a01b4ed871bf2b46/artifacts
+end_time: 1669953839063
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2d2ec73f3ad4e16a01b4ed871bf2b46
+run_name: suave-tern-623
+run_uuid: f2d2ec73f3ad4e16a01b4ed871bf2b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240285934
+status: 3
+tags: []
+user_id: unknown

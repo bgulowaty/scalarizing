@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/164c31d635b448ff93ff11eec5664d97/artifacts
+end_time: 1670105341305
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 164c31d635b448ff93ff11eec5664d97
+run_name: bouncy-lynx-198
+run_uuid: 164c31d635b448ff93ff11eec5664d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239942882
+status: 3
+tags: []
+user_id: unknown

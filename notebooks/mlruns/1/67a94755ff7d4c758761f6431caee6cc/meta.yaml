@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/67a94755ff7d4c758761f6431caee6cc/artifacts
+end_time: 1669946981321
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 67a94755ff7d4c758761f6431caee6cc
+run_name: adaptable-horse-804
+run_uuid: 67a94755ff7d4c758761f6431caee6cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241460125
+status: 3
+tags: []
+user_id: unknown

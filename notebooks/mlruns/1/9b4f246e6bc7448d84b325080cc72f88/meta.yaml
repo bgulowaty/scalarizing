@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9b4f246e6bc7448d84b325080cc72f88/artifacts
+end_time: 1669944907072
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b4f246e6bc7448d84b325080cc72f88
+run_name: skittish-mink-225
+run_uuid: 9b4f246e6bc7448d84b325080cc72f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241950817
+status: 3
+tags: []
+user_id: unknown

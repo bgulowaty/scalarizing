@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/343930ee1e4047388fb5b00a9fbb714d/artifacts
+end_time: 1669944901659
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 343930ee1e4047388fb5b00a9fbb714d
+run_name: bright-finch-443
+run_uuid: 343930ee1e4047388fb5b00a9fbb714d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241937294
+status: 3
+tags: []
+user_id: unknown

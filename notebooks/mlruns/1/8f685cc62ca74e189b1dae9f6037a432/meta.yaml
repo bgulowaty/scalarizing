@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8f685cc62ca74e189b1dae9f6037a432/artifacts
+end_time: 1669948591165
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f685cc62ca74e189b1dae9f6037a432
+run_name: polite-gull-145
+run_uuid: 8f685cc62ca74e189b1dae9f6037a432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241135513
+status: 3
+tags: []
+user_id: unknown

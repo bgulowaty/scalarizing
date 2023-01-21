@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ee37d362665947d39c9e0c36879d343f/artifacts
+end_time: 1669954089635
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee37d362665947d39c9e0c36879d343f
+run_name: selective-wolf-900
+run_uuid: ee37d362665947d39c9e0c36879d343f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240267297
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e053f8bc3144d279fa69c6264b7a642/artifacts
+end_time: 1669950395707
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e053f8bc3144d279fa69c6264b7a642
+run_name: polite-sloth-130
+run_uuid: 3e053f8bc3144d279fa69c6264b7a642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240785697
+status: 3
+tags: []
+user_id: unknown

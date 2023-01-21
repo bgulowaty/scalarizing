@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c14267f58e4471bbaa375efb07604b7/artifacts
+end_time: 1669947944819
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c14267f58e4471bbaa375efb07604b7
+run_name: stately-shrimp-984
+run_uuid: 3c14267f58e4471bbaa375efb07604b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241263482
+status: 3
+tags: []
+user_id: unknown

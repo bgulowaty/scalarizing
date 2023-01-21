@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ffc7a5f28274893b460b27ac36dc17b/artifacts
+end_time: 1670181756175
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ffc7a5f28274893b460b27ac36dc17b
+run_name: fun-cub-833
+run_uuid: 2ffc7a5f28274893b460b27ac36dc17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239946624
+status: 3
+tags: []
+user_id: unknown

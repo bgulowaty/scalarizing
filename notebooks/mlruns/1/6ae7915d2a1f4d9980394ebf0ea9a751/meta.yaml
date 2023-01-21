@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6ae7915d2a1f4d9980394ebf0ea9a751/artifacts
+end_time: 1669954703286
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ae7915d2a1f4d9980394ebf0ea9a751
+run_name: legendary-jay-245
+run_uuid: 6ae7915d2a1f4d9980394ebf0ea9a751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240216450
+status: 3
+tags: []
+user_id: unknown

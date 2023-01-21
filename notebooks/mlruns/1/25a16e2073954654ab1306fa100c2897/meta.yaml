@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/25a16e2073954654ab1306fa100c2897/artifacts
+end_time: 1669945492281
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25a16e2073954654ab1306fa100c2897
+run_name: lyrical-hog-943
+run_uuid: 25a16e2073954654ab1306fa100c2897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241782187
+status: 3
+tags: []
+user_id: unknown

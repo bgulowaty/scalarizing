@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ba6f371296b1494787c4d7e7c1c83ddd/artifacts
+end_time: 1669952576887
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba6f371296b1494787c4d7e7c1c83ddd
+run_name: gentle-shrike-697
+run_uuid: ba6f371296b1494787c4d7e7c1c83ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240423061
+status: 3
+tags: []
+user_id: unknown

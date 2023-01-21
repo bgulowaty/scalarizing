@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a54627a903db4f37bf209815fccf1c66/artifacts
+end_time: 1669949200848
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a54627a903db4f37bf209815fccf1c66
+run_name: defiant-shark-87
+run_uuid: a54627a903db4f37bf209815fccf1c66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241029293
+status: 3
+tags: []
+user_id: unknown

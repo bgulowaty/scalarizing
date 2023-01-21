@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5c3c9bd9bbef41af810fa351e7350bef/artifacts
+end_time: 1670162403567
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5c3c9bd9bbef41af810fa351e7350bef
+run_name: wistful-moose-84
+run_uuid: 5c3c9bd9bbef41af810fa351e7350bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150315859
+status: 3
+tags: []
+user_id: unknown

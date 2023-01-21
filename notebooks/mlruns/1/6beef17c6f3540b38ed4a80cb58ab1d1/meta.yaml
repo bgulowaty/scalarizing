@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6beef17c6f3540b38ed4a80cb58ab1d1/artifacts
+end_time: 1669953166520
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6beef17c6f3540b38ed4a80cb58ab1d1
+run_name: puzzled-boar-236
+run_uuid: 6beef17c6f3540b38ed4a80cb58ab1d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240364874
+status: 3
+tags: []
+user_id: unknown

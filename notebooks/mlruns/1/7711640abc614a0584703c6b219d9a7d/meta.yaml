@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7711640abc614a0584703c6b219d9a7d/artifacts
+end_time: 1669947295875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7711640abc614a0584703c6b219d9a7d
+run_name: able-fly-481
+run_uuid: 7711640abc614a0584703c6b219d9a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241389507
+status: 3
+tags: []
+user_id: unknown

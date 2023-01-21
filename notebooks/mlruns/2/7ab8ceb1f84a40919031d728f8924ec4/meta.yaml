@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7ab8ceb1f84a40919031d728f8924ec4/artifacts
+end_time: 1670162397506
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7ab8ceb1f84a40919031d728f8924ec4
+run_name: wistful-loon-470
+run_uuid: 7ab8ceb1f84a40919031d728f8924ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150326284
+status: 3
+tags: []
+user_id: unknown

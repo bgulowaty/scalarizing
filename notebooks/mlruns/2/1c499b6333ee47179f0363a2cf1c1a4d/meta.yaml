@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1c499b6333ee47179f0363a2cf1c1a4d/artifacts
+end_time: 1670162537608
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1c499b6333ee47179f0363a2cf1c1a4d
+run_name: orderly-crow-46
+run_uuid: 1c499b6333ee47179f0363a2cf1c1a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150309259
+status: 3
+tags: []
+user_id: unknown

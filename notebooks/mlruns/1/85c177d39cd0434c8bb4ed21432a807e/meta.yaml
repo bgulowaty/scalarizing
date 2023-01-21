@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/85c177d39cd0434c8bb4ed21432a807e/artifacts
+end_time: 1669942810377
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 85c177d39cd0434c8bb4ed21432a807e
+run_name: big-frog-164
+run_uuid: 85c177d39cd0434c8bb4ed21432a807e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242533610
+status: 3
+tags: []
+user_id: unknown

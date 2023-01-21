@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d7a16fc5a2e04d70b5ad269622d9aa4a/artifacts
+end_time: 1670105043615
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7a16fc5a2e04d70b5ad269622d9aa4a
+run_name: agreeable-koi-300
+run_uuid: d7a16fc5a2e04d70b5ad269622d9aa4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239958033
+status: 3
+tags: []
+user_id: unknown

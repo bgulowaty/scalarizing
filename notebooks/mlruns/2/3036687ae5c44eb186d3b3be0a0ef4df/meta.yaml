@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3036687ae5c44eb186d3b3be0a0ef4df/artifacts
+end_time: 1670162733828
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3036687ae5c44eb186d3b3be0a0ef4df
+run_name: luminous-dolphin-586
+run_uuid: 3036687ae5c44eb186d3b3be0a0ef4df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150239377
+status: 3
+tags: []
+user_id: unknown

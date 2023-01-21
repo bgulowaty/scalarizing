@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/41a32818853846609b9f84140da474c4/artifacts
+end_time: 1669947571502
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41a32818853846609b9f84140da474c4
+run_name: nosy-mare-745
+run_uuid: 41a32818853846609b9f84140da474c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241343476
+status: 3
+tags: []
+user_id: unknown

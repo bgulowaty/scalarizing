@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d58e18c6e3654b5eb0c4b2a472ee7c51/artifacts
+end_time: 1670162509173
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d58e18c6e3654b5eb0c4b2a472ee7c51
+run_name: bedecked-newt-931
+run_uuid: d58e18c6e3654b5eb0c4b2a472ee7c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150289953
+status: 3
+tags: []
+user_id: unknown

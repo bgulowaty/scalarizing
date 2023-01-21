@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9bdb604999c64b5987bb00b751b30ab5/artifacts
+end_time: 1670105344439
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9bdb604999c64b5987bb00b751b30ab5
+run_name: traveling-swan-203
+run_uuid: 9bdb604999c64b5987bb00b751b30ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239941938
+status: 3
+tags: []
+user_id: unknown

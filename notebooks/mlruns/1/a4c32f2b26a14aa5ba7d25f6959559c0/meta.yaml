@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a4c32f2b26a14aa5ba7d25f6959559c0/artifacts
+end_time: 1669950671981
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4c32f2b26a14aa5ba7d25f6959559c0
+run_name: auspicious-boar-325
+run_uuid: a4c32f2b26a14aa5ba7d25f6959559c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240716269
+status: 3
+tags: []
+user_id: unknown

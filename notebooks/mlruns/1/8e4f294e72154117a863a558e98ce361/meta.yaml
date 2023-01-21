@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8e4f294e72154117a863a558e98ce361/artifacts
+end_time: 1670103599958
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e4f294e72154117a863a558e98ce361
+run_name: caring-bat-904
+run_uuid: 8e4f294e72154117a863a558e98ce361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240808907
+status: 3
+tags: []
+user_id: unknown

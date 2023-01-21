@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cba365fee9d0452bb2045d3037a73323/artifacts
+end_time: 1669951353923
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cba365fee9d0452bb2045d3037a73323
+run_name: respected-robin-201
+run_uuid: cba365fee9d0452bb2045d3037a73323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240591415
+status: 3
+tags: []
+user_id: unknown

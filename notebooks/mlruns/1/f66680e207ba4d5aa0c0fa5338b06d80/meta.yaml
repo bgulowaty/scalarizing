@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f66680e207ba4d5aa0c0fa5338b06d80/artifacts
+end_time: 1669945126196
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f66680e207ba4d5aa0c0fa5338b06d80
+run_name: beautiful-hawk-302
+run_uuid: f66680e207ba4d5aa0c0fa5338b06d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241903755
+status: 3
+tags: []
+user_id: unknown

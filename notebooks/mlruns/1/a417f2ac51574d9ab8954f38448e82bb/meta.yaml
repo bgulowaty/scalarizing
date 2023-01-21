@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a417f2ac51574d9ab8954f38448e82bb/artifacts
+end_time: 1670180875352
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a417f2ac51574d9ab8954f38448e82bb
+run_name: mysterious-ox-48
+run_uuid: a417f2ac51574d9ab8954f38448e82bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241220714
+status: 3
+tags: []
+user_id: unknown

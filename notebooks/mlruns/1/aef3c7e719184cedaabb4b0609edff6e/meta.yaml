@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aef3c7e719184cedaabb4b0609edff6e/artifacts
+end_time: 1670102356020
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aef3c7e719184cedaabb4b0609edff6e
+run_name: welcoming-perch-383
+run_uuid: aef3c7e719184cedaabb4b0609edff6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242610817
+status: 3
+tags: []
+user_id: unknown

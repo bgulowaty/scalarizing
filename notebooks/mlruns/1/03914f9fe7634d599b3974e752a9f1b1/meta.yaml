@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/03914f9fe7634d599b3974e752a9f1b1/artifacts
+end_time: 1669946359954
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 03914f9fe7634d599b3974e752a9f1b1
+run_name: sassy-smelt-93
+run_uuid: 03914f9fe7634d599b3974e752a9f1b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241631796
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89803fb8ff4b4f59b7eaeb9aa6228fdf/artifacts
+end_time: 1670102874472
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89803fb8ff4b4f59b7eaeb9aa6228fdf
+run_name: smiling-lynx-949
+run_uuid: 89803fb8ff4b4f59b7eaeb9aa6228fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241937057
+status: 3
+tags: []
+user_id: unknown

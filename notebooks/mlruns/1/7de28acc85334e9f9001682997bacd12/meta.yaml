@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7de28acc85334e9f9001682997bacd12/artifacts
+end_time: 1669944881800
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7de28acc85334e9f9001682997bacd12
+run_name: thundering-robin-988
+run_uuid: 7de28acc85334e9f9001682997bacd12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241982725
+status: 3
+tags: []
+user_id: unknown

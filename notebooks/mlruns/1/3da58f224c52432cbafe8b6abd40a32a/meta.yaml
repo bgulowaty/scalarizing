@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3da58f224c52432cbafe8b6abd40a32a/artifacts
+end_time: 1669945838430
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3da58f224c52432cbafe8b6abd40a32a
+run_name: serious-snipe-140
+run_uuid: 3da58f224c52432cbafe8b6abd40a32a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241778152
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6adbe500122f4bfaae007acefbeb66ae/artifacts
+end_time: 1670162185083
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6adbe500122f4bfaae007acefbeb66ae
+run_name: monumental-seal-622
+run_uuid: 6adbe500122f4bfaae007acefbeb66ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150395113
+status: 3
+tags: []
+user_id: unknown

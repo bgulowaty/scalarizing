@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2540512bf61b478698f8029e9276979b/artifacts
+end_time: 1669944174517
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2540512bf61b478698f8029e9276979b
+run_name: unruly-horse-199
+run_uuid: 2540512bf61b478698f8029e9276979b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242127127
+status: 3
+tags: []
+user_id: unknown

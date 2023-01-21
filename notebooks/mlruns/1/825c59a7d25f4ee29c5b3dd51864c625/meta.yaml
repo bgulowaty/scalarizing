@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/825c59a7d25f4ee29c5b3dd51864c625/artifacts
+end_time: 1669953853476
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 825c59a7d25f4ee29c5b3dd51864c625
+run_name: delicate-shrike-246
+run_uuid: 825c59a7d25f4ee29c5b3dd51864c625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240298509
+status: 3
+tags: []
+user_id: unknown

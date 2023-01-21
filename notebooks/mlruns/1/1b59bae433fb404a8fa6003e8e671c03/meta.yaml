@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1b59bae433fb404a8fa6003e8e671c03/artifacts
+end_time: 1669946359681
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b59bae433fb404a8fa6003e8e671c03
+run_name: dazzling-ram-702
+run_uuid: 1b59bae433fb404a8fa6003e8e671c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241596087
+status: 3
+tags: []
+user_id: unknown

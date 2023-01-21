@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7c54b26b5e114c5b89fb1e90df8b203c/artifacts
+end_time: 1670162065929
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7c54b26b5e114c5b89fb1e90df8b203c
+run_name: masked-deer-273
+run_uuid: 7c54b26b5e114c5b89fb1e90df8b203c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150466839
+status: 3
+tags: []
+user_id: unknown

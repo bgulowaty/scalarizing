@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3d449f96d07041e78fff8babee7a32f4/artifacts
+end_time: 1670162397911
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3d449f96d07041e78fff8babee7a32f4
+run_name: rogue-croc-929
+run_uuid: 3d449f96d07041e78fff8babee7a32f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150343352
+status: 3
+tags: []
+user_id: unknown

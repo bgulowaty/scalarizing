@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce799be5a7fb4f3786d880ac2a19dba1/artifacts
+end_time: 1669952215895
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce799be5a7fb4f3786d880ac2a19dba1
+run_name: bemused-crow-666
+run_uuid: ce799be5a7fb4f3786d880ac2a19dba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240488003
+status: 3
+tags: []
+user_id: unknown

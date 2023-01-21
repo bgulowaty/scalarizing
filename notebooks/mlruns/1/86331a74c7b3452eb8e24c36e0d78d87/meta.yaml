@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/86331a74c7b3452eb8e24c36e0d78d87/artifacts
+end_time: 1669949128421
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86331a74c7b3452eb8e24c36e0d78d87
+run_name: rogue-cow-690
+run_uuid: 86331a74c7b3452eb8e24c36e0d78d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241056374
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c070cbc32ed14ecb95c1bee19fffa66a/artifacts
+end_time: 1669948193364
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c070cbc32ed14ecb95c1bee19fffa66a
+run_name: bright-crow-405
+run_uuid: c070cbc32ed14ecb95c1bee19fffa66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241237323
+status: 3
+tags: []
+user_id: unknown

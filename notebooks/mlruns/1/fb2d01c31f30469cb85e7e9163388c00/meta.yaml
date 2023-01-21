@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb2d01c31f30469cb85e7e9163388c00/artifacts
+end_time: 1669947963372
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb2d01c31f30469cb85e7e9163388c00
+run_name: bold-jay-310
+run_uuid: fb2d01c31f30469cb85e7e9163388c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241267844
+status: 3
+tags: []
+user_id: unknown

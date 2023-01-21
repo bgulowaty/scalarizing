@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a1a042944d624ea7982c7632bd53149b/artifacts
+end_time: 1669950345074
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1a042944d624ea7982c7632bd53149b
+run_name: lyrical-donkey-920
+run_uuid: a1a042944d624ea7982c7632bd53149b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240790886
+status: 3
+tags: []
+user_id: unknown

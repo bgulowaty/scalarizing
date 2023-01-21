@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4932e076ae314be7a4a6440a3de42d33/artifacts
+end_time: 1669954083687
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4932e076ae314be7a4a6440a3de42d33
+run_name: fortunate-goose-630
+run_uuid: 4932e076ae314be7a4a6440a3de42d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240280153
+status: 3
+tags: []
+user_id: unknown

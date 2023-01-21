@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c5fa31e9c1a441149efe2b5ce8121ec1/artifacts
+end_time: 1669944355208
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5fa31e9c1a441149efe2b5ce8121ec1
+run_name: sneaky-gull-999
+run_uuid: c5fa31e9c1a441149efe2b5ce8121ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242083251
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c8fa442d093242c1b53f49cf17303952/artifacts
+end_time: 1669951953708
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8fa442d093242c1b53f49cf17303952
+run_name: enchanting-gull-270
+run_uuid: c8fa442d093242c1b53f49cf17303952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240516558
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/22087e04f92349bb87fe99c776c71b97/artifacts
+end_time: 1670162724880
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 22087e04f92349bb87fe99c776c71b97
+run_name: unleashed-shrew-972
+run_uuid: 22087e04f92349bb87fe99c776c71b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150220135
+status: 3
+tags: []
+user_id: unknown

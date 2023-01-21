@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b5bd4051e5a44ce7b591601250dafd35/artifacts
+end_time: 1669949187851
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b5bd4051e5a44ce7b591601250dafd35
+run_name: bittersweet-kite-912
+run_uuid: b5bd4051e5a44ce7b591601250dafd35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241026097
+status: 3
+tags: []
+user_id: unknown

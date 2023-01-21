@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c4ca7243676c46e3a48733bd4914ebdb/artifacts
+end_time: 1669954134866
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4ca7243676c46e3a48733bd4914ebdb
+run_name: welcoming-croc-983
+run_uuid: c4ca7243676c46e3a48733bd4914ebdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240254557
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/4a8874a0fd5c4765bbccfa14dbd2adf2/artifacts
+end_time: 1670162181937
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4a8874a0fd5c4765bbccfa14dbd2adf2
+run_name: adorable-foal-996
+run_uuid: 4a8874a0fd5c4765bbccfa14dbd2adf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150493572
+status: 3
+tags: []
+user_id: unknown

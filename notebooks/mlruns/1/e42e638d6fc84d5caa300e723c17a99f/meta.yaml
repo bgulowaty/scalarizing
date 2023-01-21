@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e42e638d6fc84d5caa300e723c17a99f/artifacts
+end_time: 1669956536140
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e42e638d6fc84d5caa300e723c17a99f
+run_name: amusing-snake-435
+run_uuid: e42e638d6fc84d5caa300e723c17a99f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240053506
+status: 3
+tags: []
+user_id: unknown

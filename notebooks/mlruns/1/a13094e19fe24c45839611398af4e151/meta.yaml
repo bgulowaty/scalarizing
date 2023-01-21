@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a13094e19fe24c45839611398af4e151/artifacts
+end_time: 1669950709204
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a13094e19fe24c45839611398af4e151
+run_name: overjoyed-chimp-971
+run_uuid: a13094e19fe24c45839611398af4e151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240705988
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d8eaa13d369d4790aa52cf2abfeb7880/artifacts
+end_time: 1669953787255
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8eaa13d369d4790aa52cf2abfeb7880
+run_name: nebulous-mouse-98
+run_uuid: d8eaa13d369d4790aa52cf2abfeb7880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240312221
+status: 3
+tags: []
+user_id: unknown

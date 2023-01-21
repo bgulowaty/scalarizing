@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/51950dc75d894d7a97dde285401acbc3/artifacts
+end_time: 1669953168029
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51950dc75d894d7a97dde285401acbc3
+run_name: peaceful-ape-537
+run_uuid: 51950dc75d894d7a97dde285401acbc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240366052
+status: 3
+tags: []
+user_id: unknown

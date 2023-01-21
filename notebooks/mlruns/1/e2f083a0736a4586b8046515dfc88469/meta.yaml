@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e2f083a0736a4586b8046515dfc88469/artifacts
+end_time: 1669949786052
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2f083a0736a4586b8046515dfc88469
+run_name: learned-goose-152
+run_uuid: e2f083a0736a4586b8046515dfc88469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240864931
+status: 3
+tags: []
+user_id: unknown

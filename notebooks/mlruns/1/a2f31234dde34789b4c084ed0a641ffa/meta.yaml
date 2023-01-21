@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a2f31234dde34789b4c084ed0a641ffa/artifacts
+end_time: 1670105063547
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2f31234dde34789b4c084ed0a641ffa
+run_name: burly-kit-786
+run_uuid: a2f31234dde34789b4c084ed0a641ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239948833
+status: 3
+tags: []
+user_id: unknown

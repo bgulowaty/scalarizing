@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dfe715eb0e824a7bb84b8b70312da971/artifacts
+end_time: 1669950647762
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dfe715eb0e824a7bb84b8b70312da971
+run_name: nimble-sponge-184
+run_uuid: dfe715eb0e824a7bb84b8b70312da971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240723023
+status: 3
+tags: []
+user_id: unknown

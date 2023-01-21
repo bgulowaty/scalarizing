@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bed3b3fa7a9341cdb41bd13adec5e88e/artifacts
+end_time: 1669947883329
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bed3b3fa7a9341cdb41bd13adec5e88e
+run_name: aged-kit-345
+run_uuid: bed3b3fa7a9341cdb41bd13adec5e88e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241291649
+status: 3
+tags: []
+user_id: unknown

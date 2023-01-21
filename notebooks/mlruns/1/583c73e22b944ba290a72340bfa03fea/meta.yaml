@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/583c73e22b944ba290a72340bfa03fea/artifacts
+end_time: 1670181484882
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 583c73e22b944ba290a72340bfa03fea
+run_name: carefree-grub-397
+run_uuid: 583c73e22b944ba290a72340bfa03fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240090461
+status: 3
+tags: []
+user_id: unknown

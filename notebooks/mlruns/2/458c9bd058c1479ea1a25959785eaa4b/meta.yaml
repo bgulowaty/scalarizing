@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/458c9bd058c1479ea1a25959785eaa4b/artifacts
+end_time: 1670162616902
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 458c9bd058c1479ea1a25959785eaa4b
+run_name: enchanting-goat-257
+run_uuid: 458c9bd058c1479ea1a25959785eaa4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150253103
+status: 3
+tags: []
+user_id: unknown

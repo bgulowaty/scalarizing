@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/26e96a5582184bc3a964f3a2bfce1502/artifacts
+end_time: 1670162828888
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 26e96a5582184bc3a964f3a2bfce1502
+run_name: gregarious-bee-79
+run_uuid: 26e96a5582184bc3a964f3a2bfce1502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150202714
+status: 3
+tags: []
+user_id: unknown

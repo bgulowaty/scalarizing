@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/252a559ed1304717a14835f18f7aa65b/artifacts
+end_time: 1669945089812
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 252a559ed1304717a14835f18f7aa65b
+run_name: beautiful-wolf-476
+run_uuid: 252a559ed1304717a14835f18f7aa65b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241890639
+status: 3
+tags: []
+user_id: unknown

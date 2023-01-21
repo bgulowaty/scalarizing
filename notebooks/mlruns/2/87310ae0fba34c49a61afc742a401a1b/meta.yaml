@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/87310ae0fba34c49a61afc742a401a1b/artifacts
+end_time: 1670162830523
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 87310ae0fba34c49a61afc742a401a1b
+run_name: marvelous-fowl-491
+run_uuid: 87310ae0fba34c49a61afc742a401a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150202434
+status: 3
+tags: []
+user_id: unknown

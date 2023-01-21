@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3866f35c695f4fe38ee36756c0bcb172/artifacts
+end_time: 1669955094364
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3866f35c695f4fe38ee36756c0bcb172
+run_name: beautiful-fox-248
+run_uuid: 3866f35c695f4fe38ee36756c0bcb172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240158942
+status: 3
+tags: []
+user_id: unknown

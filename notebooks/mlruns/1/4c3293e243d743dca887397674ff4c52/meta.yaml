@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4c3293e243d743dca887397674ff4c52/artifacts
+end_time: 1669948255555
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c3293e243d743dca887397674ff4c52
+run_name: wistful-stag-664
+run_uuid: 4c3293e243d743dca887397674ff4c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241192204
+status: 3
+tags: []
+user_id: unknown

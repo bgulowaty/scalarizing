@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/537911d349024451ab7c9e600a3d8ffd/artifacts
+end_time: 1669956535377
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 537911d349024451ab7c9e600a3d8ffd
+run_name: funny-carp-661
+run_uuid: 537911d349024451ab7c9e600a3d8ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240050815
+status: 3
+tags: []
+user_id: unknown

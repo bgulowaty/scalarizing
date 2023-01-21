@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/845ab1909fea49cc88763df887d7d36f/artifacts
+end_time: 1670162069987
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 845ab1909fea49cc88763df887d7d36f
+run_name: resilient-skunk-52
+run_uuid: 845ab1909fea49cc88763df887d7d36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150450676
+status: 3
+tags: []
+user_id: unknown

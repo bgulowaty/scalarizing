@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e33420cc09b349b485e839c19f7f2db5/artifacts
+end_time: 1670162185611
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e33420cc09b349b485e839c19f7f2db5
+run_name: thoughtful-dog-76
+run_uuid: e33420cc09b349b485e839c19f7f2db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150390479
+status: 3
+tags: []
+user_id: unknown

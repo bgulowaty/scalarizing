@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ad5d1709e2b4ef3b1722ccd4a09bd08/artifacts
+end_time: 1669946979970
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ad5d1709e2b4ef3b1722ccd4a09bd08
+run_name: sneaky-chimp-95
+run_uuid: 7ad5d1709e2b4ef3b1722ccd4a09bd08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241448588
+status: 3
+tags: []
+user_id: unknown

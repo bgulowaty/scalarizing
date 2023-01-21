@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7d66c5b8226e4597b145ff183e0e0271/artifacts
+end_time: 1670180532525
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d66c5b8226e4597b145ff183e0e0271
+run_name: unruly-cow-352
+run_uuid: 7d66c5b8226e4597b145ff183e0e0271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242498489
+status: 4
+tags: []
+user_id: unknown

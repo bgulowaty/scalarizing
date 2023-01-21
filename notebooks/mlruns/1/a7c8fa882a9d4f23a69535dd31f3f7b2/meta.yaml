@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a7c8fa882a9d4f23a69535dd31f3f7b2/artifacts
+end_time: 1669945083349
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7c8fa882a9d4f23a69535dd31f3f7b2
+run_name: tasteful-hound-920
+run_uuid: a7c8fa882a9d4f23a69535dd31f3f7b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241884028
+status: 3
+tags: []
+user_id: unknown

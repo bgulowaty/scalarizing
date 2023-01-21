@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b571d681b64b4f71b1c57a8755da8273/artifacts
+end_time: 1670180843680
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b571d681b64b4f71b1c57a8755da8273
+run_name: legendary-colt-18
+run_uuid: b571d681b64b4f71b1c57a8755da8273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241695904
+status: 3
+tags: []
+user_id: unknown

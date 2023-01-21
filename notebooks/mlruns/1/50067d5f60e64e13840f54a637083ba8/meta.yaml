@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/50067d5f60e64e13840f54a637083ba8/artifacts
+end_time: 1669942325230
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50067d5f60e64e13840f54a637083ba8
+run_name: casual-fawn-123
+run_uuid: 50067d5f60e64e13840f54a637083ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242852876
+status: 3
+tags: []
+user_id: unknown

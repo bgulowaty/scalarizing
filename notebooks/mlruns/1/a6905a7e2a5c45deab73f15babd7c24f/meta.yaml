@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a6905a7e2a5c45deab73f15babd7c24f/artifacts
+end_time: 1669949705444
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6905a7e2a5c45deab73f15babd7c24f
+run_name: skittish-skunk-652
+run_uuid: a6905a7e2a5c45deab73f15babd7c24f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240910877
+status: 3
+tags: []
+user_id: unknown

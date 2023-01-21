@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fa4142589b5c429dbc5dec9018f36efa/artifacts
+end_time: 1669945742702
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa4142589b5c429dbc5dec9018f36efa
+run_name: omniscient-zebra-573
+run_uuid: fa4142589b5c429dbc5dec9018f36efa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241727917
+status: 3
+tags: []
+user_id: unknown

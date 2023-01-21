@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/81bf9411ba6348e4b6319c2314234351/artifacts
+end_time: 1669950403853
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81bf9411ba6348e4b6319c2314234351
+run_name: auspicious-kit-703
+run_uuid: 81bf9411ba6348e4b6319c2314234351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240768649
+status: 3
+tags: []
+user_id: unknown

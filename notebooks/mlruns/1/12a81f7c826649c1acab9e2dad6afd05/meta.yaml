@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/12a81f7c826649c1acab9e2dad6afd05/artifacts
+end_time: 1669951036691
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12a81f7c826649c1acab9e2dad6afd05
+run_name: incongruous-swan-768
+run_uuid: 12a81f7c826649c1acab9e2dad6afd05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240654261
+status: 3
+tags: []
+user_id: unknown

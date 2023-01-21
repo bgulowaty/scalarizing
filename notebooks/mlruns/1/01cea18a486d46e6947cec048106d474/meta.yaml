@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/01cea18a486d46e6947cec048106d474/artifacts
+end_time: 1669954093941
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01cea18a486d46e6947cec048106d474
+run_name: gaudy-pig-135
+run_uuid: 01cea18a486d46e6947cec048106d474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240269231
+status: 3
+tags: []
+user_id: unknown

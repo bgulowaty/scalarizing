@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a2756830afc94c62a7888da0ba407bd0/artifacts
+end_time: 1670103806958
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2756830afc94c62a7888da0ba407bd0
+run_name: ambitious-squid-130
+run_uuid: a2756830afc94c62a7888da0ba407bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240032617
+status: 3
+tags: []
+user_id: unknown

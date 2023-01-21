@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cf30f6fbe0394da3930b4a69b4b75e56/artifacts
+end_time: 1669942490449
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf30f6fbe0394da3930b4a69b4b75e56
+run_name: indecisive-snake-699
+run_uuid: cf30f6fbe0394da3930b4a69b4b75e56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242753607
+status: 3
+tags: []
+user_id: unknown

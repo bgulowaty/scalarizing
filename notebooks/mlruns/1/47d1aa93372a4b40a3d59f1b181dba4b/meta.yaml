@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/47d1aa93372a4b40a3d59f1b181dba4b/artifacts
+end_time: 1669942527280
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47d1aa93372a4b40a3d59f1b181dba4b
+run_name: smiling-wasp-763
+run_uuid: 47d1aa93372a4b40a3d59f1b181dba4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242791772
+status: 3
+tags: []
+user_id: unknown

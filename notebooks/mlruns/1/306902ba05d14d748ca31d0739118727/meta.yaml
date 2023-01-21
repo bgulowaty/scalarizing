@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/306902ba05d14d748ca31d0739118727/artifacts
+end_time: 1670105054389
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 306902ba05d14d748ca31d0739118727
+run_name: righteous-shrimp-722
+run_uuid: 306902ba05d14d748ca31d0739118727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239956315
+status: 3
+tags: []
+user_id: unknown

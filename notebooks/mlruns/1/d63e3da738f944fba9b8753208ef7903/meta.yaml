@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d63e3da738f944fba9b8753208ef7903/artifacts
+end_time: 1669947884193
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d63e3da738f944fba9b8753208ef7903
+run_name: enchanting-ram-264
+run_uuid: d63e3da738f944fba9b8753208ef7903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241277103
+status: 3
+tags: []
+user_id: unknown

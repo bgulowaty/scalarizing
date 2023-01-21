@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/62b913dd437d45c983112c4c50b2111c/artifacts
+end_time: 1669945481187
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62b913dd437d45c983112c4c50b2111c
+run_name: treasured-hen-115
+run_uuid: 62b913dd437d45c983112c4c50b2111c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241785075
+status: 3
+tags: []
+user_id: unknown

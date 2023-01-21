@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39461a91f1e64b2b942d016cc4e6f416/artifacts
+end_time: 1669945679838
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39461a91f1e64b2b942d016cc4e6f416
+run_name: beautiful-sheep-735
+run_uuid: 39461a91f1e64b2b942d016cc4e6f416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241758205
+status: 3
+tags: []
+user_id: unknown

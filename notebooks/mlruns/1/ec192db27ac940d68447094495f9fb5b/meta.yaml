@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ec192db27ac940d68447094495f9fb5b/artifacts
+end_time: 1670180600670
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec192db27ac940d68447094495f9fb5b
+run_name: incongruous-pug-914
+run_uuid: ec192db27ac940d68447094495f9fb5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242175056
+status: 3
+tags: []
+user_id: unknown

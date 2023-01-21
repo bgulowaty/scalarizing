@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2512dfe26fcb4d2cbeb6a9de5994093b/artifacts
+end_time: 1670181727944
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2512dfe26fcb4d2cbeb6a9de5994093b
+run_name: skittish-fly-623
+run_uuid: 2512dfe26fcb4d2cbeb6a9de5994093b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239963428
+status: 3
+tags: []
+user_id: unknown

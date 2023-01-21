@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/47ef41a2cb3248efbb3fd4a30d423856/artifacts
+end_time: 1669948815061
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47ef41a2cb3248efbb3fd4a30d423856
+run_name: burly-ray-846
+run_uuid: 47ef41a2cb3248efbb3fd4a30d423856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241107530
+status: 3
+tags: []
+user_id: unknown

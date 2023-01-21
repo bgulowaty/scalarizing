@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e0585a5ed6bb43e4b42a929034f68d26/artifacts
+end_time: 1669947882989
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0585a5ed6bb43e4b42a929034f68d26
+run_name: bustling-smelt-294
+run_uuid: e0585a5ed6bb43e4b42a929034f68d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241284919
+status: 3
+tags: []
+user_id: unknown

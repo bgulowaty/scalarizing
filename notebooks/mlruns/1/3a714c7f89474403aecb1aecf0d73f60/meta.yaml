@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3a714c7f89474403aecb1aecf0d73f60/artifacts
+end_time: 1669951966225
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a714c7f89474403aecb1aecf0d73f60
+run_name: gaudy-penguin-650
+run_uuid: 3a714c7f89474403aecb1aecf0d73f60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240505426
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/188dd344142d498983610d8ed2cd9af3/artifacts
+end_time: 1669952525360
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 188dd344142d498983610d8ed2cd9af3
+run_name: glamorous-mare-848
+run_uuid: 188dd344142d498983610d8ed2cd9af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240445354
+status: 3
+tags: []
+user_id: unknown

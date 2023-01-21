@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/47fc605f8f2b4c4db3ba4f6f5bcbab0f/artifacts
+end_time: 1669946078563
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47fc605f8f2b4c4db3ba4f6f5bcbab0f
+run_name: gentle-pug-279
+run_uuid: 47fc605f8f2b4c4db3ba4f6f5bcbab0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241644510
+status: 3
+tags: []
+user_id: unknown

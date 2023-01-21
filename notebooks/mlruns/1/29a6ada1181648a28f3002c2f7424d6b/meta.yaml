@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/29a6ada1181648a28f3002c2f7424d6b/artifacts
+end_time: 1669949741242
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29a6ada1181648a28f3002c2f7424d6b
+run_name: aged-bee-192
+run_uuid: 29a6ada1181648a28f3002c2f7424d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240901227
+status: 3
+tags: []
+user_id: unknown

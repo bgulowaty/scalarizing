@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a6e2b371f10f4b8a9bfe7c34c2e336c8/artifacts
+end_time: 1669948565969
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6e2b371f10f4b8a9bfe7c34c2e336c8
+run_name: enchanting-loon-929
+run_uuid: a6e2b371f10f4b8a9bfe7c34c2e336c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241134863
+status: 3
+tags: []
+user_id: unknown

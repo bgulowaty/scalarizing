@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0bda46ba2cae4c17929a03ef38d9b036/artifacts
+end_time: 1669944076439
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0bda46ba2cae4c17929a03ef38d9b036
+run_name: legendary-dog-223
+run_uuid: 0bda46ba2cae4c17929a03ef38d9b036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242155741
+status: 3
+tags: []
+user_id: unknown

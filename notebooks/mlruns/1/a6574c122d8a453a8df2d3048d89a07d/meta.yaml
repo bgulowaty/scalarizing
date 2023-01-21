@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a6574c122d8a453a8df2d3048d89a07d/artifacts
+end_time: 1669952833433
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6574c122d8a453a8df2d3048d89a07d
+run_name: nervous-shad-694
+run_uuid: a6574c122d8a453a8df2d3048d89a07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240403326
+status: 3
+tags: []
+user_id: unknown

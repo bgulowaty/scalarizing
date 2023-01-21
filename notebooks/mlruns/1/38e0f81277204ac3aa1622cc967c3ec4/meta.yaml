@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/38e0f81277204ac3aa1622cc967c3ec4/artifacts
+end_time: 1669945086652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38e0f81277204ac3aa1622cc967c3ec4
+run_name: overjoyed-wasp-518
+run_uuid: 38e0f81277204ac3aa1622cc967c3ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241895383
+status: 3
+tags: []
+user_id: unknown

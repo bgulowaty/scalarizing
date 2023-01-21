@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ced7bff3a8d2453f811b1aa91f991058/artifacts
+end_time: 1669945680615
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ced7bff3a8d2453f811b1aa91f991058
+run_name: suave-bug-399
+run_uuid: ced7bff3a8d2453f811b1aa91f991058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241754400
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b857a21224744067ac4ad196924581cf/artifacts
+end_time: 1669948841152
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b857a21224744067ac4ad196924581cf
+run_name: stylish-tern-59
+run_uuid: b857a21224744067ac4ad196924581cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241121143
+status: 3
+tags: []
+user_id: unknown

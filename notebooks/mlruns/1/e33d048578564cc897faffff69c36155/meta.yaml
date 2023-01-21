@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e33d048578564cc897faffff69c36155/artifacts
+end_time: 1670104405667
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e33d048578564cc897faffff69c36155
+run_name: grandiose-asp-711
+run_uuid: e33d048578564cc897faffff69c36155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239999299
+status: 3
+tags: []
+user_id: unknown

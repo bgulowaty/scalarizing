@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e9f070de62f940208db870159bfdd10a/artifacts
+end_time: 1669950724628
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9f070de62f940208db870159bfdd10a
+run_name: kindly-midge-106
+run_uuid: e9f070de62f940208db870159bfdd10a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240696413
+status: 3
+tags: []
+user_id: unknown

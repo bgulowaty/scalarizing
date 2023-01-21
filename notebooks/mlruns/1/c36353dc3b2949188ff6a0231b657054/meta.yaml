@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c36353dc3b2949188ff6a0231b657054/artifacts
+end_time: 1670181726771
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c36353dc3b2949188ff6a0231b657054
+run_name: righteous-lynx-455
+run_uuid: c36353dc3b2949188ff6a0231b657054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239965569
+status: 3
+tags: []
+user_id: unknown

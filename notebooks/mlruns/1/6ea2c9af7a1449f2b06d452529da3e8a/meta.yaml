@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6ea2c9af7a1449f2b06d452529da3e8a/artifacts
+end_time: 1670181757398
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ea2c9af7a1449f2b06d452529da3e8a
+run_name: silent-elk-63
+run_uuid: 6ea2c9af7a1449f2b06d452529da3e8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239942829
+status: 3
+tags: []
+user_id: unknown

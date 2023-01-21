@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4fba8dcb1fe7430fab2e2040102e57a3/artifacts
+end_time: 1669952481386
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4fba8dcb1fe7430fab2e2040102e57a3
+run_name: bouncy-shrimp-690
+run_uuid: 4fba8dcb1fe7430fab2e2040102e57a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240491292
+status: 3
+tags: []
+user_id: unknown

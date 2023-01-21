@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d287933cd2904d0ebb41e375f9af91a4/artifacts
+end_time: 1670181116872
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d287933cd2904d0ebb41e375f9af91a4
+run_name: overjoyed-bird-114
+run_uuid: d287933cd2904d0ebb41e375f9af91a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241162479
+status: 3
+tags: []
+user_id: unknown

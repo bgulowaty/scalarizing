@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc2a327b33364dc1943510bd45cc62a4/artifacts
+end_time: 1669954090600
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc2a327b33364dc1943510bd45cc62a4
+run_name: gifted-trout-721
+run_uuid: fc2a327b33364dc1943510bd45cc62a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240268579
+status: 3
+tags: []
+user_id: unknown

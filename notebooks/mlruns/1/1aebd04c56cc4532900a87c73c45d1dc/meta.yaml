@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1aebd04c56cc4532900a87c73c45d1dc/artifacts
+end_time: 1669955933143
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1aebd04c56cc4532900a87c73c45d1dc
+run_name: adaptable-foal-725
+run_uuid: 1aebd04c56cc4532900a87c73c45d1dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240106754
+status: 3
+tags: []
+user_id: unknown

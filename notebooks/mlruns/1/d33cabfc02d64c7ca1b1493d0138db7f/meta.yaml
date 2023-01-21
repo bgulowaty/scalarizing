@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d33cabfc02d64c7ca1b1493d0138db7f/artifacts
+end_time: 1670180878908
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d33cabfc02d64c7ca1b1493d0138db7f
+run_name: unleashed-lark-853
+run_uuid: d33cabfc02d64c7ca1b1493d0138db7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241206694
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3b7a61ee2fc349deb6b86551473d47a3/artifacts
+end_time: 1669944584766
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b7a61ee2fc349deb6b86551473d47a3
+run_name: placid-kit-621
+run_uuid: 3b7a61ee2fc349deb6b86551473d47a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242033137
+status: 3
+tags: []
+user_id: unknown

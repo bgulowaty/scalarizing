@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bae980d3c448467181ab10732ade312e/artifacts
+end_time: 1670102910829
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bae980d3c448467181ab10732ade312e
+run_name: rumbling-skink-858
+run_uuid: bae980d3c448467181ab10732ade312e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241906398
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/71e72e39d6e94887a460982ea85fca00/artifacts
+end_time: 1669953164226
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 71e72e39d6e94887a460982ea85fca00
+run_name: honorable-calf-580
+run_uuid: 71e72e39d6e94887a460982ea85fca00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240365709
+status: 3
+tags: []
+user_id: unknown

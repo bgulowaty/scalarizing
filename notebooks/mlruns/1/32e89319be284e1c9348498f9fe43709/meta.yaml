@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/32e89319be284e1c9348498f9fe43709/artifacts
+end_time: 1670180842437
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32e89319be284e1c9348498f9fe43709
+run_name: nervous-doe-343
+run_uuid: 32e89319be284e1c9348498f9fe43709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241644238
+status: 3
+tags: []
+user_id: unknown

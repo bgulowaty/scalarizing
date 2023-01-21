@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/412b42b5e2294c16ba171b5f2627c241/artifacts
+end_time: 1670102077012
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 412b42b5e2294c16ba171b5f2627c241
+run_name: calm-conch-65
+run_uuid: 412b42b5e2294c16ba171b5f2627c241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242657671
+status: 3
+tags: []
+user_id: unknown

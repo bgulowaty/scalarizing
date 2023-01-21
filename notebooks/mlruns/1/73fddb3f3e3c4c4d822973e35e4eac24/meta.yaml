@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/73fddb3f3e3c4c4d822973e35e4eac24/artifacts
+end_time: 1669955921570
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73fddb3f3e3c4c4d822973e35e4eac24
+run_name: gaudy-crane-750
+run_uuid: 73fddb3f3e3c4c4d822973e35e4eac24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240100940
+status: 3
+tags: []
+user_id: unknown

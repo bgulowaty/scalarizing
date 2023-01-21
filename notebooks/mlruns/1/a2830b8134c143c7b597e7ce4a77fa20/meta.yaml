@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a2830b8134c143c7b597e7ce4a77fa20/artifacts
+end_time: 1669955009887
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2830b8134c143c7b597e7ce4a77fa20
+run_name: omniscient-shad-221
+run_uuid: a2830b8134c143c7b597e7ce4a77fa20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240185537
+status: 3
+tags: []
+user_id: unknown

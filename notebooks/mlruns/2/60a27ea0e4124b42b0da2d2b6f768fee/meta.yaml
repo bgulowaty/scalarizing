@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/60a27ea0e4124b42b0da2d2b6f768fee/artifacts
+end_time: 1670162287033
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 60a27ea0e4124b42b0da2d2b6f768fee
+run_name: sincere-hare-472
+run_uuid: 60a27ea0e4124b42b0da2d2b6f768fee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150372131
+status: 3
+tags: []
+user_id: unknown

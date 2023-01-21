@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fa06ab0a36624908a7e51b2838a505fe/artifacts
+end_time: 1670162181558
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fa06ab0a36624908a7e51b2838a505fe
+run_name: useful-shrew-535
+run_uuid: fa06ab0a36624908a7e51b2838a505fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150422947
+status: 3
+tags: []
+user_id: unknown

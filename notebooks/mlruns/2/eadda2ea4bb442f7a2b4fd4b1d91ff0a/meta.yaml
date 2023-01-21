@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/eadda2ea4bb442f7a2b4fd4b1d91ff0a/artifacts
+end_time: 1670162069961
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: eadda2ea4bb442f7a2b4fd4b1d91ff0a
+run_name: lyrical-squirrel-705
+run_uuid: eadda2ea4bb442f7a2b4fd4b1d91ff0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150451199
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/20fa506f88fa40b3bb0a88865b3aac3a/artifacts
+end_time: 1669954562240
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 20fa506f88fa40b3bb0a88865b3aac3a
+run_name: masked-lark-792
+run_uuid: 20fa506f88fa40b3bb0a88865b3aac3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240216814
+status: 3
+tags: []
+user_id: unknown

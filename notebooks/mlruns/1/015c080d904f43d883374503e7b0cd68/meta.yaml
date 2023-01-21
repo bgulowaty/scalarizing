@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/015c080d904f43d883374503e7b0cd68/artifacts
+end_time: 1670104092807
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 015c080d904f43d883374503e7b0cd68
+run_name: serious-frog-886
+run_uuid: 015c080d904f43d883374503e7b0cd68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240020834
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b569e4e947b9490691e4d7302ad2540f/artifacts
+end_time: 1669947015252
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b569e4e947b9490691e4d7302ad2540f
+run_name: rogue-ray-163
+run_uuid: b569e4e947b9490691e4d7302ad2540f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241442965
+status: 3
+tags: []
+user_id: unknown

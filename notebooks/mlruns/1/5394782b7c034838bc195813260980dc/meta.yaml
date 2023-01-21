@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5394782b7c034838bc195813260980dc/artifacts
+end_time: 1669946330287
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5394782b7c034838bc195813260980dc
+run_name: auspicious-robin-889
+run_uuid: 5394782b7c034838bc195813260980dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241602841
+status: 3
+tags: []
+user_id: unknown

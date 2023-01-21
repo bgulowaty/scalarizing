@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/945591d052774f048e860295aba0cbcb/artifacts
+end_time: 1669950135899
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 945591d052774f048e860295aba0cbcb
+run_name: loud-sheep-694
+run_uuid: 945591d052774f048e860295aba0cbcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240819183
+status: 3
+tags: []
+user_id: unknown

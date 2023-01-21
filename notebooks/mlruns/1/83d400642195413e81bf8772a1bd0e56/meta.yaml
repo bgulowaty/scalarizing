@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/83d400642195413e81bf8772a1bd0e56/artifacts
+end_time: 1669945740590
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83d400642195413e81bf8772a1bd0e56
+run_name: kindly-lamb-490
+run_uuid: 83d400642195413e81bf8772a1bd0e56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241727461
+status: 3
+tags: []
+user_id: unknown

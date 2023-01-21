@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e95d6c4e243045cab07a4510eb0a4eaf/artifacts
+end_time: 1670180873919
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e95d6c4e243045cab07a4510eb0a4eaf
+run_name: painted-panda-72
+run_uuid: e95d6c4e243045cab07a4510eb0a4eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241224191
+status: 3
+tags: []
+user_id: unknown

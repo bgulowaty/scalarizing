@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6615b9323abe4c8bb5ebe61cd574768f/artifacts
+end_time: 1669954563961
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6615b9323abe4c8bb5ebe61cd574768f
+run_name: upset-kite-770
+run_uuid: 6615b9323abe4c8bb5ebe61cd574768f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240220103
+status: 3
+tags: []
+user_id: unknown

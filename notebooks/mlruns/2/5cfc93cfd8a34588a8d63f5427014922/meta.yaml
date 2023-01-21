@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5cfc93cfd8a34588a8d63f5427014922/artifacts
+end_time: 1670162504607
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5cfc93cfd8a34588a8d63f5427014922
+run_name: painted-fox-242
+run_uuid: 5cfc93cfd8a34588a8d63f5427014922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150302440
+status: 3
+tags: []
+user_id: unknown

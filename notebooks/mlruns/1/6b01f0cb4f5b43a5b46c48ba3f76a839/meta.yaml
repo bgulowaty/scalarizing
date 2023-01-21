@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6b01f0cb4f5b43a5b46c48ba3f76a839/artifacts
+end_time: 1670102312765
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6b01f0cb4f5b43a5b46c48ba3f76a839
+run_name: beautiful-sloth-582
+run_uuid: 6b01f0cb4f5b43a5b46c48ba3f76a839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242609966
+status: 3
+tags: []
+user_id: unknown

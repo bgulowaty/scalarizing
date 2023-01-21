@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/268eef2c3c8444098e886aca06807515/artifacts
+end_time: 1669951305833
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 268eef2c3c8444098e886aca06807515
+run_name: flawless-goose-82
+run_uuid: 268eef2c3c8444098e886aca06807515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240614791
+status: 3
+tags: []
+user_id: unknown

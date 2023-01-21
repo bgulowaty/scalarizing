@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ad437e7f74474d8e880d979a9d5f0daa/artifacts
+end_time: 1669948199362
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad437e7f74474d8e880d979a9d5f0daa
+run_name: skillful-fish-396
+run_uuid: ad437e7f74474d8e880d979a9d5f0daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241231221
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/47cc71b5111045da9f4b8a79c0578751/artifacts
+end_time: 1669945144970
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47cc71b5111045da9f4b8a79c0578751
+run_name: angry-moose-952
+run_uuid: 47cc71b5111045da9f4b8a79c0578751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241865854
+status: 3
+tags: []
+user_id: unknown

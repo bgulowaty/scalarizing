@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7a45e10e81b64ecebb377e8ea8c1b779/artifacts
+end_time: 1669942711755
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a45e10e81b64ecebb377e8ea8c1b779
+run_name: blushing-bat-242
+run_uuid: 7a45e10e81b64ecebb377e8ea8c1b779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242532304
+status: 3
+tags: []
+user_id: unknown

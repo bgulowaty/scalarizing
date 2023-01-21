@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a13045ac39f748929b0dbe457fa26deb/artifacts
+end_time: 1670106297692
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a13045ac39f748929b0dbe457fa26deb
+run_name: unequaled-goat-104
+run_uuid: a13045ac39f748929b0dbe457fa26deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239895479
+status: 3
+tags: []
+user_id: unknown

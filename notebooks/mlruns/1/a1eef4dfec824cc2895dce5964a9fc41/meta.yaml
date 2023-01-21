@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a1eef4dfec824cc2895dce5964a9fc41/artifacts
+end_time: 1669946925409
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1eef4dfec824cc2895dce5964a9fc41
+run_name: luminous-bat-782
+run_uuid: a1eef4dfec824cc2895dce5964a9fc41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241480524
+status: 3
+tags: []
+user_id: unknown

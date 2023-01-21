@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb370f049f5c4e1cae0fac9997e45952/artifacts
+end_time: 1669952898496
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb370f049f5c4e1cae0fac9997e45952
+run_name: gaudy-crab-796
+run_uuid: fb370f049f5c4e1cae0fac9997e45952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240388610
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a5bdb322d7504acc882316aaf08e48ac/artifacts
+end_time: 1669942380729
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5bdb322d7504acc882316aaf08e48ac
+run_name: exultant-cub-492
+run_uuid: a5bdb322d7504acc882316aaf08e48ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242794155
+status: 3
+tags: []
+user_id: unknown

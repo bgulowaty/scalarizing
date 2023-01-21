@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fd6eed28db5a448396c265116800370b/artifacts
+end_time: 1669956229180
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd6eed28db5a448396c265116800370b
+run_name: vaunted-crow-655
+run_uuid: fd6eed28db5a448396c265116800370b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240080881
+status: 3
+tags: []
+user_id: unknown

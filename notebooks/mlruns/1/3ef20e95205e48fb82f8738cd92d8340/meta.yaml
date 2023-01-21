@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3ef20e95205e48fb82f8738cd92d8340/artifacts
+end_time: 1669944297244
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ef20e95205e48fb82f8738cd92d8340
+run_name: inquisitive-lynx-553
+run_uuid: 3ef20e95205e48fb82f8738cd92d8340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242105492
+status: 3
+tags: []
+user_id: unknown

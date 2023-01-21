@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e58263009d0c4abb8e61e241e2bc5e46/artifacts
+end_time: 1669951295197
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e58263009d0c4abb8e61e241e2bc5e46
+run_name: dazzling-hawk-109
+run_uuid: e58263009d0c4abb8e61e241e2bc5e46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240609695
+status: 3
+tags: []
+user_id: unknown

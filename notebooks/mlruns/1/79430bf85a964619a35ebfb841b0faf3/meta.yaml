@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/79430bf85a964619a35ebfb841b0faf3/artifacts
+end_time: 1670105990673
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79430bf85a964619a35ebfb841b0faf3
+run_name: blushing-snipe-384
+run_uuid: 79430bf85a964619a35ebfb841b0faf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239907049
+status: 3
+tags: []
+user_id: unknown

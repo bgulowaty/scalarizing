@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bdf139b6898d48d094e4e764fb350c6c/artifacts
+end_time: 1669948710258
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bdf139b6898d48d094e4e764fb350c6c
+run_name: victorious-slug-437
+run_uuid: bdf139b6898d48d094e4e764fb350c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241130284
+status: 3
+tags: []
+user_id: unknown

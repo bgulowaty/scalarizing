@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/994d8b85be064ae69386a6932a4ea61a/artifacts
+end_time: 1669947570778
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 994d8b85be064ae69386a6932a4ea61a
+run_name: shivering-wolf-291
+run_uuid: 994d8b85be064ae69386a6932a4ea61a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241342017
+status: 3
+tags: []
+user_id: unknown

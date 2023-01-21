@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1b1c869a33554b1ebc30d4169fce7f2c/artifacts
+end_time: 1670104715440
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b1c869a33554b1ebc30d4169fce7f2c
+run_name: intrigued-sheep-466
+run_uuid: 1b1c869a33554b1ebc30d4169fce7f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239979533
+status: 3
+tags: []
+user_id: unknown

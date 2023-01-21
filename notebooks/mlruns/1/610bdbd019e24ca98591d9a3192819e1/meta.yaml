@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/610bdbd019e24ca98591d9a3192819e1/artifacts
+end_time: 1669949129923
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 610bdbd019e24ca98591d9a3192819e1
+run_name: flawless-hawk-555
+run_uuid: 610bdbd019e24ca98591d9a3192819e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241061246
+status: 3
+tags: []
+user_id: unknown

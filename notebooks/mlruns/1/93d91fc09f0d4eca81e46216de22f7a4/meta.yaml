@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/93d91fc09f0d4eca81e46216de22f7a4/artifacts
+end_time: 1669942417547
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93d91fc09f0d4eca81e46216de22f7a4
+run_name: useful-bass-721
+run_uuid: 93d91fc09f0d4eca81e46216de22f7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242815693
+status: 3
+tags: []
+user_id: unknown

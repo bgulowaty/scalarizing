@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09450634a5bb46cda9777fb2c43c7c36/artifacts
+end_time: 1669951355315
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09450634a5bb46cda9777fb2c43c7c36
+run_name: debonair-frog-906
+run_uuid: 09450634a5bb46cda9777fb2c43c7c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240593811
+status: 3
+tags: []
+user_id: unknown

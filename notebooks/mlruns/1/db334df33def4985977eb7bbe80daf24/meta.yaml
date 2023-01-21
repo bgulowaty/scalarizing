@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/db334df33def4985977eb7bbe80daf24/artifacts
+end_time: 1669954091021
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db334df33def4985977eb7bbe80daf24
+run_name: rambunctious-dog-173
+run_uuid: db334df33def4985977eb7bbe80daf24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240268261
+status: 3
+tags: []
+user_id: unknown

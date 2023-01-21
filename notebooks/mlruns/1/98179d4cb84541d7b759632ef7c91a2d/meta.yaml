@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/98179d4cb84541d7b759632ef7c91a2d/artifacts
+end_time: 1669947867475
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98179d4cb84541d7b759632ef7c91a2d
+run_name: bemused-jay-242
+run_uuid: 98179d4cb84541d7b759632ef7c91a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241308229
+status: 3
+tags: []
+user_id: unknown

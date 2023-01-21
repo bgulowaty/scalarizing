@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d092b08b788445dab1ab33bdc20735a9/artifacts
+end_time: 1669947320757
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d092b08b788445dab1ab33bdc20735a9
+run_name: wistful-yak-216
+run_uuid: d092b08b788445dab1ab33bdc20735a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241375155
+status: 3
+tags: []
+user_id: unknown

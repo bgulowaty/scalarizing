@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dc3b9b1ff7374964a5152220d21f475a/artifacts
+end_time: 1669955071689
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc3b9b1ff7374964a5152220d21f475a
+run_name: likeable-moose-763
+run_uuid: dc3b9b1ff7374964a5152220d21f475a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240166575
+status: 3
+tags: []
+user_id: unknown

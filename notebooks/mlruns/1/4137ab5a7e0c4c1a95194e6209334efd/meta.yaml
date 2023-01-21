@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4137ab5a7e0c4c1a95194e6209334efd/artifacts
+end_time: 1669955010391
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4137ab5a7e0c4c1a95194e6209334efd
+run_name: enchanting-bird-331
+run_uuid: 4137ab5a7e0c4c1a95194e6209334efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240171601
+status: 3
+tags: []
+user_id: unknown

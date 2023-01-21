@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/efaae154de344ad4a3a58c2732004619/artifacts
+end_time: 1670181423158
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efaae154de344ad4a3a58c2732004619
+run_name: nebulous-newt-106
+run_uuid: efaae154de344ad4a3a58c2732004619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240270053
+status: 3
+tags: []
+user_id: unknown

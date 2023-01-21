@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/15f463aa24bd464382c0941c7aa75b8c/artifacts
+end_time: 1669955024482
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15f463aa24bd464382c0941c7aa75b8c
+run_name: dapper-shoat-354
+run_uuid: 15f463aa24bd464382c0941c7aa75b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240180491
+status: 3
+tags: []
+user_id: unknown

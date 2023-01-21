@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9ab680c640334bd58303af0073af8036/artifacts
+end_time: 1669944880795
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ab680c640334bd58303af0073af8036
+run_name: merciful-ray-307
+run_uuid: 9ab680c640334bd58303af0073af8036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241952319
+status: 3
+tags: []
+user_id: unknown

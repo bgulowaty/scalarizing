@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cace92c338c94118a401951aa0426f49/artifacts
+end_time: 1669945090426
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cace92c338c94118a401951aa0426f49
+run_name: able-snake-834
+run_uuid: cace92c338c94118a401951aa0426f49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241907641
+status: 3
+tags: []
+user_id: unknown

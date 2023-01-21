@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e344c80902e44f01874c3ea5404231d9/artifacts
+end_time: 1669950992852
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e344c80902e44f01874c3ea5404231d9
+run_name: gaudy-vole-965
+run_uuid: e344c80902e44f01874c3ea5404231d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240664374
+status: 3
+tags: []
+user_id: unknown

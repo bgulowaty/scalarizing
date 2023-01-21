@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4eaf779fcb8140c0926c236c0c34d090/artifacts
+end_time: 1669944440524
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4eaf779fcb8140c0926c236c0c34d090
+run_name: worried-penguin-326
+run_uuid: 4eaf779fcb8140c0926c236c0c34d090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242072255
+status: 3
+tags: []
+user_id: unknown

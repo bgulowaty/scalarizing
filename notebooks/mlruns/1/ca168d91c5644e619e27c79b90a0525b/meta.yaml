@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ca168d91c5644e619e27c79b90a0525b/artifacts
+end_time: 1669946616017
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca168d91c5644e619e27c79b90a0525b
+run_name: rumbling-dog-909
+run_uuid: ca168d91c5644e619e27c79b90a0525b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241551240
+status: 3
+tags: []
+user_id: unknown

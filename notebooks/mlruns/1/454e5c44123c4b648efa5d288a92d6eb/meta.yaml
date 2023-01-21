@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/454e5c44123c4b648efa5d288a92d6eb/artifacts
+end_time: 1670105371453
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 454e5c44123c4b648efa5d288a92d6eb
+run_name: kindly-goose-690
+run_uuid: 454e5c44123c4b648efa5d288a92d6eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239937516
+status: 3
+tags: []
+user_id: unknown

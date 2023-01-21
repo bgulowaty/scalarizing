@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7b3240f056364917986a32d193a370fb/artifacts
+end_time: 1670105698199
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b3240f056364917986a32d193a370fb
+run_name: defiant-grouse-881
+run_uuid: 7b3240f056364917986a32d193a370fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239920018
+status: 3
+tags: []
+user_id: unknown

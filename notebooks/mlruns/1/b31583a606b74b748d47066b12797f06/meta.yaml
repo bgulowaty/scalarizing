@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b31583a606b74b748d47066b12797f06/artifacts
+end_time: 1670181728869
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b31583a606b74b748d47066b12797f06
+run_name: judicious-wren-63
+run_uuid: b31583a606b74b748d47066b12797f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240012370
+status: 3
+tags: []
+user_id: unknown

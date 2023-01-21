@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3aeebdc35dd247c693f0ad11375edd97/artifacts
+end_time: 1670162832144
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3aeebdc35dd247c693f0ad11375edd97
+run_name: glamorous-moose-286
+run_uuid: 3aeebdc35dd247c693f0ad11375edd97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150197767
+status: 3
+tags: []
+user_id: unknown

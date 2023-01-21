@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e5a831ceb87b4091a260916a02ffc95e/artifacts
+end_time: 1669953535787
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5a831ceb87b4091a260916a02ffc95e
+run_name: selective-pug-853
+run_uuid: e5a831ceb87b4091a260916a02ffc95e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240322016
+status: 3
+tags: []
+user_id: unknown

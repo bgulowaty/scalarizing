@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5b30c49b8e9648cf8fb37d820b2fe40f/artifacts
+end_time: 1669952837364
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b30c49b8e9648cf8fb37d820b2fe40f
+run_name: unleashed-owl-854
+run_uuid: 5b30c49b8e9648cf8fb37d820b2fe40f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240400243
+status: 3
+tags: []
+user_id: unknown

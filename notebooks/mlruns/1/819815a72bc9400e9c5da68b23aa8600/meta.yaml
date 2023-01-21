@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/819815a72bc9400e9c5da68b23aa8600/artifacts
+end_time: 1670181724763
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 819815a72bc9400e9c5da68b23aa8600
+run_name: masked-cod-640
+run_uuid: 819815a72bc9400e9c5da68b23aa8600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240024326
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5f936d0657a047d2b826748990265031/artifacts
+end_time: 1670105673654
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f936d0657a047d2b826748990265031
+run_name: mercurial-skink-37
+run_uuid: 5f936d0657a047d2b826748990265031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239920544
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d922a591f9ea45feb911cd8db18bf4db/artifacts
+end_time: 1669942811445
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d922a591f9ea45feb911cd8db18bf4db
+run_name: nervous-hare-350
+run_uuid: d922a591f9ea45feb911cd8db18bf4db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242501952
+status: 3
+tags: []
+user_id: unknown

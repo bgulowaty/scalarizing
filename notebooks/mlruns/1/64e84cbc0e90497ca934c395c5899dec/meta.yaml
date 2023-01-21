@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64e84cbc0e90497ca934c395c5899dec/artifacts
+end_time: 1669948788038
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64e84cbc0e90497ca934c395c5899dec
+run_name: crawling-lynx-594
+run_uuid: 64e84cbc0e90497ca934c395c5899dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241117516
+status: 3
+tags: []
+user_id: unknown

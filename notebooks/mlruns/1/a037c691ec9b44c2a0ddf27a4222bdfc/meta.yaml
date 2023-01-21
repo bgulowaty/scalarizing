@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a037c691ec9b44c2a0ddf27a4222bdfc/artifacts
+end_time: 1669948543575
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a037c691ec9b44c2a0ddf27a4222bdfc
+run_name: debonair-wasp-94
+run_uuid: a037c691ec9b44c2a0ddf27a4222bdfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241146974
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e80a8093652b47979213eb12e2481a2e/artifacts
+end_time: 1669955608959
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e80a8093652b47979213eb12e2481a2e
+run_name: able-snail-801
+run_uuid: e80a8093652b47979213eb12e2481a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240126308
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/66c81c55eaf74ecc8c16eafe09f0cf55/artifacts
+end_time: 1670181454481
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66c81c55eaf74ecc8c16eafe09f0cf55
+run_name: useful-dog-294
+run_uuid: 66c81c55eaf74ecc8c16eafe09f0cf55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240167201
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/612b5fd405de4691b19f393d3c99cb2d/artifacts
+end_time: 1669948502584
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 612b5fd405de4691b19f393d3c99cb2d
+run_name: dapper-penguin-722
+run_uuid: 612b5fd405de4691b19f393d3c99cb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241150745
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/eb409952821742e3950b31e1dc572aa2/artifacts
+end_time: 1670162509863
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: eb409952821742e3950b31e1dc572aa2
+run_name: agreeable-loon-805
+run_uuid: eb409952821742e3950b31e1dc572aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150289456
+status: 3
+tags: []
+user_id: unknown

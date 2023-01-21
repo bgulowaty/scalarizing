@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d7a8d63832d948b49417fd77bdc3c68a/artifacts
+end_time: 1669942809936
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7a8d63832d948b49417fd77bdc3c68a
+run_name: youthful-stork-30
+run_uuid: d7a8d63832d948b49417fd77bdc3c68a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242501140
+status: 3
+tags: []
+user_id: unknown

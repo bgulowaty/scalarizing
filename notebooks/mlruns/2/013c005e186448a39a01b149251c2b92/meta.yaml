@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/013c005e186448a39a01b149251c2b92/artifacts
+end_time: 1670162723399
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 013c005e186448a39a01b149251c2b92
+run_name: charming-bird-824
+run_uuid: 013c005e186448a39a01b149251c2b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150228086
+status: 3
+tags: []
+user_id: unknown

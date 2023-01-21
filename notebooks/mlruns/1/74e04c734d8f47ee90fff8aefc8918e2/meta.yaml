@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/74e04c734d8f47ee90fff8aefc8918e2/artifacts
+end_time: 1670105994162
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74e04c734d8f47ee90fff8aefc8918e2
+run_name: silent-moose-109
+run_uuid: 74e04c734d8f47ee90fff8aefc8918e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239906434
+status: 3
+tags: []
+user_id: unknown

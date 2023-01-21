@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3b83a1c087f945ccbdcba83d5aa8d01b/artifacts
+end_time: 1670105963481
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b83a1c087f945ccbdcba83d5aa8d01b
+run_name: unruly-mink-883
+run_uuid: 3b83a1c087f945ccbdcba83d5aa8d01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239912999
+status: 3
+tags: []
+user_id: unknown

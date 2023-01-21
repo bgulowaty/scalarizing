@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3d35d04729274572873a7a57aedf292c/artifacts
+end_time: 1669942565635
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d35d04729274572873a7a57aedf292c
+run_name: gentle-cow-307
+run_uuid: 3d35d04729274572873a7a57aedf292c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242749165
+status: 3
+tags: []
+user_id: unknown

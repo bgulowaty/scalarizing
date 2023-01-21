@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/57e43a385a7840eebf409bce1fee0798/artifacts
+end_time: 1670105653766
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57e43a385a7840eebf409bce1fee0798
+run_name: indecisive-lamb-375
+run_uuid: 57e43a385a7840eebf409bce1fee0798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239924608
+status: 3
+tags: []
+user_id: unknown

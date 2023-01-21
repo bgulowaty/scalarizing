@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a35b34c2ee1244c3af86eceb8dd09668/artifacts
+end_time: 1669951610353
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a35b34c2ee1244c3af86eceb8dd09668
+run_name: peaceful-bear-803
+run_uuid: a35b34c2ee1244c3af86eceb8dd09668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240569737
+status: 3
+tags: []
+user_id: unknown

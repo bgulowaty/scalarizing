@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c140ae64ad3440eba682d6fd534dc405/artifacts
+end_time: 1669952229362
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c140ae64ad3440eba682d6fd534dc405
+run_name: delicate-cub-767
+run_uuid: c140ae64ad3440eba682d6fd534dc405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240499787
+status: 3
+tags: []
+user_id: unknown

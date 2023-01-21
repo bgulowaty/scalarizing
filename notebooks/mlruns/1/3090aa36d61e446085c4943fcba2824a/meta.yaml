@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3090aa36d61e446085c4943fcba2824a/artifacts
+end_time: 1669953801475
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3090aa36d61e446085c4943fcba2824a
+run_name: clean-mare-224
+run_uuid: 3090aa36d61e446085c4943fcba2824a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240298910
+status: 3
+tags: []
+user_id: unknown

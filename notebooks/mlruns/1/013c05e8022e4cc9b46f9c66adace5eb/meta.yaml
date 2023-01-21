@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/013c05e8022e4cc9b46f9c66adace5eb/artifacts
+end_time: 1669949398270
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 013c05e8022e4cc9b46f9c66adace5eb
+run_name: victorious-ray-987
+run_uuid: 013c05e8022e4cc9b46f9c66adace5eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241003468
+status: 3
+tags: []
+user_id: unknown

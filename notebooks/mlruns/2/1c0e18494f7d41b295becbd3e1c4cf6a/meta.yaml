@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1c0e18494f7d41b295becbd3e1c4cf6a/artifacts
+end_time: 1670162082303
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1c0e18494f7d41b295becbd3e1c4cf6a
+run_name: receptive-hen-18
+run_uuid: 1c0e18494f7d41b295becbd3e1c4cf6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150440142
+status: 3
+tags: []
+user_id: unknown

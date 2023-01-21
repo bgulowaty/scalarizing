@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cff978ee1c674a9dad8f7827ecb2519f/artifacts
+end_time: 1669945370680
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cff978ee1c674a9dad8f7827ecb2519f
+run_name: vaunted-dog-720
+run_uuid: cff978ee1c674a9dad8f7827ecb2519f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241900461
+status: 3
+tags: []
+user_id: unknown

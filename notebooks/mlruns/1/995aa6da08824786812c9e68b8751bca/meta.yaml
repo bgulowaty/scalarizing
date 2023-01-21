@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/995aa6da08824786812c9e68b8751bca/artifacts
+end_time: 1670180501811
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 995aa6da08824786812c9e68b8751bca
+run_name: auspicious-ram-65
+run_uuid: 995aa6da08824786812c9e68b8751bca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242659060
+status: 3
+tags: []
+user_id: unknown

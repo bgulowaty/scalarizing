@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/69822ccf495b48b1b1b18bdd6bdf7ac3/artifacts
+end_time: 1669948779355
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69822ccf495b48b1b1b18bdd6bdf7ac3
+run_name: monumental-snail-232
+run_uuid: 69822ccf495b48b1b1b18bdd6bdf7ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241119645
+status: 3
+tags: []
+user_id: unknown

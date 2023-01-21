@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a99189e91cb749b88106d7c9d82509a2/artifacts
+end_time: 1669951116748
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a99189e91cb749b88106d7c9d82509a2
+run_name: youthful-flea-347
+run_uuid: a99189e91cb749b88106d7c9d82509a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240640295
+status: 3
+tags: []
+user_id: unknown

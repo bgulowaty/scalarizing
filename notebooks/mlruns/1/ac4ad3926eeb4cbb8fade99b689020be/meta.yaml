@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac4ad3926eeb4cbb8fade99b689020be/artifacts
+end_time: 1669947297073
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac4ad3926eeb4cbb8fade99b689020be
+run_name: gaudy-cub-484
+run_uuid: ac4ad3926eeb4cbb8fade99b689020be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241383127
+status: 3
+tags: []
+user_id: unknown

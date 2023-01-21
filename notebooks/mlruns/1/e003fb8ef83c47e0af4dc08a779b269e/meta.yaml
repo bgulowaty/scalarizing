@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e003fb8ef83c47e0af4dc08a779b269e/artifacts
+end_time: 1669953841583
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e003fb8ef83c47e0af4dc08a779b269e
+run_name: whimsical-bird-434
+run_uuid: e003fb8ef83c47e0af4dc08a779b269e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240292213
+status: 3
+tags: []
+user_id: unknown

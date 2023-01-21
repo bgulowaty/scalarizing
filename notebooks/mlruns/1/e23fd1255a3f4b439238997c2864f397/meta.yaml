@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e23fd1255a3f4b439238997c2864f397/artifacts
+end_time: 1669943961371
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e23fd1255a3f4b439238997c2864f397
+run_name: flawless-skink-212
+run_uuid: e23fd1255a3f4b439238997c2864f397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242188072
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f04c520f2c142e19d81b6c9449841da/artifacts
+end_time: 1670105070108
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f04c520f2c142e19d81b6c9449841da
+run_name: indecisive-mink-967
+run_uuid: 9f04c520f2c142e19d81b6c9449841da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239949723
+status: 3
+tags: []
+user_id: unknown

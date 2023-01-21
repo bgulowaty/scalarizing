@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3f2346d9f27f4458aab0b7df051acc0f/artifacts
+end_time: 1669943516651
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f2346d9f27f4458aab0b7df051acc0f
+run_name: smiling-eel-143
+run_uuid: 3f2346d9f27f4458aab0b7df051acc0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242310822
+status: 3
+tags: []
+user_id: unknown

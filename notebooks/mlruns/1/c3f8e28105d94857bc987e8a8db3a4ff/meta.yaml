@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c3f8e28105d94857bc987e8a8db3a4ff/artifacts
+end_time: 1669951063817
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3f8e28105d94857bc987e8a8db3a4ff
+run_name: rumbling-midge-195
+run_uuid: c3f8e28105d94857bc987e8a8db3a4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240679375
+status: 3
+tags: []
+user_id: unknown

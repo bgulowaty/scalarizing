@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/54869a4c83094881bb6c6d46a57661ab/artifacts
+end_time: 1669951680462
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54869a4c83094881bb6c6d46a57661ab
+run_name: ambitious-shoat-518
+run_uuid: 54869a4c83094881bb6c6d46a57661ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240549938
+status: 3
+tags: []
+user_id: unknown

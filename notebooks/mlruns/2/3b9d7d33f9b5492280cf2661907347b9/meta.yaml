@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3b9d7d33f9b5492280cf2661907347b9/artifacts
+end_time: 1670162505102
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3b9d7d33f9b5492280cf2661907347b9
+run_name: orderly-lamb-227
+run_uuid: 3b9d7d33f9b5492280cf2661907347b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150307805
+status: 3
+tags: []
+user_id: unknown

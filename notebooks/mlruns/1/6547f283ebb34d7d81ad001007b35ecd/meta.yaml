@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6547f283ebb34d7d81ad001007b35ecd/artifacts
+end_time: 1669945699743
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6547f283ebb34d7d81ad001007b35ecd
+run_name: loud-stoat-186
+run_uuid: 6547f283ebb34d7d81ad001007b35ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241753515
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8a90f72ac2404129810f2519f84ab5a4/artifacts
+end_time: 1669948228704
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a90f72ac2404129810f2519f84ab5a4
+run_name: nimble-midge-959
+run_uuid: 8a90f72ac2404129810f2519f84ab5a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241210405
+status: 3
+tags: []
+user_id: unknown

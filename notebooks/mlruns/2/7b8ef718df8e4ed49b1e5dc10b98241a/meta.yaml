@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7b8ef718df8e4ed49b1e5dc10b98241a/artifacts
+end_time: 1670162398480
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7b8ef718df8e4ed49b1e5dc10b98241a
+run_name: nosy-fox-741
+run_uuid: 7b8ef718df8e4ed49b1e5dc10b98241a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150344847
+status: 3
+tags: []
+user_id: unknown

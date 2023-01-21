@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a1a54d184d614336bfbea670f08d17b7/artifacts
+end_time: 1669947298927
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1a54d184d614336bfbea670f08d17b7
+run_name: debonair-jay-403
+run_uuid: a1a54d184d614336bfbea670f08d17b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241407033
+status: 3
+tags: []
+user_id: unknown

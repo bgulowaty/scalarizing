@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc224ffbd9f84afd969ba3e9328e6e61/artifacts
+end_time: 1669955066789
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc224ffbd9f84afd969ba3e9328e6e61
+run_name: loud-owl-771
+run_uuid: fc224ffbd9f84afd969ba3e9328e6e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240162213
+status: 3
+tags: []
+user_id: unknown

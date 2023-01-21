@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/004df87e77884949955d804eac102edd/artifacts
+end_time: 1669946626226
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 004df87e77884949955d804eac102edd
+run_name: crawling-hare-849
+run_uuid: 004df87e77884949955d804eac102edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241560153
+status: 3
+tags: []
+user_id: unknown

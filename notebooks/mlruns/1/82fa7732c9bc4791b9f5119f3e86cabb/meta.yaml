@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/82fa7732c9bc4791b9f5119f3e86cabb/artifacts
+end_time: 1669943491794
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82fa7732c9bc4791b9f5119f3e86cabb
+run_name: big-hawk-141
+run_uuid: 82fa7732c9bc4791b9f5119f3e86cabb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242321524
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/18340fd2d0664f2ca9a85c2038bd8544/artifacts
+end_time: 1670181786777
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18340fd2d0664f2ca9a85c2038bd8544
+run_name: auspicious-dove-486
+run_uuid: 18340fd2d0664f2ca9a85c2038bd8544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239907907
+status: 3
+tags: []
+user_id: unknown

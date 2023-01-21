@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/197c31c97f1f4b14b55a1fe9218919bb/artifacts
+end_time: 1669953482758
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 197c31c97f1f4b14b55a1fe9218919bb
+run_name: defiant-elk-211
+run_uuid: 197c31c97f1f4b14b55a1fe9218919bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240330096
+status: 3
+tags: []
+user_id: unknown

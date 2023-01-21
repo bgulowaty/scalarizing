@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/898dbc2b2a4648c9b5d8a86052250ade/artifacts
+end_time: 1669942713793
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 898dbc2b2a4648c9b5d8a86052250ade
+run_name: tasteful-robin-391
+run_uuid: 898dbc2b2a4648c9b5d8a86052250ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242710485
+status: 3
+tags: []
+user_id: unknown

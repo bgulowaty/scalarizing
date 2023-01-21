@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b40ffb204ab44ea7aec9c4cca5517d63/artifacts
+end_time: 1669942720210
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b40ffb204ab44ea7aec9c4cca5517d63
+run_name: orderly-goose-133
+run_uuid: b40ffb204ab44ea7aec9c4cca5517d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242533059
+status: 3
+tags: []
+user_id: unknown

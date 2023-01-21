@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7f85d70b65f04c6994ac3e98d4567e37/artifacts
+end_time: 1670105341822
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7f85d70b65f04c6994ac3e98d4567e37
+run_name: inquisitive-mole-823
+run_uuid: 7f85d70b65f04c6994ac3e98d4567e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239941140
+status: 3
+tags: []
+user_id: unknown

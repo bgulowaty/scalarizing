@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/29769ee249984984ab06e51b762c3e08/artifacts
+end_time: 1669944387795
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29769ee249984984ab06e51b762c3e08
+run_name: rogue-shoat-764
+run_uuid: 29769ee249984984ab06e51b762c3e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242076457
+status: 3
+tags: []
+user_id: unknown

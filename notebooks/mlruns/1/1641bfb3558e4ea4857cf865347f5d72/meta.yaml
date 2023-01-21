@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1641bfb3558e4ea4857cf865347f5d72/artifacts
+end_time: 1669952898823
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1641bfb3558e4ea4857cf865347f5d72
+run_name: gaudy-snake-733
+run_uuid: 1641bfb3558e4ea4857cf865347f5d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240388498
+status: 3
+tags: []
+user_id: unknown

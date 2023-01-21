@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/2d6de1e339b34cfcaae4701f5c4f0d97/artifacts
+end_time: 1670161852799
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2d6de1e339b34cfcaae4701f5c4f0d97
+run_name: grandiose-tern-696
+run_uuid: 2d6de1e339b34cfcaae4701f5c4f0d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150547169
+status: 3
+tags: []
+user_id: unknown

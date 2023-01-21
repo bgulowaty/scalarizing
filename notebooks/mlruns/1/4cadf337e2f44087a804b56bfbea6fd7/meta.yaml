@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4cadf337e2f44087a804b56bfbea6fd7/artifacts
+end_time: 1669956225304
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4cadf337e2f44087a804b56bfbea6fd7
+run_name: abundant-ox-529
+run_uuid: 4cadf337e2f44087a804b56bfbea6fd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240075312
+status: 3
+tags: []
+user_id: unknown

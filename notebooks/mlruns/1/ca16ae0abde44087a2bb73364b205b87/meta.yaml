@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ca16ae0abde44087a2bb73364b205b87/artifacts
+end_time: 1669951605870
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca16ae0abde44087a2bb73364b205b87
+run_name: amusing-calf-878
+run_uuid: ca16ae0abde44087a2bb73364b205b87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240573584
+status: 3
+tags: []
+user_id: unknown

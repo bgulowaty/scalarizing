@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc32d331feed44b593e30dd82b237212/artifacts
+end_time: 1669950650563
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc32d331feed44b593e30dd82b237212
+run_name: dashing-calf-541
+run_uuid: fc32d331feed44b593e30dd82b237212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240739652
+status: 3
+tags: []
+user_id: unknown

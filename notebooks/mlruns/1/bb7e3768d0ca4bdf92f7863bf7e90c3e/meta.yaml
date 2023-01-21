@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bb7e3768d0ca4bdf92f7863bf7e90c3e/artifacts
+end_time: 1670104098378
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb7e3768d0ca4bdf92f7863bf7e90c3e
+run_name: defiant-asp-170
+run_uuid: bb7e3768d0ca4bdf92f7863bf7e90c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240021650
+status: 3
+tags: []
+user_id: unknown

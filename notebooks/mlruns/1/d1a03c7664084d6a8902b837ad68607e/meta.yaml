@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d1a03c7664084d6a8902b837ad68607e/artifacts
+end_time: 1669949186950
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1a03c7664084d6a8902b837ad68607e
+run_name: spiffy-bird-3
+run_uuid: d1a03c7664084d6a8902b837ad68607e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241028097
+status: 3
+tags: []
+user_id: unknown

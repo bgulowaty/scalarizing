@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b6ff224250ef43a98e5d3b21b2b1013c/artifacts
+end_time: 1670180609520
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6ff224250ef43a98e5d3b21b2b1013c
+run_name: calm-robin-638
+run_uuid: b6ff224250ef43a98e5d3b21b2b1013c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242148975
+status: 3
+tags: []
+user_id: unknown

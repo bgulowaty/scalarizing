@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/52e7cb4ed90c4a79b897445ae31c9852/artifacts
+end_time: 1669955361830
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52e7cb4ed90c4a79b897445ae31c9852
+run_name: painted-lynx-588
+run_uuid: 52e7cb4ed90c4a79b897445ae31c9852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240138064
+status: 3
+tags: []
+user_id: unknown

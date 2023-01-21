@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e24ab2c52cad4252a7b0af2b2df1d080/artifacts
+end_time: 1669954398499
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e24ab2c52cad4252a7b0af2b2df1d080
+run_name: gregarious-hog-298
+run_uuid: e24ab2c52cad4252a7b0af2b2df1d080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240238172
+status: 3
+tags: []
+user_id: unknown

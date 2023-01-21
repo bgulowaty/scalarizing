@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5c786116b7064103ae100245cd53efa2/artifacts
+end_time: 1669945993699
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c786116b7064103ae100245cd53efa2
+run_name: calm-duck-578
+run_uuid: 5c786116b7064103ae100245cd53efa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241689858
+status: 3
+tags: []
+user_id: unknown

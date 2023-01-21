@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2cf692bedf134218bfcd6cbef84389dd/artifacts
+end_time: 1670181120744
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2cf692bedf134218bfcd6cbef84389dd
+run_name: skittish-cod-1000
+run_uuid: 2cf692bedf134218bfcd6cbef84389dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240949108
+status: 3
+tags: []
+user_id: unknown

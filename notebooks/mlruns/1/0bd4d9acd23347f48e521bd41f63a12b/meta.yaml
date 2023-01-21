@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0bd4d9acd23347f48e521bd41f63a12b/artifacts
+end_time: 1669950672078
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0bd4d9acd23347f48e521bd41f63a12b
+run_name: gentle-smelt-116
+run_uuid: 0bd4d9acd23347f48e521bd41f63a12b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240741782
+status: 3
+tags: []
+user_id: unknown

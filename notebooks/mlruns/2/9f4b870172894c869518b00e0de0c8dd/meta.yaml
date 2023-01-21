@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9f4b870172894c869518b00e0de0c8dd/artifacts
+end_time: 1670162291158
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9f4b870172894c869518b00e0de0c8dd
+run_name: unleashed-toad-32
+run_uuid: 9f4b870172894c869518b00e0de0c8dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150361844
+status: 3
+tags: []
+user_id: unknown

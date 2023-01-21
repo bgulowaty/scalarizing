@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7b6ae4ec579443c8a9b5d2d6622dfda9/artifacts
+end_time: 1669942810433
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b6ae4ec579443c8a9b5d2d6622dfda9
+run_name: omniscient-kite-450
+run_uuid: 7b6ae4ec579443c8a9b5d2d6622dfda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242506101
+status: 3
+tags: []
+user_id: unknown

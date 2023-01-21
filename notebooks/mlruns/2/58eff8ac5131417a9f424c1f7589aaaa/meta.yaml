@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/58eff8ac5131417a9f424c1f7589aaaa/artifacts
+end_time: 1670162416400
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 58eff8ac5131417a9f424c1f7589aaaa
+run_name: honorable-goose-771
+run_uuid: 58eff8ac5131417a9f424c1f7589aaaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150319440
+status: 3
+tags: []
+user_id: unknown

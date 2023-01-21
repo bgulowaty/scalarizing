@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/14c0b947404d43e7a77b5fd375928bad/artifacts
+end_time: 1670181722088
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14c0b947404d43e7a77b5fd375928bad
+run_name: handsome-calf-133
+run_uuid: 14c0b947404d43e7a77b5fd375928bad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240028002
+status: 4
+tags: []
+user_id: unknown

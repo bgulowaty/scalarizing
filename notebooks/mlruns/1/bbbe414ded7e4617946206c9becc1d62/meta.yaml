@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bbbe414ded7e4617946206c9becc1d62/artifacts
+end_time: 1670104743086
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bbbe414ded7e4617946206c9becc1d62
+run_name: mercurial-asp-320
+run_uuid: bbbe414ded7e4617946206c9becc1d62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239971901
+status: 3
+tags: []
+user_id: unknown

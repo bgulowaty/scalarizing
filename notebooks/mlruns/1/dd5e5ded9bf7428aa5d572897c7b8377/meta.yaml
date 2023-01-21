@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dd5e5ded9bf7428aa5d572897c7b8377/artifacts
+end_time: 1670181482068
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd5e5ded9bf7428aa5d572897c7b8377
+run_name: gregarious-midge-231
+run_uuid: dd5e5ded9bf7428aa5d572897c7b8377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240115701
+status: 3
+tags: []
+user_id: unknown

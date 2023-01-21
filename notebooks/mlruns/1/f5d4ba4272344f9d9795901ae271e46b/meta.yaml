@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f5d4ba4272344f9d9795901ae271e46b/artifacts
+end_time: 1669950709932
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5d4ba4272344f9d9795901ae271e46b
+run_name: beautiful-swan-586
+run_uuid: f5d4ba4272344f9d9795901ae271e46b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240708492
+status: 3
+tags: []
+user_id: unknown

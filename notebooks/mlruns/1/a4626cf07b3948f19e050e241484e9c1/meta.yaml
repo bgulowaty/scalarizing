@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a4626cf07b3948f19e050e241484e9c1/artifacts
+end_time: 1669947845880
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4626cf07b3948f19e050e241484e9c1
+run_name: thundering-carp-929
+run_uuid: a4626cf07b3948f19e050e241484e9c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241310317
+status: 3
+tags: []
+user_id: unknown

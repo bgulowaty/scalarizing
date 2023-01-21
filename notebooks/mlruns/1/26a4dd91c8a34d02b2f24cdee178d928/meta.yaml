@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/26a4dd91c8a34d02b2f24cdee178d928/artifacts
+end_time: 1669954116015
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26a4dd91c8a34d02b2f24cdee178d928
+run_name: beautiful-duck-435
+run_uuid: 26a4dd91c8a34d02b2f24cdee178d928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240262829
+status: 3
+tags: []
+user_id: unknown

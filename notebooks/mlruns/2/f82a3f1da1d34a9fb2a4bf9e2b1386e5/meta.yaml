@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f82a3f1da1d34a9fb2a4bf9e2b1386e5/artifacts
+end_time: 1670162287621
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f82a3f1da1d34a9fb2a4bf9e2b1386e5
+run_name: bold-lynx-715
+run_uuid: f82a3f1da1d34a9fb2a4bf9e2b1386e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150377885
+status: 3
+tags: []
+user_id: unknown

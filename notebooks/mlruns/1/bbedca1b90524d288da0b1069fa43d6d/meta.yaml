@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bbedca1b90524d288da0b1069fa43d6d/artifacts
+end_time: 1669954776326
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bbedca1b90524d288da0b1069fa43d6d
+run_name: bustling-sloth-166
+run_uuid: bbedca1b90524d288da0b1069fa43d6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240194076
+status: 3
+tags: []
+user_id: unknown

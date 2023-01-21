@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e970467e02f148598c822eb654819c50/artifacts
+end_time: 1669946304008
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e970467e02f148598c822eb654819c50
+run_name: shivering-hen-363
+run_uuid: e970467e02f148598c822eb654819c50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241637287
+status: 3
+tags: []
+user_id: unknown

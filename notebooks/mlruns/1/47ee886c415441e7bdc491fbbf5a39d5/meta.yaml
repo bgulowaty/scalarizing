@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/47ee886c415441e7bdc491fbbf5a39d5/artifacts
+end_time: 1669951354573
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47ee886c415441e7bdc491fbbf5a39d5
+run_name: gifted-roo-595
+run_uuid: 47ee886c415441e7bdc491fbbf5a39d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240595020
+status: 3
+tags: []
+user_id: unknown

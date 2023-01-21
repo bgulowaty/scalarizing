@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/213ea6c220ac431ba537646a5899d959/artifacts
+end_time: 1670106579778
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 213ea6c220ac431ba537646a5899d959
+run_name: worried-rook-769
+run_uuid: 213ea6c220ac431ba537646a5899d959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239892116
+status: 3
+tags: []
+user_id: unknown

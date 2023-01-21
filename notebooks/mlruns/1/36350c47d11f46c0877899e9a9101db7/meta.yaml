@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/36350c47d11f46c0877899e9a9101db7/artifacts
+end_time: 1669950378682
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36350c47d11f46c0877899e9a9101db7
+run_name: aged-hen-421
+run_uuid: 36350c47d11f46c0877899e9a9101db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240786465
+status: 3
+tags: []
+user_id: unknown

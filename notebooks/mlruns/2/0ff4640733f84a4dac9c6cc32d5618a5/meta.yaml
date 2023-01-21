@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0ff4640733f84a4dac9c6cc32d5618a5/artifacts
+end_time: 1670162611542
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0ff4640733f84a4dac9c6cc32d5618a5
+run_name: clumsy-frog-797
+run_uuid: 0ff4640733f84a4dac9c6cc32d5618a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150269063
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a7cb97a078c64df5a7b53d894ca63146/artifacts
+end_time: 1669946610458
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7cb97a078c64df5a7b53d894ca63146
+run_name: flawless-stork-7
+run_uuid: a7cb97a078c64df5a7b53d894ca63146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241557141
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f36b97c4b54a4c729858cf9d32012638/artifacts
+end_time: 1670105968709
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f36b97c4b54a4c729858cf9d32012638
+run_name: glamorous-toad-156
+run_uuid: f36b97c4b54a4c729858cf9d32012638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239914631
+status: 3
+tags: []
+user_id: unknown

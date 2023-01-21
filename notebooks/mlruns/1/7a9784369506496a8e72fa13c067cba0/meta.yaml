@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7a9784369506496a8e72fa13c067cba0/artifacts
+end_time: 1669955389291
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a9784369506496a8e72fa13c067cba0
+run_name: treasured-stoat-761
+run_uuid: 7a9784369506496a8e72fa13c067cba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240149879
+status: 3
+tags: []
+user_id: unknown

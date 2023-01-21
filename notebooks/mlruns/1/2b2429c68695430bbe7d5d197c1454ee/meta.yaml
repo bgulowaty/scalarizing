@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2b2429c68695430bbe7d5d197c1454ee/artifacts
+end_time: 1669949433582
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b2429c68695430bbe7d5d197c1454ee
+run_name: mysterious-colt-23
+run_uuid: 2b2429c68695430bbe7d5d197c1454ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240977111
+status: 3
+tags: []
+user_id: unknown

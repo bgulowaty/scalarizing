@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ca5b72ee4e6d47039b7a028cb6c4ef6c/artifacts
+end_time: 1669955612242
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca5b72ee4e6d47039b7a028cb6c4ef6c
+run_name: colorful-fox-283
+run_uuid: ca5b72ee4e6d47039b7a028cb6c4ef6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240120608
+status: 3
+tags: []
+user_id: unknown

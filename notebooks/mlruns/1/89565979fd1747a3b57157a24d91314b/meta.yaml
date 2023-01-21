@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89565979fd1747a3b57157a24d91314b/artifacts
+end_time: 1669947170105
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89565979fd1747a3b57157a24d91314b
+run_name: redolent-shoat-655
+run_uuid: 89565979fd1747a3b57157a24d91314b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241448175
+status: 3
+tags: []
+user_id: unknown

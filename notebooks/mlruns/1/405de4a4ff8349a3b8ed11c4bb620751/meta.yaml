@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/405de4a4ff8349a3b8ed11c4bb620751/artifacts
+end_time: 1669950041264
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 405de4a4ff8349a3b8ed11c4bb620751
+run_name: overjoyed-hawk-863
+run_uuid: 405de4a4ff8349a3b8ed11c4bb620751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240840024
+status: 3
+tags: []
+user_id: unknown

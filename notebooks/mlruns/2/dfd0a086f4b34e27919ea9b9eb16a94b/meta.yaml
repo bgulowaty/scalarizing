@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/dfd0a086f4b34e27919ea9b9eb16a94b/artifacts
+end_time: 1670162175592
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: dfd0a086f4b34e27919ea9b9eb16a94b
+run_name: bold-conch-299
+run_uuid: dfd0a086f4b34e27919ea9b9eb16a94b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150419269
+status: 3
+tags: []
+user_id: unknown

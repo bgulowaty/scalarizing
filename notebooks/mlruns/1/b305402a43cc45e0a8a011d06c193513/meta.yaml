@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b305402a43cc45e0a8a011d06c193513/artifacts
+end_time: 1669951668955
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b305402a43cc45e0a8a011d06c193513
+run_name: thundering-conch-290
+run_uuid: b305402a43cc45e0a8a011d06c193513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240582520
+status: 3
+tags: []
+user_id: unknown

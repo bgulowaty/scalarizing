@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/38102a552bca4a368e68aeb3792c8d8a/artifacts
+end_time: 1669947474933
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38102a552bca4a368e68aeb3792c8d8a
+run_name: sassy-squirrel-459
+run_uuid: 38102a552bca4a368e68aeb3792c8d8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241421791
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aa4a9494104d4526942cb958cbcca665/artifacts
+end_time: 1669948816616
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa4a9494104d4526942cb958cbcca665
+run_name: unequaled-flea-583
+run_uuid: aa4a9494104d4526942cb958cbcca665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241104978
+status: 3
+tags: []
+user_id: unknown

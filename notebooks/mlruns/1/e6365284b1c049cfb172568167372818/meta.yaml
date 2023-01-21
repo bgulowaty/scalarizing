@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e6365284b1c049cfb172568167372818/artifacts
+end_time: 1670105744625
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6365284b1c049cfb172568167372818
+run_name: burly-zebra-131
+run_uuid: e6365284b1c049cfb172568167372818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239919524
+status: 3
+tags: []
+user_id: unknown

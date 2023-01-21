@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/914887b9de824c298d4fc04657ab738a/artifacts
+end_time: 1669946613468
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 914887b9de824c298d4fc04657ab738a
+run_name: languid-frog-119
+run_uuid: 914887b9de824c298d4fc04657ab738a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241542092
+status: 3
+tags: []
+user_id: unknown

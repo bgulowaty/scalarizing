@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a66dabd3f05f4206adfc08def2ee8f68/artifacts
+end_time: 1669950513788
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a66dabd3f05f4206adfc08def2ee8f68
+run_name: unequaled-stag-463
+run_uuid: a66dabd3f05f4206adfc08def2ee8f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240766143
+status: 3
+tags: []
+user_id: unknown

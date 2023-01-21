@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac12d48a365f4ab0b7fe0b501ae26890/artifacts
+end_time: 1670105053703
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac12d48a365f4ab0b7fe0b501ae26890
+run_name: learned-sheep-992
+run_uuid: ac12d48a365f4ab0b7fe0b501ae26890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239950671
+status: 3
+tags: []
+user_id: unknown

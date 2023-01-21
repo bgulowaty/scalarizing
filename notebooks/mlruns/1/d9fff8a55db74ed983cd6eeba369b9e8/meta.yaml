@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d9fff8a55db74ed983cd6eeba369b9e8/artifacts
+end_time: 1669955021798
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9fff8a55db74ed983cd6eeba369b9e8
+run_name: nimble-colt-101
+run_uuid: d9fff8a55db74ed983cd6eeba369b9e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240179615
+status: 3
+tags: []
+user_id: unknown

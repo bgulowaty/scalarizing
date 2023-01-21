@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dce287f2aa774dd68c77ebdbdcf90fa1/artifacts
+end_time: 1669948611244
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dce287f2aa774dd68c77ebdbdcf90fa1
+run_name: dazzling-gull-242
+run_uuid: dce287f2aa774dd68c77ebdbdcf90fa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241135048
+status: 3
+tags: []
+user_id: unknown

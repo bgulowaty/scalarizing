@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/18f06465c72e429f9d4e46faa96361e2/artifacts
+end_time: 1669953537253
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18f06465c72e429f9d4e46faa96361e2
+run_name: righteous-skink-964
+run_uuid: 18f06465c72e429f9d4e46faa96361e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240325755
+status: 3
+tags: []
+user_id: unknown

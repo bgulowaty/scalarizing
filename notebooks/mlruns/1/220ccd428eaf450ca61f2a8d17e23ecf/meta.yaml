@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/220ccd428eaf450ca61f2a8d17e23ecf/artifacts
+end_time: 1670180514737
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 220ccd428eaf450ca61f2a8d17e23ecf
+run_name: casual-kit-986
+run_uuid: 220ccd428eaf450ca61f2a8d17e23ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242746036
+status: 3
+tags: []
+user_id: unknown

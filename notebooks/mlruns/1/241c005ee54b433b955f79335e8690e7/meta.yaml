@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/241c005ee54b433b955f79335e8690e7/artifacts
+end_time: 1669949128687
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 241c005ee54b433b955f79335e8690e7
+run_name: glamorous-crab-400
+run_uuid: 241c005ee54b433b955f79335e8690e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241065718
+status: 3
+tags: []
+user_id: unknown

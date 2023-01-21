@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ccc10798a83c4ac9a50a4bf1c67a0161/artifacts
+end_time: 1669951010550
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ccc10798a83c4ac9a50a4bf1c67a0161
+run_name: delicate-squid-667
+run_uuid: ccc10798a83c4ac9a50a4bf1c67a0161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240659835
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/069bc65477ee44b2b45ce3d829ba771a/artifacts
+end_time: 1669946668596
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 069bc65477ee44b2b45ce3d829ba771a
+run_name: kindly-stoat-188
+run_uuid: 069bc65477ee44b2b45ce3d829ba771a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241529976
+status: 3
+tags: []
+user_id: unknown

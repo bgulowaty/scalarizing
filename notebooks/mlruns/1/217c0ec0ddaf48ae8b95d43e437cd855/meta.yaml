@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/217c0ec0ddaf48ae8b95d43e437cd855/artifacts
+end_time: 1669946614428
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 217c0ec0ddaf48ae8b95d43e437cd855
+run_name: whimsical-loon-650
+run_uuid: 217c0ec0ddaf48ae8b95d43e437cd855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241560798
+status: 3
+tags: []
+user_id: unknown

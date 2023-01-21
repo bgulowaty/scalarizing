@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bd58e087e9524d0a85f617e6d18d55c2/artifacts
+end_time: 1669955008974
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd58e087e9524d0a85f617e6d18d55c2
+run_name: bustling-lynx-459
+run_uuid: bd58e087e9524d0a85f617e6d18d55c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240207844
+status: 3
+tags: []
+user_id: unknown

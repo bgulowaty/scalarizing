@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/081d4ac2f39c4dc4b112c9dd63c5452c/artifacts
+end_time: 1669955021223
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 081d4ac2f39c4dc4b112c9dd63c5452c
+run_name: welcoming-kite-680
+run_uuid: 081d4ac2f39c4dc4b112c9dd63c5452c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240174681
+status: 3
+tags: []
+user_id: unknown

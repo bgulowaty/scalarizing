@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/256ea33bc4654f4682dedc90d7257a7b/artifacts
+end_time: 1670104714361
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 256ea33bc4654f4682dedc90d7257a7b
+run_name: able-ant-654
+run_uuid: 256ea33bc4654f4682dedc90d7257a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239983233
+status: 3
+tags: []
+user_id: unknown

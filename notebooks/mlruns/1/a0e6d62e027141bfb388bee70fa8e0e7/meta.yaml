@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a0e6d62e027141bfb388bee70fa8e0e7/artifacts
+end_time: 1669946673588
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0e6d62e027141bfb388bee70fa8e0e7
+run_name: rambunctious-roo-218
+run_uuid: a0e6d62e027141bfb388bee70fa8e0e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241520741
+status: 3
+tags: []
+user_id: unknown

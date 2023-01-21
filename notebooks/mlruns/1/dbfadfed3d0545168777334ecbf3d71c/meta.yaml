@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dbfadfed3d0545168777334ecbf3d71c/artifacts
+end_time: 1669942474262
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbfadfed3d0545168777334ecbf3d71c
+run_name: orderly-stoat-275
+run_uuid: dbfadfed3d0545168777334ecbf3d71c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242773916
+status: 3
+tags: []
+user_id: unknown

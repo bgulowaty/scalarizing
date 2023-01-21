@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0109e51da4fa4b2ea7b9dd6b04316541/artifacts
+end_time: 1669947232054
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0109e51da4fa4b2ea7b9dd6b04316541
+run_name: judicious-dog-471
+run_uuid: 0109e51da4fa4b2ea7b9dd6b04316541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241427145
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d7e42e9bbb024e298d749b813e46abed/artifacts
+end_time: 1669944268371
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7e42e9bbb024e298d749b813e46abed
+run_name: adorable-wren-694
+run_uuid: d7e42e9bbb024e298d749b813e46abed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242110847
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/608501637a8948d4847f9db37d662b5d/artifacts
+end_time: 1669953793416
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 608501637a8948d4847f9db37d662b5d
+run_name: skittish-hare-892
+run_uuid: 608501637a8948d4847f9db37d662b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240306023
+status: 3
+tags: []
+user_id: unknown

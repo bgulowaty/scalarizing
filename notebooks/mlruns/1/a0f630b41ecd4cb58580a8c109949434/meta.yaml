@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a0f630b41ecd4cb58580a8c109949434/artifacts
+end_time: 1669951298361
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0f630b41ecd4cb58580a8c109949434
+run_name: bedecked-conch-809
+run_uuid: a0f630b41ecd4cb58580a8c109949434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240632299
+status: 3
+tags: []
+user_id: unknown

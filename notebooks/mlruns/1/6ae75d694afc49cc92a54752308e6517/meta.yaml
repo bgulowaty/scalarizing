@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6ae75d694afc49cc92a54752308e6517/artifacts
+end_time: 1669954400685
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ae75d694afc49cc92a54752308e6517
+run_name: inquisitive-flea-800
+run_uuid: 6ae75d694afc49cc92a54752308e6517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240233259
+status: 3
+tags: []
+user_id: unknown

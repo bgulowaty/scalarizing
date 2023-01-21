@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4d3ab865a4874e5ba1b6e3861adc8c5c/artifacts
+end_time: 1669951613445
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d3ab865a4874e5ba1b6e3861adc8c5c
+run_name: righteous-koi-434
+run_uuid: 4d3ab865a4874e5ba1b6e3861adc8c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240592434
+status: 3
+tags: []
+user_id: unknown

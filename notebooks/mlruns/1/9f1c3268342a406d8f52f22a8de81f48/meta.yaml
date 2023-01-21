@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f1c3268342a406d8f52f22a8de81f48/artifacts
+end_time: 1669953165337
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f1c3268342a406d8f52f22a8de81f48
+run_name: bouncy-shad-79
+run_uuid: 9f1c3268342a406d8f52f22a8de81f48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240362766
+status: 3
+tags: []
+user_id: unknown

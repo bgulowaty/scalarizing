@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/15c52484474f41a39daa7000f4d6b0e9/artifacts
+end_time: 1669946668878
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15c52484474f41a39daa7000f4d6b0e9
+run_name: defiant-squid-859
+run_uuid: 15c52484474f41a39daa7000f4d6b0e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241532296
+status: 3
+tags: []
+user_id: unknown

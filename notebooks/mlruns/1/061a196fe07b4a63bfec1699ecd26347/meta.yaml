@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/061a196fe07b4a63bfec1699ecd26347/artifacts
+end_time: 1669943809418
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 061a196fe07b4a63bfec1699ecd26347
+run_name: capricious-frog-272
+run_uuid: 061a196fe07b4a63bfec1699ecd26347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242235881
+status: 3
+tags: []
+user_id: unknown

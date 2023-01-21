@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fa443940f12a489e82e4054c88c7f5e5/artifacts
+end_time: 1669953839463
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa443940f12a489e82e4054c88c7f5e5
+run_name: brawny-stork-352
+run_uuid: fa443940f12a489e82e4054c88c7f5e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240283428
+status: 3
+tags: []
+user_id: unknown

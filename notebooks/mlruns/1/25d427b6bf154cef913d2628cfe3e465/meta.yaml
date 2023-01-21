@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/25d427b6bf154cef913d2628cfe3e465/artifacts
+end_time: 1670104402438
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25d427b6bf154cef913d2628cfe3e465
+run_name: lyrical-doe-486
+run_uuid: 25d427b6bf154cef913d2628cfe3e465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240001349
+status: 3
+tags: []
+user_id: unknown

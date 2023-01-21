@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1e11ee06f808474680751b9fdf88925b/artifacts
+end_time: 1669945681557
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e11ee06f808474680751b9fdf88925b
+run_name: fortunate-trout-776
+run_uuid: 1e11ee06f808474680751b9fdf88925b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241752046
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/34e4e1f48f384863a986d50ff34e5863/artifacts
+end_time: 1669952538166
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34e4e1f48f384863a986d50ff34e5863
+run_name: gentle-lynx-639
+run_uuid: 34e4e1f48f384863a986d50ff34e5863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240455065
+status: 3
+tags: []
+user_id: unknown

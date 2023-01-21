@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/359098e1f14c471c83a6196b1f8afb12/artifacts
+end_time: 1669951919342
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 359098e1f14c471c83a6196b1f8afb12
+run_name: adventurous-tern-69
+run_uuid: 359098e1f14c471c83a6196b1f8afb12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240531612
+status: 3
+tags: []
+user_id: unknown

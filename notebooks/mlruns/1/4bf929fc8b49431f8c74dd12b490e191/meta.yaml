@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4bf929fc8b49431f8c74dd12b490e191/artifacts
+end_time: 1670105674517
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4bf929fc8b49431f8c74dd12b490e191
+run_name: crawling-swan-198
+run_uuid: 4bf929fc8b49431f8c74dd12b490e191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239920890
+status: 3
+tags: []
+user_id: unknown

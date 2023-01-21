@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/397f74c6a0f04d6ab99a3358c4ed6230/artifacts
+end_time: 1670181485194
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 397f74c6a0f04d6ab99a3358c4ed6230
+run_name: wistful-cat-44
+run_uuid: 397f74c6a0f04d6ab99a3358c4ed6230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240031993
+status: 3
+tags: []
+user_id: unknown

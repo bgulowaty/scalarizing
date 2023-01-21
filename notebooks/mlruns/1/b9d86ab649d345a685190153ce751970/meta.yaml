@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b9d86ab649d345a685190153ce751970/artifacts
+end_time: 1669943497636
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b9d86ab649d345a685190153ce751970
+run_name: learned-hawk-848
+run_uuid: b9d86ab649d345a685190153ce751970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242327259
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/90ffeb9012c147ebb8c0d95c41e100c7/artifacts
+end_time: 1669950433472
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90ffeb9012c147ebb8c0d95c41e100c7
+run_name: lyrical-whale-547
+run_uuid: 90ffeb9012c147ebb8c0d95c41e100c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240767674
+status: 3
+tags: []
+user_id: unknown

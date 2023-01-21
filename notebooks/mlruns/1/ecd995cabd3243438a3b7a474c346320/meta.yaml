@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ecd995cabd3243438a3b7a474c346320/artifacts
+end_time: 1669946629318
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecd995cabd3243438a3b7a474c346320
+run_name: clumsy-snail-100
+run_uuid: ecd995cabd3243438a3b7a474c346320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241567147
+status: 3
+tags: []
+user_id: unknown

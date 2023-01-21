@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3976bbac5e634bdf9df7e5d4973e478a/artifacts
+end_time: 1669950401306
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3976bbac5e634bdf9df7e5d4973e478a
+run_name: indecisive-squid-373
+run_uuid: 3976bbac5e634bdf9df7e5d4973e478a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240778439
+status: 3
+tags: []
+user_id: unknown

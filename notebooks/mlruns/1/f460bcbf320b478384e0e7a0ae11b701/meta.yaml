@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f460bcbf320b478384e0e7a0ae11b701/artifacts
+end_time: 1669951369960
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f460bcbf320b478384e0e7a0ae11b701
+run_name: capable-hog-842
+run_uuid: f460bcbf320b478384e0e7a0ae11b701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240606746
+status: 3
+tags: []
+user_id: unknown

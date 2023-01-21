@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/02c66bc8ab1a4e7fa0285a7c3e7392b7/artifacts
+end_time: 1670161862244
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 02c66bc8ab1a4e7fa0285a7c3e7392b7
+run_name: bouncy-goose-52
+run_uuid: 02c66bc8ab1a4e7fa0285a7c3e7392b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150520494
+status: 3
+tags: []
+user_id: unknown

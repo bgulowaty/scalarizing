@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bcd4dd17defe4fb185e3886fa90c436a/artifacts
+end_time: 1669945201914
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcd4dd17defe4fb185e3886fa90c436a
+run_name: rumbling-hawk-733
+run_uuid: bcd4dd17defe4fb185e3886fa90c436a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241850553
+status: 3
+tags: []
+user_id: unknown

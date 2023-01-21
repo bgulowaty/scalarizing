@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/85f1c0a2f345496eab9a5b968436a710/artifacts
+end_time: 1669945755180
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 85f1c0a2f345496eab9a5b968436a710
+run_name: skittish-cat-470
+run_uuid: 85f1c0a2f345496eab9a5b968436a710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241727159
+status: 3
+tags: []
+user_id: unknown

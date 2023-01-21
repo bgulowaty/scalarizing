@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c0c8df2b00ad402a9829bacc23e0651f/artifacts
+end_time: 1670162399979
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c0c8df2b00ad402a9829bacc23e0651f
+run_name: wise-bug-210
+run_uuid: c0c8df2b00ad402a9829bacc23e0651f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150319055
+status: 3
+tags: []
+user_id: unknown

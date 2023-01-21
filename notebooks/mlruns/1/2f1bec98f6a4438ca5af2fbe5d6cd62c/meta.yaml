@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2f1bec98f6a4438ca5af2fbe5d6cd62c/artifacts
+end_time: 1669955607652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f1bec98f6a4438ca5af2fbe5d6cd62c
+run_name: tasteful-deer-211
+run_uuid: 2f1bec98f6a4438ca5af2fbe5d6cd62c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240124878
+status: 3
+tags: []
+user_id: unknown

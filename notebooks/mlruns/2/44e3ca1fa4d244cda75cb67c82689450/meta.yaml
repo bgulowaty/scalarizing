@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/44e3ca1fa4d244cda75cb67c82689450/artifacts
+end_time: 1670162291612
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 44e3ca1fa4d244cda75cb67c82689450
+run_name: brawny-steed-607
+run_uuid: 44e3ca1fa4d244cda75cb67c82689450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150358569
+status: 3
+tags: []
+user_id: unknown

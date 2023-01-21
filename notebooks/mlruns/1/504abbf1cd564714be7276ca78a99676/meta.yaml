@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/504abbf1cd564714be7276ca78a99676/artifacts
+end_time: 1669944360337
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 504abbf1cd564714be7276ca78a99676
+run_name: glamorous-ram-289
+run_uuid: 504abbf1cd564714be7276ca78a99676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242080302
+status: 3
+tags: []
+user_id: unknown

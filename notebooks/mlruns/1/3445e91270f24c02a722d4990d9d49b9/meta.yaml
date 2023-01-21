@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3445e91270f24c02a722d4990d9d49b9/artifacts
+end_time: 1669945738987
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3445e91270f24c02a722d4990d9d49b9
+run_name: rumbling-ox-659
+run_uuid: 3445e91270f24c02a722d4990d9d49b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241740896
+status: 3
+tags: []
+user_id: unknown

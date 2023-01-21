@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c0d4798d330f43879cf27a6d5e09508c/artifacts
+end_time: 1669955299654
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0d4798d330f43879cf27a6d5e09508c
+run_name: luminous-koi-888
+run_uuid: c0d4798d330f43879cf27a6d5e09508c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240158779
+status: 3
+tags: []
+user_id: unknown

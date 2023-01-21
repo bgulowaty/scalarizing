@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/109c857d02f64867bc25a5b1cd8fc02c/artifacts
+end_time: 1670181729285
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 109c857d02f64867bc25a5b1cd8fc02c
+run_name: awesome-vole-473
+run_uuid: 109c857d02f64867bc25a5b1cd8fc02c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239986218
+status: 3
+tags: []
+user_id: unknown

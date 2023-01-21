@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/29cf133a8110406d8525090770afc216/artifacts
+end_time: 1670162393411
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 29cf133a8110406d8525090770afc216
+run_name: wise-tern-381
+run_uuid: 29cf133a8110406d8525090770afc216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150344068
+status: 3
+tags: []
+user_id: unknown

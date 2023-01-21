@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a691a751c15480c8e47838b7573e1b3/artifacts
+end_time: 1670181483978
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a691a751c15480c8e47838b7573e1b3
+run_name: bittersweet-foal-646
+run_uuid: 4a691a751c15480c8e47838b7573e1b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240092433
+status: 3
+tags: []
+user_id: unknown

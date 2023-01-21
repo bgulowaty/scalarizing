@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b0f6018d1dd34d6781cf286ac7dacb25/artifacts
+end_time: 1669946049904
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0f6018d1dd34d6781cf286ac7dacb25
+run_name: agreeable-worm-547
+run_uuid: b0f6018d1dd34d6781cf286ac7dacb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241665388
+status: 3
+tags: []
+user_id: unknown

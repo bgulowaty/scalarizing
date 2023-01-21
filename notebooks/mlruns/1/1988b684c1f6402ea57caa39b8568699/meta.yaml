@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1988b684c1f6402ea57caa39b8568699/artifacts
+end_time: 1670104118020
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1988b684c1f6402ea57caa39b8568699
+run_name: capricious-doe-111
+run_uuid: 1988b684c1f6402ea57caa39b8568699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240023409
+status: 3
+tags: []
+user_id: unknown

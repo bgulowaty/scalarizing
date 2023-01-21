@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e368c5f2f7204e5582f4359d555da5a8/artifacts
+end_time: 1670181422876
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e368c5f2f7204e5582f4359d555da5a8
+run_name: delicate-shrimp-226
+run_uuid: e368c5f2f7204e5582f4359d555da5a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240358481
+status: 3
+tags: []
+user_id: unknown

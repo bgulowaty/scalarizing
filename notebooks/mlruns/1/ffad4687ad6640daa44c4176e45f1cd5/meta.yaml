@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ffad4687ad6640daa44c4176e45f1cd5/artifacts
+end_time: 1669947286834
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffad4687ad6640daa44c4176e45f1cd5
+run_name: puzzled-midge-55
+run_uuid: ffad4687ad6640daa44c4176e45f1cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241417157
+status: 3
+tags: []
+user_id: unknown

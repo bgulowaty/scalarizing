@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/44e3ae5b955a4d5aa62d79c4183956a5/artifacts
+end_time: 1669952273014
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44e3ae5b955a4d5aa62d79c4183956a5
+run_name: bouncy-worm-946
+run_uuid: 44e3ae5b955a4d5aa62d79c4183956a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240463525
+status: 3
+tags: []
+user_id: unknown

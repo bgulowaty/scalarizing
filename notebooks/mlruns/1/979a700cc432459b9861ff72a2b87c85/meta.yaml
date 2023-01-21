@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/979a700cc432459b9861ff72a2b87c85/artifacts
+end_time: 1669950646290
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 979a700cc432459b9861ff72a2b87c85
+run_name: mercurial-shark-916
+run_uuid: 979a700cc432459b9861ff72a2b87c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240739458
+status: 3
+tags: []
+user_id: unknown

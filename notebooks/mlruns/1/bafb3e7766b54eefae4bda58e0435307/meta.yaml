@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bafb3e7766b54eefae4bda58e0435307/artifacts
+end_time: 1669955668211
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bafb3e7766b54eefae4bda58e0435307
+run_name: delightful-stoat-286
+run_uuid: bafb3e7766b54eefae4bda58e0435307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240110160
+status: 3
+tags: []
+user_id: unknown

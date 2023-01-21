@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c982daabbdea48ccacfad85da2dd9ea5/artifacts
+end_time: 1669945682243
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c982daabbdea48ccacfad85da2dd9ea5
+run_name: big-croc-828
+run_uuid: c982daabbdea48ccacfad85da2dd9ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241758619
+status: 3
+tags: []
+user_id: unknown

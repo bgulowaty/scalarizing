@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8a6548b3c707423e8a5b551a2e0c2d64/artifacts
+end_time: 1669951668316
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a6548b3c707423e8a5b551a2e0c2d64
+run_name: bittersweet-tern-141
+run_uuid: 8a6548b3c707423e8a5b551a2e0c2d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240547232
+status: 3
+tags: []
+user_id: unknown

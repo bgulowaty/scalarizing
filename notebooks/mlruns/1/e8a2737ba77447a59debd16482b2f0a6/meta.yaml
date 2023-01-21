@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e8a2737ba77447a59debd16482b2f0a6/artifacts
+end_time: 1669949706977
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8a2737ba77447a59debd16482b2f0a6
+run_name: legendary-toad-852
+run_uuid: e8a2737ba77447a59debd16482b2f0a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240912199
+status: 3
+tags: []
+user_id: unknown

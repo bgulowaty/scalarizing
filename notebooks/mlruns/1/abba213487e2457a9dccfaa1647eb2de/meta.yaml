@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/abba213487e2457a9dccfaa1647eb2de/artifacts
+end_time: 1669951695940
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abba213487e2457a9dccfaa1647eb2de
+run_name: stately-bear-549
+run_uuid: abba213487e2457a9dccfaa1647eb2de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240556506
+status: 3
+tags: []
+user_id: unknown

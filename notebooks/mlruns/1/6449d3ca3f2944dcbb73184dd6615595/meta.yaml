@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6449d3ca3f2944dcbb73184dd6615595/artifacts
+end_time: 1669952524853
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6449d3ca3f2944dcbb73184dd6615595
+run_name: auspicious-mare-866
+run_uuid: 6449d3ca3f2944dcbb73184dd6615595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240459437
+status: 3
+tags: []
+user_id: unknown

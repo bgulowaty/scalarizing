@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d4d44f9bc72e476f845f9375026f44af/artifacts
+end_time: 1670180513504
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4d44f9bc72e476f845f9375026f44af
+run_name: nebulous-crow-410
+run_uuid: d4d44f9bc72e476f845f9375026f44af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242796853
+status: 3
+tags: []
+user_id: unknown

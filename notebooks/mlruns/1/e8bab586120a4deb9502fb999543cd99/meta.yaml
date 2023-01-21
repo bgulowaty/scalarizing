@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e8bab586120a4deb9502fb999543cd99/artifacts
+end_time: 1669943619343
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8bab586120a4deb9502fb999543cd99
+run_name: sneaky-jay-780
+run_uuid: e8bab586120a4deb9502fb999543cd99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242293841
+status: 3
+tags: []
+user_id: unknown

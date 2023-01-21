@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f10f4f56d99547628fa83831d2ed72de/artifacts
+end_time: 1670102619343
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f10f4f56d99547628fa83831d2ed72de
+run_name: abundant-turtle-326
+run_uuid: f10f4f56d99547628fa83831d2ed72de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242617619
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7981b387b5bd4a6cb7c77f769a85de4a/artifacts
+end_time: 1670102418925
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7981b387b5bd4a6cb7c77f769a85de4a
+run_name: worried-owl-802
+run_uuid: 7981b387b5bd4a6cb7c77f769a85de4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242585508
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0470f7a8813944908e6c446e7ab1cbaa/artifacts
+end_time: 1669952838776
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0470f7a8813944908e6c446e7ab1cbaa
+run_name: silent-shoat-851
+run_uuid: 0470f7a8813944908e6c446e7ab1cbaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240404800
+status: 3
+tags: []
+user_id: unknown

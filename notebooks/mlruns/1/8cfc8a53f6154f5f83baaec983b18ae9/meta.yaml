@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8cfc8a53f6154f5f83baaec983b18ae9/artifacts
+end_time: 1669943610975
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8cfc8a53f6154f5f83baaec983b18ae9
+run_name: luxuriant-crane-163
+run_uuid: 8cfc8a53f6154f5f83baaec983b18ae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242292503
+status: 3
+tags: []
+user_id: unknown

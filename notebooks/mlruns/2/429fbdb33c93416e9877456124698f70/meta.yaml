@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/429fbdb33c93416e9877456124698f70/artifacts
+end_time: 1670162505412
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 429fbdb33c93416e9877456124698f70
+run_name: aged-doe-809
+run_uuid: 429fbdb33c93416e9877456124698f70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150303608
+status: 3
+tags: []
+user_id: unknown

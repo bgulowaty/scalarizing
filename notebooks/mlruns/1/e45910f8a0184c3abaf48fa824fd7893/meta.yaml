@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e45910f8a0184c3abaf48fa824fd7893/artifacts
+end_time: 1670104433809
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e45910f8a0184c3abaf48fa824fd7893
+run_name: hilarious-eel-943
+run_uuid: e45910f8a0184c3abaf48fa824fd7893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239984849
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ff318047156147a4894b948a9b21dd5f/artifacts
+end_time: 1670162723270
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ff318047156147a4894b948a9b21dd5f
+run_name: adorable-slug-31
+run_uuid: ff318047156147a4894b948a9b21dd5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150230631
+status: 3
+tags: []
+user_id: unknown

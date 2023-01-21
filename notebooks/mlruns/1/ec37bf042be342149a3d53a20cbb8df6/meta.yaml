@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ec37bf042be342149a3d53a20cbb8df6/artifacts
+end_time: 1670103487148
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec37bf042be342149a3d53a20cbb8df6
+run_name: welcoming-moth-383
+run_uuid: ec37bf042be342149a3d53a20cbb8df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240423787
+status: 3
+tags: []
+user_id: unknown

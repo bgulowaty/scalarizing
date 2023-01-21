@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fe8195f9a2c94103b1f332cc95ad1320/artifacts
+end_time: 1669951353754
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe8195f9a2c94103b1f332cc95ad1320
+run_name: polite-fowl-504
+run_uuid: fe8195f9a2c94103b1f332cc95ad1320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240592601
+status: 3
+tags: []
+user_id: unknown

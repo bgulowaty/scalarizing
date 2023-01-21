@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c57aa407503c4b0ebb4a998f505b39aa/artifacts
+end_time: 1670162611021
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c57aa407503c4b0ebb4a998f505b39aa
+run_name: auspicious-moth-962
+run_uuid: c57aa407503c4b0ebb4a998f505b39aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150266906
+status: 3
+tags: []
+user_id: unknown

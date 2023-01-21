@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/43f027ab575d41be8669cd5d3de930fa/artifacts
+end_time: 1669944449656
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43f027ab575d41be8669cd5d3de930fa
+run_name: defiant-cow-38
+run_uuid: 43f027ab575d41be8669cd5d3de930fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242063130
+status: 3
+tags: []
+user_id: unknown

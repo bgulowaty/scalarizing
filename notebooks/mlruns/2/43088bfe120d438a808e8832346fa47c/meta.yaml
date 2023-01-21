@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/43088bfe120d438a808e8832346fa47c/artifacts
+end_time: 1670162175613
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 43088bfe120d438a808e8832346fa47c
+run_name: omniscient-cow-161
+run_uuid: 43088bfe120d438a808e8832346fa47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150422633
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/29c0d1eb4c6f455ca02e8a74944b20e3/artifacts
+end_time: 1670181425231
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29c0d1eb4c6f455ca02e8a74944b20e3
+run_name: stately-snake-854
+run_uuid: 29c0d1eb4c6f455ca02e8a74944b20e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240297329
+status: 3
+tags: []
+user_id: unknown

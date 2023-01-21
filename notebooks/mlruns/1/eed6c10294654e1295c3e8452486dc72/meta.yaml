@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eed6c10294654e1295c3e8452486dc72/artifacts
+end_time: 1669943242227
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eed6c10294654e1295c3e8452486dc72
+run_name: merciful-stag-961
+run_uuid: eed6c10294654e1295c3e8452486dc72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242384030
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ccf652027c9f4e02adba99194b80d754/artifacts
+end_time: 1669943906662
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ccf652027c9f4e02adba99194b80d754
+run_name: learned-moth-757
+run_uuid: ccf652027c9f4e02adba99194b80d754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242199204
+status: 3
+tags: []
+user_id: unknown

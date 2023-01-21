@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac13b68569e0436bb84f1118f05d4547/artifacts
+end_time: 1669955363440
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac13b68569e0436bb84f1118f05d4547
+run_name: industrious-lynx-621
+run_uuid: ac13b68569e0436bb84f1118f05d4547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240136137
+status: 3
+tags: []
+user_id: unknown

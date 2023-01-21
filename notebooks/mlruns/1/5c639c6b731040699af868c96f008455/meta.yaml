@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5c639c6b731040699af868c96f008455/artifacts
+end_time: 1670102392080
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c639c6b731040699af868c96f008455
+run_name: rogue-ox-693
+run_uuid: 5c639c6b731040699af868c96f008455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242636336
+status: 3
+tags: []
+user_id: unknown

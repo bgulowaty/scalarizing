@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4fe1404dd4c640e6b2f19f6a94f46d2d/artifacts
+end_time: 1669955016968
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4fe1404dd4c640e6b2f19f6a94f46d2d
+run_name: lyrical-yak-591
+run_uuid: 4fe1404dd4c640e6b2f19f6a94f46d2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240178009
+status: 3
+tags: []
+user_id: unknown

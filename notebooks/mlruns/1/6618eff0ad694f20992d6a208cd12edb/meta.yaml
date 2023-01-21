@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6618eff0ad694f20992d6a208cd12edb/artifacts
+end_time: 1670104433022
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6618eff0ad694f20992d6a208cd12edb
+run_name: magnificent-worm-892
+run_uuid: 6618eff0ad694f20992d6a208cd12edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239986599
+status: 3
+tags: []
+user_id: unknown

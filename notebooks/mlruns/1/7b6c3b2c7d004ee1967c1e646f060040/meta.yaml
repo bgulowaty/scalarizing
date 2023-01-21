@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7b6c3b2c7d004ee1967c1e646f060040/artifacts
+end_time: 1670102715577
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b6c3b2c7d004ee1967c1e646f060040
+run_name: bouncy-sheep-774
+run_uuid: 7b6c3b2c7d004ee1967c1e646f060040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241991900
+status: 3
+tags: []
+user_id: unknown

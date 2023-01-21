@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d12ca7f0137840bc9aa45f365f0116ac/artifacts
+end_time: 1669956537653
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d12ca7f0137840bc9aa45f365f0116ac
+run_name: adventurous-ant-837
+run_uuid: d12ca7f0137840bc9aa45f365f0116ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240046091
+status: 3
+tags: []
+user_id: unknown

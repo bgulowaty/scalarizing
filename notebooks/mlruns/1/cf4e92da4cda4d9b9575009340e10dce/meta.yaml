@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cf4e92da4cda4d9b9575009340e10dce/artifacts
+end_time: 1669945415095
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf4e92da4cda4d9b9575009340e10dce
+run_name: sassy-hound-331
+run_uuid: cf4e92da4cda4d9b9575009340e10dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241803764
+status: 3
+tags: []
+user_id: unknown

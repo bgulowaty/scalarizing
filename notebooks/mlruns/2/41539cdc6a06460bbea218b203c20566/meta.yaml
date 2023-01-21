@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/41539cdc6a06460bbea218b203c20566/artifacts
+end_time: 1670162723281
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 41539cdc6a06460bbea218b203c20566
+run_name: enthused-hare-438
+run_uuid: 41539cdc6a06460bbea218b203c20566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150227346
+status: 3
+tags: []
+user_id: unknown

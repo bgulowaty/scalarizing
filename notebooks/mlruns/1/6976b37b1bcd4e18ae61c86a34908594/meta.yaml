@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6976b37b1bcd4e18ae61c86a34908594/artifacts
+end_time: 1669952865046
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6976b37b1bcd4e18ae61c86a34908594
+run_name: worried-pig-964
+run_uuid: 6976b37b1bcd4e18ae61c86a34908594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240396127
+status: 3
+tags: []
+user_id: unknown

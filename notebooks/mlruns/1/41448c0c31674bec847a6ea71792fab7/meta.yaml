@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/41448c0c31674bec847a6ea71792fab7/artifacts
+end_time: 1669954135593
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41448c0c31674bec847a6ea71792fab7
+run_name: exultant-rook-63
+run_uuid: 41448c0c31674bec847a6ea71792fab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240259619
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/103b77238a534a7981a79348b1549477/artifacts
+end_time: 1670102618508
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 103b77238a534a7981a79348b1549477
+run_name: likeable-gull-334
+run_uuid: 103b77238a534a7981a79348b1549477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242565624
+status: 3
+tags: []
+user_id: unknown

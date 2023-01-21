@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7b3aaa5784fc4cbbba442c0006b9132f/artifacts
+end_time: 1670105682411
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b3aaa5784fc4cbbba442c0006b9132f
+run_name: stately-fish-473
+run_uuid: 7b3aaa5784fc4cbbba442c0006b9132f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239919355
+status: 3
+tags: []
+user_id: unknown

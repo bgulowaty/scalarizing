@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b7617b66bcca4cfaa148a6fc35e892fd/artifacts
+end_time: 1670181183826
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7617b66bcca4cfaa148a6fc35e892fd
+run_name: salty-mule-709
+run_uuid: b7617b66bcca4cfaa148a6fc35e892fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240511957
+status: 3
+tags: []
+user_id: unknown

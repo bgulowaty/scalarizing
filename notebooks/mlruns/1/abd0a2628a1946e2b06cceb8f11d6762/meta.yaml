@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/abd0a2628a1946e2b06cceb8f11d6762/artifacts
+end_time: 1669947232157
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abd0a2628a1946e2b06cceb8f11d6762
+run_name: bold-hare-13
+run_uuid: abd0a2628a1946e2b06cceb8f11d6762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241416496
+status: 3
+tags: []
+user_id: unknown

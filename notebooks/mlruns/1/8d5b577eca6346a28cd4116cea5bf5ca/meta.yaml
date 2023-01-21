@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8d5b577eca6346a28cd4116cea5bf5ca/artifacts
+end_time: 1670104125038
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d5b577eca6346a28cd4116cea5bf5ca
+run_name: blushing-seal-577
+run_uuid: 8d5b577eca6346a28cd4116cea5bf5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240008272
+status: 3
+tags: []
+user_id: unknown

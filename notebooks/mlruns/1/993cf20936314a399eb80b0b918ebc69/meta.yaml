@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/993cf20936314a399eb80b0b918ebc69/artifacts
+end_time: 1669947569676
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 993cf20936314a399eb80b0b918ebc69
+run_name: intelligent-koi-778
+run_uuid: 993cf20936314a399eb80b0b918ebc69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241334699
+status: 3
+tags: []
+user_id: unknown

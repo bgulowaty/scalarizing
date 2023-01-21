@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2d7bc92d87bd4438a3f5518f8786efef/artifacts
+end_time: 1669943266308
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d7bc92d87bd4438a3f5518f8786efef
+run_name: luxuriant-slug-830
+run_uuid: 2d7bc92d87bd4438a3f5518f8786efef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242375562
+status: 3
+tags: []
+user_id: unknown

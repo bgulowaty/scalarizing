@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7fb95e3ac2084a42ae0c83e16e2dffea/artifacts
+end_time: 1670104720253
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fb95e3ac2084a42ae0c83e16e2dffea
+run_name: painted-goose-672
+run_uuid: 7fb95e3ac2084a42ae0c83e16e2dffea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239979732
+status: 3
+tags: []
+user_id: unknown

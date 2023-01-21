@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/df545bb0f4f840b2881ef0bdd63484bc/artifacts
+end_time: 1669943059847
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df545bb0f4f840b2881ef0bdd63484bc
+run_name: thundering-fly-683
+run_uuid: df545bb0f4f840b2881ef0bdd63484bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242441624
+status: 3
+tags: []
+user_id: unknown

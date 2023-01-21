@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ccb3a8c4aa4441c887ae5208cd31f15e/artifacts
+end_time: 1670162620617
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ccb3a8c4aa4441c887ae5208cd31f15e
+run_name: welcoming-bass-518
+run_uuid: ccb3a8c4aa4441c887ae5208cd31f15e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150240060
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9c568f8a95bd463283d2c2bbccb768de/artifacts
+end_time: 1669942338897
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c568f8a95bd463283d2c2bbccb768de
+run_name: bouncy-smelt-44
+run_uuid: 9c568f8a95bd463283d2c2bbccb768de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242809479
+status: 3
+tags: []
+user_id: unknown

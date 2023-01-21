@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/19e3a4f7ee3b40e4a017b6a5093c6d46/artifacts
+end_time: 1670162615739
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 19e3a4f7ee3b40e4a017b6a5093c6d46
+run_name: colorful-tern-694
+run_uuid: 19e3a4f7ee3b40e4a017b6a5093c6d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150257637
+status: 3
+tags: []
+user_id: unknown

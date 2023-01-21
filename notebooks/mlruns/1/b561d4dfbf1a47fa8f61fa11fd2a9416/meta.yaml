@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b561d4dfbf1a47fa8f61fa11fd2a9416/artifacts
+end_time: 1669944353337
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b561d4dfbf1a47fa8f61fa11fd2a9416
+run_name: lyrical-shrike-837
+run_uuid: b561d4dfbf1a47fa8f61fa11fd2a9416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242083557
+status: 3
+tags: []
+user_id: unknown

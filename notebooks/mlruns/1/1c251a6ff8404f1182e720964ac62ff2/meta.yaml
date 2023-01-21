@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1c251a6ff8404f1182e720964ac62ff2/artifacts
+end_time: 1669951004454
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c251a6ff8404f1182e720964ac62ff2
+run_name: unleashed-gull-537
+run_uuid: 1c251a6ff8404f1182e720964ac62ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240668913
+status: 3
+tags: []
+user_id: unknown

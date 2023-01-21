@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5199da5cddf74e00bc59e6252911bb3e/artifacts
+end_time: 1669949711639
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5199da5cddf74e00bc59e6252911bb3e
+run_name: rogue-grub-20
+run_uuid: 5199da5cddf74e00bc59e6252911bb3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240913554
+status: 3
+tags: []
+user_id: unknown

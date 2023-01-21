@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1287fe15a5b1476891447a0cd8a1381d/artifacts
+end_time: 1669942635896
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1287fe15a5b1476891447a0cd8a1381d
+run_name: efficient-gnat-840
+run_uuid: 1287fe15a5b1476891447a0cd8a1381d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242776362
+status: 3
+tags: []
+user_id: unknown

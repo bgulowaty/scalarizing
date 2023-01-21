@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/82d19e4771fa4e8384bd5432ed0e2888/artifacts
+end_time: 1669946983300
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82d19e4771fa4e8384bd5432ed0e2888
+run_name: delightful-lamb-103
+run_uuid: 82d19e4771fa4e8384bd5432ed0e2888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241455677
+status: 3
+tags: []
+user_id: unknown

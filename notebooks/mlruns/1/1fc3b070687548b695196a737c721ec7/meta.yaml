@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1fc3b070687548b695196a737c721ec7/artifacts
+end_time: 1669944665985
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1fc3b070687548b695196a737c721ec7
+run_name: bedecked-shrimp-809
+run_uuid: 1fc3b070687548b695196a737c721ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242011915
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/984ec6220ae743b88826d813f468ee87/artifacts
+end_time: 1669944220979
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 984ec6220ae743b88826d813f468ee87
+run_name: serious-fawn-464
+run_uuid: 984ec6220ae743b88826d813f468ee87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242126092
+status: 3
+tags: []
+user_id: unknown

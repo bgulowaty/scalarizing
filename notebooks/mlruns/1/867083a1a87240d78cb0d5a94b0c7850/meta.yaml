@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/867083a1a87240d78cb0d5a94b0c7850/artifacts
+end_time: 1670104396418
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 867083a1a87240d78cb0d5a94b0c7850
+run_name: nimble-wolf-315
+run_uuid: 867083a1a87240d78cb0d5a94b0c7850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240004216
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7d655dbe5466461d8146d3bcbe92aad2/artifacts
+end_time: 1669947631414
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d655dbe5466461d8146d3bcbe92aad2
+run_name: salty-cow-259
+run_uuid: 7d655dbe5466461d8146d3bcbe92aad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241312290
+status: 3
+tags: []
+user_id: unknown

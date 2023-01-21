@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1b9f3ffd646d4f198faf9c2a9cc2a03c/artifacts
+end_time: 1669956536813
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b9f3ffd646d4f198faf9c2a9cc2a03c
+run_name: bedecked-swan-321
+run_uuid: 1b9f3ffd646d4f198faf9c2a9cc2a03c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240055833
+status: 3
+tags: []
+user_id: unknown

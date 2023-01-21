@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8f038eac0a4e4385a0e279f6a7df745c/artifacts
+end_time: 1670105359824
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f038eac0a4e4385a0e279f6a7df745c
+run_name: monumental-crow-973
+run_uuid: 8f038eac0a4e4385a0e279f6a7df745c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239934701
+status: 3
+tags: []
+user_id: unknown

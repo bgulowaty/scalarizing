@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5c4bd8f041db4f21851b3c10c26b8da0/artifacts
+end_time: 1669948279380
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c4bd8f041db4f21851b3c10c26b8da0
+run_name: sneaky-owl-521
+run_uuid: 5c4bd8f041db4f21851b3c10c26b8da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241203807
+status: 3
+tags: []
+user_id: unknown

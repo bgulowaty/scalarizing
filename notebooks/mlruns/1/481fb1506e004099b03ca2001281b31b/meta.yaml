@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/481fb1506e004099b03ca2001281b31b/artifacts
+end_time: 1670104093344
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 481fb1506e004099b03ca2001281b31b
+run_name: unruly-cat-594
+run_uuid: 481fb1506e004099b03ca2001281b31b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240021101
+status: 3
+tags: []
+user_id: unknown

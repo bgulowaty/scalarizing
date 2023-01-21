@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/94efa674f9d24edeb8923edb6c900c94/artifacts
+end_time: 1669944201316
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94efa674f9d24edeb8923edb6c900c94
+run_name: amazing-whale-636
+run_uuid: 94efa674f9d24edeb8923edb6c900c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242120111
+status: 3
+tags: []
+user_id: unknown

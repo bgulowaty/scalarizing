@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab7d0770fcfb4e6c8d6544be6d732c3e/artifacts
+end_time: 1669947390972
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab7d0770fcfb4e6c8d6544be6d732c3e
+run_name: honorable-whale-604
+run_uuid: ab7d0770fcfb4e6c8d6544be6d732c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241473019
+status: 3
+tags: []
+user_id: unknown

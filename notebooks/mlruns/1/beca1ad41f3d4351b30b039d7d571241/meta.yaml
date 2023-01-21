@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/beca1ad41f3d4351b30b039d7d571241/artifacts
+end_time: 1669954064223
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: beca1ad41f3d4351b30b039d7d571241
+run_name: dashing-dove-333
+run_uuid: beca1ad41f3d4351b30b039d7d571241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240275170
+status: 3
+tags: []
+user_id: unknown

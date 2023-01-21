@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/dda4091ccf494c02a65b5ceb51804e6f/artifacts
+end_time: 1670162205653
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: dda4091ccf494c02a65b5ceb51804e6f
+run_name: carefree-newt-551
+run_uuid: dda4091ccf494c02a65b5ceb51804e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150422011
+status: 3
+tags: []
+user_id: unknown

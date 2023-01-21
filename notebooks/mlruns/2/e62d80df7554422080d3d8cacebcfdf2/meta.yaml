@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e62d80df7554422080d3d8cacebcfdf2/artifacts
+end_time: 1670162504590
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e62d80df7554422080d3d8cacebcfdf2
+run_name: handsome-steed-200
+run_uuid: e62d80df7554422080d3d8cacebcfdf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150306935
+status: 3
+tags: []
+user_id: unknown

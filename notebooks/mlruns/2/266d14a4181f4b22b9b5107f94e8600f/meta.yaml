@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/266d14a4181f4b22b9b5107f94e8600f/artifacts
+end_time: 1670162728302
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 266d14a4181f4b22b9b5107f94e8600f
+run_name: hilarious-asp-939
+run_uuid: 266d14a4181f4b22b9b5107f94e8600f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150215392
+status: 3
+tags: []
+user_id: unknown

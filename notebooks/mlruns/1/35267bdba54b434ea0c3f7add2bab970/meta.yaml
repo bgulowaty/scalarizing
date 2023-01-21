@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/35267bdba54b434ea0c3f7add2bab970/artifacts
+end_time: 1670106268714
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35267bdba54b434ea0c3f7add2bab970
+run_name: dashing-panda-504
+run_uuid: 35267bdba54b434ea0c3f7add2bab970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239902760
+status: 3
+tags: []
+user_id: unknown

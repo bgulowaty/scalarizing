@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fbd8717c8b9d44d0abd0dc1a6a64006f/artifacts
+end_time: 1670104464791
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fbd8717c8b9d44d0abd0dc1a6a64006f
+run_name: gifted-dolphin-439
+run_uuid: fbd8717c8b9d44d0abd0dc1a6a64006f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239987813
+status: 3
+tags: []
+user_id: unknown

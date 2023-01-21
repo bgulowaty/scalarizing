@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8b1b4f5f30e24d77b3a265ff7dfbcf12/artifacts
+end_time: 1670162321204
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8b1b4f5f30e24d77b3a265ff7dfbcf12
+run_name: salty-colt-663
+run_uuid: 8b1b4f5f30e24d77b3a265ff7dfbcf12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150424798
+status: 3
+tags: []
+user_id: unknown

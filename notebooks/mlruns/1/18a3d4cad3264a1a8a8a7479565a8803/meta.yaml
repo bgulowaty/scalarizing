@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/18a3d4cad3264a1a8a8a7479565a8803/artifacts
+end_time: 1669947907565
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18a3d4cad3264a1a8a8a7479565a8803
+run_name: salty-stork-569
+run_uuid: 18a3d4cad3264a1a8a8a7479565a8803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241269932
+status: 3
+tags: []
+user_id: unknown

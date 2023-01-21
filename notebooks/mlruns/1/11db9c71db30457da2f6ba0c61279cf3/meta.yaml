@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/11db9c71db30457da2f6ba0c61279cf3/artifacts
+end_time: 1669950402735
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11db9c71db30457da2f6ba0c61279cf3
+run_name: silent-turtle-707
+run_uuid: 11db9c71db30457da2f6ba0c61279cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240766615
+status: 3
+tags: []
+user_id: unknown

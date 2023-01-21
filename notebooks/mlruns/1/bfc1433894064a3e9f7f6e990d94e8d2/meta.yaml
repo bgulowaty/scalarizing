@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bfc1433894064a3e9f7f6e990d94e8d2/artifacts
+end_time: 1670104720846
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfc1433894064a3e9f7f6e990d94e8d2
+run_name: flawless-carp-818
+run_uuid: bfc1433894064a3e9f7f6e990d94e8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239974004
+status: 3
+tags: []
+user_id: unknown

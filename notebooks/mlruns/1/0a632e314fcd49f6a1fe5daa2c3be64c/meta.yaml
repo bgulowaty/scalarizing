@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0a632e314fcd49f6a1fe5daa2c3be64c/artifacts
+end_time: 1669947978226
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0a632e314fcd49f6a1fe5daa2c3be64c
+run_name: sassy-squid-925
+run_uuid: 0a632e314fcd49f6a1fe5daa2c3be64c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241250653
+status: 3
+tags: []
+user_id: unknown

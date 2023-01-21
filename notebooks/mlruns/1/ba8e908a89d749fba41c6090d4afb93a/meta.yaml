@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ba8e908a89d749fba41c6090d4afb93a/artifacts
+end_time: 1669943197098
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba8e908a89d749fba41c6090d4afb93a
+run_name: victorious-finch-107
+run_uuid: ba8e908a89d749fba41c6090d4afb93a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242717970
+status: 3
+tags: []
+user_id: unknown

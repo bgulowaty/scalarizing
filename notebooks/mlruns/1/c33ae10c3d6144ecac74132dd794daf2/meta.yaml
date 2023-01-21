@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c33ae10c3d6144ecac74132dd794daf2/artifacts
+end_time: 1669950426909
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c33ae10c3d6144ecac74132dd794daf2
+run_name: victorious-mink-159
+run_uuid: c33ae10c3d6144ecac74132dd794daf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240767822
+status: 3
+tags: []
+user_id: unknown

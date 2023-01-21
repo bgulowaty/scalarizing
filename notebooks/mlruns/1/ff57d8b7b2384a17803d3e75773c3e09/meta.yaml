@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff57d8b7b2384a17803d3e75773c3e09/artifacts
+end_time: 1669949201213
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff57d8b7b2384a17803d3e75773c3e09
+run_name: traveling-grub-200
+run_uuid: ff57d8b7b2384a17803d3e75773c3e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241023863
+status: 3
+tags: []
+user_id: unknown

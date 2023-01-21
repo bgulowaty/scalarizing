@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/15f707f572a749d68a7c40ab68214375/artifacts
+end_time: 1669942281103
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15f707f572a749d68a7c40ab68214375
+run_name: incongruous-duck-553
+run_uuid: 15f707f572a749d68a7c40ab68214375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242822388
+status: 3
+tags: []
+user_id: unknown

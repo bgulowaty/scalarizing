@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/412aea5c8e4348ba8224ddc6de50c692/artifacts
+end_time: 1670162614854
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 412aea5c8e4348ba8224ddc6de50c692
+run_name: suave-frog-516
+run_uuid: 412aea5c8e4348ba8224ddc6de50c692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150265680
+status: 3
+tags: []
+user_id: unknown

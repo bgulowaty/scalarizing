@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bbf8effe199f4be39e2dc6b0c162353f/artifacts
+end_time: 1669951065067
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bbf8effe199f4be39e2dc6b0c162353f
+run_name: righteous-grouse-323
+run_uuid: bbf8effe199f4be39e2dc6b0c162353f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240656721
+status: 3
+tags: []
+user_id: unknown

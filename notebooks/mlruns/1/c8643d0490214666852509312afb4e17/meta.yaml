@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c8643d0490214666852509312afb4e17/artifacts
+end_time: 1669951002719
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8643d0490214666852509312afb4e17
+run_name: efficient-sow-786
+run_uuid: c8643d0490214666852509312afb4e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240671208
+status: 3
+tags: []
+user_id: unknown

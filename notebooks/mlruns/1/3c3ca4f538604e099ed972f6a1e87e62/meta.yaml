@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c3ca4f538604e099ed972f6a1e87e62/artifacts
+end_time: 1669944923597
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c3ca4f538604e099ed972f6a1e87e62
+run_name: blushing-gull-839
+run_uuid: 3c3ca4f538604e099ed972f6a1e87e62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241927616
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/956370ede02b4519953b64a4cf467ac4/artifacts
+end_time: 1670104718211
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 956370ede02b4519953b64a4cf467ac4
+run_name: overjoyed-lamb-624
+run_uuid: 956370ede02b4519953b64a4cf467ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239977274
+status: 3
+tags: []
+user_id: unknown

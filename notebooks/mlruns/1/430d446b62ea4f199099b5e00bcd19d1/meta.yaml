@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/430d446b62ea4f199099b5e00bcd19d1/artifacts
+end_time: 1670105360303
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 430d446b62ea4f199099b5e00bcd19d1
+run_name: gregarious-wren-770
+run_uuid: 430d446b62ea4f199099b5e00bcd19d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239938029
+status: 3
+tags: []
+user_id: unknown

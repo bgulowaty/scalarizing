@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/321f895e0fd444fc9b47218408ba1d8b/artifacts
+end_time: 1670161741537
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 321f895e0fd444fc9b47218408ba1d8b
+run_name: upset-turtle-370
+run_uuid: 321f895e0fd444fc9b47218408ba1d8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150602062
+status: 3
+tags: []
+user_id: unknown

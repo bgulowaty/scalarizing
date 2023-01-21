@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ee436f459f704a2786c788dfac5fa6b4/artifacts
+end_time: 1669948657964
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee436f459f704a2786c788dfac5fa6b4
+run_name: bright-gnu-679
+run_uuid: ee436f459f704a2786c788dfac5fa6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241139812
+status: 3
+tags: []
+user_id: unknown

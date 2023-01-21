@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/147d57c0594e4e3295982405f1a42532/artifacts
+end_time: 1669955920223
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 147d57c0594e4e3295982405f1a42532
+run_name: traveling-shark-709
+run_uuid: 147d57c0594e4e3295982405f1a42532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240098509
+status: 3
+tags: []
+user_id: unknown

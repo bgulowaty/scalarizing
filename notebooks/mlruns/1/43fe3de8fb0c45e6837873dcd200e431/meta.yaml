@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/43fe3de8fb0c45e6837873dcd200e431/artifacts
+end_time: 1669945456839
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43fe3de8fb0c45e6837873dcd200e431
+run_name: masked-gnat-908
+run_uuid: 43fe3de8fb0c45e6837873dcd200e431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241805272
+status: 3
+tags: []
+user_id: unknown

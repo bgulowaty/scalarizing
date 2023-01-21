@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/581fd1e79d9e4553a6a6e2062f616739/artifacts
+end_time: 1670106266547
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 581fd1e79d9e4553a6a6e2062f616739
+run_name: suave-quail-705
+run_uuid: 581fd1e79d9e4553a6a6e2062f616739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904731
+status: 3
+tags: []
+user_id: unknown

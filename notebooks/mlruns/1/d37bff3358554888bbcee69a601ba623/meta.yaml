@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d37bff3358554888bbcee69a601ba623/artifacts
+end_time: 1669944139378
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d37bff3358554888bbcee69a601ba623
+run_name: upset-foal-896
+run_uuid: d37bff3358554888bbcee69a601ba623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242138117
+status: 3
+tags: []
+user_id: unknown

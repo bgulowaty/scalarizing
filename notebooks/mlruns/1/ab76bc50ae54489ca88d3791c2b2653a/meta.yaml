@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab76bc50ae54489ca88d3791c2b2653a/artifacts
+end_time: 1670102660051
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab76bc50ae54489ca88d3791c2b2653a
+run_name: suave-bass-190
+run_uuid: ab76bc50ae54489ca88d3791c2b2653a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242247479
+status: 3
+tags: []
+user_id: unknown

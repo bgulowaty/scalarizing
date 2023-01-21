@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6cc06c83b9e34d01b64fbc671489b3f8/artifacts
+end_time: 1669949398234
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6cc06c83b9e34d01b64fbc671489b3f8
+run_name: auspicious-mink-993
+run_uuid: 6cc06c83b9e34d01b64fbc671489b3f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241003857
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/19e52f42c69b4c478d977558c2a92eda/artifacts
+end_time: 1669951295369
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19e52f42c69b4c478d977558c2a92eda
+run_name: angry-worm-175
+run_uuid: 19e52f42c69b4c478d977558c2a92eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240608947
+status: 3
+tags: []
+user_id: unknown

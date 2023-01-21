@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3fe7a39798ec4f75b1158d6fca664688/artifacts
+end_time: 1670162400048
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3fe7a39798ec4f75b1158d6fca664688
+run_name: painted-fish-586
+run_uuid: 3fe7a39798ec4f75b1158d6fca664688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150335713
+status: 3
+tags: []
+user_id: unknown

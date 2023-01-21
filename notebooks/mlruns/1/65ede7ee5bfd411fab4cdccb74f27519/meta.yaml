@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/65ede7ee5bfd411fab4cdccb74f27519/artifacts
+end_time: 1669949785983
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65ede7ee5bfd411fab4cdccb74f27519
+run_name: suave-asp-519
+run_uuid: 65ede7ee5bfd411fab4cdccb74f27519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240868273
+status: 3
+tags: []
+user_id: unknown

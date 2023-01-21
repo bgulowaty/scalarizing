@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c1483724be564785b218f341c4d85457/artifacts
+end_time: 1669947257946
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c1483724be564785b218f341c4d85457
+run_name: serious-shark-836
+run_uuid: c1483724be564785b218f341c4d85457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241406307
+status: 3
+tags: []
+user_id: unknown

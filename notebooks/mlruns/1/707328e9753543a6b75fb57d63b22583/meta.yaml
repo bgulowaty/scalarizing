@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/707328e9753543a6b75fb57d63b22583/artifacts
+end_time: 1670181484461
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 707328e9753543a6b75fb57d63b22583
+run_name: marvelous-colt-466
+run_uuid: 707328e9753543a6b75fb57d63b22583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240091965
+status: 3
+tags: []
+user_id: unknown

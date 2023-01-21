@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/127e1ab41bab45eda4589758a81be915/artifacts
+end_time: 1669946667853
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 127e1ab41bab45eda4589758a81be915
+run_name: casual-ram-488
+run_uuid: 127e1ab41bab45eda4589758a81be915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241520445
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c3d9be11de844709aec584f135eb34f7/artifacts
+end_time: 1669946633231
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3d9be11de844709aec584f135eb34f7
+run_name: sneaky-ant-148
+run_uuid: c3d9be11de844709aec584f135eb34f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241536124
+status: 3
+tags: []
+user_id: unknown

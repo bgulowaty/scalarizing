@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7c49d83e4cb14de5bcc80a99c79e7082/artifacts
+end_time: 1669943346738
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c49d83e4cb14de5bcc80a99c79e7082
+run_name: sincere-shrike-223
+run_uuid: 7c49d83e4cb14de5bcc80a99c79e7082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242364482
+status: 3
+tags: []
+user_id: unknown

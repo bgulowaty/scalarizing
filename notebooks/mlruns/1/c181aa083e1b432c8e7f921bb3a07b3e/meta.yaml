@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c181aa083e1b432c8e7f921bb3a07b3e/artifacts
+end_time: 1669948538311
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c181aa083e1b432c8e7f921bb3a07b3e
+run_name: gaudy-hound-232
+run_uuid: c181aa083e1b432c8e7f921bb3a07b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241139405
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d72199e446974d759a5f8f3a7a23d83a/artifacts
+end_time: 1670162399258
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d72199e446974d759a5f8f3a7a23d83a
+run_name: treasured-loon-157
+run_uuid: d72199e446974d759a5f8f3a7a23d83a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150319927
+status: 3
+tags: []
+user_id: unknown

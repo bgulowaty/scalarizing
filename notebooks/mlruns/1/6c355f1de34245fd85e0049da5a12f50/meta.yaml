@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6c355f1de34245fd85e0049da5a12f50/artifacts
+end_time: 1669953607467
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6c355f1de34245fd85e0049da5a12f50
+run_name: stylish-fly-971
+run_uuid: 6c355f1de34245fd85e0049da5a12f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240322630
+status: 3
+tags: []
+user_id: unknown

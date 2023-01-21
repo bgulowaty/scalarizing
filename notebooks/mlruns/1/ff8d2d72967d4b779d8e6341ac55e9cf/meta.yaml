@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff8d2d72967d4b779d8e6341ac55e9cf/artifacts
+end_time: 1670104423262
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff8d2d72967d4b779d8e6341ac55e9cf
+run_name: defiant-fowl-664
+run_uuid: ff8d2d72967d4b779d8e6341ac55e9cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239988909
+status: 3
+tags: []
+user_id: unknown

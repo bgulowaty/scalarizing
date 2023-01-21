@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/68569c5573d74382b34497d804438e5e/artifacts
+end_time: 1670102429734
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 68569c5573d74382b34497d804438e5e
+run_name: unique-bear-744
+run_uuid: 68569c5573d74382b34497d804438e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242576448
+status: 3
+tags: []
+user_id: unknown

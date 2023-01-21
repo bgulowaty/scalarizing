@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/63e8c2cfb94945e3a0b18043fbe27925/artifacts
+end_time: 1670181152390
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63e8c2cfb94945e3a0b18043fbe27925
+run_name: welcoming-lynx-854
+run_uuid: 63e8c2cfb94945e3a0b18043fbe27925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240784595
+status: 3
+tags: []
+user_id: unknown

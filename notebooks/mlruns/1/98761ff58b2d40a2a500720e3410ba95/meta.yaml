@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/98761ff58b2d40a2a500720e3410ba95/artifacts
+end_time: 1669947545768
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98761ff58b2d40a2a500720e3410ba95
+run_name: burly-lark-67
+run_uuid: 98761ff58b2d40a2a500720e3410ba95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241362290
+status: 3
+tags: []
+user_id: unknown

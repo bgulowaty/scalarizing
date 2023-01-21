@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ad69b8f9b68640de9e1da99854dae0ec/artifacts
+end_time: 1670106273736
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad69b8f9b68640de9e1da99854dae0ec
+run_name: invincible-jay-489
+run_uuid: ad69b8f9b68640de9e1da99854dae0ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239900175
+status: 3
+tags: []
+user_id: unknown

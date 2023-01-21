@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87bdff222990471a9b7457333a0eb490/artifacts
+end_time: 1669944735491
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87bdff222990471a9b7457333a0eb490
+run_name: amazing-frog-228
+run_uuid: 87bdff222990471a9b7457333a0eb490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241994361
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/abf8214e324c49d7a442a5a624e14866/artifacts
+end_time: 1669950108385
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abf8214e324c49d7a442a5a624e14866
+run_name: sincere-rook-367
+run_uuid: abf8214e324c49d7a442a5a624e14866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240831031
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3ab8627f0747471b8dfa7cfc92e3bafe/artifacts
+end_time: 1670162028481
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3ab8627f0747471b8dfa7cfc92e3bafe
+run_name: abrasive-donkey-174
+run_uuid: 3ab8627f0747471b8dfa7cfc92e3bafe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150497568
+status: 3
+tags: []
+user_id: unknown

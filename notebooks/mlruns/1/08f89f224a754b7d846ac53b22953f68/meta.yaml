@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/08f89f224a754b7d846ac53b22953f68/artifacts
+end_time: 1670180878532
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 08f89f224a754b7d846ac53b22953f68
+run_name: gregarious-toad-520
+run_uuid: 08f89f224a754b7d846ac53b22953f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241461971
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/14bf6c655c7145279ad8fd6f16777ec7/artifacts
+end_time: 1669946984835
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14bf6c655c7145279ad8fd6f16777ec7
+run_name: crawling-dog-569
+run_uuid: 14bf6c655c7145279ad8fd6f16777ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241467273
+status: 3
+tags: []
+user_id: unknown

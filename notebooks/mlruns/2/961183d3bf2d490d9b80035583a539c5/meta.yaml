@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/961183d3bf2d490d9b80035583a539c5/artifacts
+end_time: 1670162070754
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 961183d3bf2d490d9b80035583a539c5
+run_name: vaunted-mare-627
+run_uuid: 961183d3bf2d490d9b80035583a539c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150448992
+status: 3
+tags: []
+user_id: unknown

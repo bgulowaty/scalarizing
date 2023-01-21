@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/302c4b4037cb45c5a479f6206d1784aa/artifacts
+end_time: 1670102710772
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 302c4b4037cb45c5a479f6206d1784aa
+run_name: caring-dolphin-638
+run_uuid: 302c4b4037cb45c5a479f6206d1784aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242320992
+status: 3
+tags: []
+user_id: unknown

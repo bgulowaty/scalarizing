@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bcf1ca29c4e54abe835b1eb800f0ccc4/artifacts
+end_time: 1669945091366
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcf1ca29c4e54abe835b1eb800f0ccc4
+run_name: agreeable-vole-13
+run_uuid: bcf1ca29c4e54abe835b1eb800f0ccc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241907072
+status: 3
+tags: []
+user_id: unknown

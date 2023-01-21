@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/21f7625df7b24d87b2f7bba806fba1e2/artifacts
+end_time: 1670105994144
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21f7625df7b24d87b2f7bba806fba1e2
+run_name: exultant-jay-234
+run_uuid: 21f7625df7b24d87b2f7bba806fba1e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239906084
+status: 3
+tags: []
+user_id: unknown

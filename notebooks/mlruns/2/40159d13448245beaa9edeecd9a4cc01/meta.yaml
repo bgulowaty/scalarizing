@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/40159d13448245beaa9edeecd9a4cc01/artifacts
+end_time: 1670162066686
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 40159d13448245beaa9edeecd9a4cc01
+run_name: abrasive-fly-607
+run_uuid: 40159d13448245beaa9edeecd9a4cc01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150467636
+status: 3
+tags: []
+user_id: unknown

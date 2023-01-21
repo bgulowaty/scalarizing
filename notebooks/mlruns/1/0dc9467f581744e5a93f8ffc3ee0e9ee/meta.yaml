@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0dc9467f581744e5a93f8ffc3ee0e9ee/artifacts
+end_time: 1669952533156
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0dc9467f581744e5a93f8ffc3ee0e9ee
+run_name: able-pig-587
+run_uuid: 0dc9467f581744e5a93f8ffc3ee0e9ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240451240
+status: 3
+tags: []
+user_id: unknown

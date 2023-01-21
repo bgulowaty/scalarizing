@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/017a7fade70c40a89f604618f3d06821/artifacts
+end_time: 1669955920683
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 017a7fade70c40a89f604618f3d06821
+run_name: delightful-deer-559
+run_uuid: 017a7fade70c40a89f604618f3d06821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240104684
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59d452e2c93249b6b367611a0ecf2e19/artifacts
+end_time: 1669954119912
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59d452e2c93249b6b367611a0ecf2e19
+run_name: adaptable-robin-154
+run_uuid: 59d452e2c93249b6b367611a0ecf2e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240253815
+status: 3
+tags: []
+user_id: unknown

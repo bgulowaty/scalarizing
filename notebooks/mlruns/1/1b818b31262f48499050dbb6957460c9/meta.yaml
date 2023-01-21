@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1b818b31262f48499050dbb6957460c9/artifacts
+end_time: 1669952282875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b818b31262f48499050dbb6957460c9
+run_name: bouncy-gnat-789
+run_uuid: 1b818b31262f48499050dbb6957460c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240468995
+status: 3
+tags: []
+user_id: unknown

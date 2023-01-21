@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2fe98c13732a481cb80ebcfe2fca57f3/artifacts
+end_time: 1669952838514
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2fe98c13732a481cb80ebcfe2fca57f3
+run_name: tasteful-dove-788
+run_uuid: 2fe98c13732a481cb80ebcfe2fca57f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240416431
+status: 3
+tags: []
+user_id: unknown

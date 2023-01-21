@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d722bebb148f4314aa88abc180c7600a/artifacts
+end_time: 1669950683235
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d722bebb148f4314aa88abc180c7600a
+run_name: sneaky-whale-578
+run_uuid: d722bebb148f4314aa88abc180c7600a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240720341
+status: 3
+tags: []
+user_id: unknown

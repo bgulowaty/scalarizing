@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/05353c51b8b04229bf09c78a929c8e1b/artifacts
+end_time: 1670162833451
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 05353c51b8b04229bf09c78a929c8e1b
+run_name: suave-worm-560
+run_uuid: 05353c51b8b04229bf09c78a929c8e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150186203
+status: 3
+tags: []
+user_id: unknown

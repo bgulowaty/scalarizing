@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b8c257a6444d44ebb80a6df8b0ce0a55/artifacts
+end_time: 1669942493121
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8c257a6444d44ebb80a6df8b0ce0a55
+run_name: casual-croc-731
+run_uuid: b8c257a6444d44ebb80a6df8b0ce0a55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242752860
+status: 3
+tags: []
+user_id: unknown

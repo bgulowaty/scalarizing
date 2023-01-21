@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c75bb7824d554e45814a369c3f6a89ac/artifacts
+end_time: 1669944585662
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c75bb7824d554e45814a369c3f6a89ac
+run_name: bittersweet-worm-181
+run_uuid: c75bb7824d554e45814a369c3f6a89ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242045323
+status: 3
+tags: []
+user_id: unknown

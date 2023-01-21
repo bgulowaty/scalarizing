@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c81e95875354440aabdb1d5068fb9afd/artifacts
+end_time: 1669953217524
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c81e95875354440aabdb1d5068fb9afd
+run_name: thundering-goat-315
+run_uuid: c81e95875354440aabdb1d5068fb9afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240354281
+status: 3
+tags: []
+user_id: unknown

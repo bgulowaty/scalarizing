@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/cc79759eee4b4b1b844447104341b806/artifacts
+end_time: 1670161756005
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cc79759eee4b4b1b844447104341b806
+run_name: rogue-squirrel-829
+run_uuid: cc79759eee4b4b1b844447104341b806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150578417
+status: 3
+tags: []
+user_id: unknown

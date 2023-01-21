@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6236e11f96e64d468add0298cc76b064/artifacts
+end_time: 1669948570793
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6236e11f96e64d468add0298cc76b064
+run_name: stylish-fowl-380
+run_uuid: 6236e11f96e64d468add0298cc76b064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241136612
+status: 3
+tags: []
+user_id: unknown

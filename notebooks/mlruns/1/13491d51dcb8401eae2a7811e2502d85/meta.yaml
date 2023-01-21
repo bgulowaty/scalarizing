@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13491d51dcb8401eae2a7811e2502d85/artifacts
+end_time: 1670180874321
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13491d51dcb8401eae2a7811e2502d85
+run_name: indecisive-colt-516
+run_uuid: 13491d51dcb8401eae2a7811e2502d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241359476
+status: 3
+tags: []
+user_id: unknown

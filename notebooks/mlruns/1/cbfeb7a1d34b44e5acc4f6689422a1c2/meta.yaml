@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cbfeb7a1d34b44e5acc4f6689422a1c2/artifacts
+end_time: 1670105028731
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbfeb7a1d34b44e5acc4f6689422a1c2
+run_name: aged-mink-720
+run_uuid: cbfeb7a1d34b44e5acc4f6689422a1c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239957650
+status: 3
+tags: []
+user_id: unknown

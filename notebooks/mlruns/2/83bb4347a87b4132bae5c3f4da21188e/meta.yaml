@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/83bb4347a87b4132bae5c3f4da21188e/artifacts
+end_time: 1670162294134
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 83bb4347a87b4132bae5c3f4da21188e
+run_name: monumental-sheep-885
+run_uuid: 83bb4347a87b4132bae5c3f4da21188e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150350412
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/33e4d58cf29a4bcd90f9d0305e541820/artifacts
+end_time: 1669948194752
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33e4d58cf29a4bcd90f9d0305e541820
+run_name: persistent-whale-546
+run_uuid: 33e4d58cf29a4bcd90f9d0305e541820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241248073
+status: 3
+tags: []
+user_id: unknown

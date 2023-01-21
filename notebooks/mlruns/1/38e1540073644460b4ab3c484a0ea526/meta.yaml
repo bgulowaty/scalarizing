@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/38e1540073644460b4ab3c484a0ea526/artifacts
+end_time: 1670181183635
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38e1540073644460b4ab3c484a0ea526
+run_name: fearless-carp-693
+run_uuid: 38e1540073644460b4ab3c484a0ea526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240605294
+status: 3
+tags: []
+user_id: unknown

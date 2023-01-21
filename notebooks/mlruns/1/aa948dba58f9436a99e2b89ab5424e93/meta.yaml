@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aa948dba58f9436a99e2b89ab5424e93/artifacts
+end_time: 1669951907812
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa948dba58f9436a99e2b89ab5424e93
+run_name: omniscient-dove-661
+run_uuid: aa948dba58f9436a99e2b89ab5424e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240526921
+status: 3
+tags: []
+user_id: unknown

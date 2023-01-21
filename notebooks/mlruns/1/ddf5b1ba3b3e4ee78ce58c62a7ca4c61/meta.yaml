@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ddf5b1ba3b3e4ee78ce58c62a7ca4c61/artifacts
+end_time: 1670102308228
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ddf5b1ba3b3e4ee78ce58c62a7ca4c61
+run_name: auspicious-gull-356
+run_uuid: ddf5b1ba3b3e4ee78ce58c62a7ca4c61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242611922
+status: 3
+tags: []
+user_id: unknown

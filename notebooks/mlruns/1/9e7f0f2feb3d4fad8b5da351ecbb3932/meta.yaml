@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9e7f0f2feb3d4fad8b5da351ecbb3932/artifacts
+end_time: 1670102919875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e7f0f2feb3d4fad8b5da351ecbb3932
+run_name: youthful-cow-140
+run_uuid: 9e7f0f2feb3d4fad8b5da351ecbb3932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241509097
+status: 3
+tags: []
+user_id: unknown

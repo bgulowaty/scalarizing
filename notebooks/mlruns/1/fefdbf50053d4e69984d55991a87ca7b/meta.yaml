@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fefdbf50053d4e69984d55991a87ca7b/artifacts
+end_time: 1669942252937
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fefdbf50053d4e69984d55991a87ca7b
+run_name: masked-shrimp-904
+run_uuid: fefdbf50053d4e69984d55991a87ca7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242837708
+status: 3
+tags: []
+user_id: unknown

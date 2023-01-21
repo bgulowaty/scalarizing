@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c9fc7c685787428f8d1bf64b7b63f6c8/artifacts
+end_time: 1669942348411
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9fc7c685787428f8d1bf64b7b63f6c8
+run_name: luxuriant-goat-88
+run_uuid: c9fc7c685787428f8d1bf64b7b63f6c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242810755
+status: 3
+tags: []
+user_id: unknown

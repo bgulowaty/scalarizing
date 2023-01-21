@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/083d8189da1f438f8a53ff414b1b521a/artifacts
+end_time: 1669945103806
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 083d8189da1f438f8a53ff414b1b521a
+run_name: bedecked-zebra-401
+run_uuid: 083d8189da1f438f8a53ff414b1b521a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241884501
+status: 3
+tags: []
+user_id: unknown

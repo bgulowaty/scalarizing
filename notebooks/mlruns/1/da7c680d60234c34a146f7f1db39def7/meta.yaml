@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da7c680d60234c34a146f7f1db39def7/artifacts
+end_time: 1670181484220
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da7c680d60234c34a146f7f1db39def7
+run_name: enthused-hen-66
+run_uuid: da7c680d60234c34a146f7f1db39def7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240116279
+status: 3
+tags: []
+user_id: unknown

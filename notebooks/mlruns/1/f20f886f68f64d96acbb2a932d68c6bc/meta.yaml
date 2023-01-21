@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f20f886f68f64d96acbb2a932d68c6bc/artifacts
+end_time: 1669952896231
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f20f886f68f64d96acbb2a932d68c6bc
+run_name: delightful-swan-347
+run_uuid: f20f886f68f64d96acbb2a932d68c6bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240386555
+status: 3
+tags: []
+user_id: unknown

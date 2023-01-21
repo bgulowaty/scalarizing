@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/43a3454cd1904abd868a87cd0b307da7/artifacts
+end_time: 1669942404389
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43a3454cd1904abd868a87cd0b307da7
+run_name: intrigued-fawn-171
+run_uuid: 43a3454cd1904abd868a87cd0b307da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242784797
+status: 3
+tags: []
+user_id: unknown

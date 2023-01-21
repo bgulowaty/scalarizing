@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/684794dd91294483a0f2738190e2d522/artifacts
+end_time: 1670162723298
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 684794dd91294483a0f2738190e2d522
+run_name: omniscient-flea-765
+run_uuid: 684794dd91294483a0f2738190e2d522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150229502
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f13fa9ded47a47b1af5629e5018bab9b/artifacts
+end_time: 1670162286011
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f13fa9ded47a47b1af5629e5018bab9b
+run_name: painted-asp-589
+run_uuid: f13fa9ded47a47b1af5629e5018bab9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150381298
+status: 3
+tags: []
+user_id: unknown

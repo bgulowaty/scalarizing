@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/070d68fbc94c454a890b0f702eac4dcf/artifacts
+end_time: 1670104088246
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 070d68fbc94c454a890b0f702eac4dcf
+run_name: flawless-mule-190
+run_uuid: 070d68fbc94c454a890b0f702eac4dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240028459
+status: 3
+tags: []
+user_id: unknown

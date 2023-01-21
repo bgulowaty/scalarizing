@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/139af551bf814bcebd72ea411aecd53b/artifacts
+end_time: 1670104087467
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 139af551bf814bcebd72ea411aecd53b
+run_name: serious-colt-895
+run_uuid: 139af551bf814bcebd72ea411aecd53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240028086
+status: 3
+tags: []
+user_id: unknown

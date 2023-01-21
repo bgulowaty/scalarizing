@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f8ccce452b3e42e58e13b3a080faa50c/artifacts
+end_time: 1669950993399
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f8ccce452b3e42e58e13b3a080faa50c
+run_name: burly-moose-173
+run_uuid: f8ccce452b3e42e58e13b3a080faa50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240676969
+status: 3
+tags: []
+user_id: unknown

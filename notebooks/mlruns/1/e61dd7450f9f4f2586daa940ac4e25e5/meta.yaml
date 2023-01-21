@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e61dd7450f9f4f2586daa940ac4e25e5/artifacts
+end_time: 1669945107727
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e61dd7450f9f4f2586daa940ac4e25e5
+run_name: rogue-skink-964
+run_uuid: e61dd7450f9f4f2586daa940ac4e25e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241877416
+status: 3
+tags: []
+user_id: unknown

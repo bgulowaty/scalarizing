@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/669de6af14a5495db67890a220094213/artifacts
+end_time: 1669948814760
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 669de6af14a5495db67890a220094213
+run_name: gaudy-mole-417
+run_uuid: 669de6af14a5495db67890a220094213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241097565
+status: 3
+tags: []
+user_id: unknown

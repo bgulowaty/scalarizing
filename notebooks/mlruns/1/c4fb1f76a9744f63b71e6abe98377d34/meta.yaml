@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c4fb1f76a9744f63b71e6abe98377d34/artifacts
+end_time: 1670181795506
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4fb1f76a9744f63b71e6abe98377d34
+run_name: capricious-zebra-354
+run_uuid: c4fb1f76a9744f63b71e6abe98377d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239888233
+status: 3
+tags: []
+user_id: unknown

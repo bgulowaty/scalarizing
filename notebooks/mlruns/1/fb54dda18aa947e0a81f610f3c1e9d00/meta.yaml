@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb54dda18aa947e0a81f610f3c1e9d00/artifacts
+end_time: 1669954698319
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb54dda18aa947e0a81f610f3c1e9d00
+run_name: invincible-goat-82
+run_uuid: fb54dda18aa947e0a81f610f3c1e9d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240205139
+status: 3
+tags: []
+user_id: unknown

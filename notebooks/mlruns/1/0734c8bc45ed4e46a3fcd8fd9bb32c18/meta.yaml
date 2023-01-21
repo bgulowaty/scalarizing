@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0734c8bc45ed4e46a3fcd8fd9bb32c18/artifacts
+end_time: 1670181122642
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0734c8bc45ed4e46a3fcd8fd9bb32c18
+run_name: angry-stoat-564
+run_uuid: 0734c8bc45ed4e46a3fcd8fd9bb32c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240970217
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/82c43eb17f994b4cb2e17365c4510035/artifacts
+end_time: 1669952273386
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82c43eb17f994b4cb2e17365c4510035
+run_name: mysterious-swan-936
+run_uuid: 82c43eb17f994b4cb2e17365c4510035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240464559
+status: 3
+tags: []
+user_id: unknown

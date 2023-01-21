@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/189d01c4223142da95f8cd2ba53f20f3/artifacts
+end_time: 1669953544124
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 189d01c4223142da95f8cd2ba53f20f3
+run_name: bedecked-fawn-482
+run_uuid: 189d01c4223142da95f8cd2ba53f20f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240320361
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9208302c2f0f4c29939132b05471bf90/artifacts
+end_time: 1669954761190
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9208302c2f0f4c29939132b05471bf90
+run_name: polite-shad-338
+run_uuid: 9208302c2f0f4c29939132b05471bf90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240194849
+status: 3
+tags: []
+user_id: unknown

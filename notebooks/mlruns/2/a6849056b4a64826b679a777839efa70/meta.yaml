@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a6849056b4a64826b679a777839efa70/artifacts
+end_time: 1670162208446
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a6849056b4a64826b679a777839efa70
+run_name: handsome-jay-987
+run_uuid: a6849056b4a64826b679a777839efa70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150410897
+status: 3
+tags: []
+user_id: unknown

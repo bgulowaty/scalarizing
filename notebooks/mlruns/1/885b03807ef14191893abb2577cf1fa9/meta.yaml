@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/885b03807ef14191893abb2577cf1fa9/artifacts
+end_time: 1669943895204
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 885b03807ef14191893abb2577cf1fa9
+run_name: fearless-wren-951
+run_uuid: 885b03807ef14191893abb2577cf1fa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242240804
+status: 3
+tags: []
+user_id: unknown

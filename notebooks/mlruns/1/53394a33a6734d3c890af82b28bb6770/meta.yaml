@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/53394a33a6734d3c890af82b28bb6770/artifacts
+end_time: 1669948627940
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53394a33a6734d3c890af82b28bb6770
+run_name: skittish-seal-392
+run_uuid: 53394a33a6734d3c890af82b28bb6770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241226468
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7693b1d255a44140bf88382003773dfd/artifacts
+end_time: 1669951911307
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7693b1d255a44140bf88382003773dfd
+run_name: shivering-donkey-285
+run_uuid: 7693b1d255a44140bf88382003773dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240527452
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/549a6bd3272e4c489821c78b83d1b989/artifacts
+end_time: 1670181455102
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 549a6bd3272e4c489821c78b83d1b989
+run_name: nebulous-dog-356
+run_uuid: 549a6bd3272e4c489821c78b83d1b989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240158536
+status: 3
+tags: []
+user_id: unknown

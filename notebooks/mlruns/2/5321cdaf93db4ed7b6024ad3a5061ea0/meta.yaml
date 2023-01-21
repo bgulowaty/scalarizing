@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5321cdaf93db4ed7b6024ad3a5061ea0/artifacts
+end_time: 1670162180865
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5321cdaf93db4ed7b6024ad3a5061ea0
+run_name: beautiful-cat-235
+run_uuid: 5321cdaf93db4ed7b6024ad3a5061ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150411161
+status: 3
+tags: []
+user_id: unknown

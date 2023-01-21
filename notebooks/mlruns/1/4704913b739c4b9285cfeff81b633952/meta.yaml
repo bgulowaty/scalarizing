@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4704913b739c4b9285cfeff81b633952/artifacts
+end_time: 1669944863000
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4704913b739c4b9285cfeff81b633952
+run_name: handsome-fox-640
+run_uuid: 4704913b739c4b9285cfeff81b633952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241981217
+status: 3
+tags: []
+user_id: unknown

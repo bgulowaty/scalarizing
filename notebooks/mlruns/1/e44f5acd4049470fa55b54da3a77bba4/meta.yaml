@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e44f5acd4049470fa55b54da3a77bba4/artifacts
+end_time: 1670104097047
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e44f5acd4049470fa55b54da3a77bba4
+run_name: chill-gnu-743
+run_uuid: e44f5acd4049470fa55b54da3a77bba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240024862
+status: 3
+tags: []
+user_id: unknown

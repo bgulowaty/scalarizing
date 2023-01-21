@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/33e45f28bdcb49949cd52964b9a0b07c/artifacts
+end_time: 1670105653750
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33e45f28bdcb49949cd52964b9a0b07c
+run_name: abundant-shad-312
+run_uuid: 33e45f28bdcb49949cd52964b9a0b07c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239931749
+status: 3
+tags: []
+user_id: unknown

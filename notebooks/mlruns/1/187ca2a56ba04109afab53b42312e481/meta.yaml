@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/187ca2a56ba04109afab53b42312e481/artifacts
+end_time: 1669943680603
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 187ca2a56ba04109afab53b42312e481
+run_name: angry-auk-104
+run_uuid: 187ca2a56ba04109afab53b42312e481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242711349
+status: 3
+tags: []
+user_id: unknown

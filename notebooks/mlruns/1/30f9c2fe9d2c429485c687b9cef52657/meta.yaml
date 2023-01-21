@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/30f9c2fe9d2c429485c687b9cef52657/artifacts
+end_time: 1669944678863
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30f9c2fe9d2c429485c687b9cef52657
+run_name: amusing-ray-360
+run_uuid: 30f9c2fe9d2c429485c687b9cef52657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242013930
+status: 3
+tags: []
+user_id: unknown

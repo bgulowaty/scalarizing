@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e2b4974f3a53497f91c1689e955a8caf/artifacts
+end_time: 1669953809822
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2b4974f3a53497f91c1689e955a8caf
+run_name: intelligent-ram-447
+run_uuid: e2b4974f3a53497f91c1689e955a8caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240294673
+status: 3
+tags: []
+user_id: unknown

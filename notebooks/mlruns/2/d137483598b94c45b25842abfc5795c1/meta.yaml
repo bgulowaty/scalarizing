@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d137483598b94c45b25842abfc5795c1/artifacts
+end_time: 1670162180749
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d137483598b94c45b25842abfc5795c1
+run_name: burly-cat-290
+run_uuid: d137483598b94c45b25842abfc5795c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150403910
+status: 3
+tags: []
+user_id: unknown

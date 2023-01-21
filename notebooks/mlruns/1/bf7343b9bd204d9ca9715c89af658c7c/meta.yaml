@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bf7343b9bd204d9ca9715c89af658c7c/artifacts
+end_time: 1670180841955
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf7343b9bd204d9ca9715c89af658c7c
+run_name: salty-fox-196
+run_uuid: bf7343b9bd204d9ca9715c89af658c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241652269
+status: 3
+tags: []
+user_id: unknown

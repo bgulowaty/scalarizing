@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46118261d0024d7a8505d34b89136d9d/artifacts
+end_time: 1670104094796
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46118261d0024d7a8505d34b89136d9d
+run_name: resilient-worm-841
+run_uuid: 46118261d0024d7a8505d34b89136d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240020902
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48d5ede1774648209775ab7fe43b554e/artifacts
+end_time: 1670105027036
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48d5ede1774648209775ab7fe43b554e
+run_name: mercurial-lynx-626
+run_uuid: 48d5ede1774648209775ab7fe43b554e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239964482
+status: 3
+tags: []
+user_id: unknown

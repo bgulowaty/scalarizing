@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a9dcb694dbda4e3a8ccbb8aab64b8a31/artifacts
+end_time: 1669951064144
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a9dcb694dbda4e3a8ccbb8aab64b8a31
+run_name: delicate-seal-344
+run_uuid: a9dcb694dbda4e3a8ccbb8aab64b8a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240644073
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d7b349b06e0947d492577ec4bab87253/artifacts
+end_time: 1670104134581
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7b349b06e0947d492577ec4bab87253
+run_name: flawless-horse-231
+run_uuid: d7b349b06e0947d492577ec4bab87253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240005829
+status: 3
+tags: []
+user_id: unknown

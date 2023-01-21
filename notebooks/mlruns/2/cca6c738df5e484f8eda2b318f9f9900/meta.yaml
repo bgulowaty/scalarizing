@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/cca6c738df5e484f8eda2b318f9f9900/artifacts
+end_time: 1670162069008
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cca6c738df5e484f8eda2b318f9f9900
+run_name: delicate-quail-402
+run_uuid: cca6c738df5e484f8eda2b318f9f9900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150456389
+status: 3
+tags: []
+user_id: unknown

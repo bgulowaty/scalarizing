@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/15c95990c185429cb94a75378156b409/artifacts
+end_time: 1670104167095
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15c95990c185429cb94a75378156b409
+run_name: masked-robin-356
+run_uuid: 15c95990c185429cb94a75378156b409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240009497
+status: 3
+tags: []
+user_id: unknown

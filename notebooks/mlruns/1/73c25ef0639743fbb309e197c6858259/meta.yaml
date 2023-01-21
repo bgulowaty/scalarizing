@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/73c25ef0639743fbb309e197c6858259/artifacts
+end_time: 1669947235121
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73c25ef0639743fbb309e197c6858259
+run_name: polite-calf-299
+run_uuid: 73c25ef0639743fbb309e197c6858259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241432219
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ec3034892c354e8eb79dbcda541ce7b3/artifacts
+end_time: 1670181765423
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec3034892c354e8eb79dbcda541ce7b3
+run_name: stately-toad-433
+run_uuid: ec3034892c354e8eb79dbcda541ce7b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239946464
+status: 3
+tags: []
+user_id: unknown

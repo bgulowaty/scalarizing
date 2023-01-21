@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9be910ba10344698be3a7c9aab2e82d3/artifacts
+end_time: 1669950378287
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9be910ba10344698be3a7c9aab2e82d3
+run_name: upset-wolf-546
+run_uuid: 9be910ba10344698be3a7c9aab2e82d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240786684
+status: 3
+tags: []
+user_id: unknown

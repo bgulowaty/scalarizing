@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8c9c1bf3561549fbbb34ec0c13c99ac2/artifacts
+end_time: 1669951663418
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c9c1bf3561549fbbb34ec0c13c99ac2
+run_name: sedate-shad-186
+run_uuid: 8c9c1bf3561549fbbb34ec0c13c99ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240547095
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/4efb1dcb2ed14996a76d001b80499910/artifacts
+end_time: 1670162513121
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4efb1dcb2ed14996a76d001b80499910
+run_name: judicious-stoat-245
+run_uuid: 4efb1dcb2ed14996a76d001b80499910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150274093
+status: 3
+tags: []
+user_id: unknown

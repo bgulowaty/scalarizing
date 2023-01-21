@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0f18f01ffde64b8f83fc2a0c7dbed6d6/artifacts
+end_time: 1669955977083
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f18f01ffde64b8f83fc2a0c7dbed6d6
+run_name: rogue-panda-432
+run_uuid: 0f18f01ffde64b8f83fc2a0c7dbed6d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240091883
+status: 3
+tags: []
+user_id: unknown

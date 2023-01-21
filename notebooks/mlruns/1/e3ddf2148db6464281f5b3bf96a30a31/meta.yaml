@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3ddf2148db6464281f5b3bf96a30a31/artifacts
+end_time: 1669951915567
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3ddf2148db6464281f5b3bf96a30a31
+run_name: bouncy-snail-46
+run_uuid: e3ddf2148db6464281f5b3bf96a30a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240539450
+status: 3
+tags: []
+user_id: unknown

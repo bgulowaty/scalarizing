@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bf55402900c04c21a7e56f796ad5861f/artifacts
+end_time: 1669955917417
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf55402900c04c21a7e56f796ad5861f
+run_name: legendary-yak-622
+run_uuid: bf55402900c04c21a7e56f796ad5861f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240095348
+status: 3
+tags: []
+user_id: unknown

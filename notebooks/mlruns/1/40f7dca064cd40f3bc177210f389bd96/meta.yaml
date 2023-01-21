@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/40f7dca064cd40f3bc177210f389bd96/artifacts
+end_time: 1669943141653
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40f7dca064cd40f3bc177210f389bd96
+run_name: likeable-zebra-526
+run_uuid: 40f7dca064cd40f3bc177210f389bd96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242408915
+status: 3
+tags: []
+user_id: unknown

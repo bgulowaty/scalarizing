@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2a2b60c7357b4a1b861fc8322700e504/artifacts
+end_time: 1669947683973
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a2b60c7357b4a1b861fc8322700e504
+run_name: judicious-smelt-592
+run_uuid: 2a2b60c7357b4a1b861fc8322700e504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241335490
+status: 3
+tags: []
+user_id: unknown

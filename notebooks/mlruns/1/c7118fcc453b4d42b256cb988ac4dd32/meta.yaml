@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c7118fcc453b4d42b256cb988ac4dd32/artifacts
+end_time: 1669948874173
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7118fcc453b4d42b256cb988ac4dd32
+run_name: lyrical-shrimp-735
+run_uuid: c7118fcc453b4d42b256cb988ac4dd32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241080151
+status: 3
+tags: []
+user_id: unknown

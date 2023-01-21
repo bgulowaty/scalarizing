@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e1d0f704c6d149daa783fa2b8e8d9145/artifacts
+end_time: 1669949127006
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1d0f704c6d149daa783fa2b8e8d9145
+run_name: capable-hawk-498
+run_uuid: e1d0f704c6d149daa783fa2b8e8d9145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241039977
+status: 3
+tags: []
+user_id: unknown

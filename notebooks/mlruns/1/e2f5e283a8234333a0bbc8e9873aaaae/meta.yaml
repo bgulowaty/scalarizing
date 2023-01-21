@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e2f5e283a8234333a0bbc8e9873aaaae/artifacts
+end_time: 1670181454045
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2f5e283a8234333a0bbc8e9873aaaae
+run_name: secretive-rat-582
+run_uuid: e2f5e283a8234333a0bbc8e9873aaaae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240231923
+status: 3
+tags: []
+user_id: unknown

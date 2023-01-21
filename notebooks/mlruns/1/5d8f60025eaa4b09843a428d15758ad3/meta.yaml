@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5d8f60025eaa4b09843a428d15758ad3/artifacts
+end_time: 1669951614751
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d8f60025eaa4b09843a428d15758ad3
+run_name: nebulous-bee-402
+run_uuid: 5d8f60025eaa4b09843a428d15758ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240571014
+status: 3
+tags: []
+user_id: unknown

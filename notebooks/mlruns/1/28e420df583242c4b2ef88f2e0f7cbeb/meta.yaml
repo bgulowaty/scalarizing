@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/28e420df583242c4b2ef88f2e0f7cbeb/artifacts
+end_time: 1669943543681
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28e420df583242c4b2ef88f2e0f7cbeb
+run_name: enthused-quail-254
+run_uuid: 28e420df583242c4b2ef88f2e0f7cbeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242306052
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/79cd6be12fa84adfbe31fa3af346bb38/artifacts
+end_time: 1669945758767
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79cd6be12fa84adfbe31fa3af346bb38
+run_name: stately-moth-639
+run_uuid: 79cd6be12fa84adfbe31fa3af346bb38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241739352
+status: 3
+tags: []
+user_id: unknown

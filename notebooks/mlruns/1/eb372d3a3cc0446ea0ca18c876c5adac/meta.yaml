@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb372d3a3cc0446ea0ca18c876c5adac/artifacts
+end_time: 1669950994058
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb372d3a3cc0446ea0ca18c876c5adac
+run_name: dazzling-fish-242
+run_uuid: eb372d3a3cc0446ea0ca18c876c5adac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240661584
+status: 3
+tags: []
+user_id: unknown

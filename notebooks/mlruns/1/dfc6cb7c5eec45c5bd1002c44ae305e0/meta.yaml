@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dfc6cb7c5eec45c5bd1002c44ae305e0/artifacts
+end_time: 1669952579701
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dfc6cb7c5eec45c5bd1002c44ae305e0
+run_name: gaudy-frog-319
+run_uuid: dfc6cb7c5eec45c5bd1002c44ae305e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240419849
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fdd11ceff3a04e3ca756521fc1c36a44/artifacts
+end_time: 1669948193624
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdd11ceff3a04e3ca756521fc1c36a44
+run_name: crawling-ray-270
+run_uuid: fdd11ceff3a04e3ca756521fc1c36a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241225147
+status: 3
+tags: []
+user_id: unknown

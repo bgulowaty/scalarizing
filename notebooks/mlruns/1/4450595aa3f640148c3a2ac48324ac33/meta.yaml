@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4450595aa3f640148c3a2ac48324ac33/artifacts
+end_time: 1669943677695
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4450595aa3f640148c3a2ac48324ac33
+run_name: gregarious-stork-923
+run_uuid: 4450595aa3f640148c3a2ac48324ac33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242272979
+status: 3
+tags: []
+user_id: unknown

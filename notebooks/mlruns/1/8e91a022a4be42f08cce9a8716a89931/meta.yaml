@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8e91a022a4be42f08cce9a8716a89931/artifacts
+end_time: 1669944921717
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e91a022a4be42f08cce9a8716a89931
+run_name: youthful-zebra-566
+run_uuid: 8e91a022a4be42f08cce9a8716a89931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241931932
+status: 3
+tags: []
+user_id: unknown

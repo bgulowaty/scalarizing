@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e9f85c3ba0894f3ab765ebacf7c22c21/artifacts
+end_time: 1669952972173
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9f85c3ba0894f3ab765ebacf7c22c21
+run_name: enthused-colt-793
+run_uuid: e9f85c3ba0894f3ab765ebacf7c22c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240396249
+status: 3
+tags: []
+user_id: unknown

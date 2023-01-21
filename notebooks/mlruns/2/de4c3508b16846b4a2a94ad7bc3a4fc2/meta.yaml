@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/de4c3508b16846b4a2a94ad7bc3a4fc2/artifacts
+end_time: 1670161862057
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: de4c3508b16846b4a2a94ad7bc3a4fc2
+run_name: judicious-gull-894
+run_uuid: de4c3508b16846b4a2a94ad7bc3a4fc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150545132
+status: 3
+tags: []
+user_id: unknown

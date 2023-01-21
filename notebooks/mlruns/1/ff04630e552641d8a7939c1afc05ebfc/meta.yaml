@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff04630e552641d8a7939c1afc05ebfc/artifacts
+end_time: 1669949128926
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff04630e552641d8a7939c1afc05ebfc
+run_name: brawny-hog-771
+run_uuid: ff04630e552641d8a7939c1afc05ebfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241036706
+status: 3
+tags: []
+user_id: unknown

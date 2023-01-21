@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d205c6d0d9b8465d90c7aca5f2e5cc28/artifacts
+end_time: 1669944924753
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d205c6d0d9b8465d90c7aca5f2e5cc28
+run_name: merciful-frog-295
+run_uuid: d205c6d0d9b8465d90c7aca5f2e5cc28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241954342
+status: 3
+tags: []
+user_id: unknown

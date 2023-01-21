@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ab32fe2bd2f419f84c2444e1f1783bc/artifacts
+end_time: 1669945506953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ab32fe2bd2f419f84c2444e1f1783bc
+run_name: adventurous-fox-697
+run_uuid: 2ab32fe2bd2f419f84c2444e1f1783bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241794602
+status: 3
+tags: []
+user_id: unknown

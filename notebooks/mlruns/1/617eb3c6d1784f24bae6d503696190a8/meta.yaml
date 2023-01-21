@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/617eb3c6d1784f24bae6d503696190a8/artifacts
+end_time: 1669950646430
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 617eb3c6d1784f24bae6d503696190a8
+run_name: debonair-pug-260
+run_uuid: 617eb3c6d1784f24bae6d503696190a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240725641
+status: 3
+tags: []
+user_id: unknown

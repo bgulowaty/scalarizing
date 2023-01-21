@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b8dbf879a1b44ef2a5e3e74f1253e5ce/artifacts
+end_time: 1669944547417
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8dbf879a1b44ef2a5e3e74f1253e5ce
+run_name: caring-panda-639
+run_uuid: b8dbf879a1b44ef2a5e3e74f1253e5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242049145
+status: 3
+tags: []
+user_id: unknown

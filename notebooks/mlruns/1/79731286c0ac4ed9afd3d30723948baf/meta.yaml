@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/79731286c0ac4ed9afd3d30723948baf/artifacts
+end_time: 1670105685820
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79731286c0ac4ed9afd3d30723948baf
+run_name: spiffy-zebra-703
+run_uuid: 79731286c0ac4ed9afd3d30723948baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239919000
+status: 3
+tags: []
+user_id: unknown

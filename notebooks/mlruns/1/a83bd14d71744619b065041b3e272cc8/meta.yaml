@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a83bd14d71744619b065041b3e272cc8/artifacts
+end_time: 1669948192754
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a83bd14d71744619b065041b3e272cc8
+run_name: brawny-deer-398
+run_uuid: a83bd14d71744619b065041b3e272cc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241234091
+status: 3
+tags: []
+user_id: unknown

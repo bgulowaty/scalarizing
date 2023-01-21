@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c14355e045964146bca693440e7aac63/artifacts
+end_time: 1669955010278
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c14355e045964146bca693440e7aac63
+run_name: nosy-shrike-789
+run_uuid: c14355e045964146bca693440e7aac63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240176184
+status: 3
+tags: []
+user_id: unknown

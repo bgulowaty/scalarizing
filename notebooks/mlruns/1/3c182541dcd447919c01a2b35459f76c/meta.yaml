@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c182541dcd447919c01a2b35459f76c/artifacts
+end_time: 1669947887290
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c182541dcd447919c01a2b35459f76c
+run_name: melodic-fowl-276
+run_uuid: 3c182541dcd447919c01a2b35459f76c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241279495
+status: 3
+tags: []
+user_id: unknown

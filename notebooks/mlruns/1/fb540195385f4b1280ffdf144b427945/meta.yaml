@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb540195385f4b1280ffdf144b427945/artifacts
+end_time: 1669947282091
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb540195385f4b1280ffdf144b427945
+run_name: placid-fawn-385
+run_uuid: fb540195385f4b1280ffdf144b427945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241406620
+status: 3
+tags: []
+user_id: unknown

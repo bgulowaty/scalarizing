@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ae83052c63dc4b75bf21e3011678934f/artifacts
+end_time: 1670102415723
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae83052c63dc4b75bf21e3011678934f
+run_name: funny-gnu-280
+run_uuid: ae83052c63dc4b75bf21e3011678934f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242616529
+status: 3
+tags: []
+user_id: unknown

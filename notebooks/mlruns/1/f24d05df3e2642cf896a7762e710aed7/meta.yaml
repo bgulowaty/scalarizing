@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f24d05df3e2642cf896a7762e710aed7/artifacts
+end_time: 1669951972514
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f24d05df3e2642cf896a7762e710aed7
+run_name: treasured-deer-916
+run_uuid: f24d05df3e2642cf896a7762e710aed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240514453
+status: 3
+tags: []
+user_id: unknown

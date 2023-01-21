@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c853cce9ea1a468d98b383a76a19ed8f/artifacts
+end_time: 1669951289151
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c853cce9ea1a468d98b383a76a19ed8f
+run_name: handsome-moth-419
+run_uuid: c853cce9ea1a468d98b383a76a19ed8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240651162
+status: 3
+tags: []
+user_id: unknown

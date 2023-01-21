@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e28c38a329a8409bab6679171a9174bc/artifacts
+end_time: 1670162725496
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e28c38a329a8409bab6679171a9174bc
+run_name: useful-robin-471
+run_uuid: e28c38a329a8409bab6679171a9174bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150219783
+status: 3
+tags: []
+user_id: unknown

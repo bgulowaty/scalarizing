@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c98b5ee91a8841348c021a23fd134d54/artifacts
+end_time: 1669944188839
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c98b5ee91a8841348c021a23fd134d54
+run_name: mysterious-frog-584
+run_uuid: c98b5ee91a8841348c021a23fd134d54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242132966
+status: 3
+tags: []
+user_id: unknown

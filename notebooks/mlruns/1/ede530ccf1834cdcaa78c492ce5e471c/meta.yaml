@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ede530ccf1834cdcaa78c492ce5e471c/artifacts
+end_time: 1669948216945
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ede530ccf1834cdcaa78c492ce5e471c
+run_name: wistful-conch-958
+run_uuid: ede530ccf1834cdcaa78c492ce5e471c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241209913
+status: 3
+tags: []
+user_id: unknown

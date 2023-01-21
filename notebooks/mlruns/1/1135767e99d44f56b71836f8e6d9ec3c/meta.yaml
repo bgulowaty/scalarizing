@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1135767e99d44f56b71836f8e6d9ec3c/artifacts
+end_time: 1669944906042
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1135767e99d44f56b71836f8e6d9ec3c
+run_name: abundant-shrew-243
+run_uuid: 1135767e99d44f56b71836f8e6d9ec3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241985929
+status: 3
+tags: []
+user_id: unknown

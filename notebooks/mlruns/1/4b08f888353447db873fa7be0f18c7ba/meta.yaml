@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4b08f888353447db873fa7be0f18c7ba/artifacts
+end_time: 1669955388058
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4b08f888353447db873fa7be0f18c7ba
+run_name: secretive-jay-721
+run_uuid: 4b08f888353447db873fa7be0f18c7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240158101
+status: 3
+tags: []
+user_id: unknown

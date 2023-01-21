@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/71cfefcbed354b5c8f143e5c509e2c7e/artifacts
+end_time: 1669943904453
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 71cfefcbed354b5c8f143e5c509e2c7e
+run_name: traveling-stork-920
+run_uuid: 71cfefcbed354b5c8f143e5c509e2c7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242215025
+status: 3
+tags: []
+user_id: unknown

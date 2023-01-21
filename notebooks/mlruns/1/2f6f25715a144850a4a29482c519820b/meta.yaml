@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2f6f25715a144850a4a29482c519820b/artifacts
+end_time: 1670180534036
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f6f25715a144850a4a29482c519820b
+run_name: amazing-shad-103
+run_uuid: 2f6f25715a144850a4a29482c519820b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242595674
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/114f9e52af764a45b04d3d323c32448a/artifacts
+end_time: 1670162399279
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 114f9e52af764a45b04d3d323c32448a
+run_name: learned-skunk-215
+run_uuid: 114f9e52af764a45b04d3d323c32448a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150321432
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6583f8b0878c4f63933ae705f2914f58/artifacts
+end_time: 1670106586875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6583f8b0878c4f63933ae705f2914f58
+run_name: burly-robin-668
+run_uuid: 6583f8b0878c4f63933ae705f2914f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239891623
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aee24beacf5f44b79d6e82342f3eb601/artifacts
+end_time: 1670180567510
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aee24beacf5f44b79d6e82342f3eb601
+run_name: learned-fly-291
+run_uuid: aee24beacf5f44b79d6e82342f3eb601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242309423
+status: 3
+tags: []
+user_id: unknown

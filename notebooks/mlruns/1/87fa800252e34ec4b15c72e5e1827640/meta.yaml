@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87fa800252e34ec4b15c72e5e1827640/artifacts
+end_time: 1670103487806
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87fa800252e34ec4b15c72e5e1827640
+run_name: rogue-auk-387
+run_uuid: 87fa800252e34ec4b15c72e5e1827640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240416556
+status: 3
+tags: []
+user_id: unknown

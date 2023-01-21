@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13f287174ad245348dd6742eb6fd7364/artifacts
+end_time: 1670181129075
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13f287174ad245348dd6742eb6fd7364
+run_name: glamorous-bird-907
+run_uuid: 13f287174ad245348dd6742eb6fd7364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240902320
+status: 3
+tags: []
+user_id: unknown

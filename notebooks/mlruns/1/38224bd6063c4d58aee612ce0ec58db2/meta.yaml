@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/38224bd6063c4d58aee612ce0ec58db2/artifacts
+end_time: 1670102938723
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38224bd6063c4d58aee612ce0ec58db2
+run_name: persistent-tern-177
+run_uuid: 38224bd6063c4d58aee612ce0ec58db2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242637258
+status: 3
+tags: []
+user_id: unknown

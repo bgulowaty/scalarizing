@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d8106a0cb3c742b09a23553c96dcd2f4/artifacts
+end_time: 1669945054211
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8106a0cb3c742b09a23553c96dcd2f4
+run_name: thundering-frog-696
+run_uuid: d8106a0cb3c742b09a23553c96dcd2f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242009942
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1d1b6dc8a8bc4730af60b2d6b730c0d0/artifacts
+end_time: 1670162637940
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1d1b6dc8a8bc4730af60b2d6b730c0d0
+run_name: capricious-quail-810
+run_uuid: 1d1b6dc8a8bc4730af60b2d6b730c0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150248811
+status: 3
+tags: []
+user_id: unknown

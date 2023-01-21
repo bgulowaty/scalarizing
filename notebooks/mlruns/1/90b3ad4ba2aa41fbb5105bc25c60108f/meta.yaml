@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/90b3ad4ba2aa41fbb5105bc25c60108f/artifacts
+end_time: 1669946110074
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90b3ad4ba2aa41fbb5105bc25c60108f
+run_name: debonair-lark-566
+run_uuid: 90b3ad4ba2aa41fbb5105bc25c60108f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241682889
+status: 3
+tags: []
+user_id: unknown

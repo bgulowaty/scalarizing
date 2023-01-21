@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a41a865c9f92431280e242025f3ca8ef/artifacts
+end_time: 1669952833500
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a41a865c9f92431280e242025f3ca8ef
+run_name: gentle-mole-870
+run_uuid: a41a865c9f92431280e242025f3ca8ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240401367
+status: 3
+tags: []
+user_id: unknown

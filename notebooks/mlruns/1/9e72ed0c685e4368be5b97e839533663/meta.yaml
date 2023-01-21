@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9e72ed0c685e4368be5b97e839533663/artifacts
+end_time: 1669947254470
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e72ed0c685e4368be5b97e839533663
+run_name: persistent-boar-695
+run_uuid: 9e72ed0c685e4368be5b97e839533663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241405901
+status: 3
+tags: []
+user_id: unknown

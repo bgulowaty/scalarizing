@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/25c47bb9cfc14207b1d49c47f82792d0/artifacts
+end_time: 1669950650590
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25c47bb9cfc14207b1d49c47f82792d0
+run_name: upset-squirrel-253
+run_uuid: 25c47bb9cfc14207b1d49c47f82792d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240741472
+status: 3
+tags: []
+user_id: unknown

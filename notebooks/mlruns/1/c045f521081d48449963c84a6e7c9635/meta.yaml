@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c045f521081d48449963c84a6e7c9635/artifacts
+end_time: 1670180836982
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c045f521081d48449963c84a6e7c9635
+run_name: awesome-crow-48
+run_uuid: c045f521081d48449963c84a6e7c9635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241720064
+status: 4
+tags: []
+user_id: unknown

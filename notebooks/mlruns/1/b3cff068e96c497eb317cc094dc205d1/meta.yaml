@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b3cff068e96c497eb317cc094dc205d1/artifacts
+end_time: 1669946926709
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3cff068e96c497eb317cc094dc205d1
+run_name: rumbling-crow-693
+run_uuid: b3cff068e96c497eb317cc094dc205d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241491840
+status: 3
+tags: []
+user_id: unknown

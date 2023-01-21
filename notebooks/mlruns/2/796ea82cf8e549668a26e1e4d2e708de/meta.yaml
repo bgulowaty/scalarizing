@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/796ea82cf8e549668a26e1e4d2e708de/artifacts
+end_time: 1670162838028
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 796ea82cf8e549668a26e1e4d2e708de
+run_name: gentle-owl-731
+run_uuid: 796ea82cf8e549668a26e1e4d2e708de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150228302
+status: 3
+tags: []
+user_id: unknown

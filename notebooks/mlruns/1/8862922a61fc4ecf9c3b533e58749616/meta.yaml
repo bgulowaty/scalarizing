@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8862922a61fc4ecf9c3b533e58749616/artifacts
+end_time: 1669947600700
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8862922a61fc4ecf9c3b533e58749616
+run_name: awesome-colt-914
+run_uuid: 8862922a61fc4ecf9c3b533e58749616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241332802
+status: 3
+tags: []
+user_id: unknown

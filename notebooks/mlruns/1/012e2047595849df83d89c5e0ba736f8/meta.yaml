@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/012e2047595849df83d89c5e0ba736f8/artifacts
+end_time: 1669952221999
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 012e2047595849df83d89c5e0ba736f8
+run_name: wistful-mule-734
+run_uuid: 012e2047595849df83d89c5e0ba736f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240485533
+status: 3
+tags: []
+user_id: unknown

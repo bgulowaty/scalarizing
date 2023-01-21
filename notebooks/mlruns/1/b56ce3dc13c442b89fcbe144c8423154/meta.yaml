@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b56ce3dc13c442b89fcbe144c8423154/artifacts
+end_time: 1669944357242
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b56ce3dc13c442b89fcbe144c8423154
+run_name: sneaky-boar-351
+run_uuid: b56ce3dc13c442b89fcbe144c8423154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242079547
+status: 3
+tags: []
+user_id: unknown

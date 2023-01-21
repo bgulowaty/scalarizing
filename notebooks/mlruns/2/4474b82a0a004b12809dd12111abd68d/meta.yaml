@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/4474b82a0a004b12809dd12111abd68d/artifacts
+end_time: 1670162181964
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4474b82a0a004b12809dd12111abd68d
+run_name: suave-whale-302
+run_uuid: 4474b82a0a004b12809dd12111abd68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150404315
+status: 3
+tags: []
+user_id: unknown

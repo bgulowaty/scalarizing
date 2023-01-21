@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a62f2333bebb4c4b8f5524a1f32a6d35/artifacts
+end_time: 1670102415828
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a62f2333bebb4c4b8f5524a1f32a6d35
+run_name: monumental-hound-638
+run_uuid: a62f2333bebb4c4b8f5524a1f32a6d35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242602042
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/971d3f86ca5d40e68438003cc07abc4e/artifacts
+end_time: 1669954105687
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 971d3f86ca5d40e68438003cc07abc4e
+run_name: colorful-jay-171
+run_uuid: 971d3f86ca5d40e68438003cc07abc4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240268155
+status: 3
+tags: []
+user_id: unknown

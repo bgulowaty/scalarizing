@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/27cff59e540949ef82da0b16ce7b8d9f/artifacts
+end_time: 1669944770712
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27cff59e540949ef82da0b16ce7b8d9f
+run_name: rumbling-hound-806
+run_uuid: 27cff59e540949ef82da0b16ce7b8d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241987630
+status: 3
+tags: []
+user_id: unknown

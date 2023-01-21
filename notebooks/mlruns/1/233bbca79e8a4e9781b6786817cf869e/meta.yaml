@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/233bbca79e8a4e9781b6786817cf869e/artifacts
+end_time: 1669954467863
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 233bbca79e8a4e9781b6786817cf869e
+run_name: thundering-rat-370
+run_uuid: 233bbca79e8a4e9781b6786817cf869e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240222198
+status: 3
+tags: []
+user_id: unknown

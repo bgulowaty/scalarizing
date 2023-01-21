@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aebb99a86a204511b0166b707d3c1bfc/artifacts
+end_time: 1669947258051
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aebb99a86a204511b0166b707d3c1bfc
+run_name: zealous-mink-785
+run_uuid: aebb99a86a204511b0166b707d3c1bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241424055
+status: 3
+tags: []
+user_id: unknown

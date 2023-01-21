@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9dccbbb897a2423883496647c6dfd193/artifacts
+end_time: 1670181483295
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dccbbb897a2423883496647c6dfd193
+run_name: flawless-gnu-515
+run_uuid: 9dccbbb897a2423883496647c6dfd193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240110803
+status: 3
+tags: []
+user_id: unknown

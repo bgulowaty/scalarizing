@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/97718e88e2554ac39ce46c4761435dbe/artifacts
+end_time: 1670162728911
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 97718e88e2554ac39ce46c4761435dbe
+run_name: nebulous-stag-452
+run_uuid: 97718e88e2554ac39ce46c4761435dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150220249
+status: 3
+tags: []
+user_id: unknown

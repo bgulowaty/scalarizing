@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a62880b95fd1424bb8fd109c60ae4a3b/artifacts
+end_time: 1669956331499
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a62880b95fd1424bb8fd109c60ae4a3b
+run_name: merciful-cod-615
+run_uuid: a62880b95fd1424bb8fd109c60ae4a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240065896
+status: 3
+tags: []
+user_id: unknown

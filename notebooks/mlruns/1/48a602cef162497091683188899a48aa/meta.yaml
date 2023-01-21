@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48a602cef162497091683188899a48aa/artifacts
+end_time: 1670105653664
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48a602cef162497091683188899a48aa
+run_name: respected-swan-259
+run_uuid: 48a602cef162497091683188899a48aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239929125
+status: 3
+tags: []
+user_id: unknown

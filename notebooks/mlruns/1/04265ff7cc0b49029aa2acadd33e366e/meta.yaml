@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/04265ff7cc0b49029aa2acadd33e366e/artifacts
+end_time: 1669955607816
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04265ff7cc0b49029aa2acadd33e366e
+run_name: adventurous-calf-111
+run_uuid: 04265ff7cc0b49029aa2acadd33e366e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240120282
+status: 3
+tags: []
+user_id: unknown

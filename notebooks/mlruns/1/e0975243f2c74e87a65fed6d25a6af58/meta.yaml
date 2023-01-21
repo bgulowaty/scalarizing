@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e0975243f2c74e87a65fed6d25a6af58/artifacts
+end_time: 1669945771149
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0975243f2c74e87a65fed6d25a6af58
+run_name: unequaled-skunk-925
+run_uuid: e0975243f2c74e87a65fed6d25a6af58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241725383
+status: 3
+tags: []
+user_id: unknown

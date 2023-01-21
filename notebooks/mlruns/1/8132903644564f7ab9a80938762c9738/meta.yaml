@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8132903644564f7ab9a80938762c9738/artifacts
+end_time: 1669952526369
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8132903644564f7ab9a80938762c9738
+run_name: big-swan-754
+run_uuid: 8132903644564f7ab9a80938762c9738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240448459
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/67b8fc63581d40eba99039b6870ad849/artifacts
+end_time: 1670162510457
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 67b8fc63581d40eba99039b6870ad849
+run_name: amazing-donkey-524
+run_uuid: 67b8fc63581d40eba99039b6870ad849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150285053
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89507d6c96804aa489689215f7433eee/artifacts
+end_time: 1670102032591
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89507d6c96804aa489689215f7433eee
+run_name: selective-wasp-502
+run_uuid: 89507d6c96804aa489689215f7433eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242683158
+status: 3
+tags: []
+user_id: unknown

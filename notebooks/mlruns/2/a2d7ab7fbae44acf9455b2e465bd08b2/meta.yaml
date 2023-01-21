@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a2d7ab7fbae44acf9455b2e465bd08b2/artifacts
+end_time: 1670162074322
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a2d7ab7fbae44acf9455b2e465bd08b2
+run_name: loud-gnu-371
+run_uuid: a2d7ab7fbae44acf9455b2e465bd08b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150443426
+status: 3
+tags: []
+user_id: unknown

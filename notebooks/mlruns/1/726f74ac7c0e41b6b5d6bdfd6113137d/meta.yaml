@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/726f74ac7c0e41b6b5d6bdfd6113137d/artifacts
+end_time: 1669950691347
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 726f74ac7c0e41b6b5d6bdfd6113137d
+run_name: secretive-moth-431
+run_uuid: 726f74ac7c0e41b6b5d6bdfd6113137d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240721032
+status: 3
+tags: []
+user_id: unknown

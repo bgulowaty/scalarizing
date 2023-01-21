@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c7d8d2b8ea8f45c08496f24f23f172c3/artifacts
+end_time: 1669948524372
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7d8d2b8ea8f45c08496f24f23f172c3
+run_name: bald-deer-144
+run_uuid: c7d8d2b8ea8f45c08496f24f23f172c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241158539
+status: 3
+tags: []
+user_id: unknown

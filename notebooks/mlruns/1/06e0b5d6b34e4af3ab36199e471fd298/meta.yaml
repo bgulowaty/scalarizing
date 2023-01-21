@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/06e0b5d6b34e4af3ab36199e471fd298/artifacts
+end_time: 1670181151236
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 06e0b5d6b34e4af3ab36199e471fd298
+run_name: fun-auk-432
+run_uuid: 06e0b5d6b34e4af3ab36199e471fd298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242605695
+status: 3
+tags: []
+user_id: unknown

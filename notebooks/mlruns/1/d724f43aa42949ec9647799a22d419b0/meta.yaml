@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d724f43aa42949ec9647799a22d419b0/artifacts
+end_time: 1669946927240
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d724f43aa42949ec9647799a22d419b0
+run_name: delicate-duck-142
+run_uuid: d724f43aa42949ec9647799a22d419b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241476009
+status: 3
+tags: []
+user_id: unknown

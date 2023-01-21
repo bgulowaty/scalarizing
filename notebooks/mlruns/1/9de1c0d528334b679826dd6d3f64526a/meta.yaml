@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9de1c0d528334b679826dd6d3f64526a/artifacts
+end_time: 1670102313133
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9de1c0d528334b679826dd6d3f64526a
+run_name: flawless-snake-792
+run_uuid: 9de1c0d528334b679826dd6d3f64526a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242610507
+status: 3
+tags: []
+user_id: unknown

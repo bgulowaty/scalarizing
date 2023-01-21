@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0d3cf1b44551492aab57dd4d862836df/artifacts
+end_time: 1670162287633
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0d3cf1b44551492aab57dd4d862836df
+run_name: legendary-bird-160
+run_uuid: 0d3cf1b44551492aab57dd4d862836df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150376230
+status: 3
+tags: []
+user_id: unknown

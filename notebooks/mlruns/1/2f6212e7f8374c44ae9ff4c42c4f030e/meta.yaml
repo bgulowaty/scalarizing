@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2f6212e7f8374c44ae9ff4c42c4f030e/artifacts
+end_time: 1669944374493
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f6212e7f8374c44ae9ff4c42c4f030e
+run_name: fearless-finch-854
+run_uuid: 2f6212e7f8374c44ae9ff4c42c4f030e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242150174
+status: 3
+tags: []
+user_id: unknown

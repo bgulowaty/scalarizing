@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/27c670bc2d41435cb5ff7f476c3f6a5a/artifacts
+end_time: 1669947846116
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27c670bc2d41435cb5ff7f476c3f6a5a
+run_name: legendary-frog-168
+run_uuid: 27c670bc2d41435cb5ff7f476c3f6a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241311794
+status: 3
+tags: []
+user_id: unknown

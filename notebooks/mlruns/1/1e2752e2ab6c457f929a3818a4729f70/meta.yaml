@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1e2752e2ab6c457f929a3818a4729f70/artifacts
+end_time: 1669944861842
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e2752e2ab6c457f929a3818a4729f70
+run_name: fearless-cub-238
+run_uuid: 1e2752e2ab6c457f929a3818a4729f70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242095499
+status: 3
+tags: []
+user_id: unknown

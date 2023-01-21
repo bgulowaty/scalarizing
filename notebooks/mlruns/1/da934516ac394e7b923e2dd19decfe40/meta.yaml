@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da934516ac394e7b923e2dd19decfe40/artifacts
+end_time: 1670180577443
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da934516ac394e7b923e2dd19decfe40
+run_name: colorful-crane-256
+run_uuid: da934516ac394e7b923e2dd19decfe40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242396052
+status: 3
+tags: []
+user_id: unknown

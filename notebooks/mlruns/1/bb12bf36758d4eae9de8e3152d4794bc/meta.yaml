@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bb12bf36758d4eae9de8e3152d4794bc/artifacts
+end_time: 1669946733807
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb12bf36758d4eae9de8e3152d4794bc
+run_name: spiffy-mole-240
+run_uuid: bb12bf36758d4eae9de8e3152d4794bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241532079
+status: 3
+tags: []
+user_id: unknown

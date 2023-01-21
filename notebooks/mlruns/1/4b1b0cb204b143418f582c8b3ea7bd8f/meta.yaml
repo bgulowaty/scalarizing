@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4b1b0cb204b143418f582c8b3ea7bd8f/artifacts
+end_time: 1670104111372
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4b1b0cb204b143418f582c8b3ea7bd8f
+run_name: bald-hawk-33
+run_uuid: 4b1b0cb204b143418f582c8b3ea7bd8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240019634
+status: 3
+tags: []
+user_id: unknown

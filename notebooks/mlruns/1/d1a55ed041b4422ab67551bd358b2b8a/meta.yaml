@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d1a55ed041b4422ab67551bd358b2b8a/artifacts
+end_time: 1669946006006
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1a55ed041b4422ab67551bd358b2b8a
+run_name: puzzled-whale-260
+run_uuid: d1a55ed041b4422ab67551bd358b2b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241673500
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1cca5d51fae94cb5baa5194dd29387e4/artifacts
+end_time: 1670104131000
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1cca5d51fae94cb5baa5194dd29387e4
+run_name: monumental-fox-656
+run_uuid: 1cca5d51fae94cb5baa5194dd29387e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240011485
+status: 3
+tags: []
+user_id: unknown

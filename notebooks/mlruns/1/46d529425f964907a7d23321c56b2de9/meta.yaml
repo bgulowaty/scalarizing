@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46d529425f964907a7d23321c56b2de9/artifacts
+end_time: 1670104712675
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46d529425f964907a7d23321c56b2de9
+run_name: unique-shrike-579
+run_uuid: 46d529425f964907a7d23321c56b2de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239978069
+status: 3
+tags: []
+user_id: unknown

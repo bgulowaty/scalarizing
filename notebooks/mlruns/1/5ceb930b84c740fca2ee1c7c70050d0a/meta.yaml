@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5ceb930b84c740fca2ee1c7c70050d0a/artifacts
+end_time: 1669942994168
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ceb930b84c740fca2ee1c7c70050d0a
+run_name: gregarious-carp-29
+run_uuid: 5ceb930b84c740fca2ee1c7c70050d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242499040
+status: 3
+tags: []
+user_id: unknown

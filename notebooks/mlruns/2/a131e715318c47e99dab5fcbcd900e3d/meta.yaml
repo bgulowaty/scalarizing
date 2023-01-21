@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a131e715318c47e99dab5fcbcd900e3d/artifacts
+end_time: 1670162723416
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a131e715318c47e99dab5fcbcd900e3d
+run_name: marvelous-toad-818
+run_uuid: a131e715318c47e99dab5fcbcd900e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150234247
+status: 3
+tags: []
+user_id: unknown

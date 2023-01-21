@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3cdf26a1cc9c46c2b2a8a3237d169aeb/artifacts
+end_time: 1669953474011
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3cdf26a1cc9c46c2b2a8a3237d169aeb
+run_name: capable-deer-172
+run_uuid: 3cdf26a1cc9c46c2b2a8a3237d169aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240335323
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/96b1d89ecf654736962d40d101b94c83/artifacts
+end_time: 1670105393074
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 96b1d89ecf654736962d40d101b94c83
+run_name: rumbling-croc-627
+run_uuid: 96b1d89ecf654736962d40d101b94c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239932121
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a0854c1165234e769aaae1fa09aa5585/artifacts
+end_time: 1669955012842
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0854c1165234e769aaae1fa09aa5585
+run_name: mercurial-loon-565
+run_uuid: a0854c1165234e769aaae1fa09aa5585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240171364
+status: 3
+tags: []
+user_id: unknown

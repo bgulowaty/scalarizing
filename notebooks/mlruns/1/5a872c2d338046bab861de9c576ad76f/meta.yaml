@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5a872c2d338046bab861de9c576ad76f/artifacts
+end_time: 1669955975501
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a872c2d338046bab861de9c576ad76f
+run_name: classy-mare-17
+run_uuid: 5a872c2d338046bab861de9c576ad76f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240087328
+status: 3
+tags: []
+user_id: unknown

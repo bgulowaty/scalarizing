@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c7948482a32440e390f7da282904ecc2/artifacts
+end_time: 1669944446296
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7948482a32440e390f7da282904ecc2
+run_name: classy-ox-547
+run_uuid: c7948482a32440e390f7da282904ecc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242151682
+status: 3
+tags: []
+user_id: unknown

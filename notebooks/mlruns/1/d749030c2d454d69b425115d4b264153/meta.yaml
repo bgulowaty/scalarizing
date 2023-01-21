@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d749030c2d454d69b425115d4b264153/artifacts
+end_time: 1669950648050
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d749030c2d454d69b425115d4b264153
+run_name: thundering-ant-460
+run_uuid: d749030c2d454d69b425115d4b264153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240761431
+status: 3
+tags: []
+user_id: unknown

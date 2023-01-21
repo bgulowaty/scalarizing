@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bd87372e60e74300b284f6372eac69e8/artifacts
+end_time: 1669948256552
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd87372e60e74300b284f6372eac69e8
+run_name: nosy-rat-678
+run_uuid: bd87372e60e74300b284f6372eac69e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241207340
+status: 3
+tags: []
+user_id: unknown

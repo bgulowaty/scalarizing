@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13435c5116e946a59efe2175712527df/artifacts
+end_time: 1670106304336
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13435c5116e946a59efe2175712527df
+run_name: amusing-ray-758
+run_uuid: 13435c5116e946a59efe2175712527df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239897351
+status: 3
+tags: []
+user_id: unknown

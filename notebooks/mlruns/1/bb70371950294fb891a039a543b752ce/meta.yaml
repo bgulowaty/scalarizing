@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bb70371950294fb891a039a543b752ce/artifacts
+end_time: 1669943424244
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb70371950294fb891a039a543b752ce
+run_name: agreeable-asp-745
+run_uuid: bb70371950294fb891a039a543b752ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242334300
+status: 3
+tags: []
+user_id: unknown

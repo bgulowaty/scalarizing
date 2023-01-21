@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13db0ac19f68492abd953377f8dc97cc/artifacts
+end_time: 1669954090337
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13db0ac19f68492abd953377f8dc97cc
+run_name: marvelous-asp-918
+run_uuid: 13db0ac19f68492abd953377f8dc97cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240269948
+status: 3
+tags: []
+user_id: unknown

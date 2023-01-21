@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8ff305ec1f9d4e1b95f1e160ba0b1d48/artifacts
+end_time: 1669946362404
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ff305ec1f9d4e1b95f1e160ba0b1d48
+run_name: calm-lark-471
+run_uuid: 8ff305ec1f9d4e1b95f1e160ba0b1d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241591176
+status: 3
+tags: []
+user_id: unknown

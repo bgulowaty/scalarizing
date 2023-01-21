@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f20cb21ddcad42028387e84934fc128b/artifacts
+end_time: 1669945397281
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f20cb21ddcad42028387e84934fc128b
+run_name: orderly-cat-729
+run_uuid: f20cb21ddcad42028387e84934fc128b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241836701
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d7212522d4944ea68916cd40ef05d87e/artifacts
+end_time: 1669955668502
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7212522d4944ea68916cd40ef05d87e
+run_name: clean-yak-638
+run_uuid: d7212522d4944ea68916cd40ef05d87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240113899
+status: 3
+tags: []
+user_id: unknown

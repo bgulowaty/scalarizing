@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39b160af640c4ac9a3560b1914515981/artifacts
+end_time: 1669947614806
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39b160af640c4ac9a3560b1914515981
+run_name: nimble-crane-22
+run_uuid: 39b160af640c4ac9a3560b1914515981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241329141
+status: 3
+tags: []
+user_id: unknown

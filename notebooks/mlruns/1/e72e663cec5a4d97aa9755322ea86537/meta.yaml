@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e72e663cec5a4d97aa9755322ea86537/artifacts
+end_time: 1669949399726
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e72e663cec5a4d97aa9755322ea86537
+run_name: omniscient-rat-624
+run_uuid: e72e663cec5a4d97aa9755322ea86537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241005833
+status: 3
+tags: []
+user_id: unknown

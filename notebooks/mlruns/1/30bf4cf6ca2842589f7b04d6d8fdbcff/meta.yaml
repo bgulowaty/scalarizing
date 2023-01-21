@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/30bf4cf6ca2842589f7b04d6d8fdbcff/artifacts
+end_time: 1669954419065
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30bf4cf6ca2842589f7b04d6d8fdbcff
+run_name: puzzled-turtle-564
+run_uuid: 30bf4cf6ca2842589f7b04d6d8fdbcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240248692
+status: 3
+tags: []
+user_id: unknown

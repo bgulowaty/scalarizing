@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dbbb826f6217405dad89b000e4f33062/artifacts
+end_time: 1669943239947
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbbb826f6217405dad89b000e4f33062
+run_name: chill-conch-334
+run_uuid: dbbb826f6217405dad89b000e4f33062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242385114
+status: 3
+tags: []
+user_id: unknown

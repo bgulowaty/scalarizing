@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/140b216d2aac4ae9bba315314a2d486b/artifacts
+end_time: 1669948781068
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 140b216d2aac4ae9bba315314a2d486b
+run_name: resilient-shad-939
+run_uuid: 140b216d2aac4ae9bba315314a2d486b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241122900
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a701ce62ce9b4c52ab61e237a67fb68e/artifacts
+end_time: 1669943304487
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a701ce62ce9b4c52ab61e237a67fb68e
+run_name: painted-bird-942
+run_uuid: a701ce62ce9b4c52ab61e237a67fb68e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242369455
+status: 3
+tags: []
+user_id: unknown

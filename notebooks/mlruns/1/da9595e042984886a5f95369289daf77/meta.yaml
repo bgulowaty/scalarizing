@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da9595e042984886a5f95369289daf77/artifacts
+end_time: 1669943747905
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da9595e042984886a5f95369289daf77
+run_name: wistful-calf-760
+run_uuid: da9595e042984886a5f95369289daf77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242268520
+status: 3
+tags: []
+user_id: unknown

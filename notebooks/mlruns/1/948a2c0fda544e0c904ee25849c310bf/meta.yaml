@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/948a2c0fda544e0c904ee25849c310bf/artifacts
+end_time: 1670104412350
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 948a2c0fda544e0c904ee25849c310bf
+run_name: masked-colt-575
+run_uuid: 948a2c0fda544e0c904ee25849c310bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239992055
+status: 3
+tags: []
+user_id: unknown

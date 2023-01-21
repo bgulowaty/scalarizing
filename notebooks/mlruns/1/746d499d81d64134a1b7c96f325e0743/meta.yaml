@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/746d499d81d64134a1b7c96f325e0743/artifacts
+end_time: 1670102014967
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 746d499d81d64134a1b7c96f325e0743
+run_name: exultant-shad-716
+run_uuid: 746d499d81d64134a1b7c96f325e0743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242687066
+status: 3
+tags: []
+user_id: unknown

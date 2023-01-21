@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ed9e6e8a7f34c809a67b7789f746587/artifacts
+end_time: 1669945985635
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ed9e6e8a7f34c809a67b7789f746587
+run_name: funny-perch-161
+run_uuid: 4ed9e6e8a7f34c809a67b7789f746587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241696126
+status: 3
+tags: []
+user_id: unknown

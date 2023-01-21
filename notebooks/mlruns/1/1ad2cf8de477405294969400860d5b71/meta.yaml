@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ad2cf8de477405294969400860d5b71/artifacts
+end_time: 1669956340487
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ad2cf8de477405294969400860d5b71
+run_name: defiant-bee-84
+run_uuid: 1ad2cf8de477405294969400860d5b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240076474
+status: 3
+tags: []
+user_id: unknown

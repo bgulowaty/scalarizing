@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6c620f7071ab4ace9d094877f92d6c2f/artifacts
+end_time: 1670106298325
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6c620f7071ab4ace9d094877f92d6c2f
+run_name: legendary-fly-817
+run_uuid: 6c620f7071ab4ace9d094877f92d6c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239896680
+status: 3
+tags: []
+user_id: unknown

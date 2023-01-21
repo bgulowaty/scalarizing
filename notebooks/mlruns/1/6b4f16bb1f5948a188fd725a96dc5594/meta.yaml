@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6b4f16bb1f5948a188fd725a96dc5594/artifacts
+end_time: 1669948199417
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6b4f16bb1f5948a188fd725a96dc5594
+run_name: delicate-shad-403
+run_uuid: 6b4f16bb1f5948a188fd725a96dc5594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241232318
+status: 3
+tags: []
+user_id: unknown

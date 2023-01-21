@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b3385f2a4c4245dfa62a1acf520729bd/artifacts
+end_time: 1670102885461
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3385f2a4c4245dfa62a1acf520729bd
+run_name: enchanting-mouse-380
+run_uuid: b3385f2a4c4245dfa62a1acf520729bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241879158
+status: 3
+tags: []
+user_id: unknown

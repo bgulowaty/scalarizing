@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3d7b4e846f76431b92e174e0c983f5f1/artifacts
+end_time: 1669952526512
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d7b4e846f76431b92e174e0c983f5f1
+run_name: tasteful-midge-52
+run_uuid: 3d7b4e846f76431b92e174e0c983f5f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240449646
+status: 3
+tags: []
+user_id: unknown

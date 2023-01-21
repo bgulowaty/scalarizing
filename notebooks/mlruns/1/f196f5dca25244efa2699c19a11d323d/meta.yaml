@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f196f5dca25244efa2699c19a11d323d/artifacts
+end_time: 1669951361832
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f196f5dca25244efa2699c19a11d323d
+run_name: tasteful-trout-330
+run_uuid: f196f5dca25244efa2699c19a11d323d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240628414
+status: 3
+tags: []
+user_id: unknown

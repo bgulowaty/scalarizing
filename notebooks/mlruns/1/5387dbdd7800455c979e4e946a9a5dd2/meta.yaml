@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5387dbdd7800455c979e4e946a9a5dd2/artifacts
+end_time: 1669950717401
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5387dbdd7800455c979e4e946a9a5dd2
+run_name: victorious-vole-275
+run_uuid: 5387dbdd7800455c979e4e946a9a5dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240694562
+status: 3
+tags: []
+user_id: unknown

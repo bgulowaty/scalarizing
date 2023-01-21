@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/916a0e8a2eb047dfa5fef0ab4687320c/artifacts
+end_time: 1670162724553
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 916a0e8a2eb047dfa5fef0ab4687320c
+run_name: selective-fish-113
+run_uuid: 916a0e8a2eb047dfa5fef0ab4687320c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150230136
+status: 3
+tags: []
+user_id: unknown

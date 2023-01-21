@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6195e40b018b44a787458ea25c62c4d9/artifacts
+end_time: 1669951355282
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6195e40b018b44a787458ea25c62c4d9
+run_name: mercurial-cod-307
+run_uuid: 6195e40b018b44a787458ea25c62c4d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240596459
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d37232bf800840518d61cc5004aecef9/artifacts
+end_time: 1669942908413
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d37232bf800840518d61cc5004aecef9
+run_name: traveling-finch-84
+run_uuid: d37232bf800840518d61cc5004aecef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242491380
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/433a04eba2254b74bef507e757878856/artifacts
+end_time: 1670181440337
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 433a04eba2254b74bef507e757878856
+run_name: abrasive-roo-458
+run_uuid: 433a04eba2254b74bef507e757878856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240377685
+status: 3
+tags: []
+user_id: unknown

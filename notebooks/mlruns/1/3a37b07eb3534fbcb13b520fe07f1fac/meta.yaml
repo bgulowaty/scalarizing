@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3a37b07eb3534fbcb13b520fe07f1fac/artifacts
+end_time: 1669954458087
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a37b07eb3534fbcb13b520fe07f1fac
+run_name: angry-slug-310
+run_uuid: 3a37b07eb3534fbcb13b520fe07f1fac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240225008
+status: 3
+tags: []
+user_id: unknown

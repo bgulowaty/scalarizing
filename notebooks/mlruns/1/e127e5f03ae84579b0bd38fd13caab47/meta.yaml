@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e127e5f03ae84579b0bd38fd13caab47/artifacts
+end_time: 1670103733558
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e127e5f03ae84579b0bd38fd13caab47
+run_name: overjoyed-sheep-118
+run_uuid: e127e5f03ae84579b0bd38fd13caab47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242216157
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/cfa0a239dfbe4bc49aec27c6e530df8d/artifacts
+end_time: 1670162077212
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cfa0a239dfbe4bc49aec27c6e530df8d
+run_name: adorable-cow-473
+run_uuid: cfa0a239dfbe4bc49aec27c6e530df8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150434692
+status: 3
+tags: []
+user_id: unknown

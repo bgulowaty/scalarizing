@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1ad542d0e26746a0bc7fc4e8eba6cd32/artifacts
+end_time: 1670162613417
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1ad542d0e26746a0bc7fc4e8eba6cd32
+run_name: magnificent-kit-581
+run_uuid: 1ad542d0e26746a0bc7fc4e8eba6cd32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150262862
+status: 3
+tags: []
+user_id: unknown

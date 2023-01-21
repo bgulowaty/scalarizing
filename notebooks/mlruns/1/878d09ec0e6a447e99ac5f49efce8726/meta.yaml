@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/878d09ec0e6a447e99ac5f49efce8726/artifacts
+end_time: 1669949512860
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 878d09ec0e6a447e99ac5f49efce8726
+run_name: beautiful-squid-788
+run_uuid: 878d09ec0e6a447e99ac5f49efce8726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240916396
+status: 3
+tags: []
+user_id: unknown

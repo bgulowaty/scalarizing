@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/99142789d6244749ad016e271460a5d7/artifacts
+end_time: 1670104108108
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99142789d6244749ad016e271460a5d7
+run_name: welcoming-pug-826
+run_uuid: 99142789d6244749ad016e271460a5d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240026367
+status: 3
+tags: []
+user_id: unknown

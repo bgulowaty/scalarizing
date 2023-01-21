@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c48a6928757748fda20d2fcac87d9626/artifacts
+end_time: 1669945483837
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c48a6928757748fda20d2fcac87d9626
+run_name: capable-slug-744
+run_uuid: c48a6928757748fda20d2fcac87d9626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241785827
+status: 3
+tags: []
+user_id: unknown

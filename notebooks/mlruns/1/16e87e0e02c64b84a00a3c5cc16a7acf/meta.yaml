@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/16e87e0e02c64b84a00a3c5cc16a7acf/artifacts
+end_time: 1669952579920
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 16e87e0e02c64b84a00a3c5cc16a7acf
+run_name: bald-lark-783
+run_uuid: 16e87e0e02c64b84a00a3c5cc16a7acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240422938
+status: 3
+tags: []
+user_id: unknown

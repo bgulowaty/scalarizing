@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3a7ea5522c074cca97a1388a00f08bc5/artifacts
+end_time: 1669949746987
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a7ea5522c074cca97a1388a00f08bc5
+run_name: loud-elk-454
+run_uuid: 3a7ea5522c074cca97a1388a00f08bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240905739
+status: 3
+tags: []
+user_id: unknown

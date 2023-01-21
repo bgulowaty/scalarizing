@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b881107d36d44f2c97d0710e72cf00ed/artifacts
+end_time: 1669943092825
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b881107d36d44f2c97d0710e72cf00ed
+run_name: gaudy-jay-39
+run_uuid: b881107d36d44f2c97d0710e72cf00ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242427317
+status: 3
+tags: []
+user_id: unknown

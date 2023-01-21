@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8a6851e9aaac493a8434c992d3c6fbd5/artifacts
+end_time: 1669947885043
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a6851e9aaac493a8434c992d3c6fbd5
+run_name: zealous-perch-166
+run_uuid: 8a6851e9aaac493a8434c992d3c6fbd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241290280
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d59e738332df47d986229bb6f5071e07/artifacts
+end_time: 1669951112914
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d59e738332df47d986229bb6f5071e07
+run_name: spiffy-tern-720
+run_uuid: d59e738332df47d986229bb6f5071e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240651919
+status: 3
+tags: []
+user_id: unknown

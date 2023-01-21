@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5030da305eec4f32903e6b1e9aaff086/artifacts
+end_time: 1669955983274
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5030da305eec4f32903e6b1e9aaff086
+run_name: skillful-frog-511
+run_uuid: 5030da305eec4f32903e6b1e9aaff086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240092122
+status: 3
+tags: []
+user_id: unknown

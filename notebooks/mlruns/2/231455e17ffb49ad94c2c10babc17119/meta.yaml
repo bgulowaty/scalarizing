@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/231455e17ffb49ad94c2c10babc17119/artifacts
+end_time: 1670162185845
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 231455e17ffb49ad94c2c10babc17119
+run_name: invincible-stork-903
+run_uuid: 231455e17ffb49ad94c2c10babc17119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150395857
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c179844f0ccf4fb2b3e79ef35a42ec72/artifacts
+end_time: 1669944418407
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c179844f0ccf4fb2b3e79ef35a42ec72
+run_name: big-worm-462
+run_uuid: c179844f0ccf4fb2b3e79ef35a42ec72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242066737
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb886c8b07634daeaed7d0b030b877dc/artifacts
+end_time: 1669949906155
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb886c8b07634daeaed7d0b030b877dc
+run_name: smiling-bass-391
+run_uuid: eb886c8b07634daeaed7d0b030b877dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240890962
+status: 3
+tags: []
+user_id: unknown

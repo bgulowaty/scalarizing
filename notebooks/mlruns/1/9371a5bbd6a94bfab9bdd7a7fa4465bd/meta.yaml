@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9371a5bbd6a94bfab9bdd7a7fa4465bd/artifacts
+end_time: 1670103817949
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9371a5bbd6a94bfab9bdd7a7fa4465bd
+run_name: mysterious-cat-138
+run_uuid: 9371a5bbd6a94bfab9bdd7a7fa4465bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240030619
+status: 3
+tags: []
+user_id: unknown

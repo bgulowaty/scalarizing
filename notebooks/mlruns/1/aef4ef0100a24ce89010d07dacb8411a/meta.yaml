@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aef4ef0100a24ce89010d07dacb8411a/artifacts
+end_time: 1669953474582
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aef4ef0100a24ce89010d07dacb8411a
+run_name: thundering-mule-131
+run_uuid: aef4ef0100a24ce89010d07dacb8411a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240333239
+status: 3
+tags: []
+user_id: unknown

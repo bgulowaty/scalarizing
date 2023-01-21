@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c3022b4a0ad74cfcbd9469cebdb34522/artifacts
+end_time: 1669943155141
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3022b4a0ad74cfcbd9469cebdb34522
+run_name: nervous-moth-452
+run_uuid: c3022b4a0ad74cfcbd9469cebdb34522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242426284
+status: 3
+tags: []
+user_id: unknown

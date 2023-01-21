@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45ea7ebdbe6a44238358d0bf8b8b3ed5/artifacts
+end_time: 1669942252443
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45ea7ebdbe6a44238358d0bf8b8b3ed5
+run_name: sedate-crow-520
+run_uuid: 45ea7ebdbe6a44238358d0bf8b8b3ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242832951
+status: 3
+tags: []
+user_id: unknown

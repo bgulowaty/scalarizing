@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/160859f279c54f86852af96837a52002/artifacts
+end_time: 1669944701544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 160859f279c54f86852af96837a52002
+run_name: wise-squid-595
+run_uuid: 160859f279c54f86852af96837a52002
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242002297
+status: 3
+tags: []
+user_id: unknown

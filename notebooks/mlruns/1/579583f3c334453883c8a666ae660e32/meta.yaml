@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/579583f3c334453883c8a666ae660e32/artifacts
+end_time: 1670180821459
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 579583f3c334453883c8a666ae660e32
+run_name: enthused-stork-85
+run_uuid: 579583f3c334453883c8a666ae660e32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241773846
+status: 3
+tags: []
+user_id: unknown

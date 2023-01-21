@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d88a4d8687424548a3f969c9c902b886/artifacts
+end_time: 1669945763831
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d88a4d8687424548a3f969c9c902b886
+run_name: blushing-smelt-862
+run_uuid: d88a4d8687424548a3f969c9c902b886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241715978
+status: 3
+tags: []
+user_id: unknown

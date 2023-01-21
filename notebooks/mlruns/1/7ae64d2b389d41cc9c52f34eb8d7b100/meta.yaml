@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ae64d2b389d41cc9c52f34eb8d7b100/artifacts
+end_time: 1669944116001
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ae64d2b389d41cc9c52f34eb8d7b100
+run_name: smiling-midge-688
+run_uuid: 7ae64d2b389d41cc9c52f34eb8d7b100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242145950
+status: 3
+tags: []
+user_id: unknown

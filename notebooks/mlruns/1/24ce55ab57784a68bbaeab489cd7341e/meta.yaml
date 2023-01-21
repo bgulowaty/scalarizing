@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/24ce55ab57784a68bbaeab489cd7341e/artifacts
+end_time: 1669952225178
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24ce55ab57784a68bbaeab489cd7341e
+run_name: capricious-swan-620
+run_uuid: 24ce55ab57784a68bbaeab489cd7341e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240485818
+status: 3
+tags: []
+user_id: unknown

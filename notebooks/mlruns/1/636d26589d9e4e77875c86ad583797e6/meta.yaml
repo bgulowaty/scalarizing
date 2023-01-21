@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/636d26589d9e4e77875c86ad583797e6/artifacts
+end_time: 1670181788752
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 636d26589d9e4e77875c86ad583797e6
+run_name: calm-ray-119
+run_uuid: 636d26589d9e4e77875c86ad583797e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239889327
+status: 3
+tags: []
+user_id: unknown

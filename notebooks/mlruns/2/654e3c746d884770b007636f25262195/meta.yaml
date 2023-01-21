@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/654e3c746d884770b007636f25262195/artifacts
+end_time: 1670162191046
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 654e3c746d884770b007636f25262195
+run_name: spiffy-skink-900
+run_uuid: 654e3c746d884770b007636f25262195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150394441
+status: 3
+tags: []
+user_id: unknown

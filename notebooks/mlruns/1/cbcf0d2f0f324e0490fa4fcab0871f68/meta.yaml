@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cbcf0d2f0f324e0490fa4fcab0871f68/artifacts
+end_time: 1670104096979
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbcf0d2f0f324e0490fa4fcab0871f68
+run_name: thundering-goose-855
+run_uuid: cbcf0d2f0f324e0490fa4fcab0871f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240020443
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1a26e22771fe4c32843f8e3cac77f51f/artifacts
+end_time: 1669954458529
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a26e22771fe4c32843f8e3cac77f51f
+run_name: melodic-bird-938
+run_uuid: 1a26e22771fe4c32843f8e3cac77f51f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240221977
+status: 3
+tags: []
+user_id: unknown

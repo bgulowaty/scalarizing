@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a37707a27e34a2db138eb8b47d558d3/artifacts
+end_time: 1669948534323
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a37707a27e34a2db138eb8b47d558d3
+run_name: shivering-shad-167
+run_uuid: 4a37707a27e34a2db138eb8b47d558d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241138555
+status: 3
+tags: []
+user_id: unknown

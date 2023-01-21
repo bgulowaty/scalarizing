@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/edca66fc96774c1a90596cf13ceeea5b/artifacts
+end_time: 1670161978902
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: edca66fc96774c1a90596cf13ceeea5b
+run_name: fearless-zebra-620
+run_uuid: edca66fc96774c1a90596cf13ceeea5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150492024
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9181a707c2ec4a91bebed80d7bb84fff/artifacts
+end_time: 1669954399772
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9181a707c2ec4a91bebed80d7bb84fff
+run_name: salty-turtle-272
+run_uuid: 9181a707c2ec4a91bebed80d7bb84fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240231728
+status: 3
+tags: []
+user_id: unknown

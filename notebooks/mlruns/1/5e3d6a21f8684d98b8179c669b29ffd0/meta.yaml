@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5e3d6a21f8684d98b8179c669b29ffd0/artifacts
+end_time: 1669949139119
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e3d6a21f8684d98b8179c669b29ffd0
+run_name: resilient-vole-571
+run_uuid: 5e3d6a21f8684d98b8179c669b29ffd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241064195
+status: 3
+tags: []
+user_id: unknown

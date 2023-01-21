@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09411dfda3dd430b9355104412cd62df/artifacts
+end_time: 1669956555904
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09411dfda3dd430b9355104412cd62df
+run_name: able-ape-423
+run_uuid: 09411dfda3dd430b9355104412cd62df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240052176
+status: 3
+tags: []
+user_id: unknown

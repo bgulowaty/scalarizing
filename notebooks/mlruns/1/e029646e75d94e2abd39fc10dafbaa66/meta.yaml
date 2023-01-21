@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e029646e75d94e2abd39fc10dafbaa66/artifacts
+end_time: 1670104736149
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e029646e75d94e2abd39fc10dafbaa66
+run_name: redolent-boar-433
+run_uuid: e029646e75d94e2abd39fc10dafbaa66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239972053
+status: 3
+tags: []
+user_id: unknown

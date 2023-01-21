@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f19dfb9cbe96427cb6cc54d4ebbedb4c/artifacts
+end_time: 1669942578092
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f19dfb9cbe96427cb6cc54d4ebbedb4c
+run_name: suave-crane-121
+run_uuid: f19dfb9cbe96427cb6cc54d4ebbedb4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242759814
+status: 3
+tags: []
+user_id: unknown

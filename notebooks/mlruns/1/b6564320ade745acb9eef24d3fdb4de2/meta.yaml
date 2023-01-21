@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b6564320ade745acb9eef24d3fdb4de2/artifacts
+end_time: 1669952632020
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6564320ade745acb9eef24d3fdb4de2
+run_name: honorable-hog-109
+run_uuid: b6564320ade745acb9eef24d3fdb4de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240454416
+status: 3
+tags: []
+user_id: unknown

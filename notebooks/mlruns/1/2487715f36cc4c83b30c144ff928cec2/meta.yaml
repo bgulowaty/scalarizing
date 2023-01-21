@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2487715f36cc4c83b30c144ff928cec2/artifacts
+end_time: 1670180542259
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2487715f36cc4c83b30c144ff928cec2
+run_name: clean-smelt-66
+run_uuid: 2487715f36cc4c83b30c144ff928cec2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242489219
+status: 3
+tags: []
+user_id: unknown

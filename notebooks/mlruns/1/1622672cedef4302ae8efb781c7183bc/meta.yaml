@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1622672cedef4302ae8efb781c7183bc/artifacts
+end_time: 1669943149959
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1622672cedef4302ae8efb781c7183bc
+run_name: salty-goat-635
+run_uuid: 1622672cedef4302ae8efb781c7183bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242405834
+status: 3
+tags: []
+user_id: unknown

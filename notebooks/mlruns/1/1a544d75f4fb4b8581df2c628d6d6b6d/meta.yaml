@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1a544d75f4fb4b8581df2c628d6d6b6d/artifacts
+end_time: 1669946650115
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a544d75f4fb4b8581df2c628d6d6b6d
+run_name: masked-skink-988
+run_uuid: 1a544d75f4fb4b8581df2c628d6d6b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241560579
+status: 3
+tags: []
+user_id: unknown

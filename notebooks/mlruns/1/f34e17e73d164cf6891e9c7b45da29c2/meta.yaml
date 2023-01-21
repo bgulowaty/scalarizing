@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f34e17e73d164cf6891e9c7b45da29c2/artifacts
+end_time: 1669943304511
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f34e17e73d164cf6891e9c7b45da29c2
+run_name: auspicious-rook-98
+run_uuid: f34e17e73d164cf6891e9c7b45da29c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242397199
+status: 3
+tags: []
+user_id: unknown

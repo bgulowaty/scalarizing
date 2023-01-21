@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/21160d27f568429089f1745939201cc2/artifacts
+end_time: 1670162065698
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 21160d27f568429089f1745939201cc2
+run_name: bustling-chimp-40
+run_uuid: 21160d27f568429089f1745939201cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150466104
+status: 3
+tags: []
+user_id: unknown

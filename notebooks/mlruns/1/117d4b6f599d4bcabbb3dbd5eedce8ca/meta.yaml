@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/117d4b6f599d4bcabbb3dbd5eedce8ca/artifacts
+end_time: 1669951354772
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 117d4b6f599d4bcabbb3dbd5eedce8ca
+run_name: receptive-calf-421
+run_uuid: 117d4b6f599d4bcabbb3dbd5eedce8ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240596018
+status: 3
+tags: []
+user_id: unknown

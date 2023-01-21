@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/153c41324d8f493b9a1f2510423f1d50/artifacts
+end_time: 1670104725168
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 153c41324d8f493b9a1f2510423f1d50
+run_name: casual-carp-385
+run_uuid: 153c41324d8f493b9a1f2510423f1d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239979279
+status: 3
+tags: []
+user_id: unknown

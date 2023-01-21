@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/edf8f5f9cf3d418a9d135c031e6daee1/artifacts
+end_time: 1670180621768
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edf8f5f9cf3d418a9d135c031e6daee1
+run_name: whimsical-hen-442
+run_uuid: edf8f5f9cf3d418a9d135c031e6daee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242598853
+status: 3
+tags: []
+user_id: unknown

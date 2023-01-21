@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9775381ed5ac40fcbff26218be68aec0/artifacts
+end_time: 1670162504704
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9775381ed5ac40fcbff26218be68aec0
+run_name: mercurial-wolf-425
+run_uuid: 9775381ed5ac40fcbff26218be68aec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150299338
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/96b3d7ec230242d3ba837dda044d2aaa/artifacts
+end_time: 1669954495178
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 96b3d7ec230242d3ba837dda044d2aaa
+run_name: judicious-snipe-549
+run_uuid: 96b3d7ec230242d3ba837dda044d2aaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240230063
+status: 3
+tags: []
+user_id: unknown

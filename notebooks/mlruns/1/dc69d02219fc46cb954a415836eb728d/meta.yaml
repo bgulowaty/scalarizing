@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dc69d02219fc46cb954a415836eb728d/artifacts
+end_time: 1669947139153
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc69d02219fc46cb954a415836eb728d
+run_name: dazzling-ox-601
+run_uuid: dc69d02219fc46cb954a415836eb728d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241466218
+status: 3
+tags: []
+user_id: unknown

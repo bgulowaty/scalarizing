@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c6994af793f647839ceed1efc2c334d8/artifacts
+end_time: 1669943174110
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6994af793f647839ceed1efc2c334d8
+run_name: sassy-jay-460
+run_uuid: c6994af793f647839ceed1efc2c334d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242402213
+status: 3
+tags: []
+user_id: unknown

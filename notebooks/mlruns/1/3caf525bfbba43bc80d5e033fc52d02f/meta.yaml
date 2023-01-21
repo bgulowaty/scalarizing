@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3caf525bfbba43bc80d5e033fc52d02f/artifacts
+end_time: 1669956295109
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3caf525bfbba43bc80d5e033fc52d02f
+run_name: bemused-hawk-77
+run_uuid: 3caf525bfbba43bc80d5e033fc52d02f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240062087
+status: 3
+tags: []
+user_id: unknown

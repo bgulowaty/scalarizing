@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8671a7fc01064a27a5e90ac78415235c/artifacts
+end_time: 1669954841045
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8671a7fc01064a27a5e90ac78415235c
+run_name: delightful-ox-47
+run_uuid: 8671a7fc01064a27a5e90ac78415235c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240194648
+status: 3
+tags: []
+user_id: unknown

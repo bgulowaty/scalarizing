@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/edc4e0eb048940819665a394345069b1/artifacts
+end_time: 1670162394606
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: edc4e0eb048940819665a394345069b1
+run_name: bouncy-foal-127
+run_uuid: edc4e0eb048940819665a394345069b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150340711
+status: 3
+tags: []
+user_id: unknown

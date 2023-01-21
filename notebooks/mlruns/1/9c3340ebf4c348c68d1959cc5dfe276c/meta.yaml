@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9c3340ebf4c348c68d1959cc5dfe276c/artifacts
+end_time: 1670105348606
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c3340ebf4c348c68d1959cc5dfe276c
+run_name: gregarious-vole-702
+run_uuid: 9c3340ebf4c348c68d1959cc5dfe276c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239939113
+status: 3
+tags: []
+user_id: unknown

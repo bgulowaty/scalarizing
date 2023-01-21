@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39aaffbfad6d400d877e351a90532eae/artifacts
+end_time: 1669943959197
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39aaffbfad6d400d877e351a90532eae
+run_name: overjoyed-squid-679
+run_uuid: 39aaffbfad6d400d877e351a90532eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242182750
+status: 3
+tags: []
+user_id: unknown

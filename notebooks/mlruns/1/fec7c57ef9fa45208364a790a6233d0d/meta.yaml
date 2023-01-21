@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fec7c57ef9fa45208364a790a6233d0d/artifacts
+end_time: 1669949189318
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fec7c57ef9fa45208364a790a6233d0d
+run_name: aged-bass-463
+run_uuid: fec7c57ef9fa45208364a790a6233d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241026777
+status: 3
+tags: []
+user_id: unknown

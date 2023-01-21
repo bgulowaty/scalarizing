@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3281ab0d098c4092a86762bad4337809/artifacts
+end_time: 1669950122403
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3281ab0d098c4092a86762bad4337809
+run_name: judicious-mule-195
+run_uuid: 3281ab0d098c4092a86762bad4337809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240820161
+status: 3
+tags: []
+user_id: unknown

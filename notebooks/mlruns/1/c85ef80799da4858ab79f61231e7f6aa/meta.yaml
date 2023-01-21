@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c85ef80799da4858ab79f61231e7f6aa/artifacts
+end_time: 1669954413918
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c85ef80799da4858ab79f61231e7f6aa
+run_name: awesome-mare-764
+run_uuid: c85ef80799da4858ab79f61231e7f6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240235000
+status: 3
+tags: []
+user_id: unknown

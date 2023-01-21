@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0ca08b6ca3de479badd05e47ae8b08f4/artifacts
+end_time: 1670102371876
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ca08b6ca3de479badd05e47ae8b08f4
+run_name: clumsy-lark-487
+run_uuid: 0ca08b6ca3de479badd05e47ae8b08f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242632723
+status: 3
+tags: []
+user_id: unknown

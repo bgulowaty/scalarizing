@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ded658ce6c41411198cc75a43f508357/artifacts
+end_time: 1670162181394
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ded658ce6c41411198cc75a43f508357
+run_name: wistful-shark-605
+run_uuid: ded658ce6c41411198cc75a43f508357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150403200
+status: 3
+tags: []
+user_id: unknown

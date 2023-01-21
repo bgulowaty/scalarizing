@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b670580641694e70b4a75e8269bab073/artifacts
+end_time: 1669943186189
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b670580641694e70b4a75e8269bab073
+run_name: defiant-skunk-76
+run_uuid: b670580641694e70b4a75e8269bab073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242399403
+status: 3
+tags: []
+user_id: unknown

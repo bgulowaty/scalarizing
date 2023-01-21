@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fd901aa52c6e46a1a5e1c029d87c2180/artifacts
+end_time: 1669944978548
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd901aa52c6e46a1a5e1c029d87c2180
+run_name: auspicious-elk-828
+run_uuid: fd901aa52c6e46a1a5e1c029d87c2180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241916121
+status: 3
+tags: []
+user_id: unknown

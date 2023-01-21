@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e9da2f9628874f668738cb5f9020759c/artifacts
+end_time: 1669952917268
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9da2f9628874f668738cb5f9020759c
+run_name: victorious-smelt-452
+run_uuid: e9da2f9628874f668738cb5f9020759c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240387788
+status: 3
+tags: []
+user_id: unknown

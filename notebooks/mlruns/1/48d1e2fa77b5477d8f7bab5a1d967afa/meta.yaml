@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48d1e2fa77b5477d8f7bab5a1d967afa/artifacts
+end_time: 1669952215009
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48d1e2fa77b5477d8f7bab5a1d967afa
+run_name: hilarious-stag-654
+run_uuid: 48d1e2fa77b5477d8f7bab5a1d967afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240480609
+status: 3
+tags: []
+user_id: unknown

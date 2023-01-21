@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9d584e32b40b491bbb538838977afc34/artifacts
+end_time: 1669945429638
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9d584e32b40b491bbb538838977afc34
+run_name: traveling-conch-714
+run_uuid: 9d584e32b40b491bbb538838977afc34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241866974
+status: 3
+tags: []
+user_id: unknown

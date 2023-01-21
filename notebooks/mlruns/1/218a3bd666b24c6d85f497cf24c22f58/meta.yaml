@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/218a3bd666b24c6d85f497cf24c22f58/artifacts
+end_time: 1669950993811
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 218a3bd666b24c6d85f497cf24c22f58
+run_name: receptive-zebra-451
+run_uuid: 218a3bd666b24c6d85f497cf24c22f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240664682
+status: 3
+tags: []
+user_id: unknown

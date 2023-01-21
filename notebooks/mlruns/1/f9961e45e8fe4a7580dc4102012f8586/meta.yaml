@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f9961e45e8fe4a7580dc4102012f8586/artifacts
+end_time: 1669950040155
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9961e45e8fe4a7580dc4102012f8586
+run_name: masked-kite-656
+run_uuid: f9961e45e8fe4a7580dc4102012f8586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240847305
+status: 3
+tags: []
+user_id: unknown

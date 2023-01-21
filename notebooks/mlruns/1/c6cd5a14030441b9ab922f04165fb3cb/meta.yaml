@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c6cd5a14030441b9ab922f04165fb3cb/artifacts
+end_time: 1669946300318
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6cd5a14030441b9ab922f04165fb3cb
+run_name: resilient-gull-887
+run_uuid: c6cd5a14030441b9ab922f04165fb3cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241623543
+status: 3
+tags: []
+user_id: unknown

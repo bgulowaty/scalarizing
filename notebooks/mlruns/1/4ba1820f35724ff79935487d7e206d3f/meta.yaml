@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ba1820f35724ff79935487d7e206d3f/artifacts
+end_time: 1669951047688
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ba1820f35724ff79935487d7e206d3f
+run_name: capable-cow-675
+run_uuid: 4ba1820f35724ff79935487d7e206d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240652251
+status: 3
+tags: []
+user_id: unknown

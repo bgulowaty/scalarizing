@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb9feb3b0ce845b08806a6d355ab5fa4/artifacts
+end_time: 1669944079075
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb9feb3b0ce845b08806a6d355ab5fa4
+run_name: debonair-swan-585
+run_uuid: eb9feb3b0ce845b08806a6d355ab5fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242184616
+status: 3
+tags: []
+user_id: unknown

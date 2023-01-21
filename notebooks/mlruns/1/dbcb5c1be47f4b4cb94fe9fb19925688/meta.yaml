@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dbcb5c1be47f4b4cb94fe9fb19925688/artifacts
+end_time: 1670181152189
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbcb5c1be47f4b4cb94fe9fb19925688
+run_name: placid-gnat-770
+run_uuid: dbcb5c1be47f4b4cb94fe9fb19925688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240698679
+status: 3
+tags: []
+user_id: unknown

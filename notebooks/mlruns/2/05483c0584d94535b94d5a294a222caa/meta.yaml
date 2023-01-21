@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/05483c0584d94535b94d5a294a222caa/artifacts
+end_time: 1670162725255
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 05483c0584d94535b94d5a294a222caa
+run_name: learned-fish-681
+run_uuid: 05483c0584d94535b94d5a294a222caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150233402
+status: 3
+tags: []
+user_id: unknown

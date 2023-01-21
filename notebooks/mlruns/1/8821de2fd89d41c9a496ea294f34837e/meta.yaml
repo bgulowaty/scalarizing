@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8821de2fd89d41c9a496ea294f34837e/artifacts
+end_time: 1670180603478
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8821de2fd89d41c9a496ea294f34837e
+run_name: fortunate-pug-779
+run_uuid: 8821de2fd89d41c9a496ea294f34837e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242271564
+status: 3
+tags: []
+user_id: unknown

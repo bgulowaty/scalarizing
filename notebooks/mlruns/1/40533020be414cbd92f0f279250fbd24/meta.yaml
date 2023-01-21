@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/40533020be414cbd92f0f279250fbd24/artifacts
+end_time: 1669953785527
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40533020be414cbd92f0f279250fbd24
+run_name: zealous-bass-403
+run_uuid: 40533020be414cbd92f0f279250fbd24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240297873
+status: 3
+tags: []
+user_id: unknown

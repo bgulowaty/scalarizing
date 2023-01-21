@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce239a3a29e340e1ac0a89ad864c4f06/artifacts
+end_time: 1669946982389
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce239a3a29e340e1ac0a89ad864c4f06
+run_name: chill-donkey-917
+run_uuid: ce239a3a29e340e1ac0a89ad864c4f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241457273
+status: 3
+tags: []
+user_id: unknown

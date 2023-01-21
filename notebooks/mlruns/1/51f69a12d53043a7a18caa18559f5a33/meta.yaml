@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/51f69a12d53043a7a18caa18559f5a33/artifacts
+end_time: 1670181422272
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51f69a12d53043a7a18caa18559f5a33
+run_name: capable-jay-429
+run_uuid: 51f69a12d53043a7a18caa18559f5a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240392166
+status: 3
+tags: []
+user_id: unknown

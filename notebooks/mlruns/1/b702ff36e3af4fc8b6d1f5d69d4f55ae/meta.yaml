@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b702ff36e3af4fc8b6d1f5d69d4f55ae/artifacts
+end_time: 1669947908008
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b702ff36e3af4fc8b6d1f5d69d4f55ae
+run_name: intrigued-mare-672
+run_uuid: b702ff36e3af4fc8b6d1f5d69d4f55ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241291450
+status: 3
+tags: []
+user_id: unknown

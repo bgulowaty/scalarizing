@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a8dff051b71649b6b6eadbc4325f4c18/artifacts
+end_time: 1670106300277
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8dff051b71649b6b6eadbc4325f4c18
+run_name: amazing-deer-807
+run_uuid: a8dff051b71649b6b6eadbc4325f4c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239896774
+status: 3
+tags: []
+user_id: unknown

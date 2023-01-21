@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e1383c3332f49bc9e8b2e56ced528a5/artifacts
+end_time: 1669944643416
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e1383c3332f49bc9e8b2e56ced528a5
+run_name: sassy-turtle-770
+run_uuid: 4e1383c3332f49bc9e8b2e56ced528a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242021118
+status: 3
+tags: []
+user_id: unknown

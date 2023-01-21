@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/799fb510d3cd49768bd519f322f1c50b/artifacts
+end_time: 1670180534542
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 799fb510d3cd49768bd519f322f1c50b
+run_name: nervous-moose-239
+run_uuid: 799fb510d3cd49768bd519f322f1c50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242518446
+status: 3
+tags: []
+user_id: unknown

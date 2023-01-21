@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2bee84d7d5554ae299af23130d120ce5/artifacts
+end_time: 1669955666361
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2bee84d7d5554ae299af23130d120ce5
+run_name: useful-frog-120
+run_uuid: 2bee84d7d5554ae299af23130d120ce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240109474
+status: 3
+tags: []
+user_id: unknown

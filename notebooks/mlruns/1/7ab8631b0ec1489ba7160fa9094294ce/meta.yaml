@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ab8631b0ec1489ba7160fa9094294ce/artifacts
+end_time: 1670104401756
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ab8631b0ec1489ba7160fa9094294ce
+run_name: mysterious-newt-252
+run_uuid: 7ab8631b0ec1489ba7160fa9094294ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240004570
+status: 3
+tags: []
+user_id: unknown

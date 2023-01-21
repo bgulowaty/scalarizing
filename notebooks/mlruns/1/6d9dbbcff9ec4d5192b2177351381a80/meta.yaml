@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6d9dbbcff9ec4d5192b2177351381a80/artifacts
+end_time: 1669950348248
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6d9dbbcff9ec4d5192b2177351381a80
+run_name: abrasive-eel-694
+run_uuid: 6d9dbbcff9ec4d5192b2177351381a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240787240
+status: 3
+tags: []
+user_id: unknown

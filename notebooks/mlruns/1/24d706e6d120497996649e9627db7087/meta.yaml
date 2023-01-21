@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/24d706e6d120497996649e9627db7087/artifacts
+end_time: 1669952274611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24d706e6d120497996649e9627db7087
+run_name: lyrical-zebra-660
+run_uuid: 24d706e6d120497996649e9627db7087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240462209
+status: 3
+tags: []
+user_id: unknown

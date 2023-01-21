@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3b5ceb79974f4005a4b4c6dcc3cc4f61/artifacts
+end_time: 1669950772707
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b5ceb79974f4005a4b4c6dcc3cc4f61
+run_name: gentle-frog-478
+run_uuid: 3b5ceb79974f4005a4b4c6dcc3cc4f61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240707646
+status: 3
+tags: []
+user_id: unknown

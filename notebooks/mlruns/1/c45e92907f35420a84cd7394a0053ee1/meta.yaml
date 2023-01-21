@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c45e92907f35420a84cd7394a0053ee1/artifacts
+end_time: 1669943772953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c45e92907f35420a84cd7394a0053ee1
+run_name: exultant-shark-915
+run_uuid: c45e92907f35420a84cd7394a0053ee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242248673
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a3178587a8cb43238c4e486569373ae7/artifacts
+end_time: 1670181755269
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3178587a8cb43238c4e486569373ae7
+run_name: kindly-asp-413
+run_uuid: a3178587a8cb43238c4e486569373ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239944074
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2888b4276ee1422380c69d6b47cce2ef/artifacts
+end_time: 1670181147363
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2888b4276ee1422380c69d6b47cce2ef
+run_name: youthful-stoat-819
+run_uuid: 2888b4276ee1422380c69d6b47cce2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240848239
+status: 3
+tags: []
+user_id: unknown

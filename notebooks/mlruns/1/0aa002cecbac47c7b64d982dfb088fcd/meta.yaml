@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0aa002cecbac47c7b64d982dfb088fcd/artifacts
+end_time: 1669945435101
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0aa002cecbac47c7b64d982dfb088fcd
+run_name: bemused-ray-445
+run_uuid: 0aa002cecbac47c7b64d982dfb088fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241821257
+status: 3
+tags: []
+user_id: unknown

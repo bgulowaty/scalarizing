@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1c9bd8e328864fe2a6c205214531b819/artifacts
+end_time: 1670104452446
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c9bd8e328864fe2a6c205214531b819
+run_name: big-crane-729
+run_uuid: 1c9bd8e328864fe2a6c205214531b819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239992913
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc6aa7c04faa4b1eb4405f8c1b673b25/artifacts
+end_time: 1669956284944
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc6aa7c04faa4b1eb4405f8c1b673b25
+run_name: angry-tern-592
+run_uuid: cc6aa7c04faa4b1eb4405f8c1b673b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240079677
+status: 3
+tags: []
+user_id: unknown

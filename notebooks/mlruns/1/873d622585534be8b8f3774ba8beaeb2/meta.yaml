@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/873d622585534be8b8f3774ba8beaeb2/artifacts
+end_time: 1669951603463
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 873d622585534be8b8f3774ba8beaeb2
+run_name: nervous-conch-695
+run_uuid: 873d622585534be8b8f3774ba8beaeb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240572305
+status: 3
+tags: []
+user_id: unknown

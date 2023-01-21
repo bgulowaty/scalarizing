@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d406c05180564ee589611c6c474d6f1f/artifacts
+end_time: 1669948816992
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d406c05180564ee589611c6c474d6f1f
+run_name: bold-worm-996
+run_uuid: d406c05180564ee589611c6c474d6f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241090192
+status: 3
+tags: []
+user_id: unknown

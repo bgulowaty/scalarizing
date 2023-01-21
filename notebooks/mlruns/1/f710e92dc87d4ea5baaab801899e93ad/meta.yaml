@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f710e92dc87d4ea5baaab801899e93ad/artifacts
+end_time: 1670105063557
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f710e92dc87d4ea5baaab801899e93ad
+run_name: abrasive-skink-276
+run_uuid: f710e92dc87d4ea5baaab801899e93ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239948615
+status: 3
+tags: []
+user_id: unknown

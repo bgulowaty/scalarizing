@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cbd6a2ad0fa44f7d85a251a9168783d3/artifacts
+end_time: 1670105029373
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbd6a2ad0fa44f7d85a251a9168783d3
+run_name: languid-wolf-795
+run_uuid: cbd6a2ad0fa44f7d85a251a9168783d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239963628
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fa4cd1006e8f4edf84bbebdbed3fd77e/artifacts
+end_time: 1669945201412
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa4cd1006e8f4edf84bbebdbed3fd77e
+run_name: honorable-yak-484
+run_uuid: fa4cd1006e8f4edf84bbebdbed3fd77e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241950189
+status: 3
+tags: []
+user_id: unknown

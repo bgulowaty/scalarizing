@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c833930251724ebabf538e3dfd7fec50/artifacts
+end_time: 1669955303359
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c833930251724ebabf538e3dfd7fec50
+run_name: melodic-bat-942
+run_uuid: c833930251724ebabf538e3dfd7fec50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240148836
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/411cebd210c0465283f05ee7f340cb74/artifacts
+end_time: 1670105341083
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 411cebd210c0465283f05ee7f340cb74
+run_name: amusing-stoat-480
+run_uuid: 411cebd210c0465283f05ee7f340cb74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239938970
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5a85eb8deaba477bbd8989a5c07ef33e/artifacts
+end_time: 1670162399661
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5a85eb8deaba477bbd8989a5c07ef33e
+run_name: melodic-hare-460
+run_uuid: 5a85eb8deaba477bbd8989a5c07ef33e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150323600
+status: 3
+tags: []
+user_id: unknown

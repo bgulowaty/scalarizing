@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c47a4fed409f43a681bc35d2517408d2/artifacts
+end_time: 1669955299374
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c47a4fed409f43a681bc35d2517408d2
+run_name: kindly-colt-191
+run_uuid: c47a4fed409f43a681bc35d2517408d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240146454
+status: 3
+tags: []
+user_id: unknown

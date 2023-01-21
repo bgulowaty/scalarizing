@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/922920d8142f46b7886da99dc2d9944c/artifacts
+end_time: 1670102036654
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 922920d8142f46b7886da99dc2d9944c
+run_name: skittish-toad-945
+run_uuid: 922920d8142f46b7886da99dc2d9944c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242698304
+status: 3
+tags: []
+user_id: unknown

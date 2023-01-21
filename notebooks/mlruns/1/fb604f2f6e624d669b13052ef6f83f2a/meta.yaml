@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb604f2f6e624d669b13052ef6f83f2a/artifacts
+end_time: 1670106604456
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb604f2f6e624d669b13052ef6f83f2a
+run_name: zealous-sloth-530
+run_uuid: fb604f2f6e624d669b13052ef6f83f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239887759
+status: 3
+tags: []
+user_id: unknown

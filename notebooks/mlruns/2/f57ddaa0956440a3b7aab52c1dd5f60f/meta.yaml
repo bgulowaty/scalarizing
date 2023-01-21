@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f57ddaa0956440a3b7aab52c1dd5f60f/artifacts
+end_time: 1670162723423
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f57ddaa0956440a3b7aab52c1dd5f60f
+run_name: orderly-vole-931
+run_uuid: f57ddaa0956440a3b7aab52c1dd5f60f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150228412
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5cf29d99a5a341efaccea964a3747811/artifacts
+end_time: 1669942554456
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5cf29d99a5a341efaccea964a3747811
+run_name: lyrical-bass-178
+run_uuid: 5cf29d99a5a341efaccea964a3747811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242740272
+status: 3
+tags: []
+user_id: unknown

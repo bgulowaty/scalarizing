@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5e499f90101148d8a711e73409c6553e/artifacts
+end_time: 1669947938289
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e499f90101148d8a711e73409c6553e
+run_name: sneaky-elk-374
+run_uuid: 5e499f90101148d8a711e73409c6553e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241264631
+status: 3
+tags: []
+user_id: unknown

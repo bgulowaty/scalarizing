@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ccca8397a364ef6abd0dd8d6c3ba433/artifacts
+end_time: 1669950646998
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ccca8397a364ef6abd0dd8d6c3ba433
+run_name: monumental-kite-605
+run_uuid: 2ccca8397a364ef6abd0dd8d6c3ba433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240739842
+status: 3
+tags: []
+user_id: unknown

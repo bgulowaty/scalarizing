@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ff0138d299c45d4a5357672f7032472/artifacts
+end_time: 1670180505397
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ff0138d299c45d4a5357672f7032472
+run_name: resilient-sloth-77
+run_uuid: 7ff0138d299c45d4a5357672f7032472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242869683
+status: 3
+tags: []
+user_id: unknown

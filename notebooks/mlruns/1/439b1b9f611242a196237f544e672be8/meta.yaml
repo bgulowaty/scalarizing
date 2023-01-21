@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/439b1b9f611242a196237f544e672be8/artifacts
+end_time: 1669956281983
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 439b1b9f611242a196237f544e672be8
+run_name: stylish-jay-561
+run_uuid: 439b1b9f611242a196237f544e672be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240061861
+status: 3
+tags: []
+user_id: unknown

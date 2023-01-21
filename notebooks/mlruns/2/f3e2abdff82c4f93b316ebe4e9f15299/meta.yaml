@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f3e2abdff82c4f93b316ebe4e9f15299/artifacts
+end_time: 1670162074522
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f3e2abdff82c4f93b316ebe4e9f15299
+run_name: salty-rat-986
+run_uuid: f3e2abdff82c4f93b316ebe4e9f15299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150439956
+status: 3
+tags: []
+user_id: unknown

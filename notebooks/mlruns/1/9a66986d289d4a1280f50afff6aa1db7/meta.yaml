@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9a66986d289d4a1280f50afff6aa1db7/artifacts
+end_time: 1669946053044
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a66986d289d4a1280f50afff6aa1db7
+run_name: crawling-perch-5
+run_uuid: 9a66986d289d4a1280f50afff6aa1db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241655683
+status: 3
+tags: []
+user_id: unknown

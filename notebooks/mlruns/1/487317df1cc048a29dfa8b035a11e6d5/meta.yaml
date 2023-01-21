@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/487317df1cc048a29dfa8b035a11e6d5/artifacts
+end_time: 1670103783554
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 487317df1cc048a29dfa8b035a11e6d5
+run_name: bright-grouse-354
+run_uuid: 487317df1cc048a29dfa8b035a11e6d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240185715
+status: 3
+tags: []
+user_id: unknown

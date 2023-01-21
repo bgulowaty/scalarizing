@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb904cc3a807470a99f76d06e691d58d/artifacts
+end_time: 1669956282585
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb904cc3a807470a99f76d06e691d58d
+run_name: dazzling-finch-783
+run_uuid: fb904cc3a807470a99f76d06e691d58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240069356
+status: 3
+tags: []
+user_id: unknown

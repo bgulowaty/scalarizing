@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ffad2b2f82ad46cc8d5070df11517a92/artifacts
+end_time: 1669950344541
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffad2b2f82ad46cc8d5070df11517a92
+run_name: rebellious-dog-727
+run_uuid: ffad2b2f82ad46cc8d5070df11517a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240787624
+status: 3
+tags: []
+user_id: unknown

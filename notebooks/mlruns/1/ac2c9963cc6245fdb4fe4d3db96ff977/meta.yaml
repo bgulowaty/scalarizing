@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac2c9963cc6245fdb4fe4d3db96ff977/artifacts
+end_time: 1670180574132
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac2c9963cc6245fdb4fe4d3db96ff977
+run_name: stately-conch-751
+run_uuid: ac2c9963cc6245fdb4fe4d3db96ff977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242363070
+status: 4
+tags: []
+user_id: unknown

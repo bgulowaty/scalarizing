@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/23c83bbe997e4bbaadbc77fe88c905e2/artifacts
+end_time: 1669946923580
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23c83bbe997e4bbaadbc77fe88c905e2
+run_name: fun-dog-598
+run_uuid: 23c83bbe997e4bbaadbc77fe88c905e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241504538
+status: 3
+tags: []
+user_id: unknown

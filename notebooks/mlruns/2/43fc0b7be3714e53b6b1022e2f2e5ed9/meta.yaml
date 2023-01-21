@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/43fc0b7be3714e53b6b1022e2f2e5ed9/artifacts
+end_time: 1670162326409
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 43fc0b7be3714e53b6b1022e2f2e5ed9
+run_name: gentle-grouse-784
+run_uuid: 43fc0b7be3714e53b6b1022e2f2e5ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150407074
+status: 3
+tags: []
+user_id: unknown

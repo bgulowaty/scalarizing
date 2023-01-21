@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/eefe489cb47b46f8a0d5077af6c42184/artifacts
+end_time: 1670162074039
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: eefe489cb47b46f8a0d5077af6c42184
+run_name: sassy-cub-995
+run_uuid: eefe489cb47b46f8a0d5077af6c42184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150442627
+status: 3
+tags: []
+user_id: unknown

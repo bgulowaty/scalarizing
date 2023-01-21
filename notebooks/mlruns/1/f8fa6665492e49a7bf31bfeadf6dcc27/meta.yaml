@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f8fa6665492e49a7bf31bfeadf6dcc27/artifacts
+end_time: 1669943066450
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f8fa6665492e49a7bf31bfeadf6dcc27
+run_name: wistful-colt-54
+run_uuid: f8fa6665492e49a7bf31bfeadf6dcc27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242444767
+status: 3
+tags: []
+user_id: unknown

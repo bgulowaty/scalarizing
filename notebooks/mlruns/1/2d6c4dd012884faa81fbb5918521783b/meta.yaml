@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2d6c4dd012884faa81fbb5918521783b/artifacts
+end_time: 1669954714622
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d6c4dd012884faa81fbb5918521783b
+run_name: receptive-skink-763
+run_uuid: 2d6c4dd012884faa81fbb5918521783b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240204021
+status: 3
+tags: []
+user_id: unknown

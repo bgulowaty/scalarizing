@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/df33ff00b97f4f94bc80bb09b2f3791b/artifacts
+end_time: 1670161960679
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: df33ff00b97f4f94bc80bb09b2f3791b
+run_name: fun-smelt-680
+run_uuid: df33ff00b97f4f94bc80bb09b2f3791b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150498290
+status: 3
+tags: []
+user_id: unknown

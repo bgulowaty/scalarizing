@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a855f22c1a614c08959c76de5f1b3ac4/artifacts
+end_time: 1670162623432
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a855f22c1a614c08959c76de5f1b3ac4
+run_name: adaptable-kite-382
+run_uuid: a855f22c1a614c08959c76de5f1b3ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150261486
+status: 3
+tags: []
+user_id: unknown

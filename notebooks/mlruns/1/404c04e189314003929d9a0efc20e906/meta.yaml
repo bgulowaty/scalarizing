@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/404c04e189314003929d9a0efc20e906/artifacts
+end_time: 1670181757471
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 404c04e189314003929d9a0efc20e906
+run_name: overjoyed-midge-892
+run_uuid: 404c04e189314003929d9a0efc20e906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239960372
+status: 3
+tags: []
+user_id: unknown

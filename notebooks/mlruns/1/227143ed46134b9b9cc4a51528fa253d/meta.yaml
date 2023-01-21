@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/227143ed46134b9b9cc4a51528fa253d/artifacts
+end_time: 1669944552535
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 227143ed46134b9b9cc4a51528fa253d
+run_name: clean-ray-826
+run_uuid: 227143ed46134b9b9cc4a51528fa253d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242042403
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c09ab57efce4e72b87a9b68972ac17b/artifacts
+end_time: 1669955921904
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c09ab57efce4e72b87a9b68972ac17b
+run_name: beautiful-elk-573
+run_uuid: 3c09ab57efce4e72b87a9b68972ac17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240105571
+status: 3
+tags: []
+user_id: unknown

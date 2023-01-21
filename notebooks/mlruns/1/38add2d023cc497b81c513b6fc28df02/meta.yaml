@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/38add2d023cc497b81c513b6fc28df02/artifacts
+end_time: 1669950035511
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38add2d023cc497b81c513b6fc28df02
+run_name: overjoyed-fly-334
+run_uuid: 38add2d023cc497b81c513b6fc28df02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240848392
+status: 3
+tags: []
+user_id: unknown

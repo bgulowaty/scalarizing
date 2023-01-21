@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/edc6417bbdd84d8297569f702db30592/artifacts
+end_time: 1669948256839
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edc6417bbdd84d8297569f702db30592
+run_name: hilarious-crow-785
+run_uuid: edc6417bbdd84d8297569f702db30592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241205404
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8b1267b9844440958f2f214850c158da/artifacts
+end_time: 1669952584667
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b1267b9844440958f2f214850c158da
+run_name: inquisitive-bass-74
+run_uuid: 8b1267b9844440958f2f214850c158da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240423673
+status: 3
+tags: []
+user_id: unknown

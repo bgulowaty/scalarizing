@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5af182b33e464f938385d6cd19d18481/artifacts
+end_time: 1669944837900
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5af182b33e464f938385d6cd19d18481
+run_name: bedecked-grouse-521
+run_uuid: 5af182b33e464f938385d6cd19d18481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241974676
+status: 3
+tags: []
+user_id: unknown

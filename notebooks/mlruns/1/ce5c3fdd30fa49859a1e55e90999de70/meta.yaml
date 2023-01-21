@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce5c3fdd30fa49859a1e55e90999de70/artifacts
+end_time: 1669955132428
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce5c3fdd30fa49859a1e55e90999de70
+run_name: funny-cat-368
+run_uuid: ce5c3fdd30fa49859a1e55e90999de70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240168752
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/952982206fe746a69ce23e2d00ceeb81/artifacts
+end_time: 1670181152012
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 952982206fe746a69ce23e2d00ceeb81
+run_name: traveling-fox-367
+run_uuid: 952982206fe746a69ce23e2d00ceeb81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240723887
+status: 3
+tags: []
+user_id: unknown

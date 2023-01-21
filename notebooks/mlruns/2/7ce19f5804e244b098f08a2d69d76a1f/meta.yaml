@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7ce19f5804e244b098f08a2d69d76a1f/artifacts
+end_time: 1670162610898
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7ce19f5804e244b098f08a2d69d76a1f
+run_name: honorable-skink-45
+run_uuid: 7ce19f5804e244b098f08a2d69d76a1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150273396
+status: 3
+tags: []
+user_id: unknown

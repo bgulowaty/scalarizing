@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/801f40a8e82e48d29e35f1b6e9357dda/artifacts
+end_time: 1669950055949
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 801f40a8e82e48d29e35f1b6e9357dda
+run_name: bright-pug-317
+run_uuid: 801f40a8e82e48d29e35f1b6e9357dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240854925
+status: 3
+tags: []
+user_id: unknown

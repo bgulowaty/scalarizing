@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/944deb56f2e54aafb9960d53a43dbbf3/artifacts
+end_time: 1669943798996
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 944deb56f2e54aafb9960d53a43dbbf3
+run_name: incongruous-shad-503
+run_uuid: 944deb56f2e54aafb9960d53a43dbbf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242234695
+status: 3
+tags: []
+user_id: unknown

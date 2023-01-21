@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b7ed762ecc2b49fc9ea1efefec1bc00e/artifacts
+end_time: 1669951910660
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7ed762ecc2b49fc9ea1efefec1bc00e
+run_name: honorable-snake-45
+run_uuid: b7ed762ecc2b49fc9ea1efefec1bc00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240533226
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d1782d43c12e42cfae210284df656c91/artifacts
+end_time: 1669948502029
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1782d43c12e42cfae210284df656c91
+run_name: carefree-quail-558
+run_uuid: d1782d43c12e42cfae210284df656c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241156220
+status: 3
+tags: []
+user_id: unknown

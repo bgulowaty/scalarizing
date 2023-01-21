@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fddfd8fc6eff47b580f3915128fe4437/artifacts
+end_time: 1669945703733
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fddfd8fc6eff47b580f3915128fe4437
+run_name: spiffy-skunk-581
+run_uuid: fddfd8fc6eff47b580f3915128fe4437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241745579
+status: 3
+tags: []
+user_id: unknown

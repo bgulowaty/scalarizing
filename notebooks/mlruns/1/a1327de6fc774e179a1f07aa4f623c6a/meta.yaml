@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a1327de6fc774e179a1f07aa4f623c6a/artifacts
+end_time: 1669953535561
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1327de6fc774e179a1f07aa4f623c6a
+run_name: bold-moose-851
+run_uuid: a1327de6fc774e179a1f07aa4f623c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240317650
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f4338c62f0304a28bce4ee9ab0204f6c/artifacts
+end_time: 1669946960000
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f4338c62f0304a28bce4ee9ab0204f6c
+run_name: calm-hog-408
+run_uuid: f4338c62f0304a28bce4ee9ab0204f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241485524
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4d6212c27a7f43f2a09cdd194305c6b3/artifacts
+end_time: 1669956536606
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d6212c27a7f43f2a09cdd194305c6b3
+run_name: abundant-hare-652
+run_uuid: 4d6212c27a7f43f2a09cdd194305c6b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240055474
+status: 3
+tags: []
+user_id: unknown

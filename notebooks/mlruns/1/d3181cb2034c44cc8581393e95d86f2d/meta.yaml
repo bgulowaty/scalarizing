@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d3181cb2034c44cc8581393e95d86f2d/artifacts
+end_time: 1669955919502
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3181cb2034c44cc8581393e95d86f2d
+run_name: skillful-horse-536
+run_uuid: d3181cb2034c44cc8581393e95d86f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240102133
+status: 3
+tags: []
+user_id: unknown

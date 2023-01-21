@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c26243dfe5f049f5a7c33fbe49d99acb/artifacts
+end_time: 1670106578593
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c26243dfe5f049f5a7c33fbe49d99acb
+run_name: enchanting-hog-362
+run_uuid: c26243dfe5f049f5a7c33fbe49d99acb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239894572
+status: 3
+tags: []
+user_id: unknown

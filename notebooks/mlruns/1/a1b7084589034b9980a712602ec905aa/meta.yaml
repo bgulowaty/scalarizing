@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a1b7084589034b9980a712602ec905aa/artifacts
+end_time: 1669949127030
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1b7084589034b9980a712602ec905aa
+run_name: polite-sow-116
+run_uuid: a1b7084589034b9980a712602ec905aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241035143
+status: 3
+tags: []
+user_id: unknown

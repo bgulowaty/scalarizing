@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e8904b0e3849448a981375a3b79cf230/artifacts
+end_time: 1669945394896
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8904b0e3849448a981375a3b79cf230
+run_name: kindly-swan-470
+run_uuid: e8904b0e3849448a981375a3b79cf230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241811004
+status: 3
+tags: []
+user_id: unknown

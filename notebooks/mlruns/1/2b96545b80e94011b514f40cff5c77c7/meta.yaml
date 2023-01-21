@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2b96545b80e94011b514f40cff5c77c7/artifacts
+end_time: 1669945400314
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b96545b80e94011b514f40cff5c77c7
+run_name: upbeat-fawn-154
+run_uuid: 2b96545b80e94011b514f40cff5c77c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241825397
+status: 3
+tags: []
+user_id: unknown

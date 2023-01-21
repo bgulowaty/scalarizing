@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/003fc79c27eb47f4892c0c90b0b0d85a/artifacts
+end_time: 1669945806173
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 003fc79c27eb47f4892c0c90b0b0d85a
+run_name: bald-shrike-621
+run_uuid: 003fc79c27eb47f4892c0c90b0b0d85a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241712960
+status: 3
+tags: []
+user_id: unknown

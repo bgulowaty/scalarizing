@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a405be08b2a24b2497f6842c3089a767/artifacts
+end_time: 1669955010207
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a405be08b2a24b2497f6842c3089a767
+run_name: thoughtful-ram-239
+run_uuid: a405be08b2a24b2497f6842c3089a767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240172775
+status: 3
+tags: []
+user_id: unknown

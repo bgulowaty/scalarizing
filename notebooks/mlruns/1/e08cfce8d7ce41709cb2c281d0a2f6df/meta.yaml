@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e08cfce8d7ce41709cb2c281d0a2f6df/artifacts
+end_time: 1669942251584
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e08cfce8d7ce41709cb2c281d0a2f6df
+run_name: righteous-midge-465
+run_uuid: e08cfce8d7ce41709cb2c281d0a2f6df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242829914
+status: 3
+tags: []
+user_id: unknown

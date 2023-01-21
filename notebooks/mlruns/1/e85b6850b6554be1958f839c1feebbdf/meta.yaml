@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e85b6850b6554be1958f839c1feebbdf/artifacts
+end_time: 1669956540736
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e85b6850b6554be1958f839c1feebbdf
+run_name: placid-gull-117
+run_uuid: e85b6850b6554be1958f839c1feebbdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240045991
+status: 3
+tags: []
+user_id: unknown

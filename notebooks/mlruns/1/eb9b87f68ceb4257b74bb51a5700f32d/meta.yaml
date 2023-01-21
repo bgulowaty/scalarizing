@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb9b87f68ceb4257b74bb51a5700f32d/artifacts
+end_time: 1669943489569
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb9b87f68ceb4257b74bb51a5700f32d
+run_name: bouncy-trout-980
+run_uuid: eb9b87f68ceb4257b74bb51a5700f32d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242318029
+status: 3
+tags: []
+user_id: unknown

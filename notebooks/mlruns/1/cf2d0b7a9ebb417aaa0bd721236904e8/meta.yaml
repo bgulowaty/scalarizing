@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cf2d0b7a9ebb417aaa0bd721236904e8/artifacts
+end_time: 1669952521601
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf2d0b7a9ebb417aaa0bd721236904e8
+run_name: upbeat-bug-942
+run_uuid: cf2d0b7a9ebb417aaa0bd721236904e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240436587
+status: 3
+tags: []
+user_id: unknown

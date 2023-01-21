@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1cb93b2c283242eaa06c0ac570000720/artifacts
+end_time: 1669943902677
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1cb93b2c283242eaa06c0ac570000720
+run_name: crawling-panda-724
+run_uuid: 1cb93b2c283242eaa06c0ac570000720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242197666
+status: 3
+tags: []
+user_id: unknown

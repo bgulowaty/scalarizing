@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3dc9e255cadb4844b4fb44feffe91cf0/artifacts
+end_time: 1669955049611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dc9e255cadb4844b4fb44feffe91cf0
+run_name: upbeat-duck-300
+run_uuid: 3dc9e255cadb4844b4fb44feffe91cf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240180871
+status: 3
+tags: []
+user_id: unknown

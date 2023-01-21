@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1a41d5955f6b438986d2cacef3d1e575/artifacts
+end_time: 1669952275611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a41d5955f6b438986d2cacef3d1e575
+run_name: smiling-zebra-316
+run_uuid: 1a41d5955f6b438986d2cacef3d1e575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240469798
+status: 3
+tags: []
+user_id: unknown

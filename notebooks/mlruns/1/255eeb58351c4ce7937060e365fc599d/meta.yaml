@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/255eeb58351c4ce7937060e365fc599d/artifacts
+end_time: 1670181178488
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 255eeb58351c4ce7937060e365fc599d
+run_name: agreeable-turtle-100
+run_uuid: 255eeb58351c4ce7937060e365fc599d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240611182
+status: 4
+tags: []
+user_id: unknown

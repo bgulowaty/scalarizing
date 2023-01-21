@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9900e2f355b0439587234394d61957b8/artifacts
+end_time: 1670105364497
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9900e2f355b0439587234394d61957b8
+run_name: tasteful-bat-323
+run_uuid: 9900e2f355b0439587234394d61957b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239932295
+status: 3
+tags: []
+user_id: unknown

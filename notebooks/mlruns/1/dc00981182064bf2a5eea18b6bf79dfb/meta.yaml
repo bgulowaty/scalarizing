@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dc00981182064bf2a5eea18b6bf79dfb/artifacts
+end_time: 1669955068714
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc00981182064bf2a5eea18b6bf79dfb
+run_name: skillful-dog-589
+run_uuid: dc00981182064bf2a5eea18b6bf79dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240161619
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5d6705b321a346cfbd1eeb5728d11b62/artifacts
+end_time: 1669949129800
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d6705b321a346cfbd1eeb5728d11b62
+run_name: intrigued-bass-255
+run_uuid: 5d6705b321a346cfbd1eeb5728d11b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241066095
+status: 3
+tags: []
+user_id: unknown

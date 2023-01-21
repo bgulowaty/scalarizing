@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/666ca4967be24d2eaee74f3eba965656/artifacts
+end_time: 1669956226983
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 666ca4967be24d2eaee74f3eba965656
+run_name: chill-carp-975
+run_uuid: 666ca4967be24d2eaee74f3eba965656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240080730
+status: 3
+tags: []
+user_id: unknown

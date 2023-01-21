@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/deb1da7394d149539e1b6c3ee1370826/artifacts
+end_time: 1670181128128
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: deb1da7394d149539e1b6c3ee1370826
+run_name: inquisitive-vole-612
+run_uuid: deb1da7394d149539e1b6c3ee1370826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241097141
+status: 3
+tags: []
+user_id: unknown

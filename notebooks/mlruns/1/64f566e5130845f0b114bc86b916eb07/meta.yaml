@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64f566e5130845f0b114bc86b916eb07/artifacts
+end_time: 1669947231150
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64f566e5130845f0b114bc86b916eb07
+run_name: gregarious-shoat-373
+run_uuid: 64f566e5130845f0b114bc86b916eb07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241417362
+status: 3
+tags: []
+user_id: unknown

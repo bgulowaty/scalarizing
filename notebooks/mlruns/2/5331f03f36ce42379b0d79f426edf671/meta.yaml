@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5331f03f36ce42379b0d79f426edf671/artifacts
+end_time: 1670162291942
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5331f03f36ce42379b0d79f426edf671
+run_name: mysterious-midge-887
+run_uuid: 5331f03f36ce42379b0d79f426edf671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150360188
+status: 3
+tags: []
+user_id: unknown

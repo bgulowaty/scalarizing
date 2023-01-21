@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a51f0e807f344d9e8b241d03f463aa0b/artifacts
+end_time: 1670105369943
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a51f0e807f344d9e8b241d03f463aa0b
+run_name: youthful-croc-475
+run_uuid: a51f0e807f344d9e8b241d03f463aa0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239933629
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2228fe6f5934489b8a1c597e211f4586/artifacts
+end_time: 1669949739192
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2228fe6f5934489b8a1c597e211f4586
+run_name: carefree-wren-881
+run_uuid: 2228fe6f5934489b8a1c597e211f4586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240902116
+status: 3
+tags: []
+user_id: unknown

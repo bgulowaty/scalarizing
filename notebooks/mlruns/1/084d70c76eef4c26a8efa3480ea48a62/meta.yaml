@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/084d70c76eef4c26a8efa3480ea48a62/artifacts
+end_time: 1669943802560
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 084d70c76eef4c26a8efa3480ea48a62
+run_name: invincible-roo-208
+run_uuid: 084d70c76eef4c26a8efa3480ea48a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242221182
+status: 3
+tags: []
+user_id: unknown

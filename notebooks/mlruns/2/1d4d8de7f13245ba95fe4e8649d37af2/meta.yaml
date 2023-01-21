@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1d4d8de7f13245ba95fe4e8649d37af2/artifacts
+end_time: 1670162108150
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1d4d8de7f13245ba95fe4e8649d37af2
+run_name: gifted-lark-52
+run_uuid: 1d4d8de7f13245ba95fe4e8649d37af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150455415
+status: 3
+tags: []
+user_id: unknown

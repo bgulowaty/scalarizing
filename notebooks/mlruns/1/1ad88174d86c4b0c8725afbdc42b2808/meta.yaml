@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ad88174d86c4b0c8725afbdc42b2808/artifacts
+end_time: 1669954707812
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ad88174d86c4b0c8725afbdc42b2808
+run_name: magnificent-gull-86
+run_uuid: 1ad88174d86c4b0c8725afbdc42b2808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240216162
+status: 3
+tags: []
+user_id: unknown

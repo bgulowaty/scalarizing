@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb074cee97bb46bfb4276fbc221e3307/artifacts
+end_time: 1669952223649
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb074cee97bb46bfb4276fbc221e3307
+run_name: thundering-chimp-738
+run_uuid: eb074cee97bb46bfb4276fbc221e3307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240493639
+status: 3
+tags: []
+user_id: unknown

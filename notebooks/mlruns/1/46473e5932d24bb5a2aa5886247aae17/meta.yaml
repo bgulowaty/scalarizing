@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46473e5932d24bb5a2aa5886247aae17/artifacts
+end_time: 1669944268067
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46473e5932d24bb5a2aa5886247aae17
+run_name: monumental-stork-891
+run_uuid: 46473e5932d24bb5a2aa5886247aae17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242108418
+status: 3
+tags: []
+user_id: unknown

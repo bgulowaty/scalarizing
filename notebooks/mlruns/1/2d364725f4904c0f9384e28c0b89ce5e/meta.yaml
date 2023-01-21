@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2d364725f4904c0f9384e28c0b89ce5e/artifacts
+end_time: 1669949791011
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d364725f4904c0f9384e28c0b89ce5e
+run_name: incongruous-flea-191
+run_uuid: 2d364725f4904c0f9384e28c0b89ce5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240875432
+status: 3
+tags: []
+user_id: unknown

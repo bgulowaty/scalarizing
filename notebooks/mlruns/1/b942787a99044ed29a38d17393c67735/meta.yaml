@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b942787a99044ed29a38d17393c67735/artifacts
+end_time: 1669955917971
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b942787a99044ed29a38d17393c67735
+run_name: abundant-loon-425
+run_uuid: b942787a99044ed29a38d17393c67735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240102630
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/abc8beac45e649809d1a91b8bffc5255/artifacts
+end_time: 1670106301189
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abc8beac45e649809d1a91b8bffc5255
+run_name: stylish-bass-378
+run_uuid: abc8beac45e649809d1a91b8bffc5255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239896899
+status: 3
+tags: []
+user_id: unknown

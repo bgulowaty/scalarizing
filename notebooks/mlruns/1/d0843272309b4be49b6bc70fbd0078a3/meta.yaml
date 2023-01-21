@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d0843272309b4be49b6bc70fbd0078a3/artifacts
+end_time: 1670180552369
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0843272309b4be49b6bc70fbd0078a3
+run_name: gaudy-yak-891
+run_uuid: d0843272309b4be49b6bc70fbd0078a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242597483
+status: 3
+tags: []
+user_id: unknown

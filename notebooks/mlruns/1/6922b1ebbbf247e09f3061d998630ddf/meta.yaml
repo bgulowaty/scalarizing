@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6922b1ebbbf247e09f3061d998630ddf/artifacts
+end_time: 1669943402016
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6922b1ebbbf247e09f3061d998630ddf
+run_name: grandiose-chimp-780
+run_uuid: 6922b1ebbbf247e09f3061d998630ddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242347002
+status: 3
+tags: []
+user_id: unknown

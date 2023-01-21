@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3d50049f713410cae30403c6ab935c5/artifacts
+end_time: 1669947322228
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3d50049f713410cae30403c6ab935c5
+run_name: valuable-hawk-201
+run_uuid: e3d50049f713410cae30403c6ab935c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241379714
+status: 3
+tags: []
+user_id: unknown

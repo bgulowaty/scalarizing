@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39cb9bf5aa1c4a95b5070928ce7ba50a/artifacts
+end_time: 1669950708821
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39cb9bf5aa1c4a95b5070928ce7ba50a
+run_name: bustling-shoat-927
+run_uuid: 39cb9bf5aa1c4a95b5070928ce7ba50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240697336
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9300c3f488d7468695140a4f0d00f7cf/artifacts
+end_time: 1669951616131
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9300c3f488d7468695140a4f0d00f7cf
+run_name: bedecked-fowl-105
+run_uuid: 9300c3f488d7468695140a4f0d00f7cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240580280
+status: 3
+tags: []
+user_id: unknown

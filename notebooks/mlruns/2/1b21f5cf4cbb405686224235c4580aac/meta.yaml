@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1b21f5cf4cbb405686224235c4580aac/artifacts
+end_time: 1670163035653
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1b21f5cf4cbb405686224235c4580aac
+run_name: able-stork-783
+run_uuid: 1b21f5cf4cbb405686224235c4580aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150190852
+status: 3
+tags: []
+user_id: unknown

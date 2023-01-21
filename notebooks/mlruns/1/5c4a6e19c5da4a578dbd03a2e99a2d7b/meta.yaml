@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5c4a6e19c5da4a578dbd03a2e99a2d7b/artifacts
+end_time: 1670180874341
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c4a6e19c5da4a578dbd03a2e99a2d7b
+run_name: bald-fly-184
+run_uuid: 5c4a6e19c5da4a578dbd03a2e99a2d7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241344227
+status: 3
+tags: []
+user_id: unknown

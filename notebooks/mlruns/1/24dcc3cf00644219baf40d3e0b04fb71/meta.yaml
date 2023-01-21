@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/24dcc3cf00644219baf40d3e0b04fb71/artifacts
+end_time: 1670104138884
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24dcc3cf00644219baf40d3e0b04fb71
+run_name: bustling-asp-622
+run_uuid: 24dcc3cf00644219baf40d3e0b04fb71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240028727
+status: 3
+tags: []
+user_id: unknown

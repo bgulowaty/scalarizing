@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/353f3e0ef9e145c2b3ebf69b8adf5057/artifacts
+end_time: 1669942605516
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 353f3e0ef9e145c2b3ebf69b8adf5057
+run_name: abrasive-snake-751
+run_uuid: 353f3e0ef9e145c2b3ebf69b8adf5057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242738425
+status: 3
+tags: []
+user_id: unknown

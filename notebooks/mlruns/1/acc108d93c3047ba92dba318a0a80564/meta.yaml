@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/acc108d93c3047ba92dba318a0a80564/artifacts
+end_time: 1669953534212
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acc108d93c3047ba92dba318a0a80564
+run_name: calm-roo-488
+run_uuid: acc108d93c3047ba92dba318a0a80564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240321447
+status: 3
+tags: []
+user_id: unknown

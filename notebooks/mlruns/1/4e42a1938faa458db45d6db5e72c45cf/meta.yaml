@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e42a1938faa458db45d6db5e72c45cf/artifacts
+end_time: 1670181422779
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e42a1938faa458db45d6db5e72c45cf
+run_name: learned-snail-177
+run_uuid: 4e42a1938faa458db45d6db5e72c45cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240360806
+status: 3
+tags: []
+user_id: unknown

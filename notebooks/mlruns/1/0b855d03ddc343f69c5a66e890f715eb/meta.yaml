@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0b855d03ddc343f69c5a66e890f715eb/artifacts
+end_time: 1669947566461
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b855d03ddc343f69c5a66e890f715eb
+run_name: efficient-foal-381
+run_uuid: 0b855d03ddc343f69c5a66e890f715eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241335884
+status: 3
+tags: []
+user_id: unknown

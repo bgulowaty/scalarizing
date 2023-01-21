@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b5f906a046ec42da880a45707be21fc0/artifacts
+end_time: 1670104718965
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b5f906a046ec42da880a45707be21fc0
+run_name: capable-conch-808
+run_uuid: b5f906a046ec42da880a45707be21fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239980509
+status: 3
+tags: []
+user_id: unknown

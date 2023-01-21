@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0ab14e15458241959bfcbbef16ac4f25/artifacts
+end_time: 1670162619552
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0ab14e15458241959bfcbbef16ac4f25
+run_name: capable-turtle-440
+run_uuid: 0ab14e15458241959bfcbbef16ac4f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150245555
+status: 3
+tags: []
+user_id: unknown

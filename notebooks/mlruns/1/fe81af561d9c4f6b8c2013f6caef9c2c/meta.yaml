@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fe81af561d9c4f6b8c2013f6caef9c2c/artifacts
+end_time: 1669954099013
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe81af561d9c4f6b8c2013f6caef9c2c
+run_name: rogue-mink-577
+run_uuid: fe81af561d9c4f6b8c2013f6caef9c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240264945
+status: 3
+tags: []
+user_id: unknown

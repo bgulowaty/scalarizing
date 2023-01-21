@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ca939d104b85480eb97dc561aff01850/artifacts
+end_time: 1670162287667
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ca939d104b85480eb97dc561aff01850
+run_name: resilient-foal-80
+run_uuid: ca939d104b85480eb97dc561aff01850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150375421
+status: 3
+tags: []
+user_id: unknown

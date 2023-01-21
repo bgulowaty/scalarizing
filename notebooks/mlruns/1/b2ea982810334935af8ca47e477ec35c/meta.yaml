@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b2ea982810334935af8ca47e477ec35c/artifacts
+end_time: 1670181150497
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b2ea982810334935af8ca47e477ec35c
+run_name: omniscient-finch-158
+run_uuid: b2ea982810334935af8ca47e477ec35c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240660164
+status: 3
+tags: []
+user_id: unknown

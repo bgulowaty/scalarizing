@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7e38484d55b540e7864ebfa66f0d9942/artifacts
+end_time: 1669955357420
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e38484d55b540e7864ebfa66f0d9942
+run_name: able-crow-850
+run_uuid: 7e38484d55b540e7864ebfa66f0d9942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240138292
+status: 3
+tags: []
+user_id: unknown

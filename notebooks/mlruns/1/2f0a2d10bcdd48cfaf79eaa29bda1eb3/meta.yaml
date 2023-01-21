@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2f0a2d10bcdd48cfaf79eaa29bda1eb3/artifacts
+end_time: 1669952285968
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f0a2d10bcdd48cfaf79eaa29bda1eb3
+run_name: worried-turtle-245
+run_uuid: 2f0a2d10bcdd48cfaf79eaa29bda1eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240469316
+status: 3
+tags: []
+user_id: unknown

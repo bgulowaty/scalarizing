@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/56ce0ec77b98448b94f3d72cea8c4b7b/artifacts
+end_time: 1670181761019
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56ce0ec77b98448b94f3d72cea8c4b7b
+run_name: unruly-wasp-261
+run_uuid: 56ce0ec77b98448b94f3d72cea8c4b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239957185
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e4376aa6883b476b8abd0c5d1075a69a/artifacts
+end_time: 1669947568863
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e4376aa6883b476b8abd0c5d1075a69a
+run_name: dapper-smelt-561
+run_uuid: e4376aa6883b476b8abd0c5d1075a69a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241340175
+status: 3
+tags: []
+user_id: unknown

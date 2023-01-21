@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3f57ac6e52824f649868ebb9e250d2db/artifacts
+end_time: 1670162724928
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3f57ac6e52824f649868ebb9e250d2db
+run_name: receptive-quail-123
+run_uuid: 3f57ac6e52824f649868ebb9e250d2db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150224064
+status: 3
+tags: []
+user_id: unknown

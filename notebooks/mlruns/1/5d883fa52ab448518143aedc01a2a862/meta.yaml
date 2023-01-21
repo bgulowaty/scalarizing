@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5d883fa52ab448518143aedc01a2a862/artifacts
+end_time: 1670104732863
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d883fa52ab448518143aedc01a2a862
+run_name: indecisive-carp-263
+run_uuid: 5d883fa52ab448518143aedc01a2a862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239973128
+status: 3
+tags: []
+user_id: unknown

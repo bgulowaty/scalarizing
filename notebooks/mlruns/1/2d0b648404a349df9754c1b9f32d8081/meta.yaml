@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2d0b648404a349df9754c1b9f32d8081/artifacts
+end_time: 1669945141966
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d0b648404a349df9754c1b9f32d8081
+run_name: amusing-panda-422
+run_uuid: 2d0b648404a349df9754c1b9f32d8081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241874910
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce636030864144c9a8c480cd5ce7d86a/artifacts
+end_time: 1670180873425
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce636030864144c9a8c480cd5ce7d86a
+run_name: ambitious-wasp-899
+run_uuid: ce636030864144c9a8c480cd5ce7d86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241369039
+status: 3
+tags: []
+user_id: unknown

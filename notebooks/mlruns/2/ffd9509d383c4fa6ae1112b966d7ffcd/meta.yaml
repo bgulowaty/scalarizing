@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ffd9509d383c4fa6ae1112b966d7ffcd/artifacts
+end_time: 1670162185435
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ffd9509d383c4fa6ae1112b966d7ffcd
+run_name: sneaky-shrike-648
+run_uuid: ffd9509d383c4fa6ae1112b966d7ffcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150391133
+status: 3
+tags: []
+user_id: unknown

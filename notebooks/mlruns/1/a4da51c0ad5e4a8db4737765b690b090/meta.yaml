@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a4da51c0ad5e4a8db4737765b690b090/artifacts
+end_time: 1669949522239
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4da51c0ad5e4a8db4737765b690b090
+run_name: traveling-whale-462
+run_uuid: a4da51c0ad5e4a8db4737765b690b090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240918589
+status: 3
+tags: []
+user_id: unknown

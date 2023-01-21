@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6d4ebe42a39d425cbcc4189b5f99bdc3/artifacts
+end_time: 1669954455685
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6d4ebe42a39d425cbcc4189b5f99bdc3
+run_name: zealous-smelt-454
+run_uuid: 6d4ebe42a39d425cbcc4189b5f99bdc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240228961
+status: 3
+tags: []
+user_id: unknown

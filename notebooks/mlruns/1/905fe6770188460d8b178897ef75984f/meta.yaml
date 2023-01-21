@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/905fe6770188460d8b178897ef75984f/artifacts
+end_time: 1670180877605
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 905fe6770188460d8b178897ef75984f
+run_name: adorable-stag-670
+run_uuid: 905fe6770188460d8b178897ef75984f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241293230
+status: 3
+tags: []
+user_id: unknown

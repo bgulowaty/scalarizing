@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6beb16b0cd30467bbe678ee82f34480c/artifacts
+end_time: 1669948781483
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6beb16b0cd30467bbe678ee82f34480c
+run_name: dapper-slug-73
+run_uuid: 6beb16b0cd30467bbe678ee82f34480c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241124296
+status: 3
+tags: []
+user_id: unknown

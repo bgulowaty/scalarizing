@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5f16a31feb704d389cdc6a9d12fb3644/artifacts
+end_time: 1669945775735
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f16a31feb704d389cdc6a9d12fb3644
+run_name: youthful-roo-890
+run_uuid: 5f16a31feb704d389cdc6a9d12fb3644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241726932
+status: 3
+tags: []
+user_id: unknown

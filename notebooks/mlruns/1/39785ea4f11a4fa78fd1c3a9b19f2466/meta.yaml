@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39785ea4f11a4fa78fd1c3a9b19f2466/artifacts
+end_time: 1669943988560
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39785ea4f11a4fa78fd1c3a9b19f2466
+run_name: bright-jay-942
+run_uuid: 39785ea4f11a4fa78fd1c3a9b19f2466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242175918
+status: 3
+tags: []
+user_id: unknown

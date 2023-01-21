@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/df89ee16374f4d3aba06919651215b89/artifacts
+end_time: 1669943320898
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df89ee16374f4d3aba06919651215b89
+run_name: calm-asp-532
+run_uuid: df89ee16374f4d3aba06919651215b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242371259
+status: 3
+tags: []
+user_id: unknown

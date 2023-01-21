@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/91223b9a993942a59093c05ec4f82b03/artifacts
+end_time: 1670162737834
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 91223b9a993942a59093c05ec4f82b03
+run_name: flawless-ape-18
+run_uuid: 91223b9a993942a59093c05ec4f82b03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150205831
+status: 3
+tags: []
+user_id: unknown

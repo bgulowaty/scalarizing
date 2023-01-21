@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dbed69b833794ec2b6e148c140851fcb/artifacts
+end_time: 1670180875593
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbed69b833794ec2b6e148c140851fcb
+run_name: thundering-crane-837
+run_uuid: dbed69b833794ec2b6e148c140851fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241363891
+status: 3
+tags: []
+user_id: unknown

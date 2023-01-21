@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5a9d8a22f03c48d0963967999299ef26/artifacts
+end_time: 1669949498910
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a9d8a22f03c48d0963967999299ef26
+run_name: monumental-bee-382
+run_uuid: 5a9d8a22f03c48d0963967999299ef26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240919572
+status: 3
+tags: []
+user_id: unknown

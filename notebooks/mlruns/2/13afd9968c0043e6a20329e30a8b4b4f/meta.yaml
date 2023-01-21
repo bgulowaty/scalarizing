@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/13afd9968c0043e6a20329e30a8b4b4f/artifacts
+end_time: 1670161961438
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 13afd9968c0043e6a20329e30a8b4b4f
+run_name: sneaky-mole-148
+run_uuid: 13afd9968c0043e6a20329e30a8b4b4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150501651
+status: 3
+tags: []
+user_id: unknown

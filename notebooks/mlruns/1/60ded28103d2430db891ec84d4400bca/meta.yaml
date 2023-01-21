@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/60ded28103d2430db891ec84d4400bca/artifacts
+end_time: 1670181118330
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60ded28103d2430db891ec84d4400bca
+run_name: industrious-hog-131
+run_uuid: 60ded28103d2430db891ec84d4400bca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241137808
+status: 4
+tags: []
+user_id: unknown

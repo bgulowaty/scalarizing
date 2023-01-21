@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b11be99325c64443a898c49b680ff30b/artifacts
+end_time: 1669945769527
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b11be99325c64443a898c49b680ff30b
+run_name: clean-fawn-183
+run_uuid: b11be99325c64443a898c49b680ff30b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241715403
+status: 3
+tags: []
+user_id: unknown

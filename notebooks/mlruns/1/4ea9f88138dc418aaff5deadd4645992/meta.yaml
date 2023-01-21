@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ea9f88138dc418aaff5deadd4645992/artifacts
+end_time: 1669948532697
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ea9f88138dc418aaff5deadd4645992
+run_name: amazing-gnat-831
+run_uuid: 4ea9f88138dc418aaff5deadd4645992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241145187
+status: 3
+tags: []
+user_id: unknown

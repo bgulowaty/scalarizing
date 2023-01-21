@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e7c33eb55e1143e2a812342d6e45b047/artifacts
+end_time: 1670105719427
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7c33eb55e1143e2a812342d6e45b047
+run_name: dapper-dog-937
+run_uuid: e7c33eb55e1143e2a812342d6e45b047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239926023
+status: 3
+tags: []
+user_id: unknown

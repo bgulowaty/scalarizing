@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/29c6d48fdc2345c4a21486d49111ba4b/artifacts
+end_time: 1670181731232
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29c6d48fdc2345c4a21486d49111ba4b
+run_name: omniscient-hawk-456
+run_uuid: 29c6d48fdc2345c4a21486d49111ba4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239994309
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/869674fcb9004750ad8e738ef150430e/artifacts
+end_time: 1669955048809
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 869674fcb9004750ad8e738ef150430e
+run_name: valuable-doe-564
+run_uuid: 869674fcb9004750ad8e738ef150430e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240169512
+status: 3
+tags: []
+user_id: unknown

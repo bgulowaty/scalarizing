@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4355fb72ef27432b87b31b686052c18a/artifacts
+end_time: 1669950455561
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4355fb72ef27432b87b31b686052c18a
+run_name: illustrious-newt-791
+run_uuid: 4355fb72ef27432b87b31b686052c18a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240812107
+status: 3
+tags: []
+user_id: unknown

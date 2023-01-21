@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9ddc22be24854b02812631299b7e326a/artifacts
+end_time: 1669955919006
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ddc22be24854b02812631299b7e326a
+run_name: redolent-finch-612
+run_uuid: 9ddc22be24854b02812631299b7e326a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240097019
+status: 3
+tags: []
+user_id: unknown

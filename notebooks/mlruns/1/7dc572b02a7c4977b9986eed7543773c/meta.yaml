@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7dc572b02a7c4977b9986eed7543773c/artifacts
+end_time: 1669942936800
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7dc572b02a7c4977b9986eed7543773c
+run_name: traveling-zebra-552
+run_uuid: 7dc572b02a7c4977b9986eed7543773c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242496334
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a2e74f75f900409eafe4b46953aba8f9/artifacts
+end_time: 1670180841251
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2e74f75f900409eafe4b46953aba8f9
+run_name: bittersweet-ram-302
+run_uuid: a2e74f75f900409eafe4b46953aba8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241615061
+status: 3
+tags: []
+user_id: unknown

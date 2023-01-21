@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2808fa0364ab48ccb6af8c2159cfbb29/artifacts
+end_time: 1669945683740
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2808fa0364ab48ccb6af8c2159cfbb29
+run_name: worried-seal-321
+run_uuid: 2808fa0364ab48ccb6af8c2159cfbb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241761800
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/73ebfe0d9e094023836ce578da36fe71/artifacts
+end_time: 1669945250417
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73ebfe0d9e094023836ce578da36fe71
+run_name: nosy-shad-710
+run_uuid: 73ebfe0d9e094023836ce578da36fe71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241859789
+status: 3
+tags: []
+user_id: unknown

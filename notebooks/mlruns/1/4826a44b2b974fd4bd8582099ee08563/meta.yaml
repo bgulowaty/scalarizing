@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4826a44b2b974fd4bd8582099ee08563/artifacts
+end_time: 1669954068828
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4826a44b2b974fd4bd8582099ee08563
+run_name: rumbling-gnat-700
+run_uuid: 4826a44b2b974fd4bd8582099ee08563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240273717
+status: 3
+tags: []
+user_id: unknown

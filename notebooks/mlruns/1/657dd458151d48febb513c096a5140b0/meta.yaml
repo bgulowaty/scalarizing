@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/657dd458151d48febb513c096a5140b0/artifacts
+end_time: 1670103221770
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 657dd458151d48febb513c096a5140b0
+run_name: respected-worm-402
+run_uuid: 657dd458151d48febb513c096a5140b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240994696
+status: 3
+tags: []
+user_id: unknown

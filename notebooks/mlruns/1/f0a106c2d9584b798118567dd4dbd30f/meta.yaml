@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f0a106c2d9584b798118567dd4dbd30f/artifacts
+end_time: 1669952218532
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0a106c2d9584b798118567dd4dbd30f
+run_name: welcoming-worm-229
+run_uuid: f0a106c2d9584b798118567dd4dbd30f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240492073
+status: 3
+tags: []
+user_id: unknown

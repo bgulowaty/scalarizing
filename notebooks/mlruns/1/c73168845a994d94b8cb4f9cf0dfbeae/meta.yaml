@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c73168845a994d94b8cb4f9cf0dfbeae/artifacts
+end_time: 1669949492676
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c73168845a994d94b8cb4f9cf0dfbeae
+run_name: mercurial-frog-242
+run_uuid: c73168845a994d94b8cb4f9cf0dfbeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240916807
+status: 3
+tags: []
+user_id: unknown

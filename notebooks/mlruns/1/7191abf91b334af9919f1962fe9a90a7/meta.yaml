@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7191abf91b334af9919f1962fe9a90a7/artifacts
+end_time: 1669956223805
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7191abf91b334af9919f1962fe9a90a7
+run_name: sincere-ant-941
+run_uuid: 7191abf91b334af9919f1962fe9a90a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240073377
+status: 3
+tags: []
+user_id: unknown

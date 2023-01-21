@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c9343e9baa714e45b46573cf9dd1e24f/artifacts
+end_time: 1670162288986
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c9343e9baa714e45b46573cf9dd1e24f
+run_name: youthful-hog-937
+run_uuid: c9343e9baa714e45b46573cf9dd1e24f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150365099
+status: 3
+tags: []
+user_id: unknown

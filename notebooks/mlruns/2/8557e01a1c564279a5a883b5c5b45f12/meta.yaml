@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8557e01a1c564279a5a883b5c5b45f12/artifacts
+end_time: 1670162731941
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8557e01a1c564279a5a883b5c5b45f12
+run_name: stylish-sponge-886
+run_uuid: 8557e01a1c564279a5a883b5c5b45f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150206280
+status: 3
+tags: []
+user_id: unknown

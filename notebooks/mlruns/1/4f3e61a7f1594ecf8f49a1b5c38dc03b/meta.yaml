@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4f3e61a7f1594ecf8f49a1b5c38dc03b/artifacts
+end_time: 1669947880821
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f3e61a7f1594ecf8f49a1b5c38dc03b
+run_name: nervous-shrimp-478
+run_uuid: 4f3e61a7f1594ecf8f49a1b5c38dc03b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241281141
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b54346f203a24fb49e37bbbc58c39cac/artifacts
+end_time: 1669946960731
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b54346f203a24fb49e37bbbc58c39cac
+run_name: legendary-duck-240
+run_uuid: b54346f203a24fb49e37bbbc58c39cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241496235
+status: 3
+tags: []
+user_id: unknown

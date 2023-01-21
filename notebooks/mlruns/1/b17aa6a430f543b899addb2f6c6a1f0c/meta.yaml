@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b17aa6a430f543b899addb2f6c6a1f0c/artifacts
+end_time: 1669953535435
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b17aa6a430f543b899addb2f6c6a1f0c
+run_name: overjoyed-quail-512
+run_uuid: b17aa6a430f543b899addb2f6c6a1f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240319608
+status: 3
+tags: []
+user_id: unknown

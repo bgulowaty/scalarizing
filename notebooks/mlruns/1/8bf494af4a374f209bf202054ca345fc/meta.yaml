@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8bf494af4a374f209bf202054ca345fc/artifacts
+end_time: 1670103862527
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8bf494af4a374f209bf202054ca345fc
+run_name: bouncy-koi-255
+run_uuid: 8bf494af4a374f209bf202054ca345fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240213352
+status: 3
+tags: []
+user_id: unknown

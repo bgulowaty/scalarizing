@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d12fcf2a34fe4f6fb84989671123fa9d/artifacts
+end_time: 1670102314424
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d12fcf2a34fe4f6fb84989671123fa9d
+run_name: fun-quail-119
+run_uuid: d12fcf2a34fe4f6fb84989671123fa9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242623287
+status: 3
+tags: []
+user_id: unknown

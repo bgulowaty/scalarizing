@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/50f66ece1a614486b79871f1b1df3fdb/artifacts
+end_time: 1669943428572
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50f66ece1a614486b79871f1b1df3fdb
+run_name: popular-ox-904
+run_uuid: 50f66ece1a614486b79871f1b1df3fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242341591
+status: 3
+tags: []
+user_id: unknown

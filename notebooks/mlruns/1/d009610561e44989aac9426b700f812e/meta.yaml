@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d009610561e44989aac9426b700f812e/artifacts
+end_time: 1670106298860
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d009610561e44989aac9426b700f812e
+run_name: righteous-cow-407
+run_uuid: d009610561e44989aac9426b700f812e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239897167
+status: 3
+tags: []
+user_id: unknown

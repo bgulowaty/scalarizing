@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9b8382adbe8345198a748b54f8a9e7a5/artifacts
+end_time: 1669950400894
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b8382adbe8345198a748b54f8a9e7a5
+run_name: legendary-dove-150
+run_uuid: 9b8382adbe8345198a748b54f8a9e7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240767377
+status: 3
+tags: []
+user_id: unknown

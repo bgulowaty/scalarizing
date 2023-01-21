@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c137f5ff00cc4f0db09cc80ab8f2cf1e/artifacts
+end_time: 1669947674232
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c137f5ff00cc4f0db09cc80ab8f2cf1e
+run_name: polite-steed-645
+run_uuid: c137f5ff00cc4f0db09cc80ab8f2cf1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241368424
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1bbc14f4f93c4ccf960e699ff6ce8508/artifacts
+end_time: 1670105367479
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1bbc14f4f93c4ccf960e699ff6ce8508
+run_name: sincere-hog-972
+run_uuid: 1bbc14f4f93c4ccf960e699ff6ce8508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239932914
+status: 3
+tags: []
+user_id: unknown

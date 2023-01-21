@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ef954e08c9e64828bc83e4c10db85ec7/artifacts
+end_time: 1669952292092
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef954e08c9e64828bc83e4c10db85ec7
+run_name: industrious-doe-613
+run_uuid: ef954e08c9e64828bc83e4c10db85ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240471765
+status: 3
+tags: []
+user_id: unknown

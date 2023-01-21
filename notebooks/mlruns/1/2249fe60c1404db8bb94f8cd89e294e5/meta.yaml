@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2249fe60c1404db8bb94f8cd89e294e5/artifacts
+end_time: 1669947297385
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2249fe60c1404db8bb94f8cd89e294e5
+run_name: agreeable-owl-394
+run_uuid: 2249fe60c1404db8bb94f8cd89e294e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241389710
+status: 3
+tags: []
+user_id: unknown

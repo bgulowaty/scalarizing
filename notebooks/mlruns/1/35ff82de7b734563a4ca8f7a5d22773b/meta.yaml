@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/35ff82de7b734563a4ca8f7a5d22773b/artifacts
+end_time: 1669950163051
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35ff82de7b734563a4ca8f7a5d22773b
+run_name: bedecked-snail-169
+run_uuid: 35ff82de7b734563a4ca8f7a5d22773b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240847475
+status: 3
+tags: []
+user_id: unknown

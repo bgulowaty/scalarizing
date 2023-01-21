@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2bfd11d92510402fae8f5fecc08abfc9/artifacts
+end_time: 1669951604199
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2bfd11d92510402fae8f5fecc08abfc9
+run_name: charming-conch-324
+run_uuid: 2bfd11d92510402fae8f5fecc08abfc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240562732
+status: 3
+tags: []
+user_id: unknown

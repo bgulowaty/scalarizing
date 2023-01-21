@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9ec80631f3ee4b978288558ee6efda76/artifacts
+end_time: 1669950038036
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ec80631f3ee4b978288558ee6efda76
+run_name: chill-kit-822
+run_uuid: 9ec80631f3ee4b978288558ee6efda76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240845456
+status: 3
+tags: []
+user_id: unknown

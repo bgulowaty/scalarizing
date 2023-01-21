@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0c37636734a64914922e3a7f88cff51e/artifacts
+end_time: 1670105987134
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c37636734a64914922e3a7f88cff51e
+run_name: languid-stag-951
+run_uuid: 0c37636734a64914922e3a7f88cff51e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239908886
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cba7a9305af942a68f5e18743480aa18/artifacts
+end_time: 1669950348679
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cba7a9305af942a68f5e18743480aa18
+run_name: melodic-loon-273
+run_uuid: cba7a9305af942a68f5e18743480aa18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240797177
+status: 3
+tags: []
+user_id: unknown

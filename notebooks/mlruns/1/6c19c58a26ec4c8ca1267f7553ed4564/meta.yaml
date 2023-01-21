@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6c19c58a26ec4c8ca1267f7553ed4564/artifacts
+end_time: 1669956536845
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6c19c58a26ec4c8ca1267f7553ed4564
+run_name: resilient-robin-222
+run_uuid: 6c19c58a26ec4c8ca1267f7553ed4564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240059927
+status: 3
+tags: []
+user_id: unknown

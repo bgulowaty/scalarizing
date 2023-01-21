@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/af536789ee9940eb8ab03ecca94c1b8c/artifacts
+end_time: 1669952840308
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af536789ee9940eb8ab03ecca94c1b8c
+run_name: orderly-dove-395
+run_uuid: af536789ee9940eb8ab03ecca94c1b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240405727
+status: 3
+tags: []
+user_id: unknown

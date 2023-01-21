@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4fae6110e67242308d63cc166f3a28e0/artifacts
+end_time: 1669951607526
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4fae6110e67242308d63cc166f3a28e0
+run_name: angry-smelt-499
+run_uuid: 4fae6110e67242308d63cc166f3a28e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240584723
+status: 3
+tags: []
+user_id: unknown

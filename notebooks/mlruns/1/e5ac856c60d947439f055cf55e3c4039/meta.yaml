@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e5ac856c60d947439f055cf55e3c4039/artifacts
+end_time: 1669945140973
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5ac856c60d947439f055cf55e3c4039
+run_name: stylish-turtle-232
+run_uuid: e5ac856c60d947439f055cf55e3c4039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241869403
+status: 3
+tags: []
+user_id: unknown

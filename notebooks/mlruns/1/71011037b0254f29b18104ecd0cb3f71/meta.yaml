@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/71011037b0254f29b18104ecd0cb3f71/artifacts
+end_time: 1669944963101
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 71011037b0254f29b18104ecd0cb3f71
+run_name: melodic-crane-477
+run_uuid: 71011037b0254f29b18104ecd0cb3f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241923683
+status: 3
+tags: []
+user_id: unknown

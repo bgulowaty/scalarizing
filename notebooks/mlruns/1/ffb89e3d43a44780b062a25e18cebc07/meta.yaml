@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ffb89e3d43a44780b062a25e18cebc07/artifacts
+end_time: 1670181127255
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffb89e3d43a44780b062a25e18cebc07
+run_name: intelligent-ox-589
+run_uuid: ffb89e3d43a44780b062a25e18cebc07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241004037
+status: 3
+tags: []
+user_id: unknown

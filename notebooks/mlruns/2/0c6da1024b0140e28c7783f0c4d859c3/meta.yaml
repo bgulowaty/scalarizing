@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0c6da1024b0140e28c7783f0c4d859c3/artifacts
+end_time: 1670162728690
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0c6da1024b0140e28c7783f0c4d859c3
+run_name: gregarious-swan-137
+run_uuid: 0c6da1024b0140e28c7783f0c4d859c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150213617
+status: 3
+tags: []
+user_id: unknown

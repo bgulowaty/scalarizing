@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/49218f6048b64933ad7711e69fb6ee9a/artifacts
+end_time: 1670162284050
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 49218f6048b64933ad7711e69fb6ee9a
+run_name: rebellious-flea-515
+run_uuid: 49218f6048b64933ad7711e69fb6ee9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150381164
+status: 3
+tags: []
+user_id: unknown

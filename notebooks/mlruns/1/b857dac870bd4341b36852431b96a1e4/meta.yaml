@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b857dac870bd4341b36852431b96a1e4/artifacts
+end_time: 1669951666106
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b857dac870bd4341b36852431b96a1e4
+run_name: polite-rat-784
+run_uuid: b857dac870bd4341b36852431b96a1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240547864
+status: 3
+tags: []
+user_id: unknown

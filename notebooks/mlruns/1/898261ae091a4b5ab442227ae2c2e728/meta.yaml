@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/898261ae091a4b5ab442227ae2c2e728/artifacts
+end_time: 1669944108991
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 898261ae091a4b5ab442227ae2c2e728
+run_name: lyrical-skunk-107
+run_uuid: 898261ae091a4b5ab442227ae2c2e728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242141151
+status: 3
+tags: []
+user_id: unknown

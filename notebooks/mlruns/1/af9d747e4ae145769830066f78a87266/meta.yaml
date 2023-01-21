@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/af9d747e4ae145769830066f78a87266/artifacts
+end_time: 1670181453766
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af9d747e4ae145769830066f78a87266
+run_name: aged-skink-153
+run_uuid: af9d747e4ae145769830066f78a87266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240220525
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a75765bb52184910a4f94addc58570d8/artifacts
+end_time: 1669955305510
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a75765bb52184910a4f94addc58570d8
+run_name: placid-quail-976
+run_uuid: a75765bb52184910a4f94addc58570d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240150381
+status: 3
+tags: []
+user_id: unknown

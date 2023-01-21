@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/914cd878270c488c9bc34d1c341275eb/artifacts
+end_time: 1669947947001
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 914cd878270c488c9bc34d1c341275eb
+run_name: adorable-cod-406
+run_uuid: 914cd878270c488c9bc34d1c341275eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241251958
+status: 3
+tags: []
+user_id: unknown

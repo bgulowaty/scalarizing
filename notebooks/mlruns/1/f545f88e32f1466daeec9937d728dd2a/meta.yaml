@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f545f88e32f1466daeec9937d728dd2a/artifacts
+end_time: 1669950712005
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f545f88e32f1466daeec9937d728dd2a
+run_name: judicious-newt-767
+run_uuid: f545f88e32f1466daeec9937d728dd2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240702803
+status: 3
+tags: []
+user_id: unknown

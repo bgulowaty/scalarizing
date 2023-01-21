@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ceaf64689d8c4e2cbfc6b9d21907571e/artifacts
+end_time: 1669944892881
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ceaf64689d8c4e2cbfc6b9d21907571e
+run_name: fearless-toad-877
+run_uuid: ceaf64689d8c4e2cbfc6b9d21907571e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241935600
+status: 3
+tags: []
+user_id: unknown

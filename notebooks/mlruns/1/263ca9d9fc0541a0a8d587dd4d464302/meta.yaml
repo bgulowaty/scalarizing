@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/263ca9d9fc0541a0a8d587dd4d464302/artifacts
+end_time: 1670181787680
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 263ca9d9fc0541a0a8d587dd4d464302
+run_name: judicious-worm-877
+run_uuid: 263ca9d9fc0541a0a8d587dd4d464302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239887278
+status: 3
+tags: []
+user_id: unknown

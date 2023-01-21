@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c3cffdaab5674e05a667550bc592b696/artifacts
+end_time: 1669946059524
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3cffdaab5674e05a667550bc592b696
+run_name: gaudy-skink-485
+run_uuid: c3cffdaab5674e05a667550bc592b696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241700909
+status: 3
+tags: []
+user_id: unknown

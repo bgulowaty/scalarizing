@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0993a4cde2db435ea02c55d2a3d96576/artifacts
+end_time: 1669948530017
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0993a4cde2db435ea02c55d2a3d96576
+run_name: caring-fawn-880
+run_uuid: 0993a4cde2db435ea02c55d2a3d96576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241144610
+status: 3
+tags: []
+user_id: unknown

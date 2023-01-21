@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/65c765a5a5fe415a874e86f69fa5e25a/artifacts
+end_time: 1669943683015
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65c765a5a5fe415a874e86f69fa5e25a
+run_name: masked-ray-438
+run_uuid: 65c765a5a5fe415a874e86f69fa5e25a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242274539
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1f763f5b922e4aef9270bacba345c299/artifacts
+end_time: 1669952099999
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1f763f5b922e4aef9270bacba345c299
+run_name: stately-shad-370
+run_uuid: 1f763f5b922e4aef9270bacba345c299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240512088
+status: 3
+tags: []
+user_id: unknown

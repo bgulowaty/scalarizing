@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ce3497a53de4e63a4b0af1cb7ec8eeb/artifacts
+end_time: 1669945693239
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ce3497a53de4e63a4b0af1cb7ec8eeb
+run_name: crawling-sponge-91
+run_uuid: 4ce3497a53de4e63a4b0af1cb7ec8eeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241773089
+status: 3
+tags: []
+user_id: unknown

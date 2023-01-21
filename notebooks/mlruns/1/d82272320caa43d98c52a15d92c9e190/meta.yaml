@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d82272320caa43d98c52a15d92c9e190/artifacts
+end_time: 1669948655123
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d82272320caa43d98c52a15d92c9e190
+run_name: stately-sloth-153
+run_uuid: d82272320caa43d98c52a15d92c9e190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241133161
+status: 3
+tags: []
+user_id: unknown

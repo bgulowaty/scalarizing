@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ed267aa9a7dc473288c603f81214b10a/artifacts
+end_time: 1670162286690
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ed267aa9a7dc473288c603f81214b10a
+run_name: defiant-lark-229
+run_uuid: ed267aa9a7dc473288c603f81214b10a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150370107
+status: 3
+tags: []
+user_id: unknown

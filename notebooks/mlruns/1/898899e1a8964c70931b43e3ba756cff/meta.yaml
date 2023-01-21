@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/898899e1a8964c70931b43e3ba756cff/artifacts
+end_time: 1669955356849
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 898899e1a8964c70931b43e3ba756cff
+run_name: amazing-croc-467
+run_uuid: 898899e1a8964c70931b43e3ba756cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240134685
+status: 3
+tags: []
+user_id: unknown

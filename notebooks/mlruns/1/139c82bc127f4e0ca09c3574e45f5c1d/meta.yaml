@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/139c82bc127f4e0ca09c3574e45f5c1d/artifacts
+end_time: 1669945995381
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 139c82bc127f4e0ca09c3574e45f5c1d
+run_name: lyrical-stoat-319
+run_uuid: 139c82bc127f4e0ca09c3574e45f5c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241678635
+status: 3
+tags: []
+user_id: unknown

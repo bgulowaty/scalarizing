@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b3aa323e584948cf9f9236bb9355b560/artifacts
+end_time: 1669954423451
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3aa323e584948cf9f9236bb9355b560
+run_name: amusing-sow-736
+run_uuid: b3aa323e584948cf9f9236bb9355b560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240229487
+status: 3
+tags: []
+user_id: unknown

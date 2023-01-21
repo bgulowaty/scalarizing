@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/10ef5dc06d954c4fbbc58b50a91f4514/artifacts
+end_time: 1669954402927
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10ef5dc06d954c4fbbc58b50a91f4514
+run_name: bedecked-carp-692
+run_uuid: 10ef5dc06d954c4fbbc58b50a91f4514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240248899
+status: 3
+tags: []
+user_id: unknown

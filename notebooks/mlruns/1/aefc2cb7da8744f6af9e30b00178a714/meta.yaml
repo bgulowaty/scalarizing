@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aefc2cb7da8744f6af9e30b00178a714/artifacts
+end_time: 1669946360123
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aefc2cb7da8744f6af9e30b00178a714
+run_name: luminous-foal-991
+run_uuid: aefc2cb7da8744f6af9e30b00178a714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241581772
+status: 3
+tags: []
+user_id: unknown

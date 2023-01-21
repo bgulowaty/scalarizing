@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bc7275eb14ea400cad8b0036bb74c998/artifacts
+end_time: 1669942500070
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc7275eb14ea400cad8b0036bb74c998
+run_name: nervous-snail-775
+run_uuid: bc7275eb14ea400cad8b0036bb74c998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242750719
+status: 3
+tags: []
+user_id: unknown

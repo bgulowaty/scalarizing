@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/93a6b44e2b304dc7ad7cdab174e73edc/artifacts
+end_time: 1670104428544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93a6b44e2b304dc7ad7cdab174e73edc
+run_name: adaptable-seal-14
+run_uuid: 93a6b44e2b304dc7ad7cdab174e73edc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239987480
+status: 3
+tags: []
+user_id: unknown

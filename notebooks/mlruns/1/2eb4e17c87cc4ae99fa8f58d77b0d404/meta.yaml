@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2eb4e17c87cc4ae99fa8f58d77b0d404/artifacts
+end_time: 1669954707838
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2eb4e17c87cc4ae99fa8f58d77b0d404
+run_name: painted-wolf-929
+run_uuid: 2eb4e17c87cc4ae99fa8f58d77b0d404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240209661
+status: 3
+tags: []
+user_id: unknown

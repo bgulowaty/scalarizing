@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7597e81a3da744ba9b26b5be1642fd0f/artifacts
+end_time: 1669945468888
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7597e81a3da744ba9b26b5be1642fd0f
+run_name: clumsy-donkey-950
+run_uuid: 7597e81a3da744ba9b26b5be1642fd0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241909155
+status: 3
+tags: []
+user_id: unknown

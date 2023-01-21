@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3135ade1a0b5408b9e8f01cc01fee40d/artifacts
+end_time: 1670106267760
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3135ade1a0b5408b9e8f01cc01fee40d
+run_name: orderly-swan-277
+run_uuid: 3135ade1a0b5408b9e8f01cc01fee40d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239903490
+status: 3
+tags: []
+user_id: unknown

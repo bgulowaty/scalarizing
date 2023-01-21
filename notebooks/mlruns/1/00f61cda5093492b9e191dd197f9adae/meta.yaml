@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/00f61cda5093492b9e191dd197f9adae/artifacts
+end_time: 1670105021474
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00f61cda5093492b9e191dd197f9adae
+run_name: gentle-ape-676
+run_uuid: 00f61cda5093492b9e191dd197f9adae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239962049
+status: 3
+tags: []
+user_id: unknown

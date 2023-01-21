@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9865686c4c6f40efbf35b5cce574400e/artifacts
+end_time: 1669943065393
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9865686c4c6f40efbf35b5cce574400e
+run_name: loud-hawk-565
+run_uuid: 9865686c4c6f40efbf35b5cce574400e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242448358
+status: 3
+tags: []
+user_id: unknown

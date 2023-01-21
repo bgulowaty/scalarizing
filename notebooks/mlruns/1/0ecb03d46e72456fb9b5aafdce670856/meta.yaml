@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0ecb03d46e72456fb9b5aafdce670856/artifacts
+end_time: 1670104715187
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ecb03d46e72456fb9b5aafdce670856
+run_name: agreeable-dog-296
+run_uuid: 0ecb03d46e72456fb9b5aafdce670856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239983124
+status: 3
+tags: []
+user_id: unknown

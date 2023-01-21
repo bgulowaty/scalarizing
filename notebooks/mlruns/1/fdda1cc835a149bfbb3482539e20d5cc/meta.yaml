@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fdda1cc835a149bfbb3482539e20d5cc/artifacts
+end_time: 1669943300761
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdda1cc835a149bfbb3482539e20d5cc
+run_name: monumental-hen-343
+run_uuid: fdda1cc835a149bfbb3482539e20d5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242387619
+status: 3
+tags: []
+user_id: unknown

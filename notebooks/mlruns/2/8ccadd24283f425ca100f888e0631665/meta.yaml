@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8ccadd24283f425ca100f888e0631665/artifacts
+end_time: 1670162400932
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8ccadd24283f425ca100f888e0631665
+run_name: resilient-bat-275
+run_uuid: 8ccadd24283f425ca100f888e0631665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150317458
+status: 3
+tags: []
+user_id: unknown

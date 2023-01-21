@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a90f25dbd0c145baab3a3fcb625aad6f/artifacts
+end_time: 1669946138125
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a90f25dbd0c145baab3a3fcb625aad6f
+run_name: luxuriant-fly-928
+run_uuid: a90f25dbd0c145baab3a3fcb625aad6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241655456
+status: 3
+tags: []
+user_id: unknown

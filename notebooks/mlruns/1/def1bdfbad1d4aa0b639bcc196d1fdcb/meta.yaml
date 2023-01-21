@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/def1bdfbad1d4aa0b639bcc196d1fdcb/artifacts
+end_time: 1669952837283
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: def1bdfbad1d4aa0b639bcc196d1fdcb
+run_name: smiling-mule-51
+run_uuid: def1bdfbad1d4aa0b639bcc196d1fdcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240407756
+status: 3
+tags: []
+user_id: unknown

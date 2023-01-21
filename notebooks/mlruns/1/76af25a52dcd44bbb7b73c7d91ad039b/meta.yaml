@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/76af25a52dcd44bbb7b73c7d91ad039b/artifacts
+end_time: 1670103806868
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76af25a52dcd44bbb7b73c7d91ad039b
+run_name: overjoyed-trout-694
+run_uuid: 76af25a52dcd44bbb7b73c7d91ad039b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240032297
+status: 3
+tags: []
+user_id: unknown

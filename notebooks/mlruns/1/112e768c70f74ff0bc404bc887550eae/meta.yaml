@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/112e768c70f74ff0bc404bc887550eae/artifacts
+end_time: 1669955156696
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 112e768c70f74ff0bc404bc887550eae
+run_name: shivering-owl-53
+run_uuid: 112e768c70f74ff0bc404bc887550eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240160249
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/07242b6451f1413a97fcb78eee94e429/artifacts
+end_time: 1669955613265
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07242b6451f1413a97fcb78eee94e429
+run_name: funny-wren-114
+run_uuid: 07242b6451f1413a97fcb78eee94e429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240131117
+status: 3
+tags: []
+user_id: unknown

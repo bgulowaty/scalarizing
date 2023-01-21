@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/519cd2e984324b898a86a13baeeb791f/artifacts
+end_time: 1669943357611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 519cd2e984324b898a86a13baeeb791f
+run_name: big-squirrel-687
+run_uuid: 519cd2e984324b898a86a13baeeb791f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242352215
+status: 3
+tags: []
+user_id: unknown

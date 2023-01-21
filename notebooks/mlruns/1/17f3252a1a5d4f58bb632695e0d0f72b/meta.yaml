@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/17f3252a1a5d4f58bb632695e0d0f72b/artifacts
+end_time: 1669954126406
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17f3252a1a5d4f58bb632695e0d0f72b
+run_name: auspicious-mouse-566
+run_uuid: 17f3252a1a5d4f58bb632695e0d0f72b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240260037
+status: 3
+tags: []
+user_id: unknown

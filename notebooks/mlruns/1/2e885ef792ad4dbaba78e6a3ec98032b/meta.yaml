@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2e885ef792ad4dbaba78e6a3ec98032b/artifacts
+end_time: 1670102433974
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e885ef792ad4dbaba78e6a3ec98032b
+run_name: chill-bass-364
+run_uuid: 2e885ef792ad4dbaba78e6a3ec98032b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242577230
+status: 3
+tags: []
+user_id: unknown

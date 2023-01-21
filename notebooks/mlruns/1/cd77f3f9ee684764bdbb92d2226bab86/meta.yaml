@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cd77f3f9ee684764bdbb92d2226bab86/artifacts
+end_time: 1669952547096
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd77f3f9ee684764bdbb92d2226bab86
+run_name: legendary-rat-899
+run_uuid: cd77f3f9ee684764bdbb92d2226bab86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240453376
+status: 3
+tags: []
+user_id: unknown

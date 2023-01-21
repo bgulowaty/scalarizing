@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/84ce466038f04673b2fc8cbf1e9665d0/artifacts
+end_time: 1669955390607
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84ce466038f04673b2fc8cbf1e9665d0
+run_name: nervous-swan-635
+run_uuid: 84ce466038f04673b2fc8cbf1e9665d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240158362
+status: 3
+tags: []
+user_id: unknown

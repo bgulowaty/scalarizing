@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3283cf34fb974db592f6d5550b419f17/artifacts
+end_time: 1669948562532
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3283cf34fb974db592f6d5550b419f17
+run_name: dapper-mouse-580
+run_uuid: 3283cf34fb974db592f6d5550b419f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241135908
+status: 3
+tags: []
+user_id: unknown

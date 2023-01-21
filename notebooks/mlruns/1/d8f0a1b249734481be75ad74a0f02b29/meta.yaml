@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d8f0a1b249734481be75ad74a0f02b29/artifacts
+end_time: 1669946031150
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8f0a1b249734481be75ad74a0f02b29
+run_name: secretive-stork-134
+run_uuid: d8f0a1b249734481be75ad74a0f02b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241951483
+status: 3
+tags: []
+user_id: unknown

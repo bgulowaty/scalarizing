@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e6a147dcb6494d649b1edbca1ebf0faf/artifacts
+end_time: 1669952833590
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6a147dcb6494d649b1edbca1ebf0faf
+run_name: whimsical-gull-289
+run_uuid: e6a147dcb6494d649b1edbca1ebf0faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240411579
+status: 3
+tags: []
+user_id: unknown

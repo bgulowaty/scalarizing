@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ee4558e31b884a4bbcfac306bfa2105a/artifacts
+end_time: 1669947601889
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee4558e31b884a4bbcfac306bfa2105a
+run_name: suave-doe-475
+run_uuid: ee4558e31b884a4bbcfac306bfa2105a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241326087
+status: 3
+tags: []
+user_id: unknown

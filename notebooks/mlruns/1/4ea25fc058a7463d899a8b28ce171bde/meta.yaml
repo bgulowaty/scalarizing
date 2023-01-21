@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ea25fc058a7463d899a8b28ce171bde/artifacts
+end_time: 1669946054243
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ea25fc058a7463d899a8b28ce171bde
+run_name: enthused-worm-726
+run_uuid: 4ea25fc058a7463d899a8b28ce171bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241668063
+status: 3
+tags: []
+user_id: unknown

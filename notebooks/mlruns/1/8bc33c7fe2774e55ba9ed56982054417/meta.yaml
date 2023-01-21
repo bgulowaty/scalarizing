@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8bc33c7fe2774e55ba9ed56982054417/artifacts
+end_time: 1670180812952
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8bc33c7fe2774e55ba9ed56982054417
+run_name: masked-dolphin-192
+run_uuid: 8bc33c7fe2774e55ba9ed56982054417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241960288
+status: 3
+tags: []
+user_id: unknown

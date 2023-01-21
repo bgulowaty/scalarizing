@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b0ef061340ae4d9aaa207a84878134cd/artifacts
+end_time: 1669949193113
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0ef061340ae4d9aaa207a84878134cd
+run_name: invincible-trout-392
+run_uuid: b0ef061340ae4d9aaa207a84878134cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241031730
+status: 3
+tags: []
+user_id: unknown

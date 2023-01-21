@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f006ebd051a4424c924847abafca6e37/artifacts
+end_time: 1669949525391
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f006ebd051a4424c924847abafca6e37
+run_name: placid-croc-855
+run_uuid: f006ebd051a4424c924847abafca6e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240928711
+status: 3
+tags: []
+user_id: unknown

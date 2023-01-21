@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a93b5a38ca3f45f9ad87bedba1d609af/artifacts
+end_time: 1670106273261
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a93b5a38ca3f45f9ad87bedba1d609af
+run_name: secretive-ox-341
+run_uuid: a93b5a38ca3f45f9ad87bedba1d609af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239900575
+status: 3
+tags: []
+user_id: unknown

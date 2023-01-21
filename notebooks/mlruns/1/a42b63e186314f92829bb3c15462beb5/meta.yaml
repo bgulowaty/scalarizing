@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a42b63e186314f92829bb3c15462beb5/artifacts
+end_time: 1669948691413
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a42b63e186314f92829bb3c15462beb5
+run_name: abrasive-pug-101
+run_uuid: a42b63e186314f92829bb3c15462beb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241168706
+status: 3
+tags: []
+user_id: unknown

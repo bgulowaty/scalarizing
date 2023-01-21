@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a201814caf174dd7aebc2935fb6ac46f/artifacts
+end_time: 1669946351571
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a201814caf174dd7aebc2935fb6ac46f
+run_name: redolent-gnu-895
+run_uuid: a201814caf174dd7aebc2935fb6ac46f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241622882
+status: 3
+tags: []
+user_id: unknown

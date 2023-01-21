@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13082e6102a74280a34e8cb1046c4c5e/artifacts
+end_time: 1669949956861
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13082e6102a74280a34e8cb1046c4c5e
+run_name: receptive-gull-198
+run_uuid: 13082e6102a74280a34e8cb1046c4c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240909887
+status: 3
+tags: []
+user_id: unknown

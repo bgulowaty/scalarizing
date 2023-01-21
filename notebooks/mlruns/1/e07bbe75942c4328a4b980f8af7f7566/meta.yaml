@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e07bbe75942c4328a4b980f8af7f7566/artifacts
+end_time: 1669945283491
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e07bbe75942c4328a4b980f8af7f7566
+run_name: dashing-frog-168
+run_uuid: e07bbe75942c4328a4b980f8af7f7566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241988119
+status: 3
+tags: []
+user_id: unknown

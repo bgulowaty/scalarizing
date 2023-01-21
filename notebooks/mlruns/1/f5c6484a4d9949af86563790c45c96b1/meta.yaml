@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f5c6484a4d9949af86563790c45c96b1/artifacts
+end_time: 1669955618120
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5c6484a4d9949af86563790c45c96b1
+run_name: intelligent-cat-67
+run_uuid: f5c6484a4d9949af86563790c45c96b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240131393
+status: 3
+tags: []
+user_id: unknown

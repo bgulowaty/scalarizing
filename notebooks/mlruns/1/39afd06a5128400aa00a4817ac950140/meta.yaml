@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39afd06a5128400aa00a4817ac950140/artifacts
+end_time: 1669942824220
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39afd06a5128400aa00a4817ac950140
+run_name: able-sloth-999
+run_uuid: 39afd06a5128400aa00a4817ac950140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242514681
+status: 3
+tags: []
+user_id: unknown

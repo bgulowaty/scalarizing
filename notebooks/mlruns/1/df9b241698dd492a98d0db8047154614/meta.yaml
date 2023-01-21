@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/df9b241698dd492a98d0db8047154614/artifacts
+end_time: 1670104440871
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df9b241698dd492a98d0db8047154614
+run_name: treasured-seal-985
+run_uuid: df9b241698dd492a98d0db8047154614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239985656
+status: 3
+tags: []
+user_id: unknown

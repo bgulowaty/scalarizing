@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/658eab94101e42e79e92ae9f6504dddd/artifacts
+end_time: 1669948591949
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 658eab94101e42e79e92ae9f6504dddd
+run_name: silent-bear-871
+run_uuid: 658eab94101e42e79e92ae9f6504dddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241132783
+status: 3
+tags: []
+user_id: unknown

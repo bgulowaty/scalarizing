@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6c8651d16eff401ca5b11cc530579251/artifacts
+end_time: 1669944692296
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6c8651d16eff401ca5b11cc530579251
+run_name: judicious-hog-924
+run_uuid: 6c8651d16eff401ca5b11cc530579251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241997415
+status: 3
+tags: []
+user_id: unknown

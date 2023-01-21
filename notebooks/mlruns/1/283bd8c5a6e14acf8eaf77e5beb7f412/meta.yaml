@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/283bd8c5a6e14acf8eaf77e5beb7f412/artifacts
+end_time: 1670102423190
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 283bd8c5a6e14acf8eaf77e5beb7f412
+run_name: bald-kit-88
+run_uuid: 283bd8c5a6e14acf8eaf77e5beb7f412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242577485
+status: 3
+tags: []
+user_id: unknown

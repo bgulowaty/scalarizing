@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c8c9c494ade04e039c5882fc9f6939ab/artifacts
+end_time: 1669944354130
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8c9c494ade04e039c5882fc9f6939ab
+run_name: brawny-goose-521
+run_uuid: c8c9c494ade04e039c5882fc9f6939ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242082670
+status: 3
+tags: []
+user_id: unknown

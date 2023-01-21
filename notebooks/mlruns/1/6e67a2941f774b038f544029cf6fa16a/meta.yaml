@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6e67a2941f774b038f544029cf6fa16a/artifacts
+end_time: 1669948874068
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e67a2941f774b038f544029cf6fa16a
+run_name: skillful-hound-679
+run_uuid: 6e67a2941f774b038f544029cf6fa16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241076377
+status: 3
+tags: []
+user_id: unknown

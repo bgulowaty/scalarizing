@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4375f7699f6049cab81530e3cd280133/artifacts
+end_time: 1669948198320
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4375f7699f6049cab81530e3cd280133
+run_name: big-ram-715
+run_uuid: 4375f7699f6049cab81530e3cd280133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241240926
+status: 3
+tags: []
+user_id: unknown

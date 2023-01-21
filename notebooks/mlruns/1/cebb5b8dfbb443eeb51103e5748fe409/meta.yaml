@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cebb5b8dfbb443eeb51103e5748fe409/artifacts
+end_time: 1670106597173
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cebb5b8dfbb443eeb51103e5748fe409
+run_name: skillful-duck-502
+run_uuid: cebb5b8dfbb443eeb51103e5748fe409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239887634
+status: 3
+tags: []
+user_id: unknown

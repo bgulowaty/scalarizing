@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4c721612c37d43d290fbf1ba94a4fc18/artifacts
+end_time: 1670181453549
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c721612c37d43d290fbf1ba94a4fc18
+run_name: bemused-grouse-66
+run_uuid: 4c721612c37d43d290fbf1ba94a4fc18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240133064
+status: 3
+tags: []
+user_id: unknown

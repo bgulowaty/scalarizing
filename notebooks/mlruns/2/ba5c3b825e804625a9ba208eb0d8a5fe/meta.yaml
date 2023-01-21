@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ba5c3b825e804625a9ba208eb0d8a5fe/artifacts
+end_time: 1670162180071
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ba5c3b825e804625a9ba208eb0d8a5fe
+run_name: enthused-shrike-751
+run_uuid: ba5c3b825e804625a9ba208eb0d8a5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150405974
+status: 3
+tags: []
+user_id: unknown

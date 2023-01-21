@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/73149c5b3e4144f9b1dae2265bf3d021/artifacts
+end_time: 1669949707444
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73149c5b3e4144f9b1dae2265bf3d021
+run_name: ambitious-yak-977
+run_uuid: 73149c5b3e4144f9b1dae2265bf3d021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240911792
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/485b7910f2564c9da5e84644b7b1944c/artifacts
+end_time: 1669949516756
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 485b7910f2564c9da5e84644b7b1944c
+run_name: rumbling-chimp-885
+run_uuid: 485b7910f2564c9da5e84644b7b1944c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240980434
+status: 3
+tags: []
+user_id: unknown

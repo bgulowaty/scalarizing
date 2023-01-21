@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0cc5b854487148358df582569ccec13c/artifacts
+end_time: 1669951911726
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0cc5b854487148358df582569ccec13c
+run_name: likeable-frog-3
+run_uuid: 0cc5b854487148358df582569ccec13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240537677
+status: 3
+tags: []
+user_id: unknown

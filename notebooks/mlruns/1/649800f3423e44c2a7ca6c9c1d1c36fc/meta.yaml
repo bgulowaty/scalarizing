@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/649800f3423e44c2a7ca6c9c1d1c36fc/artifacts
+end_time: 1669947916467
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 649800f3423e44c2a7ca6c9c1d1c36fc
+run_name: judicious-boar-902
+run_uuid: 649800f3423e44c2a7ca6c9c1d1c36fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241270183
+status: 3
+tags: []
+user_id: unknown

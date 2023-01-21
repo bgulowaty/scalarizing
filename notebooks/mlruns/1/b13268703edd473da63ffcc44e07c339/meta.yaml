@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b13268703edd473da63ffcc44e07c339/artifacts
+end_time: 1669950095854
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b13268703edd473da63ffcc44e07c339
+run_name: unequaled-bee-296
+run_uuid: b13268703edd473da63ffcc44e07c339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240817230
+status: 3
+tags: []
+user_id: unknown

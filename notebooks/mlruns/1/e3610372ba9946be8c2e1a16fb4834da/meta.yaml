@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3610372ba9946be8c2e1a16fb4834da/artifacts
+end_time: 1670102715702
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3610372ba9946be8c2e1a16fb4834da
+run_name: spiffy-kite-22
+run_uuid: e3610372ba9946be8c2e1a16fb4834da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242557949
+status: 3
+tags: []
+user_id: unknown

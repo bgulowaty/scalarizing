@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b8bebf3d858146859c02962f463bdc37/artifacts
+end_time: 1670103258451
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8bebf3d858146859c02962f463bdc37
+run_name: salty-asp-840
+run_uuid: b8bebf3d858146859c02962f463bdc37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240721590
+status: 3
+tags: []
+user_id: unknown

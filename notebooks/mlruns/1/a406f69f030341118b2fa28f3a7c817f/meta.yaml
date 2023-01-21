@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a406f69f030341118b2fa28f3a7c817f/artifacts
+end_time: 1669951966975
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a406f69f030341118b2fa28f3a7c817f
+run_name: nervous-cub-855
+run_uuid: a406f69f030341118b2fa28f3a7c817f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240513734
+status: 3
+tags: []
+user_id: unknown

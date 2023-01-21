@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/202f6e40e84043549feb948077b7ae8a/artifacts
+end_time: 1669951625153
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 202f6e40e84043549feb948077b7ae8a
+run_name: mysterious-kit-200
+run_uuid: 202f6e40e84043549feb948077b7ae8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240559507
+status: 3
+tags: []
+user_id: unknown

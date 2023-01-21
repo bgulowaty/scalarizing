@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fffe2ff15a7c439d91550d933f310b07/artifacts
+end_time: 1669946963399
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fffe2ff15a7c439d91550d933f310b07
+run_name: intrigued-hound-377
+run_uuid: fffe2ff15a7c439d91550d933f310b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241492796
+status: 3
+tags: []
+user_id: unknown

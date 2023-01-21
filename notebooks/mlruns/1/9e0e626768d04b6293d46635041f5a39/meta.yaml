@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9e0e626768d04b6293d46635041f5a39/artifacts
+end_time: 1669955925770
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e0e626768d04b6293d46635041f5a39
+run_name: selective-wren-406
+run_uuid: 9e0e626768d04b6293d46635041f5a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240104608
+status: 3
+tags: []
+user_id: unknown

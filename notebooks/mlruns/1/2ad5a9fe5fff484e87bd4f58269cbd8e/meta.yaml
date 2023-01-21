@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ad5a9fe5fff484e87bd4f58269cbd8e/artifacts
+end_time: 1669955020501
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ad5a9fe5fff484e87bd4f58269cbd8e
+run_name: wistful-robin-126
+run_uuid: 2ad5a9fe5fff484e87bd4f58269cbd8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240171691
+status: 3
+tags: []
+user_id: unknown

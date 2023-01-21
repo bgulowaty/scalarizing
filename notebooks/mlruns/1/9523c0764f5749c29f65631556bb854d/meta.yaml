@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9523c0764f5749c29f65631556bb854d/artifacts
+end_time: 1670180638922
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9523c0764f5749c29f65631556bb854d
+run_name: nosy-foal-930
+run_uuid: 9523c0764f5749c29f65631556bb854d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242657394
+status: 3
+tags: []
+user_id: unknown

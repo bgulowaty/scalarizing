@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2be3813126f1403096fa76bc530e5ebd/artifacts
+end_time: 1670180606651
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2be3813126f1403096fa76bc530e5ebd
+run_name: clean-kit-316
+run_uuid: 2be3813126f1403096fa76bc530e5ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242635072
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/4a7d3ed150f44062836c5eb1a091046d/artifacts
+end_time: 1670161864832
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4a7d3ed150f44062836c5eb1a091046d
+run_name: polite-squid-219
+run_uuid: 4a7d3ed150f44062836c5eb1a091046d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150512531
+status: 3
+tags: []
+user_id: unknown

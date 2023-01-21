@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0e1ea0b6305a4573bec5321d34195fae/artifacts
+end_time: 1669943956913
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0e1ea0b6305a4573bec5321d34195fae
+run_name: funny-seal-88
+run_uuid: 0e1ea0b6305a4573bec5321d34195fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242184283
+status: 3
+tags: []
+user_id: unknown

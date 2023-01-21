@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9ba34b554269462bb5920caeeda97cb5/artifacts
+end_time: 1670105669786
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ba34b554269462bb5920caeeda97cb5
+run_name: orderly-yak-20
+run_uuid: 9ba34b554269462bb5920caeeda97cb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239922013
+status: 3
+tags: []
+user_id: unknown

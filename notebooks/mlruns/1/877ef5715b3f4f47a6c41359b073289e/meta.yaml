@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/877ef5715b3f4f47a6c41359b073289e/artifacts
+end_time: 1669943114451
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 877ef5715b3f4f47a6c41359b073289e
+run_name: enthused-mouse-272
+run_uuid: 877ef5715b3f4f47a6c41359b073289e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242418859
+status: 3
+tags: []
+user_id: unknown

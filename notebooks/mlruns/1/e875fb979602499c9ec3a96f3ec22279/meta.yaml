@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e875fb979602499c9ec3a96f3ec22279/artifacts
+end_time: 1669944329937
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e875fb979602499c9ec3a96f3ec22279
+run_name: bright-deer-190
+run_uuid: e875fb979602499c9ec3a96f3ec22279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242111667
+status: 3
+tags: []
+user_id: unknown

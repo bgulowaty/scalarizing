@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/547479d613084765b25d55d292eb6262/artifacts
+end_time: 1669953199787
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 547479d613084765b25d55d292eb6262
+run_name: marvelous-lynx-455
+run_uuid: 547479d613084765b25d55d292eb6262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240354409
+status: 3
+tags: []
+user_id: unknown

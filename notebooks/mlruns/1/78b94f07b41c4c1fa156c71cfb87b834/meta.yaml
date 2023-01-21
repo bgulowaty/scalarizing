@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/78b94f07b41c4c1fa156c71cfb87b834/artifacts
+end_time: 1669946937181
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78b94f07b41c4c1fa156c71cfb87b834
+run_name: adorable-horse-943
+run_uuid: 78b94f07b41c4c1fa156c71cfb87b834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241503885
+status: 3
+tags: []
+user_id: unknown

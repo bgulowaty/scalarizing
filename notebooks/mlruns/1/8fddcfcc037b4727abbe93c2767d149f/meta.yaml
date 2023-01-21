@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8fddcfcc037b4727abbe93c2767d149f/artifacts
+end_time: 1669955608447
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8fddcfcc037b4727abbe93c2767d149f
+run_name: wistful-gnat-635
+run_uuid: 8fddcfcc037b4727abbe93c2767d149f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240131478
+status: 3
+tags: []
+user_id: unknown

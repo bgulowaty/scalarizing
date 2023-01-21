@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3f57280f6586451f8be9dcf26bf76473/artifacts
+end_time: 1669946016889
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f57280f6586451f8be9dcf26bf76473
+run_name: upbeat-eel-934
+run_uuid: 3f57280f6586451f8be9dcf26bf76473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241700089
+status: 3
+tags: []
+user_id: unknown

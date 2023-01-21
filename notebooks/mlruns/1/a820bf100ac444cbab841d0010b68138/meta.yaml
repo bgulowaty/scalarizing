@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a820bf100ac444cbab841d0010b68138/artifacts
+end_time: 1669949492108
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a820bf100ac444cbab841d0010b68138
+run_name: amusing-shad-529
+run_uuid: a820bf100ac444cbab841d0010b68138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240917188
+status: 3
+tags: []
+user_id: unknown

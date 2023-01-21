@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3a6738bb34844b4385db9dd20f5c2dec/artifacts
+end_time: 1670104438229
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a6738bb34844b4385db9dd20f5c2dec
+run_name: tasteful-mole-25
+run_uuid: 3a6738bb34844b4385db9dd20f5c2dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239985868
+status: 3
+tags: []
+user_id: unknown

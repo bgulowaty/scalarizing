@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cb5290d733594480a48e547e6891a012/artifacts
+end_time: 1669944100265
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb5290d733594480a48e547e6891a012
+run_name: calm-doe-47
+run_uuid: cb5290d733594480a48e547e6891a012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242163616
+status: 3
+tags: []
+user_id: unknown

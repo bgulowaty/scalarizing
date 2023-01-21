@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/71d0fb7dbf194079a2ee8db8fbde375c/artifacts
+end_time: 1669954414341
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 71d0fb7dbf194079a2ee8db8fbde375c
+run_name: colorful-wasp-581
+run_uuid: 71d0fb7dbf194079a2ee8db8fbde375c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240249264
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a825c93d735e4321a56dbeec4bfed199/artifacts
+end_time: 1669953183503
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a825c93d735e4321a56dbeec4bfed199
+run_name: delightful-hen-738
+run_uuid: a825c93d735e4321a56dbeec4bfed199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240366396
+status: 3
+tags: []
+user_id: unknown

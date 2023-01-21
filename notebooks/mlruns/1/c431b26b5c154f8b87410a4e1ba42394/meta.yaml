@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c431b26b5c154f8b87410a4e1ba42394/artifacts
+end_time: 1670104095897
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c431b26b5c154f8b87410a4e1ba42394
+run_name: resilient-jay-399
+run_uuid: c431b26b5c154f8b87410a4e1ba42394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240020518
+status: 3
+tags: []
+user_id: unknown

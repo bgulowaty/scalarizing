@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/564fe8324cb44610a1b48bb0ea9019fc/artifacts
+end_time: 1669952898170
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 564fe8324cb44610a1b48bb0ea9019fc
+run_name: rumbling-shark-493
+run_uuid: 564fe8324cb44610a1b48bb0ea9019fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240389745
+status: 3
+tags: []
+user_id: unknown

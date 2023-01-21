@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/34f0e7b59d4f4243a3bec2ac9fed49b1/artifacts
+end_time: 1669949210896
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34f0e7b59d4f4243a3bec2ac9fed49b1
+run_name: thoughtful-perch-475
+run_uuid: 34f0e7b59d4f4243a3bec2ac9fed49b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241011491
+status: 3
+tags: []
+user_id: unknown

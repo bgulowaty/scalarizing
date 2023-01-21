@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6f10fdebc9ba43809c1fe1b2f7587645/artifacts
+end_time: 1669954121739
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f10fdebc9ba43809c1fe1b2f7587645
+run_name: enchanting-crane-256
+run_uuid: 6f10fdebc9ba43809c1fe1b2f7587645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240257130
+status: 3
+tags: []
+user_id: unknown

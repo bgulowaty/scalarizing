@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9089b67477a44840810b14f6f3162194/artifacts
+end_time: 1669950347800
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9089b67477a44840810b14f6f3162194
+run_name: delightful-whale-39
+run_uuid: 9089b67477a44840810b14f6f3162194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240785162
+status: 3
+tags: []
+user_id: unknown

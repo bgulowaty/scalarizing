@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bffe8b72be204131bb4ed635c0a0b9ed/artifacts
+end_time: 1669946979040
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bffe8b72be204131bb4ed635c0a0b9ed
+run_name: classy-lynx-825
+run_uuid: bffe8b72be204131bb4ed635c0a0b9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241461316
+status: 3
+tags: []
+user_id: unknown

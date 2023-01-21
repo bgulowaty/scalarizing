@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/be54dc09a4054648a4024aaa0d99afaa/artifacts
+end_time: 1670162507181
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: be54dc09a4054648a4024aaa0d99afaa
+run_name: fun-gull-669
+run_uuid: be54dc09a4054648a4024aaa0d99afaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150306547
+status: 3
+tags: []
+user_id: unknown

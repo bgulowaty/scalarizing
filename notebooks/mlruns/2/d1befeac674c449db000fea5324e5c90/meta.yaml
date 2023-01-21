@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d1befeac674c449db000fea5324e5c90/artifacts
+end_time: 1670162510480
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d1befeac674c449db000fea5324e5c90
+run_name: stately-mare-30
+run_uuid: d1befeac674c449db000fea5324e5c90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150283873
+status: 3
+tags: []
+user_id: unknown

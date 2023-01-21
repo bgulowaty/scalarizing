@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6af8d7049e094df987f4ec8c4c884fbc/artifacts
+end_time: 1669946299908
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6af8d7049e094df987f4ec8c4c884fbc
+run_name: wise-shark-806
+run_uuid: 6af8d7049e094df987f4ec8c4c884fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241637780
+status: 3
+tags: []
+user_id: unknown

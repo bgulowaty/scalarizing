@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0acb96135134401a8accff96254869de/artifacts
+end_time: 1670162514124
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0acb96135134401a8accff96254869de
+run_name: whimsical-cow-623
+run_uuid: 0acb96135134401a8accff96254869de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150280175
+status: 3
+tags: []
+user_id: unknown

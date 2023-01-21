@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e45548700a594a7693fcb3f6835a1077/artifacts
+end_time: 1670105644838
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e45548700a594a7693fcb3f6835a1077
+run_name: adaptable-eel-912
+run_uuid: e45548700a594a7693fcb3f6835a1077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239931357
+status: 3
+tags: []
+user_id: unknown

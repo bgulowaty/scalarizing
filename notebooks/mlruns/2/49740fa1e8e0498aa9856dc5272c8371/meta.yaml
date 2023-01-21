@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/49740fa1e8e0498aa9856dc5272c8371/artifacts
+end_time: 1670162384058
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 49740fa1e8e0498aa9856dc5272c8371
+run_name: peaceful-rat-60
+run_uuid: 49740fa1e8e0498aa9856dc5272c8371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150490822
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0a5fef1af9fd4b3e92f36d28bb627b8e/artifacts
+end_time: 1670162296833
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0a5fef1af9fd4b3e92f36d28bb627b8e
+run_name: ambitious-trout-695
+run_uuid: 0a5fef1af9fd4b3e92f36d28bb627b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150352117
+status: 3
+tags: []
+user_id: unknown

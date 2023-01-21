@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2104a977a0af4528b5f94215b86a748f/artifacts
+end_time: 1669942806349
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2104a977a0af4528b5f94215b86a748f
+run_name: angry-mink-237
+run_uuid: 2104a977a0af4528b5f94215b86a748f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242822732
+status: 3
+tags: []
+user_id: unknown

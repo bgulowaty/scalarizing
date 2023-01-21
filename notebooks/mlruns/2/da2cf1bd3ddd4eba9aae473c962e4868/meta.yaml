@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/da2cf1bd3ddd4eba9aae473c962e4868/artifacts
+end_time: 1670162511480
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: da2cf1bd3ddd4eba9aae473c962e4868
+run_name: intrigued-moose-317
+run_uuid: da2cf1bd3ddd4eba9aae473c962e4868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150288109
+status: 3
+tags: []
+user_id: unknown

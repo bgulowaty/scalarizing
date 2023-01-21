@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e8a27379bb064ed58777c1e4ba01817a/artifacts
+end_time: 1669950584581
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8a27379bb064ed58777c1e4ba01817a
+run_name: bittersweet-frog-2
+run_uuid: e8a27379bb064ed58777c1e4ba01817a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240779945
+status: 3
+tags: []
+user_id: unknown

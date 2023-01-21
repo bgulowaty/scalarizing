@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/54fce929d48c4233999a2b1d8ebc8b3e/artifacts
+end_time: 1670103807121
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54fce929d48c4233999a2b1d8ebc8b3e
+run_name: overjoyed-mole-516
+run_uuid: 54fce929d48c4233999a2b1d8ebc8b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240214616
+status: 3
+tags: []
+user_id: unknown

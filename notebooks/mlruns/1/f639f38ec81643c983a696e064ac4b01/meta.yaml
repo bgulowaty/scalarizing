@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f639f38ec81643c983a696e064ac4b01/artifacts
+end_time: 1669948870349
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f639f38ec81643c983a696e064ac4b01
+run_name: casual-bird-562
+run_uuid: f639f38ec81643c983a696e064ac4b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241074725
+status: 3
+tags: []
+user_id: unknown

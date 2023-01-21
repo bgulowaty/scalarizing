@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a8f7ad97a6384bd5858d34a97019437a/artifacts
+end_time: 1670104411683
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8f7ad97a6384bd5858d34a97019437a
+run_name: smiling-sloth-253
+run_uuid: a8f7ad97a6384bd5858d34a97019437a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239991341
+status: 3
+tags: []
+user_id: unknown

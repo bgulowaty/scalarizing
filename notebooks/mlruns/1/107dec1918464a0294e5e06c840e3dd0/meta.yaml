@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/107dec1918464a0294e5e06c840e3dd0/artifacts
+end_time: 1669951316131
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 107dec1918464a0294e5e06c840e3dd0
+run_name: exultant-hen-79
+run_uuid: 107dec1918464a0294e5e06c840e3dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240620177
+status: 3
+tags: []
+user_id: unknown

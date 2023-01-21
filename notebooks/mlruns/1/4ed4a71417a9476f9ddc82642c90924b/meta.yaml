@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ed4a71417a9476f9ddc82642c90924b/artifacts
+end_time: 1669950037238
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ed4a71417a9476f9ddc82642c90924b
+run_name: melodic-stag-487
+run_uuid: 4ed4a71417a9476f9ddc82642c90924b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240850862
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e4ec697bd32441ac96cc8109a5820446/artifacts
+end_time: 1669951931833
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e4ec697bd32441ac96cc8109a5820446
+run_name: casual-lynx-673
+run_uuid: e4ec697bd32441ac96cc8109a5820446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240529240
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4118a80c96404ecfaa3dd904721cda02/artifacts
+end_time: 1669944323474
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4118a80c96404ecfaa3dd904721cda02
+run_name: chill-dove-536
+run_uuid: 4118a80c96404ecfaa3dd904721cda02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242092625
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dfd3c17782cb4fbaa0cb63418b4cc721/artifacts
+end_time: 1669952217234
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dfd3c17782cb4fbaa0cb63418b4cc721
+run_name: beautiful-mule-191
+run_uuid: dfd3c17782cb4fbaa0cb63418b4cc721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240481685
+status: 3
+tags: []
+user_id: unknown

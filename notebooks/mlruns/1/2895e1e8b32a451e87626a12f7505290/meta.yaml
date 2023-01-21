@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2895e1e8b32a451e87626a12f7505290/artifacts
+end_time: 1670103499876
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2895e1e8b32a451e87626a12f7505290
+run_name: big-bat-553
+run_uuid: 2895e1e8b32a451e87626a12f7505290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240330901
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b55576de83e74252b6de070c5a07cce9/artifacts
+end_time: 1669946103129
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b55576de83e74252b6de070c5a07cce9
+run_name: righteous-vole-374
+run_uuid: b55576de83e74252b6de070c5a07cce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241670272
+status: 3
+tags: []
+user_id: unknown

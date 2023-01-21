@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/562c874fc2b445388827bcd395ec9660/artifacts
+end_time: 1670162287659
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 562c874fc2b445388827bcd395ec9660
+run_name: clumsy-elk-514
+run_uuid: 562c874fc2b445388827bcd395ec9660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150366647
+status: 3
+tags: []
+user_id: unknown

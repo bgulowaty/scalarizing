@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e0efd15c52654df981f612803e4d902c/artifacts
+end_time: 1669955312859
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0efd15c52654df981f612803e4d902c
+run_name: gregarious-shad-34
+run_uuid: e0efd15c52654df981f612803e4d902c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240146860
+status: 3
+tags: []
+user_id: unknown

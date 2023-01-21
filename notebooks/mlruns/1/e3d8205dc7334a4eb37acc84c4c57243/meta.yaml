@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3d8205dc7334a4eb37acc84c4c57243/artifacts
+end_time: 1669946926522
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3d8205dc7334a4eb37acc84c4c57243
+run_name: amusing-flea-778
+run_uuid: e3d8205dc7334a4eb37acc84c4c57243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241495680
+status: 3
+tags: []
+user_id: unknown

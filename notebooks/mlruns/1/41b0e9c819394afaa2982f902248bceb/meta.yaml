@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/41b0e9c819394afaa2982f902248bceb/artifacts
+end_time: 1670105374846
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41b0e9c819394afaa2982f902248bceb
+run_name: legendary-eel-833
+run_uuid: 41b0e9c819394afaa2982f902248bceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239932165
+status: 3
+tags: []
+user_id: unknown

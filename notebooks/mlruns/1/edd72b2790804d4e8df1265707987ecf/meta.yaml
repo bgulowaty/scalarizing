@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/edd72b2790804d4e8df1265707987ecf/artifacts
+end_time: 1669947231682
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edd72b2790804d4e8df1265707987ecf
+run_name: unequaled-lynx-382
+run_uuid: edd72b2790804d4e8df1265707987ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241410911
+status: 3
+tags: []
+user_id: unknown

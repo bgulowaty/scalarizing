@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/566619d2ba8a4fffbcb43b9569f313ea/artifacts
+end_time: 1670104721027
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 566619d2ba8a4fffbcb43b9569f313ea
+run_name: able-fish-584
+run_uuid: 566619d2ba8a4fffbcb43b9569f313ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239982426
+status: 3
+tags: []
+user_id: unknown

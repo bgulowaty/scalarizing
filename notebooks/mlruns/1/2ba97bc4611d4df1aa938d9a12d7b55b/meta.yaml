@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ba97bc4611d4df1aa938d9a12d7b55b/artifacts
+end_time: 1669947651454
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ba97bc4611d4df1aa938d9a12d7b55b
+run_name: adorable-moose-386
+run_uuid: 2ba97bc4611d4df1aa938d9a12d7b55b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241316195
+status: 3
+tags: []
+user_id: unknown

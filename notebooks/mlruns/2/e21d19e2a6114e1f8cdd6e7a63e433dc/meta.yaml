@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e21d19e2a6114e1f8cdd6e7a63e433dc/artifacts
+end_time: 1670162075943
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e21d19e2a6114e1f8cdd6e7a63e433dc
+run_name: upset-fowl-587
+run_uuid: e21d19e2a6114e1f8cdd6e7a63e433dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150434836
+status: 3
+tags: []
+user_id: unknown

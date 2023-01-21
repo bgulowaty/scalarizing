@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac809efde99d4323bb88836c3076af4c/artifacts
+end_time: 1669951919911
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac809efde99d4323bb88836c3076af4c
+run_name: abrasive-sow-35
+run_uuid: ac809efde99d4323bb88836c3076af4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240520134
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a218e2009f2f4ca2a37320300af3cdaf/artifacts
+end_time: 1669954070288
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a218e2009f2f4ca2a37320300af3cdaf
+run_name: rare-shad-244
+run_uuid: a218e2009f2f4ca2a37320300af3cdaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240282075
+status: 3
+tags: []
+user_id: unknown

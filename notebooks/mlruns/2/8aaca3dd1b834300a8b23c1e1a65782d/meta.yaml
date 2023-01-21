@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8aaca3dd1b834300a8b23c1e1a65782d/artifacts
+end_time: 1670162088413
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8aaca3dd1b834300a8b23c1e1a65782d
+run_name: sassy-wren-33
+run_uuid: 8aaca3dd1b834300a8b23c1e1a65782d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150455765
+status: 3
+tags: []
+user_id: unknown

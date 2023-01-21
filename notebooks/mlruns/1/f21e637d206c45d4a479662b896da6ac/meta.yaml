@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f21e637d206c45d4a479662b896da6ac/artifacts
+end_time: 1669945392904
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f21e637d206c45d4a479662b896da6ac
+run_name: suave-fish-448
+run_uuid: f21e637d206c45d4a479662b896da6ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241825846
+status: 3
+tags: []
+user_id: unknown

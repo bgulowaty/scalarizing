@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/419397b7d60749cebc49b5453acd86fd/artifacts
+end_time: 1670105333272
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 419397b7d60749cebc49b5453acd86fd
+run_name: vaunted-gnat-850
+run_uuid: 419397b7d60749cebc49b5453acd86fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239944565
+status: 3
+tags: []
+user_id: unknown

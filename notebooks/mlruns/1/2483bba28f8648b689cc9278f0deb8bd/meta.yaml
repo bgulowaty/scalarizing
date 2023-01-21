@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2483bba28f8648b689cc9278f0deb8bd/artifacts
+end_time: 1669952216187
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2483bba28f8648b689cc9278f0deb8bd
+run_name: abrasive-wren-533
+run_uuid: 2483bba28f8648b689cc9278f0deb8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240489898
+status: 3
+tags: []
+user_id: unknown

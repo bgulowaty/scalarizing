@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d89ea59d7d914aef94ec5fb5935b7e18/artifacts
+end_time: 1669943866966
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d89ea59d7d914aef94ec5fb5935b7e18
+run_name: mysterious-robin-559
+run_uuid: d89ea59d7d914aef94ec5fb5935b7e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242250499
+status: 3
+tags: []
+user_id: unknown

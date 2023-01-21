@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7a6b4de12aa240c9b9a8ce36f0666107/artifacts
+end_time: 1670105734875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a6b4de12aa240c9b9a8ce36f0666107
+run_name: mysterious-bear-936
+run_uuid: 7a6b4de12aa240c9b9a8ce36f0666107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239920297
+status: 3
+tags: []
+user_id: unknown

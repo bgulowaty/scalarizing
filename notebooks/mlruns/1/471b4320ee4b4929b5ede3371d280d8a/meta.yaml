@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/471b4320ee4b4929b5ede3371d280d8a/artifacts
+end_time: 1670105684354
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 471b4320ee4b4929b5ede3371d280d8a
+run_name: delightful-fawn-961
+run_uuid: 471b4320ee4b4929b5ede3371d280d8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239923009
+status: 3
+tags: []
+user_id: unknown

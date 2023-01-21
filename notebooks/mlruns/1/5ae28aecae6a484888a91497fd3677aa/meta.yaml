@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5ae28aecae6a484888a91497fd3677aa/artifacts
+end_time: 1669948816009
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ae28aecae6a484888a91497fd3677aa
+run_name: salty-eel-305
+run_uuid: 5ae28aecae6a484888a91497fd3677aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241094660
+status: 3
+tags: []
+user_id: unknown

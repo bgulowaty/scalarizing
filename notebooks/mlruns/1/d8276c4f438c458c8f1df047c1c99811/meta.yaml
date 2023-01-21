@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d8276c4f438c458c8f1df047c1c99811/artifacts
+end_time: 1670105649317
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8276c4f438c458c8f1df047c1c99811
+run_name: worried-toad-404
+run_uuid: d8276c4f438c458c8f1df047c1c99811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239927710
+status: 3
+tags: []
+user_id: unknown

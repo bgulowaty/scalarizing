@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d42fc46b637c4518b971be31bf3ca2d2/artifacts
+end_time: 1669955022886
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d42fc46b637c4518b971be31bf3ca2d2
+run_name: rebellious-cub-113
+run_uuid: d42fc46b637c4518b971be31bf3ca2d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240178100
+status: 3
+tags: []
+user_id: unknown

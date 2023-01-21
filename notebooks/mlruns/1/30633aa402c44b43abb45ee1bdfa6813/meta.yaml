@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/30633aa402c44b43abb45ee1bdfa6813/artifacts
+end_time: 1669949427296
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30633aa402c44b43abb45ee1bdfa6813
+run_name: puzzled-rat-689
+run_uuid: 30633aa402c44b43abb45ee1bdfa6813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240980666
+status: 3
+tags: []
+user_id: unknown

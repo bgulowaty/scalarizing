@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cd566d5402aa4381a938578dacaf9f06/artifacts
+end_time: 1669955917202
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd566d5402aa4381a938578dacaf9f06
+run_name: industrious-ram-589
+run_uuid: cd566d5402aa4381a938578dacaf9f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240096095
+status: 3
+tags: []
+user_id: unknown

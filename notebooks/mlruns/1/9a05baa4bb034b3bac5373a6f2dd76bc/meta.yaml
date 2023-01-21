@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9a05baa4bb034b3bac5373a6f2dd76bc/artifacts
+end_time: 1669943060316
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a05baa4bb034b3bac5373a6f2dd76bc
+run_name: overjoyed-crab-423
+run_uuid: 9a05baa4bb034b3bac5373a6f2dd76bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242439200
+status: 3
+tags: []
+user_id: unknown

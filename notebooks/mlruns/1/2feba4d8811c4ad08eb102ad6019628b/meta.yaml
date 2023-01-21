@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2feba4d8811c4ad08eb102ad6019628b/artifacts
+end_time: 1670102308711
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2feba4d8811c4ad08eb102ad6019628b
+run_name: sassy-worm-465
+run_uuid: 2feba4d8811c4ad08eb102ad6019628b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242629822
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/61d310a2f609406fba92a306f9748107/artifacts
+end_time: 1669946002969
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61d310a2f609406fba92a306f9748107
+run_name: efficient-bear-934
+run_uuid: 61d310a2f609406fba92a306f9748107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241699775
+status: 3
+tags: []
+user_id: unknown

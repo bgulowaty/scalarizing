@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/27509a9316b14584b3a160f68c07b9bc/artifacts
+end_time: 1669947849218
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27509a9316b14584b3a160f68c07b9bc
+run_name: clean-stoat-937
+run_uuid: 27509a9316b14584b3a160f68c07b9bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241302485
+status: 3
+tags: []
+user_id: unknown

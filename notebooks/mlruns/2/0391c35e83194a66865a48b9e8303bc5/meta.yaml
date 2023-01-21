@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0391c35e83194a66865a48b9e8303bc5/artifacts
+end_time: 1670162829445
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0391c35e83194a66865a48b9e8303bc5
+run_name: masked-ox-792
+run_uuid: 0391c35e83194a66865a48b9e8303bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150202023
+status: 3
+tags: []
+user_id: unknown

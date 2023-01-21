@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0a03925ef87e4d9e8092a0ee094101be/artifacts
+end_time: 1670181754516
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0a03925ef87e4d9e8092a0ee094101be
+run_name: valuable-cub-305
+run_uuid: 0a03925ef87e4d9e8092a0ee094101be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239945070
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c002ce8dbb104265869c7510ad169e3b/artifacts
+end_time: 1670161752047
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c002ce8dbb104265869c7510ad169e3b
+run_name: bustling-kite-666
+run_uuid: c002ce8dbb104265869c7510ad169e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150565366
+status: 3
+tags: []
+user_id: unknown

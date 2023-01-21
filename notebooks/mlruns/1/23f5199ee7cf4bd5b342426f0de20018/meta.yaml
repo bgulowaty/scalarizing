@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/23f5199ee7cf4bd5b342426f0de20018/artifacts
+end_time: 1669953532081
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23f5199ee7cf4bd5b342426f0de20018
+run_name: secretive-hare-317
+run_uuid: 23f5199ee7cf4bd5b342426f0de20018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240314744
+status: 3
+tags: []
+user_id: unknown

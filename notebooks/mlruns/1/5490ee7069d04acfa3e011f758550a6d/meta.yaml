@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5490ee7069d04acfa3e011f758550a6d/artifacts
+end_time: 1669950719111
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5490ee7069d04acfa3e011f758550a6d
+run_name: painted-flea-124
+run_uuid: 5490ee7069d04acfa3e011f758550a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240709258
+status: 3
+tags: []
+user_id: unknown

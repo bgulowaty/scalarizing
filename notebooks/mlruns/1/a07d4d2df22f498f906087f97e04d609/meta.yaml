@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a07d4d2df22f498f906087f97e04d609/artifacts
+end_time: 1670105025202
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a07d4d2df22f498f906087f97e04d609
+run_name: rare-goose-118
+run_uuid: a07d4d2df22f498f906087f97e04d609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239967100
+status: 3
+tags: []
+user_id: unknown

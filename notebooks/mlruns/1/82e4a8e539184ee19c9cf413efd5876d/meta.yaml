@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/82e4a8e539184ee19c9cf413efd5876d/artifacts
+end_time: 1669943316511
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82e4a8e539184ee19c9cf413efd5876d
+run_name: mercurial-cow-335
+run_uuid: 82e4a8e539184ee19c9cf413efd5876d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242381089
+status: 3
+tags: []
+user_id: unknown

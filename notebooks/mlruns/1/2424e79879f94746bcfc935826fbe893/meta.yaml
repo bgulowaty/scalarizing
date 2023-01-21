@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2424e79879f94746bcfc935826fbe893/artifacts
+end_time: 1670181147972
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2424e79879f94746bcfc935826fbe893
+run_name: luxuriant-skink-487
+run_uuid: 2424e79879f94746bcfc935826fbe893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240681231
+status: 4
+tags: []
+user_id: unknown

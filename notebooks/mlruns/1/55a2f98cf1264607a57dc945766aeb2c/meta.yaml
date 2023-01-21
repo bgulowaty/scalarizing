@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/55a2f98cf1264607a57dc945766aeb2c/artifacts
+end_time: 1669952545721
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55a2f98cf1264607a57dc945766aeb2c
+run_name: resilient-whale-440
+run_uuid: 55a2f98cf1264607a57dc945766aeb2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240435708
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c06dee7cb074b6cb4aff1e938d1279b/artifacts
+end_time: 1669944855831
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c06dee7cb074b6cb4aff1e938d1279b
+run_name: wise-dolphin-611
+run_uuid: 3c06dee7cb074b6cb4aff1e938d1279b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241963443
+status: 3
+tags: []
+user_id: unknown

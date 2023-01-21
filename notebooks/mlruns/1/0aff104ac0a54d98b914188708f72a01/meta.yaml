@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0aff104ac0a54d98b914188708f72a01/artifacts
+end_time: 1670180816067
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0aff104ac0a54d98b914188708f72a01
+run_name: stylish-roo-857
+run_uuid: 0aff104ac0a54d98b914188708f72a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241905910
+status: 3
+tags: []
+user_id: unknown

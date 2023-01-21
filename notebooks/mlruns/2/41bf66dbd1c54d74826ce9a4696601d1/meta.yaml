@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/41bf66dbd1c54d74826ce9a4696601d1/artifacts
+end_time: 1670162395290
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 41bf66dbd1c54d74826ce9a4696601d1
+run_name: rare-whale-768
+run_uuid: 41bf66dbd1c54d74826ce9a4696601d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150337403
+status: 3
+tags: []
+user_id: unknown

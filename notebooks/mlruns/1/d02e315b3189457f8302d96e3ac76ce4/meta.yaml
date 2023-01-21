@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d02e315b3189457f8302d96e3ac76ce4/artifacts
+end_time: 1669945451287
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d02e315b3189457f8302d96e3ac76ce4
+run_name: delightful-fly-629
+run_uuid: d02e315b3189457f8302d96e3ac76ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241796311
+status: 3
+tags: []
+user_id: unknown

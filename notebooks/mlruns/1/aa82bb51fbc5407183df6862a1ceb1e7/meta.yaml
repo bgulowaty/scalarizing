@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aa82bb51fbc5407183df6862a1ceb1e7/artifacts
+end_time: 1669954402961
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa82bb51fbc5407183df6862a1ceb1e7
+run_name: melodic-dolphin-767
+run_uuid: aa82bb51fbc5407183df6862a1ceb1e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240238073
+status: 3
+tags: []
+user_id: unknown

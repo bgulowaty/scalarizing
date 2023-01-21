@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64ad69f216be4f9a89fb954003d45f88/artifacts
+end_time: 1669947616988
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64ad69f216be4f9a89fb954003d45f88
+run_name: gregarious-stag-495
+run_uuid: 64ad69f216be4f9a89fb954003d45f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241332394
+status: 3
+tags: []
+user_id: unknown

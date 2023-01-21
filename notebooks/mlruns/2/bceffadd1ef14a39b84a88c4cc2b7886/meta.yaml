@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/bceffadd1ef14a39b84a88c4cc2b7886/artifacts
+end_time: 1670161963625
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bceffadd1ef14a39b84a88c4cc2b7886
+run_name: bouncy-tern-139
+run_uuid: bceffadd1ef14a39b84a88c4cc2b7886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150549665
+status: 3
+tags: []
+user_id: unknown

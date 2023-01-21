@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fdb77cfd7f704a1e8dbf76c38a58e0cf/artifacts
+end_time: 1670162179215
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fdb77cfd7f704a1e8dbf76c38a58e0cf
+run_name: dazzling-shoat-48
+run_uuid: fdb77cfd7f704a1e8dbf76c38a58e0cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150415586
+status: 3
+tags: []
+user_id: unknown

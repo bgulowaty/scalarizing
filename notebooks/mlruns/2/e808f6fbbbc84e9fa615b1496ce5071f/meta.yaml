@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e808f6fbbbc84e9fa615b1496ce5071f/artifacts
+end_time: 1670162728580
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e808f6fbbbc84e9fa615b1496ce5071f
+run_name: valuable-eel-233
+run_uuid: e808f6fbbbc84e9fa615b1496ce5071f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150223876
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f15a48dd23214739bc6ec98e04a86cd2/artifacts
+end_time: 1669946690521
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f15a48dd23214739bc6ec98e04a86cd2
+run_name: melodic-mule-182
+run_uuid: f15a48dd23214739bc6ec98e04a86cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241517147
+status: 3
+tags: []
+user_id: unknown

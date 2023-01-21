@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a7ee74566a1342f3a62dbcc014ef3938/artifacts
+end_time: 1669946984008
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7ee74566a1342f3a62dbcc014ef3938
+run_name: intrigued-skink-500
+run_uuid: a7ee74566a1342f3a62dbcc014ef3938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241465918
+status: 3
+tags: []
+user_id: unknown

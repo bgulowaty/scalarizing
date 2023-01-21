@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bb18ffb575ea48daad95e5c25fda1580/artifacts
+end_time: 1669947567339
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb18ffb575ea48daad95e5c25fda1580
+run_name: overjoyed-foal-996
+run_uuid: bb18ffb575ea48daad95e5c25fda1580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241353741
+status: 3
+tags: []
+user_id: unknown

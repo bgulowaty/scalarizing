@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d6d989f62fb74303824fbb2e9b7f8354/artifacts
+end_time: 1670104094617
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6d989f62fb74303824fbb2e9b7f8354
+run_name: powerful-crow-70
+run_uuid: d6d989f62fb74303824fbb2e9b7f8354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240018336
+status: 3
+tags: []
+user_id: unknown

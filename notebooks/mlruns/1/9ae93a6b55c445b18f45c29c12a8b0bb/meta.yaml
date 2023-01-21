@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9ae93a6b55c445b18f45c29c12a8b0bb/artifacts
+end_time: 1669945454414
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ae93a6b55c445b18f45c29c12a8b0bb
+run_name: traveling-bear-654
+run_uuid: 9ae93a6b55c445b18f45c29c12a8b0bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241789960
+status: 3
+tags: []
+user_id: unknown

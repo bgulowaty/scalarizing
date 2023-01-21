@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/11c04b852195482ab06b155fbfa98b37/artifacts
+end_time: 1670105345491
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11c04b852195482ab06b155fbfa98b37
+run_name: tasteful-hare-697
+run_uuid: 11c04b852195482ab06b155fbfa98b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239939310
+status: 3
+tags: []
+user_id: unknown

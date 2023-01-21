@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6e45fa6a1db44346bcb4a13921c2d231/artifacts
+end_time: 1669947294582
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e45fa6a1db44346bcb4a13921c2d231
+run_name: peaceful-wasp-173
+run_uuid: 6e45fa6a1db44346bcb4a13921c2d231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241393972
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/246a844dbe914afa88bb32290d24a766/artifacts
+end_time: 1669954146818
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 246a844dbe914afa88bb32290d24a766
+run_name: mysterious-cow-719
+run_uuid: 246a844dbe914afa88bb32290d24a766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240252150
+status: 3
+tags: []
+user_id: unknown

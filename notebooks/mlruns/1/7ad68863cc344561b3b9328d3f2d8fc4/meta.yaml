@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ad68863cc344561b3b9328d3f2d8fc4/artifacts
+end_time: 1669944185914
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ad68863cc344561b3b9328d3f2d8fc4
+run_name: victorious-trout-719
+run_uuid: 7ad68863cc344561b3b9328d3f2d8fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242145695
+status: 3
+tags: []
+user_id: unknown

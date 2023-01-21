@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/66bfb19850b94e41b7dc78b7ff70da9e/artifacts
+end_time: 1669949818783
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66bfb19850b94e41b7dc78b7ff70da9e
+run_name: traveling-grouse-530
+run_uuid: 66bfb19850b94e41b7dc78b7ff70da9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240863674
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e56a938d96c64c508e1746e3428c9414/artifacts
+end_time: 1670162724950
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e56a938d96c64c508e1746e3428c9414
+run_name: adorable-fox-582
+run_uuid: e56a938d96c64c508e1746e3428c9414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150235582
+status: 3
+tags: []
+user_id: unknown

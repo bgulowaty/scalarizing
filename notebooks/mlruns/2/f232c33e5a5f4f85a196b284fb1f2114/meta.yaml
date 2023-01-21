@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f232c33e5a5f4f85a196b284fb1f2114/artifacts
+end_time: 1670162524468
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f232c33e5a5f4f85a196b284fb1f2114
+run_name: luminous-chimp-676
+run_uuid: f232c33e5a5f4f85a196b284fb1f2114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150290668
+status: 3
+tags: []
+user_id: unknown

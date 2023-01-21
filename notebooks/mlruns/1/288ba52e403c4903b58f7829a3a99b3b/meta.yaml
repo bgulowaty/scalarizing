@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/288ba52e403c4903b58f7829a3a99b3b/artifacts
+end_time: 1669950049086
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 288ba52e403c4903b58f7829a3a99b3b
+run_name: vaunted-smelt-34
+run_uuid: 288ba52e403c4903b58f7829a3a99b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240854265
+status: 3
+tags: []
+user_id: unknown

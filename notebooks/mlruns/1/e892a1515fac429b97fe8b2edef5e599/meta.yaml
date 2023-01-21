@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e892a1515fac429b97fe8b2edef5e599/artifacts
+end_time: 1669943110009
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e892a1515fac429b97fe8b2edef5e599
+run_name: painted-cow-518
+run_uuid: e892a1515fac429b97fe8b2edef5e599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242421193
+status: 3
+tags: []
+user_id: unknown

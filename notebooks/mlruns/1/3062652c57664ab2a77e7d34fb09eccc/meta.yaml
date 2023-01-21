@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3062652c57664ab2a77e7d34fb09eccc/artifacts
+end_time: 1669942892559
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3062652c57664ab2a77e7d34fb09eccc
+run_name: bald-sloth-704
+run_uuid: 3062652c57664ab2a77e7d34fb09eccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242488912
+status: 3
+tags: []
+user_id: unknown

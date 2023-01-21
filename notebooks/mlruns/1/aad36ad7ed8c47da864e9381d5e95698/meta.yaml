@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aad36ad7ed8c47da864e9381d5e95698/artifacts
+end_time: 1669950525599
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aad36ad7ed8c47da864e9381d5e95698
+run_name: adorable-kite-160
+run_uuid: aad36ad7ed8c47da864e9381d5e95698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240821803
+status: 3
+tags: []
+user_id: unknown

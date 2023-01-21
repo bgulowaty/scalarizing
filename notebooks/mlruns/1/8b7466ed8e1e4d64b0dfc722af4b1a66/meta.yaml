@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8b7466ed8e1e4d64b0dfc722af4b1a66/artifacts
+end_time: 1669944175947
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b7466ed8e1e4d64b0dfc722af4b1a66
+run_name: masked-snipe-466
+run_uuid: 8b7466ed8e1e4d64b0dfc722af4b1a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242149539
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/450c1e432b384c96b0f2ac5b85dec76b/artifacts
+end_time: 1670102026855
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 450c1e432b384c96b0f2ac5b85dec76b
+run_name: clumsy-skink-50
+run_uuid: 450c1e432b384c96b0f2ac5b85dec76b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242696676
+status: 3
+tags: []
+user_id: unknown

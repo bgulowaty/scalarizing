@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8143b0114bd7471da87c61bbb14538aa/artifacts
+end_time: 1669950400869
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8143b0114bd7471da87c61bbb14538aa
+run_name: masked-skunk-143
+run_uuid: 8143b0114bd7471da87c61bbb14538aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240779621
+status: 3
+tags: []
+user_id: unknown

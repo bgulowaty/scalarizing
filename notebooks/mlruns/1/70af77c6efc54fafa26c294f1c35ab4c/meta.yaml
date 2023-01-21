@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/70af77c6efc54fafa26c294f1c35ab4c/artifacts
+end_time: 1669945343631
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70af77c6efc54fafa26c294f1c35ab4c
+run_name: inquisitive-steed-45
+run_uuid: 70af77c6efc54fafa26c294f1c35ab4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241966962
+status: 3
+tags: []
+user_id: unknown

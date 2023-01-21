@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eaf1f47560994cdf9ed480e017e4c891/artifacts
+end_time: 1669943667249
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eaf1f47560994cdf9ed480e017e4c891
+run_name: invincible-ox-64
+run_uuid: eaf1f47560994cdf9ed480e017e4c891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242267595
+status: 3
+tags: []
+user_id: unknown

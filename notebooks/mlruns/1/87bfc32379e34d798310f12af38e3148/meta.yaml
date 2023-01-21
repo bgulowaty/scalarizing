@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87bfc32379e34d798310f12af38e3148/artifacts
+end_time: 1669949810370
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87bfc32379e34d798310f12af38e3148
+run_name: languid-sponge-993
+run_uuid: 87bfc32379e34d798310f12af38e3148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240865098
+status: 3
+tags: []
+user_id: unknown

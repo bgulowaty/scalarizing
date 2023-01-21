@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/94cda3d3629f43c298e24bcdd7fedade/artifacts
+end_time: 1669951297839
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94cda3d3629f43c298e24bcdd7fedade
+run_name: honorable-snipe-81
+run_uuid: 94cda3d3629f43c298e24bcdd7fedade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240620585
+status: 3
+tags: []
+user_id: unknown

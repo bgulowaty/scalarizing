@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9671d3a5ff8641eba27b49fe113a98dd/artifacts
+end_time: 1670104735500
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9671d3a5ff8641eba27b49fe113a98dd
+run_name: masked-kit-419
+run_uuid: 9671d3a5ff8641eba27b49fe113a98dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239971779
+status: 3
+tags: []
+user_id: unknown

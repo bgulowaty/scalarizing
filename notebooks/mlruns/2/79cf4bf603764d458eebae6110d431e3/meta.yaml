@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/79cf4bf603764d458eebae6110d431e3/artifacts
+end_time: 1670162616903
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 79cf4bf603764d458eebae6110d431e3
+run_name: tasteful-zebra-398
+run_uuid: 79cf4bf603764d458eebae6110d431e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150253501
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f591aba786c148d4b547f0b3a8acdfd6/artifacts
+end_time: 1669943589066
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f591aba786c148d4b547f0b3a8acdfd6
+run_name: kindly-moth-347
+run_uuid: f591aba786c148d4b547f0b3a8acdfd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242305446
+status: 3
+tags: []
+user_id: unknown

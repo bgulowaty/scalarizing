@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/23e6725d82f44c3899b64b0d1dfb9bf8/artifacts
+end_time: 1669955608872
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23e6725d82f44c3899b64b0d1dfb9bf8
+run_name: flawless-flea-925
+run_uuid: 23e6725d82f44c3899b64b0d1dfb9bf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240122524
+status: 3
+tags: []
+user_id: unknown

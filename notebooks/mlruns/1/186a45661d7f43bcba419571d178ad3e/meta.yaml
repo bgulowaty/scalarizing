@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/186a45661d7f43bcba419571d178ad3e/artifacts
+end_time: 1669950344880
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 186a45661d7f43bcba419571d178ad3e
+run_name: mysterious-koi-609
+run_uuid: 186a45661d7f43bcba419571d178ad3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240788979
+status: 3
+tags: []
+user_id: unknown

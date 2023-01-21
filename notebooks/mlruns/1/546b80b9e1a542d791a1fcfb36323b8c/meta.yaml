@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/546b80b9e1a542d791a1fcfb36323b8c/artifacts
+end_time: 1669946980191
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 546b80b9e1a542d791a1fcfb36323b8c
+run_name: sincere-grouse-831
+run_uuid: 546b80b9e1a542d791a1fcfb36323b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241455364
+status: 3
+tags: []
+user_id: unknown

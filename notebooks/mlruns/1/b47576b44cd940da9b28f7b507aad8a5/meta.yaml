@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b47576b44cd940da9b28f7b507aad8a5/artifacts
+end_time: 1669946959190
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b47576b44cd940da9b28f7b507aad8a5
+run_name: painted-rat-579
+run_uuid: b47576b44cd940da9b28f7b507aad8a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241469667
+status: 3
+tags: []
+user_id: unknown

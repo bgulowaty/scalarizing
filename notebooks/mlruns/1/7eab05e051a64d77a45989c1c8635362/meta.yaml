@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7eab05e051a64d77a45989c1c8635362/artifacts
+end_time: 1670104716561
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7eab05e051a64d77a45989c1c8635362
+run_name: powerful-yak-893
+run_uuid: 7eab05e051a64d77a45989c1c8635362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239982059
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/15bfd75939b541fe934e14ca7ed51ebf/artifacts
+end_time: 1670162290880
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 15bfd75939b541fe934e14ca7ed51ebf
+run_name: adaptable-lark-638
+run_uuid: 15bfd75939b541fe934e14ca7ed51ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150363618
+status: 3
+tags: []
+user_id: unknown

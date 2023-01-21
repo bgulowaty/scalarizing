@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/823df1c8495f4727be91b1701f67847c/artifacts
+end_time: 1670103822384
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 823df1c8495f4727be91b1701f67847c
+run_name: calm-goose-293
+run_uuid: 823df1c8495f4727be91b1701f67847c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240032465
+status: 3
+tags: []
+user_id: unknown

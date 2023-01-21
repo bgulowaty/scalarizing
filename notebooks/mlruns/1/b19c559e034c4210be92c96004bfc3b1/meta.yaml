@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b19c559e034c4210be92c96004bfc3b1/artifacts
+end_time: 1669953609959
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b19c559e034c4210be92c96004bfc3b1
+run_name: carefree-donkey-256
+run_uuid: b19c559e034c4210be92c96004bfc3b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240322261
+status: 3
+tags: []
+user_id: unknown

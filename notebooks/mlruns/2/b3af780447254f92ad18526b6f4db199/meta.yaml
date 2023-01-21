@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b3af780447254f92ad18526b6f4db199/artifacts
+end_time: 1670162077487
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b3af780447254f92ad18526b6f4db199
+run_name: gentle-shrimp-30
+run_uuid: b3af780447254f92ad18526b6f4db199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150447200
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6a95bc80eb1943b3862bc748cfc4914d/artifacts
+end_time: 1670106577996
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a95bc80eb1943b3862bc748cfc4914d
+run_name: calm-mare-436
+run_uuid: 6a95bc80eb1943b3862bc748cfc4914d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239893487
+status: 3
+tags: []
+user_id: unknown

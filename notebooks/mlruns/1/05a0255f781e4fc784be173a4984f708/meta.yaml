@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/05a0255f781e4fc784be173a4984f708/artifacts
+end_time: 1669949129986
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 05a0255f781e4fc784be173a4984f708
+run_name: abundant-roo-594
+run_uuid: 05a0255f781e4fc784be173a4984f708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241055953
+status: 3
+tags: []
+user_id: unknown

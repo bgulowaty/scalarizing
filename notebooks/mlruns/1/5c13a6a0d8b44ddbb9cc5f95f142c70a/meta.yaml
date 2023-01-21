@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5c13a6a0d8b44ddbb9cc5f95f142c70a/artifacts
+end_time: 1670104718187
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c13a6a0d8b44ddbb9cc5f95f142c70a
+run_name: rogue-bug-83
+run_uuid: 5c13a6a0d8b44ddbb9cc5f95f142c70a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239976974
+status: 3
+tags: []
+user_id: unknown

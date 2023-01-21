@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a8e756db8f384bbb9bd58a9541adcf8b/artifacts
+end_time: 1670162395614
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a8e756db8f384bbb9bd58a9541adcf8b
+run_name: rebellious-lark-276
+run_uuid: a8e756db8f384bbb9bd58a9541adcf8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150338591
+status: 3
+tags: []
+user_id: unknown

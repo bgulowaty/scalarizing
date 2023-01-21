@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/029c9df09c914b898d971ad5810b7d81/artifacts
+end_time: 1669950401315
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 029c9df09c914b898d971ad5810b7d81
+run_name: efficient-stag-839
+run_uuid: 029c9df09c914b898d971ad5810b7d81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240764007
+status: 3
+tags: []
+user_id: unknown

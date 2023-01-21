@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4c994b2b411540c9bbdf783db6be7f50/artifacts
+end_time: 1669943345192
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c994b2b411540c9bbdf783db6be7f50
+run_name: placid-snipe-542
+run_uuid: 4c994b2b411540c9bbdf783db6be7f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242359770
+status: 3
+tags: []
+user_id: unknown

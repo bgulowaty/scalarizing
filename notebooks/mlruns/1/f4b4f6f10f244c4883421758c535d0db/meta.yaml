@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f4b4f6f10f244c4883421758c535d0db/artifacts
+end_time: 1669955974862
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f4b4f6f10f244c4883421758c535d0db
+run_name: rumbling-skunk-812
+run_uuid: f4b4f6f10f244c4883421758c535d0db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240085946
+status: 3
+tags: []
+user_id: unknown

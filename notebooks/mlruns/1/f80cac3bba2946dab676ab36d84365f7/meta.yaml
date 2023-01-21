@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f80cac3bba2946dab676ab36d84365f7/artifacts
+end_time: 1669955304987
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f80cac3bba2946dab676ab36d84365f7
+run_name: gentle-rat-470
+run_uuid: f80cac3bba2946dab676ab36d84365f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240151262
+status: 3
+tags: []
+user_id: unknown

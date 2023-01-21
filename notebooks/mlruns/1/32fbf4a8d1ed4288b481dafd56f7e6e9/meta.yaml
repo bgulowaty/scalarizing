@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/32fbf4a8d1ed4288b481dafd56f7e6e9/artifacts
+end_time: 1669949494242
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32fbf4a8d1ed4288b481dafd56f7e6e9
+run_name: big-yak-328
+run_uuid: 32fbf4a8d1ed4288b481dafd56f7e6e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240917367
+status: 3
+tags: []
+user_id: unknown

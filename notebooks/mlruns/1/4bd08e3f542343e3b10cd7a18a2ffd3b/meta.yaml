@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4bd08e3f542343e3b10cd7a18a2ffd3b/artifacts
+end_time: 1670181455076
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4bd08e3f542343e3b10cd7a18a2ffd3b
+run_name: calm-trout-350
+run_uuid: 4bd08e3f542343e3b10cd7a18a2ffd3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240179315
+status: 3
+tags: []
+user_id: unknown

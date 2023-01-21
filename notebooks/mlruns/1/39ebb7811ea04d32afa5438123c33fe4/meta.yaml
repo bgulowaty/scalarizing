@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39ebb7811ea04d32afa5438123c33fe4/artifacts
+end_time: 1670104715756
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39ebb7811ea04d32afa5438123c33fe4
+run_name: clumsy-flea-978
+run_uuid: 39ebb7811ea04d32afa5438123c33fe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239977961
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9ffaeab7ec2648d986f0ec6222d9256d/artifacts
+end_time: 1670162616982
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9ffaeab7ec2648d986f0ec6222d9256d
+run_name: fun-crow-915
+run_uuid: 9ffaeab7ec2648d986f0ec6222d9256d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150252386
+status: 3
+tags: []
+user_id: unknown

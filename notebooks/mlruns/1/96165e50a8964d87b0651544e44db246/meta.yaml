@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/96165e50a8964d87b0651544e44db246/artifacts
+end_time: 1670180501862
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 96165e50a8964d87b0651544e44db246
+run_name: legendary-donkey-994
+run_uuid: 96165e50a8964d87b0651544e44db246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242687346
+status: 4
+tags: []
+user_id: unknown

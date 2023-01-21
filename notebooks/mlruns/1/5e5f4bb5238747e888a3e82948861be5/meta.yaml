@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5e5f4bb5238747e888a3e82948861be5/artifacts
+end_time: 1669945423411
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e5f4bb5238747e888a3e82948861be5
+run_name: calm-crane-423
+run_uuid: 5e5f4bb5238747e888a3e82948861be5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241808106
+status: 3
+tags: []
+user_id: unknown

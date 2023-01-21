@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7ad04499470248229c05dd1e2d71ea30/artifacts
+end_time: 1670162721459
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7ad04499470248229c05dd1e2d71ea30
+run_name: gregarious-stoat-652
+run_uuid: 7ad04499470248229c05dd1e2d71ea30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150239495
+status: 3
+tags: []
+user_id: unknown

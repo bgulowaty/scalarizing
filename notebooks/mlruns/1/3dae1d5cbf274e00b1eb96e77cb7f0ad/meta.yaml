@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3dae1d5cbf274e00b1eb96e77cb7f0ad/artifacts
+end_time: 1669954693912
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dae1d5cbf274e00b1eb96e77cb7f0ad
+run_name: bouncy-carp-29
+run_uuid: 3dae1d5cbf274e00b1eb96e77cb7f0ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240199471
+status: 3
+tags: []
+user_id: unknown

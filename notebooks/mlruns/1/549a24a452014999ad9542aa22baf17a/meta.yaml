@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/549a24a452014999ad9542aa22baf17a/artifacts
+end_time: 1669949161838
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 549a24a452014999ad9542aa22baf17a
+run_name: suave-ape-122
+run_uuid: 549a24a452014999ad9542aa22baf17a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241056720
+status: 3
+tags: []
+user_id: unknown

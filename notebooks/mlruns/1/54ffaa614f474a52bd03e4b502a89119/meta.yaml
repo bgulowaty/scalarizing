@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/54ffaa614f474a52bd03e4b502a89119/artifacts
+end_time: 1669942247371
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54ffaa614f474a52bd03e4b502a89119
+run_name: mercurial-jay-23
+run_uuid: 54ffaa614f474a52bd03e4b502a89119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242844657
+status: 3
+tags: []
+user_id: unknown

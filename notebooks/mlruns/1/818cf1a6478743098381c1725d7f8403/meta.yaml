@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/818cf1a6478743098381c1725d7f8403/artifacts
+end_time: 1669942772718
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 818cf1a6478743098381c1725d7f8403
+run_name: wistful-newt-131
+run_uuid: 818cf1a6478743098381c1725d7f8403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242766792
+status: 3
+tags: []
+user_id: unknown

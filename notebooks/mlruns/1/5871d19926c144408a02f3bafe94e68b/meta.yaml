@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5871d19926c144408a02f3bafe94e68b/artifacts
+end_time: 1670105975470
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5871d19926c144408a02f3bafe94e68b
+run_name: rambunctious-bug-609
+run_uuid: 5871d19926c144408a02f3bafe94e68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239911453
+status: 3
+tags: []
+user_id: unknown

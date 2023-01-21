@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cd13c0ea96d54eb99d7667324a267f25/artifacts
+end_time: 1669943637030
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd13c0ea96d54eb99d7667324a267f25
+run_name: whimsical-goose-443
+run_uuid: cd13c0ea96d54eb99d7667324a267f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242277139
+status: 3
+tags: []
+user_id: unknown

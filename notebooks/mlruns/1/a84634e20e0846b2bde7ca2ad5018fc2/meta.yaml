@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a84634e20e0846b2bde7ca2ad5018fc2/artifacts
+end_time: 1669952895831
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a84634e20e0846b2bde7ca2ad5018fc2
+run_name: melodic-wasp-896
+run_uuid: a84634e20e0846b2bde7ca2ad5018fc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240404922
+status: 3
+tags: []
+user_id: unknown

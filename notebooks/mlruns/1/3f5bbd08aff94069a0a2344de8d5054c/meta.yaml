@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3f5bbd08aff94069a0a2344de8d5054c/artifacts
+end_time: 1669948491999
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f5bbd08aff94069a0a2344de8d5054c
+run_name: legendary-turtle-650
+run_uuid: 3f5bbd08aff94069a0a2344de8d5054c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241161465
+status: 3
+tags: []
+user_id: unknown

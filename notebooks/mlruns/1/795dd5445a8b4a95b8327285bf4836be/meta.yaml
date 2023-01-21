@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/795dd5445a8b4a95b8327285bf4836be/artifacts
+end_time: 1669955608100
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 795dd5445a8b4a95b8327285bf4836be
+run_name: delightful-goose-777
+run_uuid: 795dd5445a8b4a95b8327285bf4836be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240120994
+status: 3
+tags: []
+user_id: unknown

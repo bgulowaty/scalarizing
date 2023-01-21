@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/35c684bf4853473e88ee2119164aaacc/artifacts
+end_time: 1669945771074
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35c684bf4853473e88ee2119164aaacc
+run_name: thoughtful-stag-998
+run_uuid: 35c684bf4853473e88ee2119164aaacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241724230
+status: 3
+tags: []
+user_id: unknown

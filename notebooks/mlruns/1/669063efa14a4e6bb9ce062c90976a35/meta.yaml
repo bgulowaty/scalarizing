@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/669063efa14a4e6bb9ce062c90976a35/artifacts
+end_time: 1669942236280
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 669063efa14a4e6bb9ce062c90976a35
+run_name: calm-smelt-969
+run_uuid: 669063efa14a4e6bb9ce062c90976a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242847651
+status: 3
+tags: []
+user_id: unknown

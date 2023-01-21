@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4aaed3847cb441f3bdf37320250840de/artifacts
+end_time: 1669945081569
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4aaed3847cb441f3bdf37320250840de
+run_name: adventurous-worm-288
+run_uuid: 4aaed3847cb441f3bdf37320250840de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241883313
+status: 3
+tags: []
+user_id: unknown

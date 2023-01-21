@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/44eca617aed543d0aa0ac295625436ee/artifacts
+end_time: 1670105337693
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44eca617aed543d0aa0ac295625436ee
+run_name: adaptable-mouse-646
+run_uuid: 44eca617aed543d0aa0ac295625436ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239944294
+status: 3
+tags: []
+user_id: unknown

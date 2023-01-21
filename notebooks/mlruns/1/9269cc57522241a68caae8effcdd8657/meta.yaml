@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9269cc57522241a68caae8effcdd8657/artifacts
+end_time: 1670180847438
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9269cc57522241a68caae8effcdd8657
+run_name: gifted-horse-320
+run_uuid: 9269cc57522241a68caae8effcdd8657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241532784
+status: 3
+tags: []
+user_id: unknown

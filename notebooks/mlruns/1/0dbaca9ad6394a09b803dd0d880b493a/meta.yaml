@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0dbaca9ad6394a09b803dd0d880b493a/artifacts
+end_time: 1670105654249
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0dbaca9ad6394a09b803dd0d880b493a
+run_name: upbeat-lamb-652
+run_uuid: 0dbaca9ad6394a09b803dd0d880b493a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239925071
+status: 3
+tags: []
+user_id: unknown

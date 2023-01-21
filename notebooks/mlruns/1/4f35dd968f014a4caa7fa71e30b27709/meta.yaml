@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4f35dd968f014a4caa7fa71e30b27709/artifacts
+end_time: 1669954405433
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f35dd968f014a4caa7fa71e30b27709
+run_name: bemused-gnu-924
+run_uuid: 4f35dd968f014a4caa7fa71e30b27709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240240266
+status: 3
+tags: []
+user_id: unknown

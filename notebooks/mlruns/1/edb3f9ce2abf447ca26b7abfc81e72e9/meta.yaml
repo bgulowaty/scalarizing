@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/edb3f9ce2abf447ca26b7abfc81e72e9/artifacts
+end_time: 1669948193573
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edb3f9ce2abf447ca26b7abfc81e72e9
+run_name: rumbling-toad-907
+run_uuid: edb3f9ce2abf447ca26b7abfc81e72e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241220044
+status: 3
+tags: []
+user_id: unknown

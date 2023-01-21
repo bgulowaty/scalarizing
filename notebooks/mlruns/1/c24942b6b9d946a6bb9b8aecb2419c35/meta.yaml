@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c24942b6b9d946a6bb9b8aecb2419c35/artifacts
+end_time: 1670102582240
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c24942b6b9d946a6bb9b8aecb2419c35
+run_name: funny-ant-6
+run_uuid: c24942b6b9d946a6bb9b8aecb2419c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242569585
+status: 3
+tags: []
+user_id: unknown

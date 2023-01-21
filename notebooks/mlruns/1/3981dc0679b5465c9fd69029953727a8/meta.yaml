@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3981dc0679b5465c9fd69029953727a8/artifacts
+end_time: 1670181477390
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3981dc0679b5465c9fd69029953727a8
+run_name: efficient-seal-714
+run_uuid: 3981dc0679b5465c9fd69029953727a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240081637
+status: 4
+tags: []
+user_id: unknown

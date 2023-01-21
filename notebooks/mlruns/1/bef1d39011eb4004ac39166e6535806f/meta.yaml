@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bef1d39011eb4004ac39166e6535806f/artifacts
+end_time: 1669947945621
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bef1d39011eb4004ac39166e6535806f
+run_name: bright-squid-336
+run_uuid: bef1d39011eb4004ac39166e6535806f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241275241
+status: 3
+tags: []
+user_id: unknown

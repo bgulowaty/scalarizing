@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/2425e516a70347d592223d847c44d695/artifacts
+end_time: 1670162619811
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2425e516a70347d592223d847c44d695
+run_name: melodic-frog-85
+run_uuid: 2425e516a70347d592223d847c44d695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150243908
+status: 3
+tags: []
+user_id: unknown

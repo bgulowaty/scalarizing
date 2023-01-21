@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/346b36c191ef4d01b2b6649f7ded8874/artifacts
+end_time: 1669948573277
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 346b36c191ef4d01b2b6649f7ded8874
+run_name: merciful-trout-231
+run_uuid: 346b36c191ef4d01b2b6649f7ded8874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241132304
+status: 3
+tags: []
+user_id: unknown

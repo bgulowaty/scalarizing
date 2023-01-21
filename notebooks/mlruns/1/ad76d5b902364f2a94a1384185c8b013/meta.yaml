@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ad76d5b902364f2a94a1384185c8b013/artifacts
+end_time: 1669944276667
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad76d5b902364f2a94a1384185c8b013
+run_name: salty-kit-614
+run_uuid: ad76d5b902364f2a94a1384185c8b013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242119348
+status: 3
+tags: []
+user_id: unknown

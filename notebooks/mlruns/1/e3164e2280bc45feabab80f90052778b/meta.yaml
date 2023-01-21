@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3164e2280bc45feabab80f90052778b/artifacts
+end_time: 1669946944275
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3164e2280bc45feabab80f90052778b
+run_name: abrasive-robin-193
+run_uuid: e3164e2280bc45feabab80f90052778b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241500580
+status: 3
+tags: []
+user_id: unknown

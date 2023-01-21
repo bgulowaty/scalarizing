@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/31a05ae6dc8e4bc5bbd92f4783e8649e/artifacts
+end_time: 1669947942641
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 31a05ae6dc8e4bc5bbd92f4783e8649e
+run_name: ambitious-grub-744
+run_uuid: 31a05ae6dc8e4bc5bbd92f4783e8649e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241254502
+status: 3
+tags: []
+user_id: unknown

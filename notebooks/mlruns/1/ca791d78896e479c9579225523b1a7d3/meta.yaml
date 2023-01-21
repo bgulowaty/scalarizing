@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ca791d78896e479c9579225523b1a7d3/artifacts
+end_time: 1669950738474
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca791d78896e479c9579225523b1a7d3
+run_name: masked-crane-434
+run_uuid: ca791d78896e479c9579225523b1a7d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240721817
+status: 3
+tags: []
+user_id: unknown

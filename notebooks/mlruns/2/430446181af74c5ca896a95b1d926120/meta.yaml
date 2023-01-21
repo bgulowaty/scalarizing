@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/430446181af74c5ca896a95b1d926120/artifacts
+end_time: 1670162181149
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 430446181af74c5ca896a95b1d926120
+run_name: rare-skink-222
+run_uuid: 430446181af74c5ca896a95b1d926120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150406115
+status: 3
+tags: []
+user_id: unknown

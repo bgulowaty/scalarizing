@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c1edf295f3794d8aafa7c7b7440dda96/artifacts
+end_time: 1669949522520
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c1edf295f3794d8aafa7c7b7440dda96
+run_name: sincere-crab-272
+run_uuid: c1edf295f3794d8aafa7c7b7440dda96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240918060
+status: 3
+tags: []
+user_id: unknown

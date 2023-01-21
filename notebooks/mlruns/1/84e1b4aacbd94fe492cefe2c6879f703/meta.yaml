@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/84e1b4aacbd94fe492cefe2c6879f703/artifacts
+end_time: 1669948539165
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84e1b4aacbd94fe492cefe2c6879f703
+run_name: upset-skink-856
+run_uuid: 84e1b4aacbd94fe492cefe2c6879f703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241143771
+status: 3
+tags: []
+user_id: unknown

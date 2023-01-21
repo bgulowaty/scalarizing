@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/95b8be97e4cf4a69b4f5db6d6d326f6e/artifacts
+end_time: 1669950393262
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95b8be97e4cf4a69b4f5db6d6d326f6e
+run_name: delightful-finch-948
+run_uuid: 95b8be97e4cf4a69b4f5db6d6d326f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240796122
+status: 3
+tags: []
+user_id: unknown

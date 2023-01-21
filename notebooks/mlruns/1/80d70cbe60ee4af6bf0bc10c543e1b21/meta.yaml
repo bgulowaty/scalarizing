@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/80d70cbe60ee4af6bf0bc10c543e1b21/artifacts
+end_time: 1669944550784
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80d70cbe60ee4af6bf0bc10c543e1b21
+run_name: bouncy-perch-512
+run_uuid: 80d70cbe60ee4af6bf0bc10c543e1b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242040405
+status: 3
+tags: []
+user_id: unknown

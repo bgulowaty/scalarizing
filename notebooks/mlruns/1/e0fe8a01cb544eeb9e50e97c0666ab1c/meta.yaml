@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e0fe8a01cb544eeb9e50e97c0666ab1c/artifacts
+end_time: 1669944295812
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0fe8a01cb544eeb9e50e97c0666ab1c
+run_name: skittish-rook-976
+run_uuid: e0fe8a01cb544eeb9e50e97c0666ab1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242096691
+status: 3
+tags: []
+user_id: unknown

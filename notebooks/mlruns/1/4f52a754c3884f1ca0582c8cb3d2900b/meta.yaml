@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4f52a754c3884f1ca0582c8cb3d2900b/artifacts
+end_time: 1670106577240
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f52a754c3884f1ca0582c8cb3d2900b
+run_name: powerful-hawk-787
+run_uuid: 4f52a754c3884f1ca0582c8cb3d2900b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239893035
+status: 3
+tags: []
+user_id: unknown

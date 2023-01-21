@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/19466e7801474962bd7cf26bc0cbb681/artifacts
+end_time: 1670162511206
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 19466e7801474962bd7cf26bc0cbb681
+run_name: unleashed-dog-879
+run_uuid: 19466e7801474962bd7cf26bc0cbb681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150282772
+status: 3
+tags: []
+user_id: unknown

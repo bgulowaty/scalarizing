@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5a26bb80e7f94490bda1c1d0be2838fb/artifacts
+end_time: 1670105987840
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a26bb80e7f94490bda1c1d0be2838fb
+run_name: skittish-shark-347
+run_uuid: 5a26bb80e7f94490bda1c1d0be2838fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239909485
+status: 3
+tags: []
+user_id: unknown

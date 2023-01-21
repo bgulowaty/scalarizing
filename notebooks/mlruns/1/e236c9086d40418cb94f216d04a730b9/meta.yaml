@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e236c9086d40418cb94f216d04a730b9/artifacts
+end_time: 1669953550173
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e236c9086d40418cb94f216d04a730b9
+run_name: unruly-mouse-203
+run_uuid: e236c9086d40418cb94f216d04a730b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240319719
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/add8fa588ce14a08822e4cb5d1a62931/artifacts
+end_time: 1669950998249
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: add8fa588ce14a08822e4cb5d1a62931
+run_name: secretive-conch-625
+run_uuid: add8fa588ce14a08822e4cb5d1a62931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240672377
+status: 3
+tags: []
+user_id: unknown

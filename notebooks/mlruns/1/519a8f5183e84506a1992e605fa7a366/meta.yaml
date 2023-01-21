@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/519a8f5183e84506a1992e605fa7a366/artifacts
+end_time: 1669954062566
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 519a8f5183e84506a1992e605fa7a366
+run_name: hilarious-tern-900
+run_uuid: 519a8f5183e84506a1992e605fa7a366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240275530
+status: 3
+tags: []
+user_id: unknown

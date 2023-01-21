@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dd0b56e9ca0c40b5bbdedef4115f2b8d/artifacts
+end_time: 1670180820987
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd0b56e9ca0c40b5bbdedef4115f2b8d
+run_name: sedate-boar-250
+run_uuid: dd0b56e9ca0c40b5bbdedef4115f2b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241981985
+status: 3
+tags: []
+user_id: unknown

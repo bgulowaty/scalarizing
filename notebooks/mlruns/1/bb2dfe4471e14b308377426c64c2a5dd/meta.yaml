@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bb2dfe4471e14b308377426c64c2a5dd/artifacts
+end_time: 1669953480754
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb2dfe4471e14b308377426c64c2a5dd
+run_name: capable-frog-69
+run_uuid: bb2dfe4471e14b308377426c64c2a5dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240342782
+status: 3
+tags: []
+user_id: unknown

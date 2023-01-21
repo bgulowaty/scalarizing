@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5e8b9c5211274ba6a543cab86b8744c9/artifacts
+end_time: 1670181149128
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e8b9c5211274ba6a543cab86b8744c9
+run_name: fearless-bat-829
+run_uuid: 5e8b9c5211274ba6a543cab86b8744c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240860559
+status: 3
+tags: []
+user_id: unknown

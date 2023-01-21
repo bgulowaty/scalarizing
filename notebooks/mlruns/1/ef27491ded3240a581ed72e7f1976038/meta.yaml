@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ef27491ded3240a581ed72e7f1976038/artifacts
+end_time: 1669954776824
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef27491ded3240a581ed72e7f1976038
+run_name: carefree-seal-354
+run_uuid: ef27491ded3240a581ed72e7f1976038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240192192
+status: 3
+tags: []
+user_id: unknown

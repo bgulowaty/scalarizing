@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/01482143d45b45c8b1d25f14cd33eca9/artifacts
+end_time: 1669946359264
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01482143d45b45c8b1d25f14cd33eca9
+run_name: rebellious-roo-148
+run_uuid: 01482143d45b45c8b1d25f14cd33eca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241585541
+status: 3
+tags: []
+user_id: unknown

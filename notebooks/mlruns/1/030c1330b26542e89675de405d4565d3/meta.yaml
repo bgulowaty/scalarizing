@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/030c1330b26542e89675de405d4565d3/artifacts
+end_time: 1670103805751
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 030c1330b26542e89675de405d4565d3
+run_name: skillful-lark-948
+run_uuid: 030c1330b26542e89675de405d4565d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240033878
+status: 3
+tags: []
+user_id: unknown

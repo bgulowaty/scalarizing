@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c185107a066f4940b88586014c756996/artifacts
+end_time: 1669953174133
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c185107a066f4940b88586014c756996
+run_name: silent-shad-374
+run_uuid: c185107a066f4940b88586014c756996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240373738
+status: 3
+tags: []
+user_id: unknown

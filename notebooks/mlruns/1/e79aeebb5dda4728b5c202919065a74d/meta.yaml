@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e79aeebb5dda4728b5c202919065a74d/artifacts
+end_time: 1670180907214
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e79aeebb5dda4728b5c202919065a74d
+run_name: resilient-doe-992
+run_uuid: e79aeebb5dda4728b5c202919065a74d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241227138
+status: 3
+tags: []
+user_id: unknown

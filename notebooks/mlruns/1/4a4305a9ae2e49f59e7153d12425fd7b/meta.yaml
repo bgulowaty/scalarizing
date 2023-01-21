@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a4305a9ae2e49f59e7153d12425fd7b/artifacts
+end_time: 1669953807272
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a4305a9ae2e49f59e7153d12425fd7b
+run_name: thoughtful-foal-46
+run_uuid: 4a4305a9ae2e49f59e7153d12425fd7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240300373
+status: 3
+tags: []
+user_id: unknown

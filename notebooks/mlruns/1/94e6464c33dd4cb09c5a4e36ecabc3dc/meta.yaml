@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/94e6464c33dd4cb09c5a4e36ecabc3dc/artifacts
+end_time: 1669946684621
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94e6464c33dd4cb09c5a4e36ecabc3dc
+run_name: glamorous-whale-434
+run_uuid: 94e6464c33dd4cb09c5a4e36ecabc3dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241531427
+status: 3
+tags: []
+user_id: unknown

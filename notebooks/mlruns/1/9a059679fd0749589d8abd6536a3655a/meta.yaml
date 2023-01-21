@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9a059679fd0749589d8abd6536a3655a/artifacts
+end_time: 1669944172459
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a059679fd0749589d8abd6536a3655a
+run_name: redolent-flea-147
+run_uuid: 9a059679fd0749589d8abd6536a3655a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242152912
+status: 3
+tags: []
+user_id: unknown

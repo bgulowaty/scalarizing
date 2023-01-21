@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8b2be3bc166b4496b5ece7f4b05bc423/artifacts
+end_time: 1670162736544
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8b2be3bc166b4496b5ece7f4b05bc423
+run_name: bustling-worm-810
+run_uuid: 8b2be3bc166b4496b5ece7f4b05bc423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150279473
+status: 3
+tags: []
+user_id: unknown

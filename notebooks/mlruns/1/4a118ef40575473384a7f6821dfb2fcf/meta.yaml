@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a118ef40575473384a7f6821dfb2fcf/artifacts
+end_time: 1669946625914
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a118ef40575473384a7f6821dfb2fcf
+run_name: thoughtful-moose-347
+run_uuid: 4a118ef40575473384a7f6821dfb2fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241574402
+status: 3
+tags: []
+user_id: unknown

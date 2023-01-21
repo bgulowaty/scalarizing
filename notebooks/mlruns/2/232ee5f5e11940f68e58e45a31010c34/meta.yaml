@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/232ee5f5e11940f68e58e45a31010c34/artifacts
+end_time: 1670162071074
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 232ee5f5e11940f68e58e45a31010c34
+run_name: unique-smelt-540
+run_uuid: 232ee5f5e11940f68e58e45a31010c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150452567
+status: 3
+tags: []
+user_id: unknown

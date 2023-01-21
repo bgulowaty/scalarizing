@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3035d52b9ce84e95b46459b501f8562b/artifacts
+end_time: 1670104745231
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3035d52b9ce84e95b46459b501f8562b
+run_name: funny-bat-432
+run_uuid: 3035d52b9ce84e95b46459b501f8562b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239968780
+status: 3
+tags: []
+user_id: unknown

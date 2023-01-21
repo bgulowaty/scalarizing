@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f51fefd63e7d40d3953413f1266075fa/artifacts
+end_time: 1669942794001
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f51fefd63e7d40d3953413f1266075fa
+run_name: kindly-elk-621
+run_uuid: f51fefd63e7d40d3953413f1266075fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242513089
+status: 3
+tags: []
+user_id: unknown

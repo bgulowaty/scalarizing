@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/11f7edf99aef48b6ba439ca94b450269/artifacts
+end_time: 1669947969637
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11f7edf99aef48b6ba439ca94b450269
+run_name: glamorous-shrike-1
+run_uuid: 11f7edf99aef48b6ba439ca94b450269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241250911
+status: 3
+tags: []
+user_id: unknown

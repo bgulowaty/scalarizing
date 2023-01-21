@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13b8ac2e8cba491f810de0714327f8e0/artifacts
+end_time: 1669951009311
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13b8ac2e8cba491f810de0714327f8e0
+run_name: selective-fox-784
+run_uuid: 13b8ac2e8cba491f810de0714327f8e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240661256
+status: 3
+tags: []
+user_id: unknown

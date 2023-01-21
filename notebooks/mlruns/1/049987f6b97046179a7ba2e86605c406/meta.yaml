@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/049987f6b97046179a7ba2e86605c406/artifacts
+end_time: 1669954061352
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 049987f6b97046179a7ba2e86605c406
+run_name: upset-squid-159
+run_uuid: 049987f6b97046179a7ba2e86605c406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240276275
+status: 3
+tags: []
+user_id: unknown

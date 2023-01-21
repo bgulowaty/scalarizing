@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5bcb9c2477eb4800ae46f9bff1bb2010/artifacts
+end_time: 1670162620197
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5bcb9c2477eb4800ae46f9bff1bb2010
+run_name: learned-shrew-577
+run_uuid: 5bcb9c2477eb4800ae46f9bff1bb2010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150246252
+status: 3
+tags: []
+user_id: unknown

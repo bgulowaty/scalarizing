@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/458bc7617d5849baa9d241163a94a994/artifacts
+end_time: 1670105970549
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 458bc7617d5849baa9d241163a94a994
+run_name: industrious-tern-146
+run_uuid: 458bc7617d5849baa9d241163a94a994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239911842
+status: 3
+tags: []
+user_id: unknown

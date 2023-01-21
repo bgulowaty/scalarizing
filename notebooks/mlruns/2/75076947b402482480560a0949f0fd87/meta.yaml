@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/75076947b402482480560a0949f0fd87/artifacts
+end_time: 1670162399607
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 75076947b402482480560a0949f0fd87
+run_name: caring-foal-171
+run_uuid: 75076947b402482480560a0949f0fd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150320286
+status: 3
+tags: []
+user_id: unknown

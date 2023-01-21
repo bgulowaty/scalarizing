@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d89ff5e095f543b887943caee364a6e2/artifacts
+end_time: 1670105017791
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d89ff5e095f543b887943caee364a6e2
+run_name: clean-squid-725
+run_uuid: d89ff5e095f543b887943caee364a6e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239966566
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6f4c490b8a124e1badb2c7f21e821404/artifacts
+end_time: 1669951982852
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f4c490b8a124e1badb2c7f21e821404
+run_name: chill-kite-410
+run_uuid: 6f4c490b8a124e1badb2c7f21e821404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240526621
+status: 3
+tags: []
+user_id: unknown

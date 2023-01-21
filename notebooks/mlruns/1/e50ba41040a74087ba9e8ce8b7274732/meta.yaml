@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e50ba41040a74087ba9e8ce8b7274732/artifacts
+end_time: 1669956287629
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e50ba41040a74087ba9e8ce8b7274732
+run_name: placid-seal-789
+run_uuid: e50ba41040a74087ba9e8ce8b7274732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240067862
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0fe07d06de8d4ad290ed21cccdb09787/artifacts
+end_time: 1669942244669
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0fe07d06de8d4ad290ed21cccdb09787
+run_name: silent-stag-412
+run_uuid: 0fe07d06de8d4ad290ed21cccdb09787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242874562
+status: 3
+tags: []
+user_id: unknown

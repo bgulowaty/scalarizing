@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e01e7c3285a48fe9faba1f017efc591/artifacts
+end_time: 1670181164036
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e01e7c3285a48fe9faba1f017efc591
+run_name: fortunate-lynx-274
+run_uuid: 4e01e7c3285a48fe9faba1f017efc591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241128560
+status: 3
+tags: []
+user_id: unknown

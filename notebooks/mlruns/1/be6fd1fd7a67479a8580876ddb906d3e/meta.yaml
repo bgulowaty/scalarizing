@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/be6fd1fd7a67479a8580876ddb906d3e/artifacts
+end_time: 1669954063100
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be6fd1fd7a67479a8580876ddb906d3e
+run_name: nervous-ant-257
+run_uuid: be6fd1fd7a67479a8580876ddb906d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240272472
+status: 3
+tags: []
+user_id: unknown

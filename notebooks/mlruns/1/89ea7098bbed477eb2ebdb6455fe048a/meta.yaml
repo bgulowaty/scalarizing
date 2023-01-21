@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89ea7098bbed477eb2ebdb6455fe048a/artifacts
+end_time: 1669948471448
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89ea7098bbed477eb2ebdb6455fe048a
+run_name: nimble-sheep-837
+run_uuid: 89ea7098bbed477eb2ebdb6455fe048a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241174343
+status: 3
+tags: []
+user_id: unknown

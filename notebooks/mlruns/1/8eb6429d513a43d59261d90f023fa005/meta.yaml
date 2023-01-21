@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8eb6429d513a43d59261d90f023fa005/artifacts
+end_time: 1669954733008
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8eb6429d513a43d59261d90f023fa005
+run_name: blushing-hare-348
+run_uuid: 8eb6429d513a43d59261d90f023fa005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240214886
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb21fd3cc2904aa7bb2134c6f13cca55/artifacts
+end_time: 1670105735287
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb21fd3cc2904aa7bb2134c6f13cca55
+run_name: amusing-ant-702
+run_uuid: fb21fd3cc2904aa7bb2134c6f13cca55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239920153
+status: 3
+tags: []
+user_id: unknown

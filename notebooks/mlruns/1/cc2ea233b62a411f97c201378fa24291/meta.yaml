@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc2ea233b62a411f97c201378fa24291/artifacts
+end_time: 1669954061984
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc2ea233b62a411f97c201378fa24291
+run_name: painted-sheep-997
+run_uuid: cc2ea233b62a411f97c201378fa24291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240272869
+status: 3
+tags: []
+user_id: unknown

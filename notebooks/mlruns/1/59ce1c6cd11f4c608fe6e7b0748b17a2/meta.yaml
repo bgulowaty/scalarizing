@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59ce1c6cd11f4c608fe6e7b0748b17a2/artifacts
+end_time: 1670104744817
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59ce1c6cd11f4c608fe6e7b0748b17a2
+run_name: luxuriant-ant-982
+run_uuid: 59ce1c6cd11f4c608fe6e7b0748b17a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239968275
+status: 3
+tags: []
+user_id: unknown

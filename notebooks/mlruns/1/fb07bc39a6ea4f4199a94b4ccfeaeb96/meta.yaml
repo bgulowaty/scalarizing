@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb07bc39a6ea4f4199a94b4ccfeaeb96/artifacts
+end_time: 1669948145884
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb07bc39a6ea4f4199a94b4ccfeaeb96
+run_name: mysterious-gnu-991
+run_uuid: fb07bc39a6ea4f4199a94b4ccfeaeb96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241262403
+status: 3
+tags: []
+user_id: unknown

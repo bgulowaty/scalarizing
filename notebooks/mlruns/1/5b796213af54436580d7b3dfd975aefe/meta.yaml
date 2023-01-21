@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5b796213af54436580d7b3dfd975aefe/artifacts
+end_time: 1669948264026
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b796213af54436580d7b3dfd975aefe
+run_name: charming-elk-423
+run_uuid: 5b796213af54436580d7b3dfd975aefe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241194667
+status: 3
+tags: []
+user_id: unknown

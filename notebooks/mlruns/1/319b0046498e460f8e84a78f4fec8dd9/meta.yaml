@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/319b0046498e460f8e84a78f4fec8dd9/artifacts
+end_time: 1669947848631
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 319b0046498e460f8e84a78f4fec8dd9
+run_name: secretive-fowl-532
+run_uuid: 319b0046498e460f8e84a78f4fec8dd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241306603
+status: 3
+tags: []
+user_id: unknown

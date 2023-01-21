@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/57a1446717bf43cd99f35956021a11db/artifacts
+end_time: 1670180876406
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57a1446717bf43cd99f35956021a11db
+run_name: puzzled-conch-767
+run_uuid: 57a1446717bf43cd99f35956021a11db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241564590
+status: 3
+tags: []
+user_id: unknown

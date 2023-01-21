@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b852d8889aff492e8fdc513014bda865/artifacts
+end_time: 1669953786740
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b852d8889aff492e8fdc513014bda865
+run_name: polite-seal-823
+run_uuid: b852d8889aff492e8fdc513014bda865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240312619
+status: 3
+tags: []
+user_id: unknown

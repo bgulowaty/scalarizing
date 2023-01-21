@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/65cba3b501c149e08f2f078d9731ae0b/artifacts
+end_time: 1669942536182
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65cba3b501c149e08f2f078d9731ae0b
+run_name: gentle-robin-929
+run_uuid: 65cba3b501c149e08f2f078d9731ae0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242744575
+status: 3
+tags: []
+user_id: unknown

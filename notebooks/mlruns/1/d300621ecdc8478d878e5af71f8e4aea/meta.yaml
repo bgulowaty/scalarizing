@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d300621ecdc8478d878e5af71f8e4aea/artifacts
+end_time: 1669943399141
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d300621ecdc8478d878e5af71f8e4aea
+run_name: charming-hound-403
+run_uuid: d300621ecdc8478d878e5af71f8e4aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242400481
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/42fd38589fb441bd9d652e96b5cc1ca7/artifacts
+end_time: 1669945737823
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42fd38589fb441bd9d652e96b5cc1ca7
+run_name: wise-calf-867
+run_uuid: 42fd38589fb441bd9d652e96b5cc1ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241738267
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac60c3acfbba4761846853f4486138b5/artifacts
+end_time: 1669951352419
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac60c3acfbba4761846853f4486138b5
+run_name: selective-bear-6
+run_uuid: ac60c3acfbba4761846853f4486138b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240597136
+status: 3
+tags: []
+user_id: unknown

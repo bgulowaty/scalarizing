@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09c07cc6e29440cf9cc652b9c85a2016/artifacts
+end_time: 1669951296090
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09c07cc6e29440cf9cc652b9c85a2016
+run_name: beautiful-lark-511
+run_uuid: 09c07cc6e29440cf9cc652b9c85a2016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240614249
+status: 3
+tags: []
+user_id: unknown

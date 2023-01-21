@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/db2e54358d7445b7899d6e393ea5068d/artifacts
+end_time: 1669943451498
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db2e54358d7445b7899d6e393ea5068d
+run_name: traveling-donkey-104
+run_uuid: db2e54358d7445b7899d6e393ea5068d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242331732
+status: 3
+tags: []
+user_id: unknown

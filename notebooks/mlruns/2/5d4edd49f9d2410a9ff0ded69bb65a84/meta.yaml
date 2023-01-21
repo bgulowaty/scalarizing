@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5d4edd49f9d2410a9ff0ded69bb65a84/artifacts
+end_time: 1670162175116
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5d4edd49f9d2410a9ff0ded69bb65a84
+run_name: useful-cow-118
+run_uuid: 5d4edd49f9d2410a9ff0ded69bb65a84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150426131
+status: 3
+tags: []
+user_id: unknown

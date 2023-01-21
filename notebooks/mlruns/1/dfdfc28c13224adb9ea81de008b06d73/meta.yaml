@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dfdfc28c13224adb9ea81de008b06d73/artifacts
+end_time: 1669953803304
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dfdfc28c13224adb9ea81de008b06d73
+run_name: rebellious-fly-963
+run_uuid: dfdfc28c13224adb9ea81de008b06d73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240294459
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c9e640dea9b846c6b14e26d9c6b5264d/artifacts
+end_time: 1669947309615
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9e640dea9b846c6b14e26d9c6b5264d
+run_name: adaptable-fox-302
+run_uuid: c9e640dea9b846c6b14e26d9c6b5264d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241387882
+status: 3
+tags: []
+user_id: unknown

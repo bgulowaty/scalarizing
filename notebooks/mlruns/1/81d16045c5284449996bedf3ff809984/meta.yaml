@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/81d16045c5284449996bedf3ff809984/artifacts
+end_time: 1669942779255
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81d16045c5284449996bedf3ff809984
+run_name: popular-bird-192
+run_uuid: 81d16045c5284449996bedf3ff809984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242516395
+status: 3
+tags: []
+user_id: unknown

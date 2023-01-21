@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fdfe5db427d1409ea782f1ad7d159ee4/artifacts
+end_time: 1669945687157
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdfe5db427d1409ea782f1ad7d159ee4
+run_name: welcoming-ram-178
+run_uuid: fdfe5db427d1409ea782f1ad7d159ee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241771730
+status: 3
+tags: []
+user_id: unknown

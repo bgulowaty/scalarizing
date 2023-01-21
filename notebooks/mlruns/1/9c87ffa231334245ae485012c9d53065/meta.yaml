@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9c87ffa231334245ae485012c9d53065/artifacts
+end_time: 1669943296195
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c87ffa231334245ae485012c9d53065
+run_name: bustling-stoat-620
+run_uuid: 9c87ffa231334245ae485012c9d53065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242371800
+status: 3
+tags: []
+user_id: unknown

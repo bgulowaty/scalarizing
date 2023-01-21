@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d9e3921a2fe64b1493b7068e4a119ce0/artifacts
+end_time: 1670106296677
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9e3921a2fe64b1493b7068e4a119ce0
+run_name: magnificent-mink-954
+run_uuid: d9e3921a2fe64b1493b7068e4a119ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239896372
+status: 3
+tags: []
+user_id: unknown

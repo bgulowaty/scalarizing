@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3914beab5f9945c286f7429a9c03f286/artifacts
+end_time: 1669951625383
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3914beab5f9945c286f7429a9c03f286
+run_name: gentle-ox-558
+run_uuid: 3914beab5f9945c286f7429a9c03f286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240582988
+status: 3
+tags: []
+user_id: unknown

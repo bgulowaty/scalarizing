@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2837b634725340ddad154e28f0d3e21f/artifacts
+end_time: 1669944107669
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2837b634725340ddad154e28f0d3e21f
+run_name: powerful-ox-455
+run_uuid: 2837b634725340ddad154e28f0d3e21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242149292
+status: 3
+tags: []
+user_id: unknown

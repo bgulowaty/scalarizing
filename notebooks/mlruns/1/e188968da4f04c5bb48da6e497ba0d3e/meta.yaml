@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e188968da4f04c5bb48da6e497ba0d3e/artifacts
+end_time: 1670102308367
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e188968da4f04c5bb48da6e497ba0d3e
+run_name: stately-worm-304
+run_uuid: e188968da4f04c5bb48da6e497ba0d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242614495
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5d63b9508dec4211a19cd7d7f5c17baf/artifacts
+end_time: 1670102495173
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d63b9508dec4211a19cd7d7f5c17baf
+run_name: peaceful-fly-318
+run_uuid: 5d63b9508dec4211a19cd7d7f5c17baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242573759
+status: 3
+tags: []
+user_id: unknown

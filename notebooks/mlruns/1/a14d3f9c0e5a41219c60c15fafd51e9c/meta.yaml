@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a14d3f9c0e5a41219c60c15fafd51e9c/artifacts
+end_time: 1669950646579
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a14d3f9c0e5a41219c60c15fafd51e9c
+run_name: painted-chimp-320
+run_uuid: a14d3f9c0e5a41219c60c15fafd51e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240723224
+status: 3
+tags: []
+user_id: unknown

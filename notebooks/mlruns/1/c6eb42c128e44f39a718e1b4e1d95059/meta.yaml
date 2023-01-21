@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c6eb42c128e44f39a718e1b4e1d95059/artifacts
+end_time: 1669944511028
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6eb42c128e44f39a718e1b4e1d95059
+run_name: victorious-stoat-157
+run_uuid: c6eb42c128e44f39a718e1b4e1d95059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242051036
+status: 3
+tags: []
+user_id: unknown

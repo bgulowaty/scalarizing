@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/75fc9c705f3948bc8aefdc6b51eb8a10/artifacts
+end_time: 1670105029371
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75fc9c705f3948bc8aefdc6b51eb8a10
+run_name: receptive-lark-792
+run_uuid: 75fc9c705f3948bc8aefdc6b51eb8a10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239958573
+status: 3
+tags: []
+user_id: unknown

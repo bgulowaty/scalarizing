@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc1b055060ad499d96050c020ca1d624/artifacts
+end_time: 1670180614202
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc1b055060ad499d96050c020ca1d624
+run_name: luxuriant-turtle-825
+run_uuid: cc1b055060ad499d96050c020ca1d624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242125164
+status: 3
+tags: []
+user_id: unknown

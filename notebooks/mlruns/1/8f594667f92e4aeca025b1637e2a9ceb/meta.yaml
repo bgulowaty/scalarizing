@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8f594667f92e4aeca025b1637e2a9ceb/artifacts
+end_time: 1669946053099
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f594667f92e4aeca025b1637e2a9ceb
+run_name: welcoming-grouse-492
+run_uuid: 8f594667f92e4aeca025b1637e2a9ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241707933
+status: 3
+tags: []
+user_id: unknown

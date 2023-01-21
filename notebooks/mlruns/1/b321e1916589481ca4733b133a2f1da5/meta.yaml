@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b321e1916589481ca4733b133a2f1da5/artifacts
+end_time: 1670106323183
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b321e1916589481ca4733b133a2f1da5
+run_name: rebellious-yak-73
+run_uuid: b321e1916589481ca4733b133a2f1da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904602
+status: 3
+tags: []
+user_id: unknown

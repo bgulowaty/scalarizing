@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/df51a476104b49348c98474601f72249/artifacts
+end_time: 1669953480102
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df51a476104b49348c98474601f72249
+run_name: nimble-bat-391
+run_uuid: df51a476104b49348c98474601f72249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240346284
+status: 3
+tags: []
+user_id: unknown

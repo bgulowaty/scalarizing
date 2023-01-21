@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e270410962854e0597d96f399f90ed65/artifacts
+end_time: 1670104717081
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e270410962854e0597d96f399f90ed65
+run_name: funny-cow-858
+run_uuid: e270410962854e0597d96f399f90ed65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239974238
+status: 3
+tags: []
+user_id: unknown

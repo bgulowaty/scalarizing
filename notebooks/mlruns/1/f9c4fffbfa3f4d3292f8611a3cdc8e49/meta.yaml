@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f9c4fffbfa3f4d3292f8611a3cdc8e49/artifacts
+end_time: 1669948200669
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9c4fffbfa3f4d3292f8611a3cdc8e49
+run_name: righteous-stag-848
+run_uuid: f9c4fffbfa3f4d3292f8611a3cdc8e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241246555
+status: 3
+tags: []
+user_id: unknown

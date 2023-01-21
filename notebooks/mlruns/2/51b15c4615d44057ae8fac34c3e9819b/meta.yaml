@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/51b15c4615d44057ae8fac34c3e9819b/artifacts
+end_time: 1670162723386
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 51b15c4615d44057ae8fac34c3e9819b
+run_name: casual-worm-464
+run_uuid: 51b15c4615d44057ae8fac34c3e9819b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150230429
+status: 3
+tags: []
+user_id: unknown

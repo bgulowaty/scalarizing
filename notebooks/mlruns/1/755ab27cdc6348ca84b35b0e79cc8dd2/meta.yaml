@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/755ab27cdc6348ca84b35b0e79cc8dd2/artifacts
+end_time: 1669947260446
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 755ab27cdc6348ca84b35b0e79cc8dd2
+run_name: flawless-swan-141
+run_uuid: 755ab27cdc6348ca84b35b0e79cc8dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241401080
+status: 3
+tags: []
+user_id: unknown

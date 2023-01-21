@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5818c8df197b4aa1a2f7eb5c289c6be2/artifacts
+end_time: 1669945998497
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5818c8df197b4aa1a2f7eb5c289c6be2
+run_name: nebulous-bass-17
+run_uuid: 5818c8df197b4aa1a2f7eb5c289c6be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241705295
+status: 3
+tags: []
+user_id: unknown

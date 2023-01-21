@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/427e14fe57f740e1962cc73874a7f001/artifacts
+end_time: 1669950060864
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 427e14fe57f740e1962cc73874a7f001
+run_name: handsome-auk-20
+run_uuid: 427e14fe57f740e1962cc73874a7f001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240833490
+status: 3
+tags: []
+user_id: unknown

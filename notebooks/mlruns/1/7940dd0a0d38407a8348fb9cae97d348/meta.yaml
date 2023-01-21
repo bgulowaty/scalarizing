@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7940dd0a0d38407a8348fb9cae97d348/artifacts
+end_time: 1669943640658
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7940dd0a0d38407a8348fb9cae97d348
+run_name: resilient-goose-406
+run_uuid: 7940dd0a0d38407a8348fb9cae97d348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242284241
+status: 3
+tags: []
+user_id: unknown

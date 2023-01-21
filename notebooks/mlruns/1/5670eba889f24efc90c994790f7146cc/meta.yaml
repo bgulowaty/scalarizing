@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5670eba889f24efc90c994790f7146cc/artifacts
+end_time: 1669942923898
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5670eba889f24efc90c994790f7146cc
+run_name: industrious-ape-584
+run_uuid: 5670eba889f24efc90c994790f7146cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242468989
+status: 3
+tags: []
+user_id: unknown

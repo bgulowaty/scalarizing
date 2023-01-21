@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a230b2bd42f04374a4ba08b29ee051f2/artifacts
+end_time: 1669949749020
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a230b2bd42f04374a4ba08b29ee051f2
+run_name: lyrical-pug-458
+run_uuid: a230b2bd42f04374a4ba08b29ee051f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240901047
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8c80687005ab4c52af2149a9e028f8fb/artifacts
+end_time: 1669951490311
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c80687005ab4c52af2149a9e028f8fb
+run_name: kindly-ox-786
+run_uuid: 8c80687005ab4c52af2149a9e028f8fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240590989
+status: 3
+tags: []
+user_id: unknown

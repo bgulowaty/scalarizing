@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0ce20f6eca314ec8b7008d3b1dd0903b/artifacts
+end_time: 1669948816214
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ce20f6eca314ec8b7008d3b1dd0903b
+run_name: adventurous-goat-138
+run_uuid: 0ce20f6eca314ec8b7008d3b1dd0903b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241106536
+status: 3
+tags: []
+user_id: unknown

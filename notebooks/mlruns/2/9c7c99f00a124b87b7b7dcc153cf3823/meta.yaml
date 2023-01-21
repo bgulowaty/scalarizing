@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9c7c99f00a124b87b7b7dcc153cf3823/artifacts
+end_time: 1670162294161
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9c7c99f00a124b87b7b7dcc153cf3823
+run_name: selective-robin-133
+run_uuid: 9c7c99f00a124b87b7b7dcc153cf3823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150362654
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c4d2a32f669a4fb494839d1057050345/artifacts
+end_time: 1669948478231
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4d2a32f669a4fb494839d1057050345
+run_name: entertaining-eel-420
+run_uuid: c4d2a32f669a4fb494839d1057050345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241171255
+status: 3
+tags: []
+user_id: unknown

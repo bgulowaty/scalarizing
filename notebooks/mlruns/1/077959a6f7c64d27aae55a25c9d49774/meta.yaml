@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/077959a6f7c64d27aae55a25c9d49774/artifacts
+end_time: 1670103191208
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 077959a6f7c64d27aae55a25c9d49774
+run_name: bedecked-mink-723
+run_uuid: 077959a6f7c64d27aae55a25c9d49774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241132099
+status: 3
+tags: []
+user_id: unknown

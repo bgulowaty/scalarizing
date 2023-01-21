@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/393cd4b29e904979a4f9753796d84c0c/artifacts
+end_time: 1669950665313
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 393cd4b29e904979a4f9753796d84c0c
+run_name: mercurial-fox-443
+run_uuid: 393cd4b29e904979a4f9753796d84c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240723444
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d027f99216a44f37a6bba5f1693b58fe/artifacts
+end_time: 1669952519846
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d027f99216a44f37a6bba5f1693b58fe
+run_name: enchanting-colt-467
+run_uuid: d027f99216a44f37a6bba5f1693b58fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240445098
+status: 3
+tags: []
+user_id: unknown

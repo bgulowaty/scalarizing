@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/217d160c56d949df83b1c9ce40c77822/artifacts
+end_time: 1669945993515
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 217d160c56d949df83b1c9ce40c77822
+run_name: placid-stag-491
+run_uuid: 217d160c56d949df83b1c9ce40c77822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241692663
+status: 3
+tags: []
+user_id: unknown

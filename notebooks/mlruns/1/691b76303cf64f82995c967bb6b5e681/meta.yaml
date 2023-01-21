@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/691b76303cf64f82995c967bb6b5e681/artifacts
+end_time: 1669946306169
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 691b76303cf64f82995c967bb6b5e681
+run_name: puzzled-shad-226
+run_uuid: 691b76303cf64f82995c967bb6b5e681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241638435
+status: 3
+tags: []
+user_id: unknown

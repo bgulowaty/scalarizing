@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ca3677d8bb24995aef023722cf03aba/artifacts
+end_time: 1669950109125
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ca3677d8bb24995aef023722cf03aba
+run_name: bustling-bear-668
+run_uuid: 2ca3677d8bb24995aef023722cf03aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240831497
+status: 3
+tags: []
+user_id: unknown

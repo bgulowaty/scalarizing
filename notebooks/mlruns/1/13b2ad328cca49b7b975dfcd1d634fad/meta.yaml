@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13b2ad328cca49b7b975dfcd1d634fad/artifacts
+end_time: 1669951296041
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13b2ad328cca49b7b975dfcd1d634fad
+run_name: amazing-crab-362
+run_uuid: 13b2ad328cca49b7b975dfcd1d634fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240621087
+status: 3
+tags: []
+user_id: unknown

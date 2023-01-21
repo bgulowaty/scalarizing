@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/93c40662f1c24f35a45185abfb9535e8/artifacts
+end_time: 1669944030459
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93c40662f1c24f35a45185abfb9535e8
+run_name: charming-wolf-194
+run_uuid: 93c40662f1c24f35a45185abfb9535e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242166974
+status: 3
+tags: []
+user_id: unknown

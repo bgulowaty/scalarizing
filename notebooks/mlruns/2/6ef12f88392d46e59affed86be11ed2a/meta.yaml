@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6ef12f88392d46e59affed86be11ed2a/artifacts
+end_time: 1670162181100
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6ef12f88392d46e59affed86be11ed2a
+run_name: shivering-bug-291
+run_uuid: 6ef12f88392d46e59affed86be11ed2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150403010
+status: 3
+tags: []
+user_id: unknown

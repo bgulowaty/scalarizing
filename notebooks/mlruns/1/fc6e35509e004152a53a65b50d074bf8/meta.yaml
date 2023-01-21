@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc6e35509e004152a53a65b50d074bf8/artifacts
+end_time: 1669947372651
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc6e35509e004152a53a65b50d074bf8
+run_name: respected-kite-645
+run_uuid: fc6e35509e004152a53a65b50d074bf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241412417
+status: 3
+tags: []
+user_id: unknown

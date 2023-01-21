@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/192cb093e5e049779ab36e1d65f79aa9/artifacts
+end_time: 1670181450506
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 192cb093e5e049779ab36e1d65f79aa9
+run_name: dapper-flea-483
+run_uuid: 192cb093e5e049779ab36e1d65f79aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240249368
+status: 3
+tags: []
+user_id: unknown

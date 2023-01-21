@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8322d8255a2443f081357a46290599bf/artifacts
+end_time: 1669953839426
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8322d8255a2443f081357a46290599bf
+run_name: dapper-trout-795
+run_uuid: 8322d8255a2443f081357a46290599bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240286682
+status: 3
+tags: []
+user_id: unknown

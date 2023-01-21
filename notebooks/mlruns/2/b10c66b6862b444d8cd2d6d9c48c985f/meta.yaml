@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b10c66b6862b444d8cd2d6d9c48c985f/artifacts
+end_time: 1670162614770
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b10c66b6862b444d8cd2d6d9c48c985f
+run_name: ambitious-goat-233
+run_uuid: b10c66b6862b444d8cd2d6d9c48c985f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150256209
+status: 3
+tags: []
+user_id: unknown

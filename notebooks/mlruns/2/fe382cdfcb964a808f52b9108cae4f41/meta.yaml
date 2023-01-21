@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fe382cdfcb964a808f52b9108cae4f41/artifacts
+end_time: 1670162621631
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fe382cdfcb964a808f52b9108cae4f41
+run_name: abrasive-ram-975
+run_uuid: fe382cdfcb964a808f52b9108cae4f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150266244
+status: 3
+tags: []
+user_id: unknown

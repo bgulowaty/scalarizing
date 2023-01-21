@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e117fd8c90a64696842a9e2e05f2d694/artifacts
+end_time: 1669951357719
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e117fd8c90a64696842a9e2e05f2d694
+run_name: luxuriant-mule-726
+run_uuid: e117fd8c90a64696842a9e2e05f2d694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240602338
+status: 3
+tags: []
+user_id: unknown

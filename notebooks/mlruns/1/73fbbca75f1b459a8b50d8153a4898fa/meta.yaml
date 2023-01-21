@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/73fbbca75f1b459a8b50d8153a4898fa/artifacts
+end_time: 1669951046212
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73fbbca75f1b459a8b50d8153a4898fa
+run_name: powerful-snake-952
+run_uuid: 73fbbca75f1b459a8b50d8153a4898fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240651011
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cfbdaab05dfc406cbbd60a15bd3a231d/artifacts
+end_time: 1670103788916
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfbdaab05dfc406cbbd60a15bd3a231d
+run_name: righteous-deer-536
+run_uuid: cfbdaab05dfc406cbbd60a15bd3a231d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240195236
+status: 3
+tags: []
+user_id: unknown

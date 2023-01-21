@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bc89ef3ec7e142978d0cef63c7eebaac/artifacts
+end_time: 1669949188136
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc89ef3ec7e142978d0cef63c7eebaac
+run_name: sedate-sow-316
+run_uuid: bc89ef3ec7e142978d0cef63c7eebaac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241019593
+status: 3
+tags: []
+user_id: unknown

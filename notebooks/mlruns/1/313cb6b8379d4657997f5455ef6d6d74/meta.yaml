@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/313cb6b8379d4657997f5455ef6d6d74/artifacts
+end_time: 1670104125429
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 313cb6b8379d4657997f5455ef6d6d74
+run_name: gaudy-flea-385
+run_uuid: 313cb6b8379d4657997f5455ef6d6d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240006553
+status: 3
+tags: []
+user_id: unknown

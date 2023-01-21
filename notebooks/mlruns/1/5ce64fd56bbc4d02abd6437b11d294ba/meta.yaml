@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5ce64fd56bbc4d02abd6437b11d294ba/artifacts
+end_time: 1669955305650
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ce64fd56bbc4d02abd6437b11d294ba
+run_name: merciful-stork-458
+run_uuid: 5ce64fd56bbc4d02abd6437b11d294ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240149497
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ecc96d2c917247e184af4c2ffb3505fa/artifacts
+end_time: 1669956236673
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecc96d2c917247e184af4c2ffb3505fa
+run_name: orderly-bee-392
+run_uuid: ecc96d2c917247e184af4c2ffb3505fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240083574
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/58e2e5a3d6bd406f87bd43c083ca7072/artifacts
+end_time: 1669945086750
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58e2e5a3d6bd406f87bd43c083ca7072
+run_name: nosy-dolphin-733
+run_uuid: 58e2e5a3d6bd406f87bd43c083ca7072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241909816
+status: 3
+tags: []
+user_id: unknown

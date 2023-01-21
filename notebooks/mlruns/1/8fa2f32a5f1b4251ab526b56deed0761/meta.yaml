@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8fa2f32a5f1b4251ab526b56deed0761/artifacts
+end_time: 1669950681607
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8fa2f32a5f1b4251ab526b56deed0761
+run_name: defiant-shrew-357
+run_uuid: 8fa2f32a5f1b4251ab526b56deed0761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240714322
+status: 3
+tags: []
+user_id: unknown

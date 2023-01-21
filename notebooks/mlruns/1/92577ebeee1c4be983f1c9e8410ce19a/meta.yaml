@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/92577ebeee1c4be983f1c9e8410ce19a/artifacts
+end_time: 1669946462778
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92577ebeee1c4be983f1c9e8410ce19a
+run_name: luminous-penguin-143
+run_uuid: 92577ebeee1c4be983f1c9e8410ce19a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241582254
+status: 3
+tags: []
+user_id: unknown

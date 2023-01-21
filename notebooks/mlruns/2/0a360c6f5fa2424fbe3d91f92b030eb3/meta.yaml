@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0a360c6f5fa2424fbe3d91f92b030eb3/artifacts
+end_time: 1670162612305
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0a360c6f5fa2424fbe3d91f92b030eb3
+run_name: indecisive-midge-916
+run_uuid: 0a360c6f5fa2424fbe3d91f92b030eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150270071
+status: 3
+tags: []
+user_id: unknown

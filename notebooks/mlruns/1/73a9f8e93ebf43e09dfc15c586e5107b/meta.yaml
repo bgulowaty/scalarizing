@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/73a9f8e93ebf43e09dfc15c586e5107b/artifacts
+end_time: 1669953783653
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73a9f8e93ebf43e09dfc15c586e5107b
+run_name: puzzled-bear-571
+run_uuid: 73a9f8e93ebf43e09dfc15c586e5107b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240312862
+status: 3
+tags: []
+user_id: unknown

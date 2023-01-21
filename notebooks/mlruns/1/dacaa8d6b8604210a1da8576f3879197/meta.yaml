@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dacaa8d6b8604210a1da8576f3879197/artifacts
+end_time: 1669950994981
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dacaa8d6b8604210a1da8576f3879197
+run_name: big-horse-348
+run_uuid: dacaa8d6b8604210a1da8576f3879197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240661108
+status: 3
+tags: []
+user_id: unknown

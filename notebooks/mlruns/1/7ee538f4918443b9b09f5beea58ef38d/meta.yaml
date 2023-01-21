@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ee538f4918443b9b09f5beea58ef38d/artifacts
+end_time: 1669946173519
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ee538f4918443b9b09f5beea58ef38d
+run_name: big-fowl-125
+run_uuid: 7ee538f4918443b9b09f5beea58ef38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241654545
+status: 3
+tags: []
+user_id: unknown

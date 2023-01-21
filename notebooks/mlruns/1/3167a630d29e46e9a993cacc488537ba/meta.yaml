@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3167a630d29e46e9a993cacc488537ba/artifacts
+end_time: 1669948561362
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3167a630d29e46e9a993cacc488537ba
+run_name: intrigued-newt-876
+run_uuid: 3167a630d29e46e9a993cacc488537ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241136806
+status: 3
+tags: []
+user_id: unknown

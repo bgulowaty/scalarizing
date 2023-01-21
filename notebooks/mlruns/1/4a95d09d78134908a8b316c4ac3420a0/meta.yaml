@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a95d09d78134908a8b316c4ac3420a0/artifacts
+end_time: 1669953846911
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a95d09d78134908a8b316c4ac3420a0
+run_name: luxuriant-carp-367
+run_uuid: 4a95d09d78134908a8b316c4ac3420a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240286951
+status: 3
+tags: []
+user_id: unknown

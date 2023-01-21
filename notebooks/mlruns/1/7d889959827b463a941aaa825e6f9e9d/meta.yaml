@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7d889959827b463a941aaa825e6f9e9d/artifacts
+end_time: 1669953840336
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d889959827b463a941aaa825e6f9e9d
+run_name: rebellious-shrew-101
+run_uuid: 7d889959827b463a941aaa825e6f9e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240293003
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e3dd238c6b941d79a1f07a073403933/artifacts
+end_time: 1669942744973
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e3dd238c6b941d79a1f07a073403933
+run_name: classy-mouse-850
+run_uuid: 3e3dd238c6b941d79a1f07a073403933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242522742
+status: 3
+tags: []
+user_id: unknown

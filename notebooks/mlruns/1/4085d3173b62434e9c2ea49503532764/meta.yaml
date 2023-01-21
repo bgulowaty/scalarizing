@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4085d3173b62434e9c2ea49503532764/artifacts
+end_time: 1670181795475
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4085d3173b62434e9c2ea49503532764
+run_name: silent-gnu-635
+run_uuid: 4085d3173b62434e9c2ea49503532764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239894267
+status: 3
+tags: []
+user_id: unknown

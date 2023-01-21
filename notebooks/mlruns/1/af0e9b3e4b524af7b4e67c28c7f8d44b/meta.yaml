@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/af0e9b3e4b524af7b4e67c28c7f8d44b/artifacts
+end_time: 1669953533272
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af0e9b3e4b524af7b4e67c28c7f8d44b
+run_name: valuable-mole-378
+run_uuid: af0e9b3e4b524af7b4e67c28c7f8d44b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240316188
+status: 3
+tags: []
+user_id: unknown

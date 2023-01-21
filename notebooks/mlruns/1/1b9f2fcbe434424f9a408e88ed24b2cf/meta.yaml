@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1b9f2fcbe434424f9a408e88ed24b2cf/artifacts
+end_time: 1669952892319
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b9f2fcbe434424f9a408e88ed24b2cf
+run_name: legendary-moth-478
+run_uuid: 1b9f2fcbe434424f9a408e88ed24b2cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240386070
+status: 3
+tags: []
+user_id: unknown

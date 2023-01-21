@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/72216552fa524359a31d9c5ab83acef5/artifacts
+end_time: 1669953784444
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72216552fa524359a31d9c5ab83acef5
+run_name: bold-ox-749
+run_uuid: 72216552fa524359a31d9c5ab83acef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240313630
+status: 3
+tags: []
+user_id: unknown

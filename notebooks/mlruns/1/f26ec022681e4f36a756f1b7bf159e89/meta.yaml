@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f26ec022681e4f36a756f1b7bf159e89/artifacts
+end_time: 1670106581300
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f26ec022681e4f36a756f1b7bf159e89
+run_name: colorful-frog-197
+run_uuid: f26ec022681e4f36a756f1b7bf159e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239891833
+status: 3
+tags: []
+user_id: unknown

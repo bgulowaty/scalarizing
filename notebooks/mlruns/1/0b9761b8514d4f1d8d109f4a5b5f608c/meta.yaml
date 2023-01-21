@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0b9761b8514d4f1d8d109f4a5b5f608c/artifacts
+end_time: 1670102019346
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b9761b8514d4f1d8d109f4a5b5f608c
+run_name: gentle-carp-106
+run_uuid: 0b9761b8514d4f1d8d109f4a5b5f608c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242731226
+status: 3
+tags: []
+user_id: unknown

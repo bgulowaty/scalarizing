@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b9ca3052c7b34659a801c696a65ec13a/artifacts
+end_time: 1669950346157
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b9ca3052c7b34659a801c696a65ec13a
+run_name: colorful-snail-526
+run_uuid: b9ca3052c7b34659a801c696a65ec13a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240793277
+status: 3
+tags: []
+user_id: unknown

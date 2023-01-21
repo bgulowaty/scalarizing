@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7353c372d47b47a59a0cd91cdcbcf121/artifacts
+end_time: 1669956246738
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7353c372d47b47a59a0cd91cdcbcf121
+run_name: skittish-whale-73
+run_uuid: 7353c372d47b47a59a0cd91cdcbcf121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240070345
+status: 3
+tags: []
+user_id: unknown

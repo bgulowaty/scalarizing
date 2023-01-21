@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3043283810034dc8b55b0b994dc77a54/artifacts
+end_time: 1670105672576
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3043283810034dc8b55b0b994dc77a54
+run_name: mercurial-snipe-105
+run_uuid: 3043283810034dc8b55b0b994dc77a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239921229
+status: 3
+tags: []
+user_id: unknown

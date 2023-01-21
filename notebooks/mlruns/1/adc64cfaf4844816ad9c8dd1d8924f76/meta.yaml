@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/adc64cfaf4844816ad9c8dd1d8924f76/artifacts
+end_time: 1670104716943
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adc64cfaf4844816ad9c8dd1d8924f76
+run_name: handsome-shrew-309
+run_uuid: adc64cfaf4844816ad9c8dd1d8924f76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239974289
+status: 3
+tags: []
+user_id: unknown

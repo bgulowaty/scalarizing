@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/358c5620b3b744b38c59658bbeaac325/artifacts
+end_time: 1669956535885
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 358c5620b3b744b38c59658bbeaac325
+run_name: gaudy-ant-813
+run_uuid: 358c5620b3b744b38c59658bbeaac325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240045643
+status: 3
+tags: []
+user_id: unknown

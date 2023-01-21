@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8dbab725596b49cba781c256f0201fe0/artifacts
+end_time: 1669950345756
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8dbab725596b49cba781c256f0201fe0
+run_name: suave-trout-529
+run_uuid: 8dbab725596b49cba781c256f0201fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240793101
+status: 3
+tags: []
+user_id: unknown

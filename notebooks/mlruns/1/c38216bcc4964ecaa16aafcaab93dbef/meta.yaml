@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c38216bcc4964ecaa16aafcaab93dbef/artifacts
+end_time: 1669948816920
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c38216bcc4964ecaa16aafcaab93dbef
+run_name: skillful-snail-717
+run_uuid: c38216bcc4964ecaa16aafcaab93dbef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241096918
+status: 3
+tags: []
+user_id: unknown

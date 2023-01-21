@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e61c6739ec6949d79bc64408bfc1be54/artifacts
+end_time: 1669943022667
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e61c6739ec6949d79bc64408bfc1be54
+run_name: bustling-moose-326
+run_uuid: e61c6739ec6949d79bc64408bfc1be54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242485875
+status: 3
+tags: []
+user_id: unknown

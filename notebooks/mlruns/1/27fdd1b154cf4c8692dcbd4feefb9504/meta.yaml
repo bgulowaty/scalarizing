@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/27fdd1b154cf4c8692dcbd4feefb9504/artifacts
+end_time: 1669947600718
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27fdd1b154cf4c8692dcbd4feefb9504
+run_name: worried-ox-164
+run_uuid: 27fdd1b154cf4c8692dcbd4feefb9504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241334281
+status: 3
+tags: []
+user_id: unknown

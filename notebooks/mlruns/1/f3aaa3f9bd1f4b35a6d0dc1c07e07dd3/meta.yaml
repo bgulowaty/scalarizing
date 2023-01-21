@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f3aaa3f9bd1f4b35a6d0dc1c07e07dd3/artifacts
+end_time: 1669944659399
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f3aaa3f9bd1f4b35a6d0dc1c07e07dd3
+run_name: receptive-mule-485
+run_uuid: f3aaa3f9bd1f4b35a6d0dc1c07e07dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242007700
+status: 3
+tags: []
+user_id: unknown

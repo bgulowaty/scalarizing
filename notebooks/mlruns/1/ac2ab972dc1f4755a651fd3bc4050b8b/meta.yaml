@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac2ab972dc1f4755a651fd3bc4050b8b/artifacts
+end_time: 1670106014571
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac2ab972dc1f4755a651fd3bc4050b8b
+run_name: resilient-carp-586
+run_uuid: ac2ab972dc1f4755a651fd3bc4050b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239912339
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/28ce1d51e23c457985235d53d2e63bce/artifacts
+end_time: 1670105341014
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28ce1d51e23c457985235d53d2e63bce
+run_name: marvelous-moose-992
+run_uuid: 28ce1d51e23c457985235d53d2e63bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239946928
+status: 3
+tags: []
+user_id: unknown

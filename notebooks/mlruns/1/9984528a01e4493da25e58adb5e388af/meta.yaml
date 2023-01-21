@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9984528a01e4493da25e58adb5e388af/artifacts
+end_time: 1670180843320
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9984528a01e4493da25e58adb5e388af
+run_name: burly-croc-878
+run_uuid: 9984528a01e4493da25e58adb5e388af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241548347
+status: 3
+tags: []
+user_id: unknown

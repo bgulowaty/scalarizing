@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/edef0508072a49dc9a3658887210c304/artifacts
+end_time: 1669950999136
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edef0508072a49dc9a3658887210c304
+run_name: bedecked-cub-120
+run_uuid: edef0508072a49dc9a3658887210c304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240682357
+status: 3
+tags: []
+user_id: unknown

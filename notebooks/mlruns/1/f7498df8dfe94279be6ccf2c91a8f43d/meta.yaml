@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f7498df8dfe94279be6ccf2c91a8f43d/artifacts
+end_time: 1669942751619
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7498df8dfe94279be6ccf2c91a8f43d
+run_name: classy-goat-754
+run_uuid: f7498df8dfe94279be6ccf2c91a8f43d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242523015
+status: 3
+tags: []
+user_id: unknown

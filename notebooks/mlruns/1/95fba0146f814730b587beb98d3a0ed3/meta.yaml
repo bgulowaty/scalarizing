@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/95fba0146f814730b587beb98d3a0ed3/artifacts
+end_time: 1669950049059
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95fba0146f814730b587beb98d3a0ed3
+run_name: dashing-lamb-266
+run_uuid: 95fba0146f814730b587beb98d3a0ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240837409
+status: 3
+tags: []
+user_id: unknown

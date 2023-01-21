@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f9301e2893254bf98ef6fcb7efec741d/artifacts
+end_time: 1669953852647
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9301e2893254bf98ef6fcb7efec741d
+run_name: gaudy-shoat-511
+run_uuid: f9301e2893254bf98ef6fcb7efec741d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240283546
+status: 3
+tags: []
+user_id: unknown

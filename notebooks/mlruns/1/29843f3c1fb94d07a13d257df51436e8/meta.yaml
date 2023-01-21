@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/29843f3c1fb94d07a13d257df51436e8/artifacts
+end_time: 1670105363175
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29843f3c1fb94d07a13d257df51436e8
+run_name: thundering-rook-234
+run_uuid: 29843f3c1fb94d07a13d257df51436e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239933229
+status: 3
+tags: []
+user_id: unknown

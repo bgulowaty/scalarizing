@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4866995f24584853b8c16087eb5b1f54/artifacts
+end_time: 1669953474710
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4866995f24584853b8c16087eb5b1f54
+run_name: inquisitive-ray-950
+run_uuid: 4866995f24584853b8c16087eb5b1f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240328840
+status: 3
+tags: []
+user_id: unknown

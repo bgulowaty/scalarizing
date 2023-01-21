@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/dd30585b9bb34627a0301ba6283ad7e6/artifacts
+end_time: 1670162186298
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: dd30585b9bb34627a0301ba6283ad7e6
+run_name: monumental-jay-994
+run_uuid: dd30585b9bb34627a0301ba6283ad7e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150392719
+status: 3
+tags: []
+user_id: unknown

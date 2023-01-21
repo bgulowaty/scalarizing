@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d707915a89a948fa8b531efbb1281f15/artifacts
+end_time: 1669951295984
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d707915a89a948fa8b531efbb1281f15
+run_name: brawny-cat-24
+run_uuid: d707915a89a948fa8b531efbb1281f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240626598
+status: 3
+tags: []
+user_id: unknown

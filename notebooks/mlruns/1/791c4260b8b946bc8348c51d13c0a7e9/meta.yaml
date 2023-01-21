@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/791c4260b8b946bc8348c51d13c0a7e9/artifacts
+end_time: 1669947236071
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 791c4260b8b946bc8348c51d13c0a7e9
+run_name: abrasive-rat-260
+run_uuid: 791c4260b8b946bc8348c51d13c0a7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241434052
+status: 3
+tags: []
+user_id: unknown

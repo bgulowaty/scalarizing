@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/456b206bfc2f4c5c90def693f8524aa0/artifacts
+end_time: 1670180874652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 456b206bfc2f4c5c90def693f8524aa0
+run_name: defiant-stoat-143
+run_uuid: 456b206bfc2f4c5c90def693f8524aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241201152
+status: 3
+tags: []
+user_id: unknown

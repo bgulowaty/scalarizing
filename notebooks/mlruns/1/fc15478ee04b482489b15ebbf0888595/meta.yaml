@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc15478ee04b482489b15ebbf0888595/artifacts
+end_time: 1669951605768
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc15478ee04b482489b15ebbf0888595
+run_name: bouncy-midge-662
+run_uuid: fc15478ee04b482489b15ebbf0888595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240583986
+status: 3
+tags: []
+user_id: unknown

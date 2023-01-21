@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/29dc710ee7c0412ab2d341aab6ebf106/artifacts
+end_time: 1669947942403
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29dc710ee7c0412ab2d341aab6ebf106
+run_name: masked-panda-904
+run_uuid: 29dc710ee7c0412ab2d341aab6ebf106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241307007
+status: 3
+tags: []
+user_id: unknown

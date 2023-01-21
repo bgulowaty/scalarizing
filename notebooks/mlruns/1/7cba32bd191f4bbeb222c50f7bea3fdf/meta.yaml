@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7cba32bd191f4bbeb222c50f7bea3fdf/artifacts
+end_time: 1669951604715
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7cba32bd191f4bbeb222c50f7bea3fdf
+run_name: merciful-shad-945
+run_uuid: 7cba32bd191f4bbeb222c50f7bea3fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240569887
+status: 3
+tags: []
+user_id: unknown

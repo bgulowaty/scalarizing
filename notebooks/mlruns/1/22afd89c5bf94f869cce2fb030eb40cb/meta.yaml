@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/22afd89c5bf94f869cce2fb030eb40cb/artifacts
+end_time: 1669955314683
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22afd89c5bf94f869cce2fb030eb40cb
+run_name: bemused-crane-721
+run_uuid: 22afd89c5bf94f869cce2fb030eb40cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240147181
+status: 3
+tags: []
+user_id: unknown

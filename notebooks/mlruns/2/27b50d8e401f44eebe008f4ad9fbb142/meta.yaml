@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/27b50d8e401f44eebe008f4ad9fbb142/artifacts
+end_time: 1670162834666
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 27b50d8e401f44eebe008f4ad9fbb142
+run_name: skillful-seal-782
+run_uuid: 27b50d8e401f44eebe008f4ad9fbb142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150189585
+status: 3
+tags: []
+user_id: unknown

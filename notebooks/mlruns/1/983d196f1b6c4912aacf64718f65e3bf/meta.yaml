@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/983d196f1b6c4912aacf64718f65e3bf/artifacts
+end_time: 1669945583335
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 983d196f1b6c4912aacf64718f65e3bf
+run_name: mercurial-eel-390
+run_uuid: 983d196f1b6c4912aacf64718f65e3bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241817532
+status: 3
+tags: []
+user_id: unknown

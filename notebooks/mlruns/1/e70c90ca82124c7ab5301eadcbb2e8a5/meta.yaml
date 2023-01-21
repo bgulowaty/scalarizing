@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e70c90ca82124c7ab5301eadcbb2e8a5/artifacts
+end_time: 1669956555788
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e70c90ca82124c7ab5301eadcbb2e8a5
+run_name: grandiose-jay-295
+run_uuid: e70c90ca82124c7ab5301eadcbb2e8a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240043956
+status: 3
+tags: []
+user_id: unknown

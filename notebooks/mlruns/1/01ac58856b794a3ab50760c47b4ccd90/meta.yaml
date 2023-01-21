@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/01ac58856b794a3ab50760c47b4ccd90/artifacts
+end_time: 1669944482219
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01ac58856b794a3ab50760c47b4ccd90
+run_name: dashing-penguin-776
+run_uuid: 01ac58856b794a3ab50760c47b4ccd90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242057224
+status: 3
+tags: []
+user_id: unknown

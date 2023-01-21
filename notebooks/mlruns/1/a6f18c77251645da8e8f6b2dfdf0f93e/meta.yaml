@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a6f18c77251645da8e8f6b2dfdf0f93e/artifacts
+end_time: 1669945989610
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6f18c77251645da8e8f6b2dfdf0f93e
+run_name: handsome-ant-525
+run_uuid: a6f18c77251645da8e8f6b2dfdf0f93e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241698469
+status: 3
+tags: []
+user_id: unknown

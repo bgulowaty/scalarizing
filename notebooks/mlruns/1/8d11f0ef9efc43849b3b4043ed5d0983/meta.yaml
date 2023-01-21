@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8d11f0ef9efc43849b3b4043ed5d0983/artifacts
+end_time: 1670104405983
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d11f0ef9efc43849b3b4043ed5d0983
+run_name: worried-goat-753
+run_uuid: 8d11f0ef9efc43849b3b4043ed5d0983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240001099
+status: 3
+tags: []
+user_id: unknown

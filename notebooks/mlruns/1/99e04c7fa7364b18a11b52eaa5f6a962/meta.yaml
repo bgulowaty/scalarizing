@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/99e04c7fa7364b18a11b52eaa5f6a962/artifacts
+end_time: 1670106298407
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99e04c7fa7364b18a11b52eaa5f6a962
+run_name: carefree-hare-220
+run_uuid: 99e04c7fa7364b18a11b52eaa5f6a962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239898508
+status: 3
+tags: []
+user_id: unknown

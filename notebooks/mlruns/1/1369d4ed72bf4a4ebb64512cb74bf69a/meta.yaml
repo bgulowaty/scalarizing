@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1369d4ed72bf4a4ebb64512cb74bf69a/artifacts
+end_time: 1670106578325
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1369d4ed72bf4a4ebb64512cb74bf69a
+run_name: clean-snail-882
+run_uuid: 1369d4ed72bf4a4ebb64512cb74bf69a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239890680
+status: 3
+tags: []
+user_id: unknown

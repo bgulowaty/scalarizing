@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/92fd490ec97f479aba64c1919a3730d7/artifacts
+end_time: 1669944740409
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92fd490ec97f479aba64c1919a3730d7
+run_name: clean-crow-258
+run_uuid: 92fd490ec97f479aba64c1919a3730d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242009349
+status: 3
+tags: []
+user_id: unknown

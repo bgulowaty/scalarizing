@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/177042cdeb8449b48a3344475896ba0b/artifacts
+end_time: 1669953164883
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 177042cdeb8449b48a3344475896ba0b
+run_name: intelligent-worm-586
+run_uuid: 177042cdeb8449b48a3344475896ba0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240363118
+status: 3
+tags: []
+user_id: unknown

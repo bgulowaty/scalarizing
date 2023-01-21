@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a788e2c284614cc79a10694994769b3a/artifacts
+end_time: 1669946924040
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a788e2c284614cc79a10694994769b3a
+run_name: zealous-cow-694
+run_uuid: a788e2c284614cc79a10694994769b3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241478403
+status: 3
+tags: []
+user_id: unknown

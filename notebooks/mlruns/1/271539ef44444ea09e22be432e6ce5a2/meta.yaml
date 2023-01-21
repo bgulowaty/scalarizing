@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/271539ef44444ea09e22be432e6ce5a2/artifacts
+end_time: 1670181738834
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 271539ef44444ea09e22be432e6ce5a2
+run_name: tasteful-grouse-145
+run_uuid: 271539ef44444ea09e22be432e6ce5a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239980610
+status: 3
+tags: []
+user_id: unknown

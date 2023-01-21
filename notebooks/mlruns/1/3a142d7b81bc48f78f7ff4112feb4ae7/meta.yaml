@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3a142d7b81bc48f78f7ff4112feb4ae7/artifacts
+end_time: 1669949499749
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a142d7b81bc48f78f7ff4112feb4ae7
+run_name: gentle-ray-831
+run_uuid: 3a142d7b81bc48f78f7ff4112feb4ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240920111
+status: 3
+tags: []
+user_id: unknown

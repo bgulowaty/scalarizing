@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f020cc5afd554b6ba4cf552ef69396cf/artifacts
+end_time: 1670181154399
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f020cc5afd554b6ba4cf552ef69396cf
+run_name: receptive-snail-623
+run_uuid: f020cc5afd554b6ba4cf552ef69396cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240907234
+status: 3
+tags: []
+user_id: unknown

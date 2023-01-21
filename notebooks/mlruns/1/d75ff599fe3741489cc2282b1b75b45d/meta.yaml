@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d75ff599fe3741489cc2282b1b75b45d/artifacts
+end_time: 1670105653650
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d75ff599fe3741489cc2282b1b75b45d
+run_name: dapper-ox-978
+run_uuid: d75ff599fe3741489cc2282b1b75b45d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239923571
+status: 3
+tags: []
+user_id: unknown

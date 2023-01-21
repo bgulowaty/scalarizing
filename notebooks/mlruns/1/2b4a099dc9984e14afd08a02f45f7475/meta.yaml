@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2b4a099dc9984e14afd08a02f45f7475/artifacts
+end_time: 1669953476308
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b4a099dc9984e14afd08a02f45f7475
+run_name: receptive-lamb-278
+run_uuid: 2b4a099dc9984e14afd08a02f45f7475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240333809
+status: 3
+tags: []
+user_id: unknown

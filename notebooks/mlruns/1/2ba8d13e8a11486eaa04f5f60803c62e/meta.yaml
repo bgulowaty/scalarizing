@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ba8d13e8a11486eaa04f5f60803c62e/artifacts
+end_time: 1669952287202
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ba8d13e8a11486eaa04f5f60803c62e
+run_name: gentle-steed-446
+run_uuid: 2ba8d13e8a11486eaa04f5f60803c62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240475420
+status: 3
+tags: []
+user_id: unknown

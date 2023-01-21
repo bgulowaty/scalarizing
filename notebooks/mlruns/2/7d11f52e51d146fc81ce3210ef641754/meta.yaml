@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7d11f52e51d146fc81ce3210ef641754/artifacts
+end_time: 1670162611940
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7d11f52e51d146fc81ce3210ef641754
+run_name: loud-sponge-183
+run_uuid: 7d11f52e51d146fc81ce3210ef641754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150270194
+status: 3
+tags: []
+user_id: unknown

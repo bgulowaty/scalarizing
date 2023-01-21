@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e5d38c19fd1743379292bb83952f9f1a/artifacts
+end_time: 1670162620457
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e5d38c19fd1743379292bb83952f9f1a
+run_name: adorable-asp-5
+run_uuid: e5d38c19fd1743379292bb83952f9f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150242368
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a171a7e73995480a969ad462974db248/artifacts
+end_time: 1670105653712
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a171a7e73995480a969ad462974db248
+run_name: receptive-smelt-949
+run_uuid: a171a7e73995480a969ad462974db248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239928976
+status: 3
+tags: []
+user_id: unknown

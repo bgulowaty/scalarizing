@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4c43ed2f3f994006b8fb5e731ac2c85f/artifacts
+end_time: 1670105032767
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c43ed2f3f994006b8fb5e731ac2c85f
+run_name: flawless-pig-235
+run_uuid: 4c43ed2f3f994006b8fb5e731ac2c85f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239958324
+status: 3
+tags: []
+user_id: unknown

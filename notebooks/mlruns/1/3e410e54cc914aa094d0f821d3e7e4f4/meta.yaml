@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e410e54cc914aa094d0f821d3e7e4f4/artifacts
+end_time: 1670181727224
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e410e54cc914aa094d0f821d3e7e4f4
+run_name: victorious-ox-296
+run_uuid: 3e410e54cc914aa094d0f821d3e7e4f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239989573
+status: 3
+tags: []
+user_id: unknown

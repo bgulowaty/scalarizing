@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb6290835bbe444280f8549106d280fe/artifacts
+end_time: 1669944787825
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb6290835bbe444280f8549106d280fe
+run_name: invincible-sponge-17
+run_uuid: eb6290835bbe444280f8549106d280fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242123333
+status: 3
+tags: []
+user_id: unknown

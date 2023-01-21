@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8d13e26a7ab3423097a34e9f00d78d71/artifacts
+end_time: 1669949248990
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d13e26a7ab3423097a34e9f00d78d71
+run_name: thoughtful-loon-490
+run_uuid: 8d13e26a7ab3423097a34e9f00d78d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241064456
+status: 3
+tags: []
+user_id: unknown

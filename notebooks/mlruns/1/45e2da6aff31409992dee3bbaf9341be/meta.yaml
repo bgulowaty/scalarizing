@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45e2da6aff31409992dee3bbaf9341be/artifacts
+end_time: 1669954700664
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45e2da6aff31409992dee3bbaf9341be
+run_name: colorful-mouse-654
+run_uuid: 45e2da6aff31409992dee3bbaf9341be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240197836
+status: 3
+tags: []
+user_id: unknown

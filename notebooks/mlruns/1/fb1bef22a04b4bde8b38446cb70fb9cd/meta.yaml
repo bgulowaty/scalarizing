@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb1bef22a04b4bde8b38446cb70fb9cd/artifacts
+end_time: 1669945450636
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb1bef22a04b4bde8b38446cb70fb9cd
+run_name: painted-colt-180
+run_uuid: fb1bef22a04b4bde8b38446cb70fb9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241797337
+status: 3
+tags: []
+user_id: unknown

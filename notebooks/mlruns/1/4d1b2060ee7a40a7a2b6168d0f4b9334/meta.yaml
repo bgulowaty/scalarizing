@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4d1b2060ee7a40a7a2b6168d0f4b9334/artifacts
+end_time: 1669955616143
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d1b2060ee7a40a7a2b6168d0f4b9334
+run_name: treasured-mouse-292
+run_uuid: 4d1b2060ee7a40a7a2b6168d0f4b9334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240127591
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/62aef20c25c24f8c861ca45013788a8a/artifacts
+end_time: 1670180564641
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62aef20c25c24f8c861ca45013788a8a
+run_name: melodic-grouse-534
+run_uuid: 62aef20c25c24f8c861ca45013788a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242421808
+status: 3
+tags: []
+user_id: unknown

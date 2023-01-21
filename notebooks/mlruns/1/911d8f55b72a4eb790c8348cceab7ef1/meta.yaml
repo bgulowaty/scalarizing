@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/911d8f55b72a4eb790c8348cceab7ef1/artifacts
+end_time: 1669955722067
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 911d8f55b72a4eb790c8348cceab7ef1
+run_name: upset-eel-825
+run_uuid: 911d8f55b72a4eb790c8348cceab7ef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240117970
+status: 3
+tags: []
+user_id: unknown

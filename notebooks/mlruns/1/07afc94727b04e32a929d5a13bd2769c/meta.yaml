@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/07afc94727b04e32a929d5a13bd2769c/artifacts
+end_time: 1669950997681
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07afc94727b04e32a929d5a13bd2769c
+run_name: luminous-asp-993
+run_uuid: 07afc94727b04e32a929d5a13bd2769c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240668689
+status: 3
+tags: []
+user_id: unknown

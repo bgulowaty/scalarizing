@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bbb2d8b4ef5341a8b68f17762f7d1784/artifacts
+end_time: 1669945241297
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bbb2d8b4ef5341a8b68f17762f7d1784
+run_name: hilarious-mare-883
+run_uuid: bbb2d8b4ef5341a8b68f17762f7d1784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241842041
+status: 3
+tags: []
+user_id: unknown

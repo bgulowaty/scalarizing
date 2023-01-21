@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cb9b7f65099f4c42876681feaa02c103/artifacts
+end_time: 1669947028882
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb9b7f65099f4c42876681feaa02c103
+run_name: charming-dog-126
+run_uuid: cb9b7f65099f4c42876681feaa02c103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241452299
+status: 3
+tags: []
+user_id: unknown

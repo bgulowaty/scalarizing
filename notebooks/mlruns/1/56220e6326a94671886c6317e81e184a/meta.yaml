@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/56220e6326a94671886c6317e81e184a/artifacts
+end_time: 1670102018273
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56220e6326a94671886c6317e81e184a
+run_name: delicate-sloth-377
+run_uuid: 56220e6326a94671886c6317e81e184a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242682594
+status: 3
+tags: []
+user_id: unknown

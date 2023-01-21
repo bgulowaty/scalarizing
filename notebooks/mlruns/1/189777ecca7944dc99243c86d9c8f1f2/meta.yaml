@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/189777ecca7944dc99243c86d9c8f1f2/artifacts
+end_time: 1669954165988
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 189777ecca7944dc99243c86d9c8f1f2
+run_name: gifted-fawn-363
+run_uuid: 189777ecca7944dc99243c86d9c8f1f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240251463
+status: 3
+tags: []
+user_id: unknown

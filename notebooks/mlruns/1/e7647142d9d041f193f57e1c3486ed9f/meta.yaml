@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e7647142d9d041f193f57e1c3486ed9f/artifacts
+end_time: 1669945391928
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7647142d9d041f193f57e1c3486ed9f
+run_name: upbeat-panda-850
+run_uuid: e7647142d9d041f193f57e1c3486ed9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241827797
+status: 3
+tags: []
+user_id: unknown

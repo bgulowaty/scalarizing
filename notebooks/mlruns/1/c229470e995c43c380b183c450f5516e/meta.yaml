@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c229470e995c43c380b183c450f5516e/artifacts
+end_time: 1669948816324
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c229470e995c43c380b183c450f5516e
+run_name: angry-lark-639
+run_uuid: c229470e995c43c380b183c450f5516e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241107321
+status: 3
+tags: []
+user_id: unknown

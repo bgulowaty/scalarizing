@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d774b1c7c9c94650a3ca5a4cd0360e2a/artifacts
+end_time: 1670103194629
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d774b1c7c9c94650a3ca5a4cd0360e2a
+run_name: rogue-toad-112
+run_uuid: d774b1c7c9c94650a3ca5a4cd0360e2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241007669
+status: 3
+tags: []
+user_id: unknown

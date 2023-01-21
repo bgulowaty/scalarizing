@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9dd55384e3e34b2e864576490fbf3da0/artifacts
+end_time: 1670103485621
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dd55384e3e34b2e864576490fbf3da0
+run_name: overjoyed-koi-909
+run_uuid: 9dd55384e3e34b2e864576490fbf3da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240532949
+status: 3
+tags: []
+user_id: unknown

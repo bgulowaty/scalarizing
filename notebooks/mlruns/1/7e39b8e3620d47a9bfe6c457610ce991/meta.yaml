@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7e39b8e3620d47a9bfe6c457610ce991/artifacts
+end_time: 1669946302902
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e39b8e3620d47a9bfe6c457610ce991
+run_name: funny-toad-578
+run_uuid: 7e39b8e3620d47a9bfe6c457610ce991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241629923
+status: 3
+tags: []
+user_id: unknown

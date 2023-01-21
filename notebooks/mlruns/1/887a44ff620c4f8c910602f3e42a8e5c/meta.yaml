@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/887a44ff620c4f8c910602f3e42a8e5c/artifacts
+end_time: 1669956034611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 887a44ff620c4f8c910602f3e42a8e5c
+run_name: tasteful-perch-426
+run_uuid: 887a44ff620c4f8c910602f3e42a8e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240095592
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bf75d2cb90b1453dabef384c1e574d42/artifacts
+end_time: 1670180567032
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf75d2cb90b1453dabef384c1e574d42
+run_name: monumental-ox-196
+run_uuid: bf75d2cb90b1453dabef384c1e574d42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242295688
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/131b4481ffdf489fabe77ad35b40095e/artifacts
+end_time: 1669946312563
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 131b4481ffdf489fabe77ad35b40095e
+run_name: valuable-donkey-463
+run_uuid: 131b4481ffdf489fabe77ad35b40095e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241614575
+status: 3
+tags: []
+user_id: unknown

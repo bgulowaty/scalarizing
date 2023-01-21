@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/684a834ab1db418eae5cd54bf50ef944/artifacts
+end_time: 1670162398458
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 684a834ab1db418eae5cd54bf50ef944
+run_name: legendary-mule-454
+run_uuid: 684a834ab1db418eae5cd54bf50ef944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150331325
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b14bbc10d88d4eb099d3d77307cc2fe3/artifacts
+end_time: 1670162067727
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b14bbc10d88d4eb099d3d77307cc2fe3
+run_name: rumbling-trout-169
+run_uuid: b14bbc10d88d4eb099d3d77307cc2fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150468023
+status: 3
+tags: []
+user_id: unknown

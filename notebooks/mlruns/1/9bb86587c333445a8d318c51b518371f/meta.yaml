@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9bb86587c333445a8d318c51b518371f/artifacts
+end_time: 1670102338119
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9bb86587c333445a8d318c51b518371f
+run_name: indecisive-goat-316
+run_uuid: 9bb86587c333445a8d318c51b518371f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242616808
+status: 3
+tags: []
+user_id: unknown

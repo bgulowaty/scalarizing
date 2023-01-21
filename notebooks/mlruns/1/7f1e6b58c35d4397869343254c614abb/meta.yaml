@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7f1e6b58c35d4397869343254c614abb/artifacts
+end_time: 1669944705283
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7f1e6b58c35d4397869343254c614abb
+run_name: merciful-fawn-3
+run_uuid: 7f1e6b58c35d4397869343254c614abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242003488
+status: 3
+tags: []
+user_id: unknown

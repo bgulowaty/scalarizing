@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/773848a96384426fae513fd81ecb9bd2/artifacts
+end_time: 1670105333879
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 773848a96384426fae513fd81ecb9bd2
+run_name: carefree-sheep-186
+run_uuid: 773848a96384426fae513fd81ecb9bd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239945319
+status: 3
+tags: []
+user_id: unknown

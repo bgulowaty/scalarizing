@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c41dba77dff648f592ff238dcb7bb0d6/artifacts
+end_time: 1670180512877
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c41dba77dff648f592ff238dcb7bb0d6
+run_name: burly-fly-402
+run_uuid: c41dba77dff648f592ff238dcb7bb0d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242833534
+status: 3
+tags: []
+user_id: unknown

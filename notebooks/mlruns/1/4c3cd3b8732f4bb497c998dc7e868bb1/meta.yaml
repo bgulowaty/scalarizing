@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4c3cd3b8732f4bb497c998dc7e868bb1/artifacts
+end_time: 1669956224223
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c3cd3b8732f4bb497c998dc7e868bb1
+run_name: nervous-frog-857
+run_uuid: 4c3cd3b8732f4bb497c998dc7e868bb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240074446
+status: 3
+tags: []
+user_id: unknown

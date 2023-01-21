@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc13a03ea40e4c9a94636f19ed3c3917/artifacts
+end_time: 1669947886382
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc13a03ea40e4c9a94636f19ed3c3917
+run_name: abundant-bee-701
+run_uuid: fc13a03ea40e4c9a94636f19ed3c3917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241275822
+status: 3
+tags: []
+user_id: unknown

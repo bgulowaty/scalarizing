@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1a5ecb30390841c19bf7f463df5cd175/artifacts
+end_time: 1669945992556
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a5ecb30390841c19bf7f463df5cd175
+run_name: enchanting-shrike-78
+run_uuid: 1a5ecb30390841c19bf7f463df5cd175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241696635
+status: 3
+tags: []
+user_id: unknown

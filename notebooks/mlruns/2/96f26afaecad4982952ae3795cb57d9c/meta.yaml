@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/96f26afaecad4982952ae3795cb57d9c/artifacts
+end_time: 1670162508219
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 96f26afaecad4982952ae3795cb57d9c
+run_name: ambitious-robin-363
+run_uuid: 96f26afaecad4982952ae3795cb57d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150412669
+status: 3
+tags: []
+user_id: unknown

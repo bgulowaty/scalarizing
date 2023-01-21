@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/43bce361dd8c4a7aa38bb85db867bbcd/artifacts
+end_time: 1670162725281
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 43bce361dd8c4a7aa38bb85db867bbcd
+run_name: hilarious-bug-419
+run_uuid: 43bce361dd8c4a7aa38bb85db867bbcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150222413
+status: 3
+tags: []
+user_id: unknown

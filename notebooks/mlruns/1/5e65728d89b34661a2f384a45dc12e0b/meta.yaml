@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5e65728d89b34661a2f384a45dc12e0b/artifacts
+end_time: 1669954704840
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e65728d89b34661a2f384a45dc12e0b
+run_name: upbeat-lynx-461
+run_uuid: 5e65728d89b34661a2f384a45dc12e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240212129
+status: 3
+tags: []
+user_id: unknown

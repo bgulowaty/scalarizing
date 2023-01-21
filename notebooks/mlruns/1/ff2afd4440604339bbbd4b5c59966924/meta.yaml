@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff2afd4440604339bbbd4b5c59966924/artifacts
+end_time: 1670103195082
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff2afd4440604339bbbd4b5c59966924
+run_name: blushing-ant-341
+run_uuid: ff2afd4440604339bbbd4b5c59966924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241258219
+status: 3
+tags: []
+user_id: unknown

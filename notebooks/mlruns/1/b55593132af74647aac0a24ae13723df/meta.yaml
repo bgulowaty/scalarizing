@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b55593132af74647aac0a24ae13723df/artifacts
+end_time: 1669951635273
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b55593132af74647aac0a24ae13723df
+run_name: dazzling-fowl-381
+run_uuid: b55593132af74647aac0a24ae13723df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240578167
+status: 3
+tags: []
+user_id: unknown

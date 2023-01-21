@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1552c8cf4bdd4f4bb816ea9a9d5dc7b0/artifacts
+end_time: 1669949410544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1552c8cf4bdd4f4bb816ea9a9d5dc7b0
+run_name: colorful-bat-287
+run_uuid: 1552c8cf4bdd4f4bb816ea9a9d5dc7b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240999533
+status: 3
+tags: []
+user_id: unknown

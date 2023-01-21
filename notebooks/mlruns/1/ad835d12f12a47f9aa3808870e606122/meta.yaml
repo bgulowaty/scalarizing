@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ad835d12f12a47f9aa3808870e606122/artifacts
+end_time: 1670181808630
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad835d12f12a47f9aa3808870e606122
+run_name: abundant-crane-527
+run_uuid: ad835d12f12a47f9aa3808870e606122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904480
+status: 3
+tags: []
+user_id: unknown

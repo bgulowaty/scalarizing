@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1b2568bffb1a4169b2ef3283dfb0d936/artifacts
+end_time: 1669953135773
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b2568bffb1a4169b2ef3283dfb0d936
+run_name: gifted-ape-390
+run_uuid: 1b2568bffb1a4169b2ef3283dfb0d936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240379658
+status: 3
+tags: []
+user_id: unknown

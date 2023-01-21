@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/557b6db6e12d4015baf50382b8f4351d/artifacts
+end_time: 1670102015627
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 557b6db6e12d4015baf50382b8f4351d
+run_name: popular-grouse-630
+run_uuid: 557b6db6e12d4015baf50382b8f4351d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242701618
+status: 3
+tags: []
+user_id: unknown

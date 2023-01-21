@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1d978b6a1fa845a086938325f09f6a96/artifacts
+end_time: 1670181725652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d978b6a1fa845a086938325f09f6a96
+run_name: crawling-mule-281
+run_uuid: 1d978b6a1fa845a086938325f09f6a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239973552
+status: 3
+tags: []
+user_id: unknown

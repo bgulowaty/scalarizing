@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1dac1dc614334d8d87146df9ec85fb1e/artifacts
+end_time: 1669948509162
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1dac1dc614334d8d87146df9ec85fb1e
+run_name: learned-boar-857
+run_uuid: 1dac1dc614334d8d87146df9ec85fb1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241160022
+status: 3
+tags: []
+user_id: unknown

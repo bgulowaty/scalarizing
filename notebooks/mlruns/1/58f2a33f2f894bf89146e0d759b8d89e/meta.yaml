@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/58f2a33f2f894bf89146e0d759b8d89e/artifacts
+end_time: 1670181423420
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58f2a33f2f894bf89146e0d759b8d89e
+run_name: rumbling-carp-640
+run_uuid: 58f2a33f2f894bf89146e0d759b8d89e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240348287
+status: 3
+tags: []
+user_id: unknown

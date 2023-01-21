@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/176cdd58e09e4565a34f199a5c347ccc/artifacts
+end_time: 1669951920048
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 176cdd58e09e4565a34f199a5c347ccc
+run_name: omniscient-panda-338
+run_uuid: 176cdd58e09e4565a34f199a5c347ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240518490
+status: 3
+tags: []
+user_id: unknown

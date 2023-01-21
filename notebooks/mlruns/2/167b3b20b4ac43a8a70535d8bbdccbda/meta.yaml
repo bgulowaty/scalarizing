@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/167b3b20b4ac43a8a70535d8bbdccbda/artifacts
+end_time: 1670162220895
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 167b3b20b4ac43a8a70535d8bbdccbda
+run_name: trusting-fish-967
+run_uuid: 167b3b20b4ac43a8a70535d8bbdccbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150447077
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc3abbfc78ea41e697f4d339f7d7bdcf/artifacts
+end_time: 1669946742831
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc3abbfc78ea41e697f4d339f7d7bdcf
+run_name: amusing-koi-337
+run_uuid: cc3abbfc78ea41e697f4d339f7d7bdcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241547915
+status: 3
+tags: []
+user_id: unknown

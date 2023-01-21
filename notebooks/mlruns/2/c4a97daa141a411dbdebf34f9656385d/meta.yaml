@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c4a97daa141a411dbdebf34f9656385d/artifacts
+end_time: 1670161865867
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c4a97daa141a411dbdebf34f9656385d
+run_name: redolent-quail-315
+run_uuid: c4a97daa141a411dbdebf34f9656385d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150510213
+status: 3
+tags: []
+user_id: unknown

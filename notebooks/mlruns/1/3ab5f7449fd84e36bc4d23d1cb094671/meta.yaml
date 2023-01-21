@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3ab5f7449fd84e36bc4d23d1cb094671/artifacts
+end_time: 1669944960016
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ab5f7449fd84e36bc4d23d1cb094671
+run_name: gentle-crab-464
+run_uuid: 3ab5f7449fd84e36bc4d23d1cb094671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241927087
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e80d0b81d8b046f4a2b638568c54d342/artifacts
+end_time: 1669955066977
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e80d0b81d8b046f4a2b638568c54d342
+run_name: spiffy-midge-638
+run_uuid: e80d0b81d8b046f4a2b638568c54d342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240159519
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a0f8c57a212343fab7274c34dd7b8224/artifacts
+end_time: 1669947240461
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0f8c57a212343fab7274c34dd7b8224
+run_name: resilient-frog-936
+run_uuid: a0f8c57a212343fab7274c34dd7b8224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241425743
+status: 3
+tags: []
+user_id: unknown

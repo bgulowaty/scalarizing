@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fac29d4080764cfba7e634aca13ac915/artifacts
+end_time: 1670102859687
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fac29d4080764cfba7e634aca13ac915
+run_name: painted-foal-807
+run_uuid: fac29d4080764cfba7e634aca13ac915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242620928
+status: 3
+tags: []
+user_id: unknown

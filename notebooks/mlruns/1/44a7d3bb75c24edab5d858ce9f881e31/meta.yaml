@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/44a7d3bb75c24edab5d858ce9f881e31/artifacts
+end_time: 1669955977722
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44a7d3bb75c24edab5d858ce9f881e31
+run_name: valuable-bee-773
+run_uuid: 44a7d3bb75c24edab5d858ce9f881e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240086215
+status: 3
+tags: []
+user_id: unknown

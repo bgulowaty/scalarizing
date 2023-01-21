@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e8dbc4dc6cf34ca597cdc6dc9f80f010/artifacts
+end_time: 1669954466085
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8dbc4dc6cf34ca597cdc6dc9f80f010
+run_name: masked-calf-481
+run_uuid: e8dbc4dc6cf34ca597cdc6dc9f80f010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240218377
+status: 3
+tags: []
+user_id: unknown

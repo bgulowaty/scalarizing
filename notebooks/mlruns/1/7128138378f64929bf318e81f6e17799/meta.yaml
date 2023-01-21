@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7128138378f64929bf318e81f6e17799/artifacts
+end_time: 1669946049124
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7128138378f64929bf318e81f6e17799
+run_name: intelligent-rat-305
+run_uuid: 7128138378f64929bf318e81f6e17799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241667124
+status: 3
+tags: []
+user_id: unknown

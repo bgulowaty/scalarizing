@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6e77217bcb74487e8c884bdbb67e8962/artifacts
+end_time: 1669946724116
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e77217bcb74487e8c884bdbb67e8962
+run_name: traveling-worm-71
+run_uuid: 6e77217bcb74487e8c884bdbb67e8962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241527142
+status: 3
+tags: []
+user_id: unknown

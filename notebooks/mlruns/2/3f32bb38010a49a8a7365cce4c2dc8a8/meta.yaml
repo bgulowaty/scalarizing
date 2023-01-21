@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3f32bb38010a49a8a7365cce4c2dc8a8/artifacts
+end_time: 1670162728598
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3f32bb38010a49a8a7365cce4c2dc8a8
+run_name: loud-hog-45
+run_uuid: 3f32bb38010a49a8a7365cce4c2dc8a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150216288
+status: 3
+tags: []
+user_id: unknown

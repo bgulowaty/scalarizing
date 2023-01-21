@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cb88373ab8b94d49959fe1499522db0d/artifacts
+end_time: 1669947984813
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb88373ab8b94d49959fe1499522db0d
+run_name: placid-perch-871
+run_uuid: cb88373ab8b94d49959fe1499522db0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241253374
+status: 3
+tags: []
+user_id: unknown

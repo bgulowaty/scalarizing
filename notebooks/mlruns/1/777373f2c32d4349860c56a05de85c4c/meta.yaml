@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/777373f2c32d4349860c56a05de85c4c/artifacts
+end_time: 1670181422812
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 777373f2c32d4349860c56a05de85c4c
+run_name: shivering-worm-361
+run_uuid: 777373f2c32d4349860c56a05de85c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240390488
+status: 3
+tags: []
+user_id: unknown

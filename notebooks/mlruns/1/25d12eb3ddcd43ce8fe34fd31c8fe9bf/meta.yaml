@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/25d12eb3ddcd43ce8fe34fd31c8fe9bf/artifacts
+end_time: 1669955370812
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25d12eb3ddcd43ce8fe34fd31c8fe9bf
+run_name: illustrious-worm-707
+run_uuid: 25d12eb3ddcd43ce8fe34fd31c8fe9bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240165118
+status: 3
+tags: []
+user_id: unknown

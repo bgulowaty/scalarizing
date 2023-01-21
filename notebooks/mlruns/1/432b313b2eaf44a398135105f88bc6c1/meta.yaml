@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/432b313b2eaf44a398135105f88bc6c1/artifacts
+end_time: 1669949750643
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 432b313b2eaf44a398135105f88bc6c1
+run_name: gregarious-tern-823
+run_uuid: 432b313b2eaf44a398135105f88bc6c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240890459
+status: 3
+tags: []
+user_id: unknown

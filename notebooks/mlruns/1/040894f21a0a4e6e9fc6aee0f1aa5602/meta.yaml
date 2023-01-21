@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/040894f21a0a4e6e9fc6aee0f1aa5602/artifacts
+end_time: 1669950096602
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 040894f21a0a4e6e9fc6aee0f1aa5602
+run_name: suave-grub-892
+run_uuid: 040894f21a0a4e6e9fc6aee0f1aa5602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240827627
+status: 3
+tags: []
+user_id: unknown

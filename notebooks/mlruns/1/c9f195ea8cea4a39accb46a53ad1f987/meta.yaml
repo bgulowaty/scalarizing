@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c9f195ea8cea4a39accb46a53ad1f987/artifacts
+end_time: 1669944533920
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9f195ea8cea4a39accb46a53ad1f987
+run_name: zealous-calf-47
+run_uuid: c9f195ea8cea4a39accb46a53ad1f987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242070466
+status: 3
+tags: []
+user_id: unknown

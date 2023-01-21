@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/65a4e767a63c48ee93fbd02b6c897605/artifacts
+end_time: 1669955921658
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65a4e767a63c48ee93fbd02b6c897605
+run_name: chill-mink-597
+run_uuid: 65a4e767a63c48ee93fbd02b6c897605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240105493
+status: 3
+tags: []
+user_id: unknown

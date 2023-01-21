@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/540565daeef84b2fbb66d4a209cca0fe/artifacts
+end_time: 1670104760517
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 540565daeef84b2fbb66d4a209cca0fe
+run_name: carefree-toad-285
+run_uuid: 540565daeef84b2fbb66d4a209cca0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239970387
+status: 3
+tags: []
+user_id: unknown

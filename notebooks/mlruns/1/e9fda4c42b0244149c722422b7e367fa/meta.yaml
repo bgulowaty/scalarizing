@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e9fda4c42b0244149c722422b7e367fa/artifacts
+end_time: 1670102404404
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9fda4c42b0244149c722422b7e367fa
+run_name: peaceful-crab-236
+run_uuid: e9fda4c42b0244149c722422b7e367fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242592716
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/508b24cb8e5344ff90a6f7d46737b9c5/artifacts
+end_time: 1670180841583
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 508b24cb8e5344ff90a6f7d46737b9c5
+run_name: intelligent-fox-857
+run_uuid: 508b24cb8e5344ff90a6f7d46737b9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241716424
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/33f7cc3d3c0549ebbd38d005e44cf8aa/artifacts
+end_time: 1669944294233
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33f7cc3d3c0549ebbd38d005e44cf8aa
+run_name: receptive-bird-437
+run_uuid: 33f7cc3d3c0549ebbd38d005e44cf8aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242104721
+status: 3
+tags: []
+user_id: unknown

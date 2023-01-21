@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d256f050b91244abad2754d5672d7c0e/artifacts
+end_time: 1669947583434
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d256f050b91244abad2754d5672d7c0e
+run_name: able-hare-263
+run_uuid: d256f050b91244abad2754d5672d7c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241343791
+status: 3
+tags: []
+user_id: unknown

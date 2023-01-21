@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/62277a458857465cb58a51895542057b/artifacts
+end_time: 1670180814969
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62277a458857465cb58a51895542057b
+run_name: luxuriant-conch-74
+run_uuid: 62277a458857465cb58a51895542057b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241749510
+status: 3
+tags: []
+user_id: unknown

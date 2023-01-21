@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/698a4a48bb2e4329926c8448e79f10b8/artifacts
+end_time: 1669953165220
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 698a4a48bb2e4329926c8448e79f10b8
+run_name: languid-horse-840
+run_uuid: 698a4a48bb2e4329926c8448e79f10b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240369864
+status: 3
+tags: []
+user_id: unknown

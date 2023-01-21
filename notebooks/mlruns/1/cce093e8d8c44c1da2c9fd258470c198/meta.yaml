@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cce093e8d8c44c1da2c9fd258470c198/artifacts
+end_time: 1669947884442
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cce093e8d8c44c1da2c9fd258470c198
+run_name: crawling-finch-690
+run_uuid: cce093e8d8c44c1da2c9fd258470c198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241286660
+status: 3
+tags: []
+user_id: unknown

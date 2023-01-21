@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3e4e59f61be4f0ebfbfa958acd23114/artifacts
+end_time: 1669948502431
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3e4e59f61be4f0ebfbfa958acd23114
+run_name: victorious-lark-793
+run_uuid: e3e4e59f61be4f0ebfbfa958acd23114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241152663
+status: 3
+tags: []
+user_id: unknown

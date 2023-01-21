@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9c44f6afb79d42f2b5e07e88e646d598/artifacts
+end_time: 1670162069579
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9c44f6afb79d42f2b5e07e88e646d598
+run_name: charming-mare-590
+run_uuid: 9c44f6afb79d42f2b5e07e88e646d598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150459897
+status: 3
+tags: []
+user_id: unknown

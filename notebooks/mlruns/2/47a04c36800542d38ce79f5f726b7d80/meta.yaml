@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/47a04c36800542d38ce79f5f726b7d80/artifacts
+end_time: 1670162065686
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 47a04c36800542d38ce79f5f726b7d80
+run_name: nebulous-rat-583
+run_uuid: 47a04c36800542d38ce79f5f726b7d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150468782
+status: 3
+tags: []
+user_id: unknown

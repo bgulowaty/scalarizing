@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f174d003ea884dd5b06aaa9568a943dd/artifacts
+end_time: 1669946670227
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f174d003ea884dd5b06aaa9568a943dd
+run_name: fortunate-ant-71
+run_uuid: f174d003ea884dd5b06aaa9568a943dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241518819
+status: 3
+tags: []
+user_id: unknown

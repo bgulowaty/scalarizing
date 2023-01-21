@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/78edadd60de04c6690797c20e300feff/artifacts
+end_time: 1670102878124
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78edadd60de04c6690797c20e300feff
+run_name: whimsical-snipe-656
+run_uuid: 78edadd60de04c6690797c20e300feff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241777018
+status: 3
+tags: []
+user_id: unknown

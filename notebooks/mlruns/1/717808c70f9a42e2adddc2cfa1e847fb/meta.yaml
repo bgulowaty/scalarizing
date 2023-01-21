@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/717808c70f9a42e2adddc2cfa1e847fb/artifacts
+end_time: 1669955307582
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 717808c70f9a42e2adddc2cfa1e847fb
+run_name: nervous-panda-724
+run_uuid: 717808c70f9a42e2adddc2cfa1e847fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240147697
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/398faf2a54eb468cb459a57541843a4e/artifacts
+end_time: 1669948504880
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 398faf2a54eb468cb459a57541843a4e
+run_name: amusing-smelt-706
+run_uuid: 398faf2a54eb468cb459a57541843a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241155970
+status: 3
+tags: []
+user_id: unknown

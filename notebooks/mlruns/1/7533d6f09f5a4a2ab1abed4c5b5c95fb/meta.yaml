@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7533d6f09f5a4a2ab1abed4c5b5c95fb/artifacts
+end_time: 1669951354655
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7533d6f09f5a4a2ab1abed4c5b5c95fb
+run_name: intrigued-robin-556
+run_uuid: 7533d6f09f5a4a2ab1abed4c5b5c95fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240596792
+status: 3
+tags: []
+user_id: unknown

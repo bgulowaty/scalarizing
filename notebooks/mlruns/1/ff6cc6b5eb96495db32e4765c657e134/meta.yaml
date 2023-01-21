@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff6cc6b5eb96495db32e4765c657e134/artifacts
+end_time: 1670106296871
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff6cc6b5eb96495db32e4765c657e134
+run_name: gifted-eel-347
+run_uuid: ff6cc6b5eb96495db32e4765c657e134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239895917
+status: 3
+tags: []
+user_id: unknown

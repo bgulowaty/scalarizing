@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b25216d49de14f81b8dc0815c369ba2a/artifacts
+end_time: 1669951913122
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b25216d49de14f81b8dc0815c369ba2a
+run_name: wistful-goat-378
+run_uuid: b25216d49de14f81b8dc0815c369ba2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240531430
+status: 3
+tags: []
+user_id: unknown

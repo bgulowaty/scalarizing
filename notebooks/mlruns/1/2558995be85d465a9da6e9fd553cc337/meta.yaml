@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2558995be85d465a9da6e9fd553cc337/artifacts
+end_time: 1669954765889
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2558995be85d465a9da6e9fd553cc337
+run_name: calm-grub-469
+run_uuid: 2558995be85d465a9da6e9fd553cc337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240186355
+status: 3
+tags: []
+user_id: unknown

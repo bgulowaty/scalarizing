@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46609a157c644657a11b56a99e0b9f4a/artifacts
+end_time: 1670105030299
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46609a157c644657a11b56a99e0b9f4a
+run_name: ambitious-fox-616
+run_uuid: 46609a157c644657a11b56a99e0b9f4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239960631
+status: 3
+tags: []
+user_id: unknown

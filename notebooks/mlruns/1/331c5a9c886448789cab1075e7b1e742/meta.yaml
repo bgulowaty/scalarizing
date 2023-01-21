@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/331c5a9c886448789cab1075e7b1e742/artifacts
+end_time: 1669955919319
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 331c5a9c886448789cab1075e7b1e742
+run_name: dazzling-kite-519
+run_uuid: 331c5a9c886448789cab1075e7b1e742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240100206
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48376dc0d8444783b5d25a5286b953f0/artifacts
+end_time: 1669952543650
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48376dc0d8444783b5d25a5286b953f0
+run_name: casual-grub-843
+run_uuid: 48376dc0d8444783b5d25a5286b953f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240454018
+status: 3
+tags: []
+user_id: unknown

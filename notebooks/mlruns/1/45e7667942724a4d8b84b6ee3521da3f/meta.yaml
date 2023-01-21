@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45e7667942724a4d8b84b6ee3521da3f/artifacts
+end_time: 1670104756503
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45e7667942724a4d8b84b6ee3521da3f
+run_name: resilient-roo-417
+run_uuid: 45e7667942724a4d8b84b6ee3521da3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239967410
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dd9552edb169456299381e8798cbe9d4/artifacts
+end_time: 1669950994621
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd9552edb169456299381e8798cbe9d4
+run_name: fortunate-skink-427
+run_uuid: dd9552edb169456299381e8798cbe9d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240660342
+status: 3
+tags: []
+user_id: unknown

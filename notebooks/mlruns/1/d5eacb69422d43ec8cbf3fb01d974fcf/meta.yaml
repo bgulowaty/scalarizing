@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d5eacb69422d43ec8cbf3fb01d974fcf/artifacts
+end_time: 1669950062981
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5eacb69422d43ec8cbf3fb01d974fcf
+run_name: adventurous-deer-234
+run_uuid: d5eacb69422d43ec8cbf3fb01d974fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240845288
+status: 3
+tags: []
+user_id: unknown

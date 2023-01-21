@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b7a1b9d434be4c729751ccee0e5b3351/artifacts
+end_time: 1670105363876
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7a1b9d434be4c729751ccee0e5b3351
+run_name: puzzled-quail-6
+run_uuid: b7a1b9d434be4c729751ccee0e5b3351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239933276
+status: 3
+tags: []
+user_id: unknown

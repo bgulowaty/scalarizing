@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/59210b11caef47c09822f49f6f8849ad/artifacts
+end_time: 1670162614768
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 59210b11caef47c09822f49f6f8849ad
+run_name: traveling-colt-656
+run_uuid: 59210b11caef47c09822f49f6f8849ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150258435
+status: 3
+tags: []
+user_id: unknown

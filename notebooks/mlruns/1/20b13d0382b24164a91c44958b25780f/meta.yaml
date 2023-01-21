@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/20b13d0382b24164a91c44958b25780f/artifacts
+end_time: 1669946702802
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 20b13d0382b24164a91c44958b25780f
+run_name: luminous-snipe-785
+run_uuid: 20b13d0382b24164a91c44958b25780f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241514607
+status: 3
+tags: []
+user_id: unknown

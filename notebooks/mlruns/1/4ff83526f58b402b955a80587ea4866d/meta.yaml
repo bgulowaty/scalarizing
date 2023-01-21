@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ff83526f58b402b955a80587ea4866d/artifacts
+end_time: 1670106301570
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ff83526f58b402b955a80587ea4866d
+run_name: intrigued-colt-220
+run_uuid: 4ff83526f58b402b955a80587ea4866d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239898091
+status: 3
+tags: []
+user_id: unknown

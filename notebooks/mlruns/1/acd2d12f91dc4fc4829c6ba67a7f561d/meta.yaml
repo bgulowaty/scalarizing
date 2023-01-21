@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/acd2d12f91dc4fc4829c6ba67a7f561d/artifacts
+end_time: 1669951987948
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acd2d12f91dc4fc4829c6ba67a7f561d
+run_name: angry-bear-787
+run_uuid: acd2d12f91dc4fc4829c6ba67a7f561d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240529912
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dcb2e2a63b9f4c58af6438b950c86605/artifacts
+end_time: 1669949747554
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcb2e2a63b9f4c58af6438b950c86605
+run_name: incongruous-hen-597
+run_uuid: dcb2e2a63b9f4c58af6438b950c86605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240895561
+status: 3
+tags: []
+user_id: unknown

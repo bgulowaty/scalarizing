@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/509ebe75fc2248d9b0207f719fabfa48/artifacts
+end_time: 1669945680420
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 509ebe75fc2248d9b0207f719fabfa48
+run_name: loud-ray-1
+run_uuid: 509ebe75fc2248d9b0207f719fabfa48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241752253
+status: 3
+tags: []
+user_id: unknown

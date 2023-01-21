@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2bdcb4db1bd642cb846d86d9764c3597/artifacts
+end_time: 1670181152601
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2bdcb4db1bd642cb846d86d9764c3597
+run_name: incongruous-dog-545
+run_uuid: 2bdcb4db1bd642cb846d86d9764c3597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240771404
+status: 3
+tags: []
+user_id: unknown

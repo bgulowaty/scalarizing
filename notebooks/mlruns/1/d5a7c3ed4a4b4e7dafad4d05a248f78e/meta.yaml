@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d5a7c3ed4a4b4e7dafad4d05a248f78e/artifacts
+end_time: 1670105025956
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5a7c3ed4a4b4e7dafad4d05a248f78e
+run_name: invincible-stoat-72
+run_uuid: d5a7c3ed4a4b4e7dafad4d05a248f78e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239965122
+status: 3
+tags: []
+user_id: unknown

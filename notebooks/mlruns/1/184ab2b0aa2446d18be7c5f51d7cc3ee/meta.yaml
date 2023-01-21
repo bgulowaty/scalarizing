@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/184ab2b0aa2446d18be7c5f51d7cc3ee/artifacts
+end_time: 1669942235950
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 184ab2b0aa2446d18be7c5f51d7cc3ee
+run_name: likeable-crow-415
+run_uuid: 184ab2b0aa2446d18be7c5f51d7cc3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242872826
+status: 3
+tags: []
+user_id: unknown

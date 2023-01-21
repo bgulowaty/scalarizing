@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3ab8cb845e0c46baae1ef5fd50b9cc97/artifacts
+end_time: 1669951047939
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ab8cb845e0c46baae1ef5fd50b9cc97
+run_name: bald-flea-809
+run_uuid: 3ab8cb845e0c46baae1ef5fd50b9cc97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240635778
+status: 3
+tags: []
+user_id: unknown

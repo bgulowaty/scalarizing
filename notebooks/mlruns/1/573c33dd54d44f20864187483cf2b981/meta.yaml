@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/573c33dd54d44f20864187483cf2b981/artifacts
+end_time: 1669950036966
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 573c33dd54d44f20864187483cf2b981
+run_name: wise-shrimp-792
+run_uuid: 573c33dd54d44f20864187483cf2b981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240839235
+status: 3
+tags: []
+user_id: unknown

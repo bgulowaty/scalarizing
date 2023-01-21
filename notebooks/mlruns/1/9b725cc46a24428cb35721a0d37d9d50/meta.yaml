@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9b725cc46a24428cb35721a0d37d9d50/artifacts
+end_time: 1670180611748
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b725cc46a24428cb35721a0d37d9d50
+run_name: colorful-sponge-178
+run_uuid: 9b725cc46a24428cb35721a0d37d9d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242551093
+status: 3
+tags: []
+user_id: unknown

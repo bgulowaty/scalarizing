@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/30fd20ce748b4d59aec0a720d4d59b99/artifacts
+end_time: 1669944666295
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30fd20ce748b4d59aec0a720d4d59b99
+run_name: loud-quail-768
+run_uuid: 30fd20ce748b4d59aec0a720d4d59b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242027496
+status: 3
+tags: []
+user_id: unknown

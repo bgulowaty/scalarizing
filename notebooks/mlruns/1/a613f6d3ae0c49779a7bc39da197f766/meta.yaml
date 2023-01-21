@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a613f6d3ae0c49779a7bc39da197f766/artifacts
+end_time: 1669946614484
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a613f6d3ae0c49779a7bc39da197f766
+run_name: peaceful-lark-802
+run_uuid: a613f6d3ae0c49779a7bc39da197f766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241562498
+status: 3
+tags: []
+user_id: unknown

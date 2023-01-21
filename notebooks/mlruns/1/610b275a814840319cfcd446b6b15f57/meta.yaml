@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/610b275a814840319cfcd446b6b15f57/artifacts
+end_time: 1669945396006
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 610b275a814840319cfcd446b6b15f57
+run_name: abrasive-steed-656
+run_uuid: 610b275a814840319cfcd446b6b15f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241812238
+status: 3
+tags: []
+user_id: unknown

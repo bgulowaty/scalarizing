@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1cecd19eb4cc4c029b51dbdbf26be023/artifacts
+end_time: 1670105017164
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1cecd19eb4cc4c029b51dbdbf26be023
+run_name: unequaled-turtle-517
+run_uuid: 1cecd19eb4cc4c029b51dbdbf26be023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239966841
+status: 3
+tags: []
+user_id: unknown

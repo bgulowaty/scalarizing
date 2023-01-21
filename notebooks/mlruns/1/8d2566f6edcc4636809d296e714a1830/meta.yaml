@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8d2566f6edcc4636809d296e714a1830/artifacts
+end_time: 1669947347091
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d2566f6edcc4636809d296e714a1830
+run_name: youthful-jay-565
+run_uuid: 8d2566f6edcc4636809d296e714a1830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241377417
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c299f71176c44fc4b3f57754240e4159/artifacts
+end_time: 1669949211750
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c299f71176c44fc4b3f57754240e4159
+run_name: redolent-swan-845
+run_uuid: c299f71176c44fc4b3f57754240e4159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241032499
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f00ed9d12cce4d44a9e59860deaa5b07/artifacts
+end_time: 1669944896484
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f00ed9d12cce4d44a9e59860deaa5b07
+run_name: intelligent-hawk-574
+run_uuid: f00ed9d12cce4d44a9e59860deaa5b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241997096
+status: 3
+tags: []
+user_id: unknown

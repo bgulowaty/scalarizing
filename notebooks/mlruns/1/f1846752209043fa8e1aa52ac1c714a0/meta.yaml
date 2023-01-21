@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f1846752209043fa8e1aa52ac1c714a0/artifacts
+end_time: 1670105043444
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1846752209043fa8e1aa52ac1c714a0
+run_name: resilient-hawk-367
+run_uuid: f1846752209043fa8e1aa52ac1c714a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239956756
+status: 3
+tags: []
+user_id: unknown

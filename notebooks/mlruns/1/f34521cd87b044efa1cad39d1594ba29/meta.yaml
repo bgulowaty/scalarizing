@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f34521cd87b044efa1cad39d1594ba29/artifacts
+end_time: 1669951295334
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f34521cd87b044efa1cad39d1594ba29
+run_name: rebellious-crab-450
+run_uuid: f34521cd87b044efa1cad39d1594ba29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240631038
+status: 3
+tags: []
+user_id: unknown

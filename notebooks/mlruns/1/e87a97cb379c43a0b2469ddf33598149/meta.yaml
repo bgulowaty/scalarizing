@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e87a97cb379c43a0b2469ddf33598149/artifacts
+end_time: 1669953843879
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e87a97cb379c43a0b2469ddf33598149
+run_name: skillful-yak-826
+run_uuid: e87a97cb379c43a0b2469ddf33598149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240292883
+status: 3
+tags: []
+user_id: unknown

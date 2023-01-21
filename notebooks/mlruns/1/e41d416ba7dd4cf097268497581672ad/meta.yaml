@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e41d416ba7dd4cf097268497581672ad/artifacts
+end_time: 1669950036912
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e41d416ba7dd4cf097268497581672ad
+run_name: skillful-bat-824
+run_uuid: e41d416ba7dd4cf097268497581672ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240835969
+status: 3
+tags: []
+user_id: unknown

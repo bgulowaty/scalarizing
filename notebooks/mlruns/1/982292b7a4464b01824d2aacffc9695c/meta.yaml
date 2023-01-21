@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/982292b7a4464b01824d2aacffc9695c/artifacts
+end_time: 1669945991962
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 982292b7a4464b01824d2aacffc9695c
+run_name: fun-hog-425
+run_uuid: 982292b7a4464b01824d2aacffc9695c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241692391
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/35ceda20f1214ca1a64614c1ef3b1773/artifacts
+end_time: 1669942615489
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35ceda20f1214ca1a64614c1ef3b1773
+run_name: silent-conch-932
+run_uuid: 35ceda20f1214ca1a64614c1ef3b1773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242716963
+status: 3
+tags: []
+user_id: unknown

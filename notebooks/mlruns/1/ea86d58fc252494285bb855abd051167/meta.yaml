@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ea86d58fc252494285bb855abd051167/artifacts
+end_time: 1669942553421
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea86d58fc252494285bb855abd051167
+run_name: caring-wren-575
+run_uuid: ea86d58fc252494285bb855abd051167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242735576
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0225b7d0a92242e2a04b88b9578f21e6/artifacts
+end_time: 1669950994555
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0225b7d0a92242e2a04b88b9578f21e6
+run_name: bedecked-deer-851
+run_uuid: 0225b7d0a92242e2a04b88b9578f21e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240656865
+status: 3
+tags: []
+user_id: unknown

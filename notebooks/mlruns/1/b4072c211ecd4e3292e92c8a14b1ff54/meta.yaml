@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b4072c211ecd4e3292e92c8a14b1ff54/artifacts
+end_time: 1669951661348
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4072c211ecd4e3292e92c8a14b1ff54
+run_name: judicious-elk-611
+run_uuid: b4072c211ecd4e3292e92c8a14b1ff54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240544251
+status: 3
+tags: []
+user_id: unknown

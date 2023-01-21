@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/19f100d9af6949b6bd74755f3299b5ab/artifacts
+end_time: 1669944978926
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19f100d9af6949b6bd74755f3299b5ab
+run_name: resilient-pug-847
+run_uuid: 19f100d9af6949b6bd74755f3299b5ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241953042
+status: 3
+tags: []
+user_id: unknown

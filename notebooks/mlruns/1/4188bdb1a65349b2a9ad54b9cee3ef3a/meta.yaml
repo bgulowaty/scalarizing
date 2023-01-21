@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4188bdb1a65349b2a9ad54b9cee3ef3a/artifacts
+end_time: 1669944646839
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4188bdb1a65349b2a9ad54b9cee3ef3a
+run_name: shivering-snipe-362
+run_uuid: 4188bdb1a65349b2a9ad54b9cee3ef3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242024549
+status: 3
+tags: []
+user_id: unknown

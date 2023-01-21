@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3ddefe1bd40d446da1c2cbcf74824ed4/artifacts
+end_time: 1669942530056
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ddefe1bd40d446da1c2cbcf74824ed4
+run_name: clumsy-newt-598
+run_uuid: 3ddefe1bd40d446da1c2cbcf74824ed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242843057
+status: 3
+tags: []
+user_id: unknown

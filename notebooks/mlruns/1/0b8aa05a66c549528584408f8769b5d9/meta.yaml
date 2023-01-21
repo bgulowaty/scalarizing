@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0b8aa05a66c549528584408f8769b5d9/artifacts
+end_time: 1669953475780
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b8aa05a66c549528584408f8769b5d9
+run_name: invincible-snipe-282
+run_uuid: 0b8aa05a66c549528584408f8769b5d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240335560
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a3d01c6929f2431eafde487a99a0eaec/artifacts
+end_time: 1670104406936
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3d01c6929f2431eafde487a99a0eaec
+run_name: redolent-vole-202
+run_uuid: a3d01c6929f2431eafde487a99a0eaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239999862
+status: 3
+tags: []
+user_id: unknown

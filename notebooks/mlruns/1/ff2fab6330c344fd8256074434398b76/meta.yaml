@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ff2fab6330c344fd8256074434398b76/artifacts
+end_time: 1669955301714
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff2fab6330c344fd8256074434398b76
+run_name: dazzling-hen-406
+run_uuid: ff2fab6330c344fd8256074434398b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240149637
+status: 3
+tags: []
+user_id: unknown

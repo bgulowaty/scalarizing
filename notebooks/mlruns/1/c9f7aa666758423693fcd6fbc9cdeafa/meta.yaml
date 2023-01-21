@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c9f7aa666758423693fcd6fbc9cdeafa/artifacts
+end_time: 1669946746277
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9f7aa666758423693fcd6fbc9cdeafa
+run_name: kindly-finch-295
+run_uuid: c9f7aa666758423693fcd6fbc9cdeafa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241563349
+status: 3
+tags: []
+user_id: unknown

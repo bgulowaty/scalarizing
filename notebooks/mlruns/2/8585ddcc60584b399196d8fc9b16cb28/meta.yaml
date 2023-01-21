@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8585ddcc60584b399196d8fc9b16cb28/artifacts
+end_time: 1670162072534
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8585ddcc60584b399196d8fc9b16cb28
+run_name: zealous-steed-459
+run_uuid: 8585ddcc60584b399196d8fc9b16cb28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150446295
+status: 3
+tags: []
+user_id: unknown

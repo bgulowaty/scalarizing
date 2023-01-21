@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b59cb804abd944a19c01940ee3844216/artifacts
+end_time: 1670103238103
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b59cb804abd944a19c01940ee3844216
+run_name: upbeat-fly-380
+run_uuid: b59cb804abd944a19c01940ee3844216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241028274
+status: 3
+tags: []
+user_id: unknown

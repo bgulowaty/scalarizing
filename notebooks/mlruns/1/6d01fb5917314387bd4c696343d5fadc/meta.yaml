@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6d01fb5917314387bd4c696343d5fadc/artifacts
+end_time: 1669946061246
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6d01fb5917314387bd4c696343d5fadc
+run_name: unleashed-shad-937
+run_uuid: 6d01fb5917314387bd4c696343d5fadc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241663366
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48c585a4a014403498a41aace8119319/artifacts
+end_time: 1669952837830
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48c585a4a014403498a41aace8119319
+run_name: luminous-grub-687
+run_uuid: 48c585a4a014403498a41aace8119319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240415847
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/32f4e808aebd4b41a0d945d4e5b357db/artifacts
+end_time: 1669942552165
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32f4e808aebd4b41a0d945d4e5b357db
+run_name: bright-shrike-850
+run_uuid: 32f4e808aebd4b41a0d945d4e5b357db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242735872
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b116d119185742ecbf2f2473350056d0/artifacts
+end_time: 1670162399567
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b116d119185742ecbf2f2473350056d0
+run_name: fearless-horse-945
+run_uuid: b116d119185742ecbf2f2473350056d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150337711
+status: 3
+tags: []
+user_id: unknown

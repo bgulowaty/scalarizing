@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da22b6a0d86d45f591fa81e6707611f7/artifacts
+end_time: 1669943872222
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da22b6a0d86d45f591fa81e6707611f7
+run_name: gentle-perch-551
+run_uuid: da22b6a0d86d45f591fa81e6707611f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242236138
+status: 3
+tags: []
+user_id: unknown

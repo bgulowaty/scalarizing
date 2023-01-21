@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/121e701b46a446809ac5acc27cc33f3d/artifacts
+end_time: 1669943749508
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 121e701b46a446809ac5acc27cc33f3d
+run_name: wistful-stork-475
+run_uuid: 121e701b46a446809ac5acc27cc33f3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242259420
+status: 3
+tags: []
+user_id: unknown

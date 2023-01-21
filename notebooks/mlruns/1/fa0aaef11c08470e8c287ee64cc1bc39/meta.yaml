@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fa0aaef11c08470e8c287ee64cc1bc39/artifacts
+end_time: 1669944818051
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa0aaef11c08470e8c287ee64cc1bc39
+run_name: thoughtful-lynx-542
+run_uuid: fa0aaef11c08470e8c287ee64cc1bc39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242022587
+status: 3
+tags: []
+user_id: unknown

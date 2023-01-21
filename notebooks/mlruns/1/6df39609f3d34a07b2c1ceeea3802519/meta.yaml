@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6df39609f3d34a07b2c1ceeea3802519/artifacts
+end_time: 1669953518652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6df39609f3d34a07b2c1ceeea3802519
+run_name: bright-fowl-380
+run_uuid: 6df39609f3d34a07b2c1ceeea3802519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240335791
+status: 3
+tags: []
+user_id: unknown

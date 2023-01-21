@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/03fc3ff233804a9f82d9987c41f33089/artifacts
+end_time: 1670162402190
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 03fc3ff233804a9f82d9987c41f33089
+run_name: shivering-penguin-37
+run_uuid: 03fc3ff233804a9f82d9987c41f33089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150315620
+status: 3
+tags: []
+user_id: unknown

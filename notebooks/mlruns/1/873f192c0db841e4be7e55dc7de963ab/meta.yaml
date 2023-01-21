@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/873f192c0db841e4be7e55dc7de963ab/artifacts
+end_time: 1669951365617
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 873f192c0db841e4be7e55dc7de963ab
+run_name: dazzling-mare-148
+run_uuid: 873f192c0db841e4be7e55dc7de963ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240626847
+status: 3
+tags: []
+user_id: unknown

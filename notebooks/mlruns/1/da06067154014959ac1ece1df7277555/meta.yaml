@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da06067154014959ac1ece1df7277555/artifacts
+end_time: 1669942713463
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da06067154014959ac1ece1df7277555
+run_name: invincible-quail-631
+run_uuid: da06067154014959ac1ece1df7277555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242535345
+status: 3
+tags: []
+user_id: unknown

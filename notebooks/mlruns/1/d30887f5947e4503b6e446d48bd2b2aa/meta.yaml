@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d30887f5947e4503b6e446d48bd2b2aa/artifacts
+end_time: 1669943067335
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d30887f5947e4503b6e446d48bd2b2aa
+run_name: colorful-loon-266
+run_uuid: d30887f5947e4503b6e446d48bd2b2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242453249
+status: 3
+tags: []
+user_id: unknown

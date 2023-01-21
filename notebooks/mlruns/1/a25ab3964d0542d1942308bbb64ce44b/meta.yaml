@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a25ab3964d0542d1942308bbb64ce44b/artifacts
+end_time: 1669942454413
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a25ab3964d0542d1942308bbb64ce44b
+run_name: flawless-gnat-18
+run_uuid: a25ab3964d0542d1942308bbb64ce44b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242793577
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5fd76704c6a94de1982d94dfddee89c4/artifacts
+end_time: 1669948844507
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5fd76704c6a94de1982d94dfddee89c4
+run_name: stylish-pig-905
+run_uuid: 5fd76704c6a94de1982d94dfddee89c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241083930
+status: 3
+tags: []
+user_id: unknown

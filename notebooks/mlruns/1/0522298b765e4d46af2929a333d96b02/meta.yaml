@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0522298b765e4d46af2929a333d96b02/artifacts
+end_time: 1670181735941
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0522298b765e4d46af2929a333d96b02
+run_name: receptive-hound-19
+run_uuid: 0522298b765e4d46af2929a333d96b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239963361
+status: 3
+tags: []
+user_id: unknown

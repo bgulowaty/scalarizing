@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5af68f78b8ad4494a654cacae1568ad5/artifacts
+end_time: 1669952890612
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5af68f78b8ad4494a654cacae1568ad5
+run_name: kindly-horse-824
+run_uuid: 5af68f78b8ad4494a654cacae1568ad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240388147
+status: 3
+tags: []
+user_id: unknown

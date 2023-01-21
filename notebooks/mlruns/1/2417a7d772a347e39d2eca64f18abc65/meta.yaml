@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2417a7d772a347e39d2eca64f18abc65/artifacts
+end_time: 1669955926474
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2417a7d772a347e39d2eca64f18abc65
+run_name: gaudy-hare-363
+run_uuid: 2417a7d772a347e39d2eca64f18abc65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240095018
+status: 3
+tags: []
+user_id: unknown

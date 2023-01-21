@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a0a214a83ea344939cbe49974fb2b94f/artifacts
+end_time: 1670180877953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0a214a83ea344939cbe49974fb2b94f
+run_name: stately-crow-155
+run_uuid: a0a214a83ea344939cbe49974fb2b94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241418756
+status: 3
+tags: []
+user_id: unknown

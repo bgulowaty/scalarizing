@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cf9a00592de54bbd9d57d9c8abc2b4f3/artifacts
+end_time: 1670181783421
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf9a00592de54bbd9d57d9c8abc2b4f3
+run_name: nebulous-wren-203
+run_uuid: cf9a00592de54bbd9d57d9c8abc2b4f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239895806
+status: 4
+tags: []
+user_id: unknown

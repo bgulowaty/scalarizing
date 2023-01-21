@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a1a4da66218f448fa16e5fc26396383f/artifacts
+end_time: 1669942332325
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1a4da66218f448fa16e5fc26396383f
+run_name: popular-moth-998
+run_uuid: a1a4da66218f448fa16e5fc26396383f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242857108
+status: 3
+tags: []
+user_id: unknown

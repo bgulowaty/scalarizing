@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b5888cbb5f954519917becd8f635de9f/artifacts
+end_time: 1669943700917
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b5888cbb5f954519917becd8f635de9f
+run_name: calm-slug-382
+run_uuid: b5888cbb5f954519917becd8f635de9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242266697
+status: 3
+tags: []
+user_id: unknown

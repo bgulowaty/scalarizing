@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/979cd609bddc4140a0614927f9d23e36/artifacts
+end_time: 1669944170871
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 979cd609bddc4140a0614927f9d23e36
+run_name: gregarious-worm-374
+run_uuid: 979cd609bddc4140a0614927f9d23e36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242129140
+status: 3
+tags: []
+user_id: unknown

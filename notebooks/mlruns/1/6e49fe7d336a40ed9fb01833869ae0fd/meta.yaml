@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6e49fe7d336a40ed9fb01833869ae0fd/artifacts
+end_time: 1670180875169
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e49fe7d336a40ed9fb01833869ae0fd
+run_name: rare-dove-413
+run_uuid: 6e49fe7d336a40ed9fb01833869ae0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241218055
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/04098bbb1700409a90aa1778fb1bc615/artifacts
+end_time: 1669952520128
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04098bbb1700409a90aa1778fb1bc615
+run_name: gregarious-loon-264
+run_uuid: 04098bbb1700409a90aa1778fb1bc615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240459616
+status: 3
+tags: []
+user_id: unknown

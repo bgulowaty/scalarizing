@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/aee52155a04442529c2ceb3fa9ccb1dc/artifacts
+end_time: 1670162180692
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: aee52155a04442529c2ceb3fa9ccb1dc
+run_name: industrious-jay-455
+run_uuid: aee52155a04442529c2ceb3fa9ccb1dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150413056
+status: 3
+tags: []
+user_id: unknown

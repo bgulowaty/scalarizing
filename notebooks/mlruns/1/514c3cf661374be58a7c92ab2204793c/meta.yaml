@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/514c3cf661374be58a7c92ab2204793c/artifacts
+end_time: 1669945389225
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 514c3cf661374be58a7c92ab2204793c
+run_name: abundant-fly-272
+run_uuid: 514c3cf661374be58a7c92ab2204793c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241818986
+status: 3
+tags: []
+user_id: unknown

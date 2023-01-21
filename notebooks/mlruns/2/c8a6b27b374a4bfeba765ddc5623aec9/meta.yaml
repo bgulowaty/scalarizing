@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c8a6b27b374a4bfeba765ddc5623aec9/artifacts
+end_time: 1670162075274
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c8a6b27b374a4bfeba765ddc5623aec9
+run_name: carefree-sponge-163
+run_uuid: c8a6b27b374a4bfeba765ddc5623aec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150439703
+status: 3
+tags: []
+user_id: unknown

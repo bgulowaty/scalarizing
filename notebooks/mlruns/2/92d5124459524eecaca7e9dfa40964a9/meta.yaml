@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/92d5124459524eecaca7e9dfa40964a9/artifacts
+end_time: 1670162294096
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 92d5124459524eecaca7e9dfa40964a9
+run_name: puzzled-sloth-784
+run_uuid: 92d5124459524eecaca7e9dfa40964a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150357165
+status: 3
+tags: []
+user_id: unknown

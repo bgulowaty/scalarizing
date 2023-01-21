@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/cff1576c05eb4286be70d874131b6426/artifacts
+end_time: 1670162832035
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cff1576c05eb4286be70d874131b6426
+run_name: legendary-gnat-844
+run_uuid: cff1576c05eb4286be70d874131b6426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150190699
+status: 3
+tags: []
+user_id: unknown

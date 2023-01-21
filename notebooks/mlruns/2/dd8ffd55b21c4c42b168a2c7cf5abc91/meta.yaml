@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/dd8ffd55b21c4c42b168a2c7cf5abc91/artifacts
+end_time: 1670161965399
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: dd8ffd55b21c4c42b168a2c7cf5abc91
+run_name: traveling-gull-587
+run_uuid: dd8ffd55b21c4c42b168a2c7cf5abc91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150487427
+status: 3
+tags: []
+user_id: unknown

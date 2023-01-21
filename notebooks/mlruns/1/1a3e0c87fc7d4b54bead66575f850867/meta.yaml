@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1a3e0c87fc7d4b54bead66575f850867/artifacts
+end_time: 1669946926916
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a3e0c87fc7d4b54bead66575f850867
+run_name: gentle-asp-14
+run_uuid: 1a3e0c87fc7d4b54bead66575f850867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241477123
+status: 3
+tags: []
+user_id: unknown

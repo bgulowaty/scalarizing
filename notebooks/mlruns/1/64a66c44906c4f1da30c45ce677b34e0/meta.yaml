@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64a66c44906c4f1da30c45ce677b34e0/artifacts
+end_time: 1669951910365
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64a66c44906c4f1da30c45ce677b34e0
+run_name: puzzled-crow-314
+run_uuid: 64a66c44906c4f1da30c45ce677b34e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240533660
+status: 3
+tags: []
+user_id: unknown

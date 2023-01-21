@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dc152a774c8f4d5d8bf38e16b3597294/artifacts
+end_time: 1670103026640
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc152a774c8f4d5d8bf38e16b3597294
+run_name: gifted-worm-178
+run_uuid: dc152a774c8f4d5d8bf38e16b3597294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242600727
+status: 3
+tags: []
+user_id: unknown

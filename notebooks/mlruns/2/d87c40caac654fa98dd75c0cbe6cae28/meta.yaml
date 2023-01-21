@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d87c40caac654fa98dd75c0cbe6cae28/artifacts
+end_time: 1670162181723
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d87c40caac654fa98dd75c0cbe6cae28
+run_name: bemused-cow-491
+run_uuid: d87c40caac654fa98dd75c0cbe6cae28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150412798
+status: 3
+tags: []
+user_id: unknown

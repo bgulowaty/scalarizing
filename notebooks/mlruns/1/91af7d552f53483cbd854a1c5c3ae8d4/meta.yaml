@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/91af7d552f53483cbd854a1c5c3ae8d4/artifacts
+end_time: 1669950995487
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91af7d552f53483cbd854a1c5c3ae8d4
+run_name: handsome-roo-176
+run_uuid: 91af7d552f53483cbd854a1c5c3ae8d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240656150
+status: 3
+tags: []
+user_id: unknown

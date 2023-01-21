@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b283943912e845019a5391efa324084f/artifacts
+end_time: 1669948843374
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b283943912e845019a5391efa324084f
+run_name: receptive-bee-204
+run_uuid: b283943912e845019a5391efa324084f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241083348
+status: 3
+tags: []
+user_id: unknown

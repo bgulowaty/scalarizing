@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d4923415303b482ea7786e23af2721e0/artifacts
+end_time: 1670105055953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4923415303b482ea7786e23af2721e0
+run_name: serious-moth-275
+run_uuid: d4923415303b482ea7786e23af2721e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239950562
+status: 3
+tags: []
+user_id: unknown

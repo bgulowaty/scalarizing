@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0c74efc71c034989b6e9129af987252e/artifacts
+end_time: 1669949745794
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c74efc71c034989b6e9129af987252e
+run_name: calm-pig-886
+run_uuid: 0c74efc71c034989b6e9129af987252e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240906247
+status: 3
+tags: []
+user_id: unknown

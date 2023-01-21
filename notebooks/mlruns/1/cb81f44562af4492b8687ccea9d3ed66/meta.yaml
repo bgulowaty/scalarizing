@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cb81f44562af4492b8687ccea9d3ed66/artifacts
+end_time: 1669950655730
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb81f44562af4492b8687ccea9d3ed66
+run_name: sassy-hare-973
+run_uuid: cb81f44562af4492b8687ccea9d3ed66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240739148
+status: 3
+tags: []
+user_id: unknown

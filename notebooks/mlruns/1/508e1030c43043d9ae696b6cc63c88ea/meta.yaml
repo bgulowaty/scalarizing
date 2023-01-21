@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/508e1030c43043d9ae696b6cc63c88ea/artifacts
+end_time: 1670181181636
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 508e1030c43043d9ae696b6cc63c88ea
+run_name: ambitious-skunk-39
+run_uuid: 508e1030c43043d9ae696b6cc63c88ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240578450
+status: 3
+tags: []
+user_id: unknown

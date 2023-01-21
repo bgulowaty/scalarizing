@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/517adffe364149028c848f0e15c0c0bc/artifacts
+end_time: 1669942238929
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 517adffe364149028c848f0e15c0c0bc
+run_name: ambitious-cub-991
+run_uuid: 517adffe364149028c848f0e15c0c0bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242841865
+status: 3
+tags: []
+user_id: unknown

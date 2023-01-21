@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ece32fc66ca4291b043226a68d93730/artifacts
+end_time: 1669942625125
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ece32fc66ca4291b043226a68d93730
+run_name: indecisive-frog-321
+run_uuid: 1ece32fc66ca4291b043226a68d93730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242712611
+status: 3
+tags: []
+user_id: unknown

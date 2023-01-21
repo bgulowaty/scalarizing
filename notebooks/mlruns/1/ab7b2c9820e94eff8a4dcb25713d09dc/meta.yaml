@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab7b2c9820e94eff8a4dcb25713d09dc/artifacts
+end_time: 1670104418375
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab7b2c9820e94eff8a4dcb25713d09dc
+run_name: shivering-kite-964
+run_uuid: ab7b2c9820e94eff8a4dcb25713d09dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239998026
+status: 3
+tags: []
+user_id: unknown

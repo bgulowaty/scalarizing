@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a5aea8a77bdd4be5bda2699a79edaa63/artifacts
+end_time: 1669953791600
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5aea8a77bdd4be5bda2699a79edaa63
+run_name: rebellious-duck-743
+run_uuid: a5aea8a77bdd4be5bda2699a79edaa63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240305871
+status: 3
+tags: []
+user_id: unknown

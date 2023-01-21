@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b8e6755a1c2d4f43b68506f6e16aa759/artifacts
+end_time: 1669950041320
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8e6755a1c2d4f43b68506f6e16aa759
+run_name: bedecked-stork-357
+run_uuid: b8e6755a1c2d4f43b68506f6e16aa759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240846975
+status: 3
+tags: []
+user_id: unknown

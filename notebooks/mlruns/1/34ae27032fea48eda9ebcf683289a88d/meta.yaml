@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/34ae27032fea48eda9ebcf683289a88d/artifacts
+end_time: 1670102116447
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34ae27032fea48eda9ebcf683289a88d
+run_name: bald-bug-124
+run_uuid: 34ae27032fea48eda9ebcf683289a88d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242646021
+status: 3
+tags: []
+user_id: unknown

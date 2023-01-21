@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4455a43a4c6a425391cb6e2fa62622cc/artifacts
+end_time: 1669950715214
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4455a43a4c6a425391cb6e2fa62622cc
+run_name: peaceful-stag-375
+run_uuid: 4455a43a4c6a425391cb6e2fa62622cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240694274
+status: 3
+tags: []
+user_id: unknown

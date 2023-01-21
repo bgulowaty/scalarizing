@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/52af80f67510471187b1b90c89795eb7/artifacts
+end_time: 1669944857005
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52af80f67510471187b1b90c89795eb7
+run_name: kindly-sloth-749
+run_uuid: 52af80f67510471187b1b90c89795eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241958789
+status: 3
+tags: []
+user_id: unknown

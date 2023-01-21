@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/53383b3563c4406d907a426fbac264cb/artifacts
+end_time: 1669944039596
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53383b3563c4406d907a426fbac264cb
+run_name: gregarious-bass-779
+run_uuid: 53383b3563c4406d907a426fbac264cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242173619
+status: 3
+tags: []
+user_id: unknown

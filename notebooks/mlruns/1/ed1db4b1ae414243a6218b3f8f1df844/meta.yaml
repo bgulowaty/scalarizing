@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ed1db4b1ae414243a6218b3f8f1df844/artifacts
+end_time: 1669954117372
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed1db4b1ae414243a6218b3f8f1df844
+run_name: bouncy-grub-274
+run_uuid: ed1db4b1ae414243a6218b3f8f1df844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240256282
+status: 3
+tags: []
+user_id: unknown

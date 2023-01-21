@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/387a3f06409b462580d480959e4e954e/artifacts
+end_time: 1670162286580
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 387a3f06409b462580d480959e4e954e
+run_name: melodic-shrimp-815
+run_uuid: 387a3f06409b462580d480959e4e954e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150370841
+status: 3
+tags: []
+user_id: unknown

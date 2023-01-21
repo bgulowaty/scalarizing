@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/54eb350eaaf54d35ac7d71f4a48e9384/artifacts
+end_time: 1669955362434
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54eb350eaaf54d35ac7d71f4a48e9384
+run_name: fortunate-whale-819
+run_uuid: 54eb350eaaf54d35ac7d71f4a48e9384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240135416
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f5d0ffe497424327a7c1333ef3772ef9/artifacts
+end_time: 1670161960856
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f5d0ffe497424327a7c1333ef3772ef9
+run_name: auspicious-stag-466
+run_uuid: f5d0ffe497424327a7c1333ef3772ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150504584
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/612e5d8197fa444fb31485cdac301055/artifacts
+end_time: 1669951910953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 612e5d8197fa444fb31485cdac301055
+run_name: resilient-crab-424
+run_uuid: 612e5d8197fa444fb31485cdac301055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240530958
+status: 3
+tags: []
+user_id: unknown

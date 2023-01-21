@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c0fc8632d1a147cfa4bcb798b3032cca/artifacts
+end_time: 1669954153314
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0fc8632d1a147cfa4bcb798b3032cca
+run_name: nervous-fox-312
+run_uuid: c0fc8632d1a147cfa4bcb798b3032cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240253498
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b83b8904279040acab335501272ab291/artifacts
+end_time: 1670162834100
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b83b8904279040acab335501272ab291
+run_name: adaptable-sow-320
+run_uuid: b83b8904279040acab335501272ab291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150191812
+status: 3
+tags: []
+user_id: unknown

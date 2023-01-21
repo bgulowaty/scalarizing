@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b992e97ecadf4469bb8c29a88b6391e5/artifacts
+end_time: 1669947300004
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b992e97ecadf4469bb8c29a88b6391e5
+run_name: rare-shrike-18
+run_uuid: b992e97ecadf4469bb8c29a88b6391e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241433612
+status: 3
+tags: []
+user_id: unknown

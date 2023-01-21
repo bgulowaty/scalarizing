@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7f07869416dc43e799fff606e75b1409/artifacts
+end_time: 1670162399377
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7f07869416dc43e799fff606e75b1409
+run_name: bemused-eel-323
+run_uuid: 7f07869416dc43e799fff606e75b1409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150323419
+status: 3
+tags: []
+user_id: unknown

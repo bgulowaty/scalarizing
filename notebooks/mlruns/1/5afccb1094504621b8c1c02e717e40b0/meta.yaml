@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5afccb1094504621b8c1c02e717e40b0/artifacts
+end_time: 1670180565351
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5afccb1094504621b8c1c02e717e40b0
+run_name: incongruous-jay-611
+run_uuid: 5afccb1094504621b8c1c02e717e40b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242451203
+status: 3
+tags: []
+user_id: unknown

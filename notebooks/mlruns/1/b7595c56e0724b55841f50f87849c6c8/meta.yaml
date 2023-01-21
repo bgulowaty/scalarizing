@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b7595c56e0724b55841f50f87849c6c8/artifacts
+end_time: 1670181736425
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7595c56e0724b55841f50f87849c6c8
+run_name: bright-tern-784
+run_uuid: b7595c56e0724b55841f50f87849c6c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240023818
+status: 3
+tags: []
+user_id: unknown

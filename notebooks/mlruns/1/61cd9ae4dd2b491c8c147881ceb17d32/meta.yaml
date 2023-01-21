@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/61cd9ae4dd2b491c8c147881ceb17d32/artifacts
+end_time: 1670105977724
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61cd9ae4dd2b491c8c147881ceb17d32
+run_name: polite-mule-7
+run_uuid: 61cd9ae4dd2b491c8c147881ceb17d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239909685
+status: 3
+tags: []
+user_id: unknown

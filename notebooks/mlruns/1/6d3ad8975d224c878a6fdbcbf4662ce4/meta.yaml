@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6d3ad8975d224c878a6fdbcbf4662ce4/artifacts
+end_time: 1669950038989
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6d3ad8975d224c878a6fdbcbf4662ce4
+run_name: ambitious-loon-322
+run_uuid: 6d3ad8975d224c878a6fdbcbf4662ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240840208
+status: 3
+tags: []
+user_id: unknown

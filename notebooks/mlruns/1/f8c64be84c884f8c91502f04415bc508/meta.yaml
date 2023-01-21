@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f8c64be84c884f8c91502f04415bc508/artifacts
+end_time: 1669944170530
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f8c64be84c884f8c91502f04415bc508
+run_name: honorable-kit-320
+run_uuid: f8c64be84c884f8c91502f04415bc508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242237090
+status: 3
+tags: []
+user_id: unknown

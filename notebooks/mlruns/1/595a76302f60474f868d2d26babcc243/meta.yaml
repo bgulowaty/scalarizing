@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/595a76302f60474f868d2d26babcc243/artifacts
+end_time: 1669952528836
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 595a76302f60474f868d2d26babcc243
+run_name: ambitious-boar-954
+run_uuid: 595a76302f60474f868d2d26babcc243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240450973
+status: 3
+tags: []
+user_id: unknown

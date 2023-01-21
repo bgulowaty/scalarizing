@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/cece3c6181e34ffd8f39e1d19b8972af/artifacts
+end_time: 1670162398610
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cece3c6181e34ffd8f39e1d19b8972af
+run_name: wise-finch-970
+run_uuid: cece3c6181e34ffd8f39e1d19b8972af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150324350
+status: 3
+tags: []
+user_id: unknown

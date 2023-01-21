@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/902b491a8361456db81064bb12ed73ae/artifacts
+end_time: 1670162294397
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 902b491a8361456db81064bb12ed73ae
+run_name: rare-rook-346
+run_uuid: 902b491a8361456db81064bb12ed73ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150348719
+status: 3
+tags: []
+user_id: unknown

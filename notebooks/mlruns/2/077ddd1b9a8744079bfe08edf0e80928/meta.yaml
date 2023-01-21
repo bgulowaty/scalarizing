@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/077ddd1b9a8744079bfe08edf0e80928/artifacts
+end_time: 1670162047894
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 077ddd1b9a8744079bfe08edf0e80928
+run_name: rumbling-fox-675
+run_uuid: 077ddd1b9a8744079bfe08edf0e80928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150509284
+status: 3
+tags: []
+user_id: unknown

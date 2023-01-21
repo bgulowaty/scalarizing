@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/56d0dc2ad5a44abbbb8a5bd470bb7b1f/artifacts
+end_time: 1669947612171
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56d0dc2ad5a44abbbb8a5bd470bb7b1f
+run_name: silent-fox-884
+run_uuid: 56d0dc2ad5a44abbbb8a5bd470bb7b1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241328747
+status: 3
+tags: []
+user_id: unknown

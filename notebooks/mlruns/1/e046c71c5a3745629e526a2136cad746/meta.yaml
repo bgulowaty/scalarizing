@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e046c71c5a3745629e526a2136cad746/artifacts
+end_time: 1669947573160
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e046c71c5a3745629e526a2136cad746
+run_name: illustrious-loon-241
+run_uuid: e046c71c5a3745629e526a2136cad746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241337723
+status: 3
+tags: []
+user_id: unknown

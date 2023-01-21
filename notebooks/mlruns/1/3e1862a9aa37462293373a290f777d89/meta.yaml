@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e1862a9aa37462293373a290f777d89/artifacts
+end_time: 1669948260018
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e1862a9aa37462293373a290f777d89
+run_name: stylish-toad-556
+run_uuid: 3e1862a9aa37462293373a290f777d89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241196864
+status: 3
+tags: []
+user_id: unknown

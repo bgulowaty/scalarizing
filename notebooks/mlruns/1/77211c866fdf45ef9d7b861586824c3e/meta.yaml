@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/77211c866fdf45ef9d7b861586824c3e/artifacts
+end_time: 1669953784585
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77211c866fdf45ef9d7b861586824c3e
+run_name: thoughtful-newt-327
+run_uuid: 77211c866fdf45ef9d7b861586824c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240313959
+status: 3
+tags: []
+user_id: unknown

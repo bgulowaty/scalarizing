@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13c349e4e365463c93db02d69857c22a/artifacts
+end_time: 1669946668616
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13c349e4e365463c93db02d69857c22a
+run_name: placid-frog-176
+run_uuid: 13c349e4e365463c93db02d69857c22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241520966
+status: 3
+tags: []
+user_id: unknown

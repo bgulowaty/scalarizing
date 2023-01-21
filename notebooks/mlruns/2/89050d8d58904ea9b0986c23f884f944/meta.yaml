@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/89050d8d58904ea9b0986c23f884f944/artifacts
+end_time: 1670162397143
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 89050d8d58904ea9b0986c23f884f944
+run_name: youthful-whale-153
+run_uuid: 89050d8d58904ea9b0986c23f884f944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150329434
+status: 3
+tags: []
+user_id: unknown

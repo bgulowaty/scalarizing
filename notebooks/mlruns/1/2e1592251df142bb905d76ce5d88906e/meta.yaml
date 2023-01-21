@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2e1592251df142bb905d76ce5d88906e/artifacts
+end_time: 1670105354828
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e1592251df142bb905d76ce5d88906e
+run_name: dapper-stork-460
+run_uuid: 2e1592251df142bb905d76ce5d88906e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239939513
+status: 3
+tags: []
+user_id: unknown

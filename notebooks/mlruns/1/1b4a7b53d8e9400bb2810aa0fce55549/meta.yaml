@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1b4a7b53d8e9400bb2810aa0fce55549/artifacts
+end_time: 1669952302101
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b4a7b53d8e9400bb2810aa0fce55549
+run_name: glamorous-worm-273
+run_uuid: 1b4a7b53d8e9400bb2810aa0fce55549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240468516
+status: 3
+tags: []
+user_id: unknown

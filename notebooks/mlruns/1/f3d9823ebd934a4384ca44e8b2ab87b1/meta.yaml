@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f3d9823ebd934a4384ca44e8b2ab87b1/artifacts
+end_time: 1669947126723
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f3d9823ebd934a4384ca44e8b2ab87b1
+run_name: masked-turtle-283
+run_uuid: f3d9823ebd934a4384ca44e8b2ab87b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241540928
+status: 3
+tags: []
+user_id: unknown

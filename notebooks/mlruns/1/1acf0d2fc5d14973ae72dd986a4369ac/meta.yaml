@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1acf0d2fc5d14973ae72dd986a4369ac/artifacts
+end_time: 1670105979611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1acf0d2fc5d14973ae72dd986a4369ac
+run_name: thundering-gnat-534
+run_uuid: 1acf0d2fc5d14973ae72dd986a4369ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239909786
+status: 3
+tags: []
+user_id: unknown

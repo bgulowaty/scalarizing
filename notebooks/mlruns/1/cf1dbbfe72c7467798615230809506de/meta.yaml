@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cf1dbbfe72c7467798615230809506de/artifacts
+end_time: 1669944271490
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf1dbbfe72c7467798615230809506de
+run_name: silent-donkey-715
+run_uuid: cf1dbbfe72c7467798615230809506de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242136379
+status: 3
+tags: []
+user_id: unknown

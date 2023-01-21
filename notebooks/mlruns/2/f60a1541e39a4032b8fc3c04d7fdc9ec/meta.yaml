@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f60a1541e39a4032b8fc3c04d7fdc9ec/artifacts
+end_time: 1670162513277
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f60a1541e39a4032b8fc3c04d7fdc9ec
+run_name: upset-crab-596
+run_uuid: f60a1541e39a4032b8fc3c04d7fdc9ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150274819
+status: 3
+tags: []
+user_id: unknown

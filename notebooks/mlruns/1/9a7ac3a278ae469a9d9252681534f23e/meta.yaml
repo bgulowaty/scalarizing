@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9a7ac3a278ae469a9d9252681534f23e/artifacts
+end_time: 1669949125845
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a7ac3a278ae469a9d9252681534f23e
+run_name: youthful-seal-149
+run_uuid: 9a7ac3a278ae469a9d9252681534f23e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241043937
+status: 3
+tags: []
+user_id: unknown

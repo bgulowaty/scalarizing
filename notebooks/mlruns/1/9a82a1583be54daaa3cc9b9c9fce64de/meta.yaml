@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9a82a1583be54daaa3cc9b9c9fce64de/artifacts
+end_time: 1669955302249
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a82a1583be54daaa3cc9b9c9fce64de
+run_name: luminous-doe-593
+run_uuid: 9a82a1583be54daaa3cc9b9c9fce64de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240144872
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f022ea17704643558f11782764f5a31f/artifacts
+end_time: 1669942617151
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f022ea17704643558f11782764f5a31f
+run_name: funny-roo-289
+run_uuid: f022ea17704643558f11782764f5a31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242718894
+status: 3
+tags: []
+user_id: unknown

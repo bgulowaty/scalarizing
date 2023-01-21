@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3a638355e3a54467bc1c8924a6ceadb8/artifacts
+end_time: 1669955921063
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a638355e3a54467bc1c8924a6ceadb8
+run_name: caring-squirrel-69
+run_uuid: 3a638355e3a54467bc1c8924a6ceadb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240102463
+status: 3
+tags: []
+user_id: unknown

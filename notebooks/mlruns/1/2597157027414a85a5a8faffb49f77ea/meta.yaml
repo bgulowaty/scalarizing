@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2597157027414a85a5a8faffb49f77ea/artifacts
+end_time: 1669948823365
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2597157027414a85a5a8faffb49f77ea
+run_name: polite-mare-252
+run_uuid: 2597157027414a85a5a8faffb49f77ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241110771
+status: 3
+tags: []
+user_id: unknown

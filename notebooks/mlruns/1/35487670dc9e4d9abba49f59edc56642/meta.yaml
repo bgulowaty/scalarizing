@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/35487670dc9e4d9abba49f59edc56642/artifacts
+end_time: 1670181150009
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35487670dc9e4d9abba49f59edc56642
+run_name: nimble-hog-749
+run_uuid: 35487670dc9e4d9abba49f59edc56642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240842741
+status: 3
+tags: []
+user_id: unknown

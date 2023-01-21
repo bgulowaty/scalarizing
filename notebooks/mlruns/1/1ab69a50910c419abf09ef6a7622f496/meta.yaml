@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ab69a50910c419abf09ef6a7622f496/artifacts
+end_time: 1669951356164
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ab69a50910c419abf09ef6a7622f496
+run_name: vaunted-fox-670
+run_uuid: 1ab69a50910c419abf09ef6a7622f496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240596632
+status: 3
+tags: []
+user_id: unknown

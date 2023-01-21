@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6731c28aa7ae4867a76b5888481f0b85/artifacts
+end_time: 1669942866456
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6731c28aa7ae4867a76b5888481f0b85
+run_name: treasured-toad-861
+run_uuid: 6731c28aa7ae4867a76b5888481f0b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242490488
+status: 3
+tags: []
+user_id: unknown

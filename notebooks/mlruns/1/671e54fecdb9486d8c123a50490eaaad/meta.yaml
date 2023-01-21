@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/671e54fecdb9486d8c123a50490eaaad/artifacts
+end_time: 1670102422073
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 671e54fecdb9486d8c123a50490eaaad
+run_name: ambitious-deer-422
+run_uuid: 671e54fecdb9486d8c123a50490eaaad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242575905
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/832a4481407c473c9e9f422a03956dd0/artifacts
+end_time: 1669942893043
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 832a4481407c473c9e9f422a03956dd0
+run_name: sedate-cub-50
+run_uuid: 832a4481407c473c9e9f422a03956dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242477206
+status: 3
+tags: []
+user_id: unknown

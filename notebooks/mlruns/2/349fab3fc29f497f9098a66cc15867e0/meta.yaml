@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/349fab3fc29f497f9098a66cc15867e0/artifacts
+end_time: 1670161973948
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 349fab3fc29f497f9098a66cc15867e0
+run_name: righteous-koi-603
+run_uuid: 349fab3fc29f497f9098a66cc15867e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150503771
+status: 3
+tags: []
+user_id: unknown

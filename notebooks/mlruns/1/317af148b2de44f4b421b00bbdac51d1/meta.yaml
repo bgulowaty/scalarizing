@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/317af148b2de44f4b421b00bbdac51d1/artifacts
+end_time: 1670105964815
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 317af148b2de44f4b421b00bbdac51d1
+run_name: unruly-hare-109
+run_uuid: 317af148b2de44f4b421b00bbdac51d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239915092
+status: 3
+tags: []
+user_id: unknown

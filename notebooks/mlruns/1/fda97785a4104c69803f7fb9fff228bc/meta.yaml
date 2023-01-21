@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fda97785a4104c69803f7fb9fff228bc/artifacts
+end_time: 1669942360253
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fda97785a4104c69803f7fb9fff228bc
+run_name: abundant-snake-483
+run_uuid: fda97785a4104c69803f7fb9fff228bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242820346
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d856d306ec98420cb3de7645e65f1f1e/artifacts
+end_time: 1670162506526
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d856d306ec98420cb3de7645e65f1f1e
+run_name: chill-croc-100
+run_uuid: d856d306ec98420cb3de7645e65f1f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150304578
+status: 3
+tags: []
+user_id: unknown

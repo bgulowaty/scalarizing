@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9906c117621e41dca6d38cb8d0d7c87b/artifacts
+end_time: 1670106593851
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9906c117621e41dca6d38cb8d0d7c87b
+run_name: worried-whale-114
+run_uuid: 9906c117621e41dca6d38cb8d0d7c87b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239887921
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/be579bc101ef4cd3b0c339285c2e7b92/artifacts
+end_time: 1670105670483
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be579bc101ef4cd3b0c339285c2e7b92
+run_name: carefree-whale-969
+run_uuid: be579bc101ef4cd3b0c339285c2e7b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239922555
+status: 3
+tags: []
+user_id: unknown

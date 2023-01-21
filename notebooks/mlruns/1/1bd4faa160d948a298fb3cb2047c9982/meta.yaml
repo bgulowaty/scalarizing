@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1bd4faa160d948a298fb3cb2047c9982/artifacts
+end_time: 1670104764816
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1bd4faa160d948a298fb3cb2047c9982
+run_name: flawless-dolphin-833
+run_uuid: 1bd4faa160d948a298fb3cb2047c9982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239975604
+status: 3
+tags: []
+user_id: unknown

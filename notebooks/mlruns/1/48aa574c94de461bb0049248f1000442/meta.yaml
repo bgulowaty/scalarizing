@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48aa574c94de461bb0049248f1000442/artifacts
+end_time: 1669943234065
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48aa574c94de461bb0049248f1000442
+run_name: colorful-ant-54
+run_uuid: 48aa574c94de461bb0049248f1000442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242387098
+status: 3
+tags: []
+user_id: unknown

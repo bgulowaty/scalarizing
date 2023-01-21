@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c98453703a97416d8ba3f108873caf71/artifacts
+end_time: 1670105039554
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c98453703a97416d8ba3f108873caf71
+run_name: able-ray-774
+run_uuid: c98453703a97416d8ba3f108873caf71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239957490
+status: 3
+tags: []
+user_id: unknown

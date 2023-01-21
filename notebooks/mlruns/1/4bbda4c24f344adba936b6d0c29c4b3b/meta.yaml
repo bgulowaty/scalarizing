@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4bbda4c24f344adba936b6d0c29c4b3b/artifacts
+end_time: 1669945994828
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4bbda4c24f344adba936b6d0c29c4b3b
+run_name: bouncy-mouse-123
+run_uuid: 4bbda4c24f344adba936b6d0c29c4b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241711934
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/57565ed006d74cd7a67e8f78eb8e15cc/artifacts
+end_time: 1670103221764
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57565ed006d74cd7a67e8f78eb8e15cc
+run_name: vaunted-fawn-49
+run_uuid: 57565ed006d74cd7a67e8f78eb8e15cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241063277
+status: 3
+tags: []
+user_id: unknown

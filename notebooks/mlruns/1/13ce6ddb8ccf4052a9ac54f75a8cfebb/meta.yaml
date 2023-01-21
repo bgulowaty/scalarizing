@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13ce6ddb8ccf4052a9ac54f75a8cfebb/artifacts
+end_time: 1669953786898
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13ce6ddb8ccf4052a9ac54f75a8cfebb
+run_name: magnificent-fowl-867
+run_uuid: 13ce6ddb8ccf4052a9ac54f75a8cfebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240303755
+status: 3
+tags: []
+user_id: unknown

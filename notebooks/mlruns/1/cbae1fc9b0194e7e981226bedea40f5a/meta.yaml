@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cbae1fc9b0194e7e981226bedea40f5a/artifacts
+end_time: 1669949164266
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbae1fc9b0194e7e981226bedea40f5a
+run_name: traveling-stoat-355
+run_uuid: cbae1fc9b0194e7e981226bedea40f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241059378
+status: 3
+tags: []
+user_id: unknown

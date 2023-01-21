@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce2bb4baadca4af5abf78fc9083d495f/artifacts
+end_time: 1670105657698
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce2bb4baadca4af5abf78fc9083d495f
+run_name: nosy-hog-796
+run_uuid: ce2bb4baadca4af5abf78fc9083d495f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239927767
+status: 3
+tags: []
+user_id: unknown

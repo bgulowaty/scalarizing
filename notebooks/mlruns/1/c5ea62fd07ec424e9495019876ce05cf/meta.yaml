@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c5ea62fd07ec424e9495019876ce05cf/artifacts
+end_time: 1669943010253
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5ea62fd07ec424e9495019876ce05cf
+run_name: bald-snipe-288
+run_uuid: c5ea62fd07ec424e9495019876ce05cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242463117
+status: 3
+tags: []
+user_id: unknown

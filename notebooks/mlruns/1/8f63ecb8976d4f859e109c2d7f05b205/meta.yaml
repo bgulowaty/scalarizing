@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8f63ecb8976d4f859e109c2d7f05b205/artifacts
+end_time: 1670181489802
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f63ecb8976d4f859e109c2d7f05b205
+run_name: luminous-elk-52
+run_uuid: 8f63ecb8976d4f859e109c2d7f05b205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240124162
+status: 3
+tags: []
+user_id: unknown

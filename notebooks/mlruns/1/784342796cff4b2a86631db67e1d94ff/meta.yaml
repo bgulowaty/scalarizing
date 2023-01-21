@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/784342796cff4b2a86631db67e1d94ff/artifacts
+end_time: 1670105028904
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 784342796cff4b2a86631db67e1d94ff
+run_name: bemused-squirrel-743
+run_uuid: 784342796cff4b2a86631db67e1d94ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239960531
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9722bbf2c0df45419787d2525aef5c2a/artifacts
+end_time: 1670162396302
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9722bbf2c0df45419787d2525aef5c2a
+run_name: bold-shrimp-86
+run_uuid: 9722bbf2c0df45419787d2525aef5c2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150337897
+status: 3
+tags: []
+user_id: unknown

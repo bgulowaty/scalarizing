@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89684b662371418c9ee7bc7c53e29c93/artifacts
+end_time: 1669942459211
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89684b662371418c9ee7bc7c53e29c93
+run_name: polite-hound-315
+run_uuid: 89684b662371418c9ee7bc7c53e29c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242840071
+status: 3
+tags: []
+user_id: unknown

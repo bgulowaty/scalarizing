@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eaffa3990d2449ed84f2b888c4f73bd8/artifacts
+end_time: 1669955974822
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eaffa3990d2449ed84f2b888c4f73bd8
+run_name: rebellious-perch-618
+run_uuid: eaffa3990d2449ed84f2b888c4f73bd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240092589
+status: 3
+tags: []
+user_id: unknown

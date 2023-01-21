@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6de9325c8d9d459ab53732bbf4016c3c/artifacts
+end_time: 1669945513579
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6de9325c8d9d459ab53732bbf4016c3c
+run_name: auspicious-swan-289
+run_uuid: 6de9325c8d9d459ab53732bbf4016c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241779723
+status: 3
+tags: []
+user_id: unknown

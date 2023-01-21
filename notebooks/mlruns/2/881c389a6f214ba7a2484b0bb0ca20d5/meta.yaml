@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/881c389a6f214ba7a2484b0bb0ca20d5/artifacts
+end_time: 1670162515725
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 881c389a6f214ba7a2484b0bb0ca20d5
+run_name: colorful-horse-584
+run_uuid: 881c389a6f214ba7a2484b0bb0ca20d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150298197
+status: 3
+tags: []
+user_id: unknown

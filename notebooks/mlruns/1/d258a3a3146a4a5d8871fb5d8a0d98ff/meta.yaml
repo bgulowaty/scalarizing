@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d258a3a3146a4a5d8871fb5d8a0d98ff/artifacts
+end_time: 1670104709614
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d258a3a3146a4a5d8871fb5d8a0d98ff
+run_name: bright-dove-232
+run_uuid: d258a3a3146a4a5d8871fb5d8a0d98ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239980254
+status: 3
+tags: []
+user_id: unknown

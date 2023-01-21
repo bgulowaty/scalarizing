@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/01fe8700c7574d37a2a6ca823642b1ab/artifacts
+end_time: 1670102456028
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01fe8700c7574d37a2a6ca823642b1ab
+run_name: abundant-perch-503
+run_uuid: 01fe8700c7574d37a2a6ca823642b1ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242585166
+status: 3
+tags: []
+user_id: unknown

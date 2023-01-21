@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/514f32843bb84d0ea04441ba61782fcf/artifacts
+end_time: 1670106270925
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 514f32843bb84d0ea04441ba61782fcf
+run_name: honorable-smelt-557
+run_uuid: 514f32843bb84d0ea04441ba61782fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239903352
+status: 3
+tags: []
+user_id: unknown

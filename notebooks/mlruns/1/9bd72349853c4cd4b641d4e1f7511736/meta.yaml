@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9bd72349853c4cd4b641d4e1f7511736/artifacts
+end_time: 1669944025182
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9bd72349853c4cd4b641d4e1f7511736
+run_name: sassy-foal-561
+run_uuid: 9bd72349853c4cd4b641d4e1f7511736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242167786
+status: 3
+tags: []
+user_id: unknown

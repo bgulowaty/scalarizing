@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc117db3a166466ab0dc12b7adf39869/artifacts
+end_time: 1670102929243
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc117db3a166466ab0dc12b7adf39869
+run_name: bedecked-hare-825
+run_uuid: cc117db3a166466ab0dc12b7adf39869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241347346
+status: 3
+tags: []
+user_id: unknown

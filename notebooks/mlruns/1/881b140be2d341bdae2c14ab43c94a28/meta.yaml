@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/881b140be2d341bdae2c14ab43c94a28/artifacts
+end_time: 1669955091881
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 881b140be2d341bdae2c14ab43c94a28
+run_name: painted-vole-815
+run_uuid: 881b140be2d341bdae2c14ab43c94a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240162988
+status: 3
+tags: []
+user_id: unknown

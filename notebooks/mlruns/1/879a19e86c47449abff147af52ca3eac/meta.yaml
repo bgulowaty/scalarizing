@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/879a19e86c47449abff147af52ca3eac/artifacts
+end_time: 1669950651016
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 879a19e86c47449abff147af52ca3eac
+run_name: rare-grub-677
+run_uuid: 879a19e86c47449abff147af52ca3eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240732333
+status: 3
+tags: []
+user_id: unknown

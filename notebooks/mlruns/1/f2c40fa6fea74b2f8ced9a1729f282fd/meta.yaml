@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f2c40fa6fea74b2f8ced9a1729f282fd/artifacts
+end_time: 1669949748752
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2c40fa6fea74b2f8ced9a1729f282fd
+run_name: monumental-loon-95
+run_uuid: f2c40fa6fea74b2f8ced9a1729f282fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240894009
+status: 3
+tags: []
+user_id: unknown

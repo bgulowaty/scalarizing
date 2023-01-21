@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e5368d8472745259a799a411702ab07/artifacts
+end_time: 1669954129880
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e5368d8472745259a799a411702ab07
+run_name: funny-ox-131
+run_uuid: 3e5368d8472745259a799a411702ab07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240257333
+status: 3
+tags: []
+user_id: unknown

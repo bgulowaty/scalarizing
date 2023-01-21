@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/06bce43d0d154c3781bcc5e4924744a7/artifacts
+end_time: 1669946614158
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 06bce43d0d154c3781bcc5e4924744a7
+run_name: rogue-doe-745
+run_uuid: 06bce43d0d154c3781bcc5e4924744a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241541516
+status: 3
+tags: []
+user_id: unknown

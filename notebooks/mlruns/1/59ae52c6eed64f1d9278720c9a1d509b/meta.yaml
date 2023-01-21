@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59ae52c6eed64f1d9278720c9a1d509b/artifacts
+end_time: 1669950816135
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59ae52c6eed64f1d9278720c9a1d509b
+run_name: caring-hog-935
+run_uuid: 59ae52c6eed64f1d9278720c9a1d509b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240769318
+status: 3
+tags: []
+user_id: unknown

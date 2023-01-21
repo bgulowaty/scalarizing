@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cab8b49bd721465fa8b3349cb3166bef/artifacts
+end_time: 1669945141569
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cab8b49bd721465fa8b3349cb3166bef
+run_name: illustrious-rook-151
+run_uuid: cab8b49bd721465fa8b3349cb3166bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241863003
+status: 3
+tags: []
+user_id: unknown

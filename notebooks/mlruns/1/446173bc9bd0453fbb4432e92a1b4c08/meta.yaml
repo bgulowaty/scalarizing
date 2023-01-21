@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/446173bc9bd0453fbb4432e92a1b4c08/artifacts
+end_time: 1669943771917
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 446173bc9bd0453fbb4432e92a1b4c08
+run_name: carefree-kite-845
+run_uuid: 446173bc9bd0453fbb4432e92a1b4c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242251744
+status: 3
+tags: []
+user_id: unknown

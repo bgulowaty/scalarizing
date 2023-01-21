@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da233edfafd84d919560895f462b3192/artifacts
+end_time: 1670105687888
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da233edfafd84d919560895f462b3192
+run_name: capable-mole-437
+run_uuid: da233edfafd84d919560895f462b3192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239927193
+status: 3
+tags: []
+user_id: unknown

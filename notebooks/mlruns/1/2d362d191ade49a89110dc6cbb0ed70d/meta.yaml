@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2d362d191ade49a89110dc6cbb0ed70d/artifacts
+end_time: 1669951783181
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d362d191ade49a89110dc6cbb0ed70d
+run_name: fortunate-cod-303
+run_uuid: 2d362d191ade49a89110dc6cbb0ed70d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240550690
+status: 3
+tags: []
+user_id: unknown

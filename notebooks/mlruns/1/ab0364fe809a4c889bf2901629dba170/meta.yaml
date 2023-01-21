@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ab0364fe809a4c889bf2901629dba170/artifacts
+end_time: 1670102307682
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab0364fe809a4c889bf2901629dba170
+run_name: wistful-skink-161
+run_uuid: ab0364fe809a4c889bf2901629dba170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242640440
+status: 3
+tags: []
+user_id: unknown

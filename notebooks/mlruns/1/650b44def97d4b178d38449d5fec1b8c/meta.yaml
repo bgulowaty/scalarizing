@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/650b44def97d4b178d38449d5fec1b8c/artifacts
+end_time: 1670102094511
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 650b44def97d4b178d38449d5fec1b8c
+run_name: treasured-crane-189
+run_uuid: 650b44def97d4b178d38449d5fec1b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242679881
+status: 3
+tags: []
+user_id: unknown

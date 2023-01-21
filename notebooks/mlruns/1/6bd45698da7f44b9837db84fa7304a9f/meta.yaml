@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6bd45698da7f44b9837db84fa7304a9f/artifacts
+end_time: 1669952528980
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6bd45698da7f44b9837db84fa7304a9f
+run_name: dashing-shoat-20
+run_uuid: 6bd45698da7f44b9837db84fa7304a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240446504
+status: 3
+tags: []
+user_id: unknown

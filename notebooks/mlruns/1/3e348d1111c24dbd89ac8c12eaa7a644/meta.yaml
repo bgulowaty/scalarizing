@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e348d1111c24dbd89ac8c12eaa7a644/artifacts
+end_time: 1669947847801
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e348d1111c24dbd89ac8c12eaa7a644
+run_name: invincible-shoat-85
+run_uuid: 3e348d1111c24dbd89ac8c12eaa7a644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241303524
+status: 3
+tags: []
+user_id: unknown

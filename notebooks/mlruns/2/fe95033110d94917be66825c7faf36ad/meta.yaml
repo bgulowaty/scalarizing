@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fe95033110d94917be66825c7faf36ad/artifacts
+end_time: 1670162085929
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fe95033110d94917be66825c7faf36ad
+run_name: bittersweet-hawk-988
+run_uuid: fe95033110d94917be66825c7faf36ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150437658
+status: 3
+tags: []
+user_id: unknown

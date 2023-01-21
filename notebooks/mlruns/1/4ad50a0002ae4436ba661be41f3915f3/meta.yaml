@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ad50a0002ae4436ba661be41f3915f3/artifacts
+end_time: 1669944699970
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ad50a0002ae4436ba661be41f3915f3
+run_name: handsome-cub-491
+run_uuid: 4ad50a0002ae4436ba661be41f3915f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242023591
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ed9fe941ac3d4f729b74ed9bbd756516/artifacts
+end_time: 1669948256341
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed9fe941ac3d4f729b74ed9bbd756516
+run_name: brawny-ray-655
+run_uuid: ed9fe941ac3d4f729b74ed9bbd756516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241188934
+status: 3
+tags: []
+user_id: unknown

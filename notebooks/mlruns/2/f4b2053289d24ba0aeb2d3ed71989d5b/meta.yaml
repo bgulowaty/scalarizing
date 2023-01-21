@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f4b2053289d24ba0aeb2d3ed71989d5b/artifacts
+end_time: 1670162401316
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f4b2053289d24ba0aeb2d3ed71989d5b
+run_name: gaudy-dove-570
+run_uuid: f4b2053289d24ba0aeb2d3ed71989d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150320169
+status: 3
+tags: []
+user_id: unknown

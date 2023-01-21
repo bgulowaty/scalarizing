@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e297e0ca710d466d857e43f253656761/artifacts
+end_time: 1669950667971
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e297e0ca710d466d857e43f253656761
+run_name: calm-shoat-612
+run_uuid: e297e0ca710d466d857e43f253656761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240743105
+status: 3
+tags: []
+user_id: unknown

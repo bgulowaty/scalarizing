@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8b75fc2808d0408fae4f9cd257eb311a/artifacts
+end_time: 1669948230517
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b75fc2808d0408fae4f9cd257eb311a
+run_name: serious-chimp-222
+run_uuid: 8b75fc2808d0408fae4f9cd257eb311a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241214140
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/41347d59e63d4a8ebbf227a5dc113a5d/artifacts
+end_time: 1669950199433
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41347d59e63d4a8ebbf227a5dc113a5d
+run_name: lyrical-jay-667
+run_uuid: 41347d59e63d4a8ebbf227a5dc113a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240819999
+status: 3
+tags: []
+user_id: unknown

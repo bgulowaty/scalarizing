@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2a07a15071a0410ca9fd39e6acf9d385/artifacts
+end_time: 1670180811735
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a07a15071a0410ca9fd39e6acf9d385
+run_name: beautiful-grouse-457
+run_uuid: 2a07a15071a0410ca9fd39e6acf9d385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241817301
+status: 3
+tags: []
+user_id: unknown

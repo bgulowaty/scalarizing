@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/61b890127ad84cf6b41517d653093a49/artifacts
+end_time: 1669951047347
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61b890127ad84cf6b41517d653093a49
+run_name: smiling-chimp-347
+run_uuid: 61b890127ad84cf6b41517d653093a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240634896
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5386784d236941b387f9a68d2ac42e66/artifacts
+end_time: 1669948471605
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5386784d236941b387f9a68d2ac42e66
+run_name: worried-ape-798
+run_uuid: 5386784d236941b387f9a68d2ac42e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241167453
+status: 3
+tags: []
+user_id: unknown

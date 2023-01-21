@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f9f7c3ae81b243609f34155c38f85931/artifacts
+end_time: 1670103810456
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9f7c3ae81b243609f34155c38f85931
+run_name: defiant-vole-19
+run_uuid: f9f7c3ae81b243609f34155c38f85931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240033689
+status: 3
+tags: []
+user_id: unknown

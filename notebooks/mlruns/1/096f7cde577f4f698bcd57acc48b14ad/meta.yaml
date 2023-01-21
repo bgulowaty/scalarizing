@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/096f7cde577f4f698bcd57acc48b14ad/artifacts
+end_time: 1670102306334
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 096f7cde577f4f698bcd57acc48b14ad
+run_name: bittersweet-rat-466
+run_uuid: 096f7cde577f4f698bcd57acc48b14ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242642912
+status: 3
+tags: []
+user_id: unknown

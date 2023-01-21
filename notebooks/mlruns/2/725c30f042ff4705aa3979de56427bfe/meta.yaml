@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/725c30f042ff4705aa3979de56427bfe/artifacts
+end_time: 1670162614726
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 725c30f042ff4705aa3979de56427bfe
+run_name: gaudy-cow-712
+run_uuid: 725c30f042ff4705aa3979de56427bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150261816
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bfd345c010364b24b63a271931f27ead/artifacts
+end_time: 1670105966392
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfd345c010364b24b63a271931f27ead
+run_name: handsome-gull-131
+run_uuid: bfd345c010364b24b63a271931f27ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239913040
+status: 3
+tags: []
+user_id: unknown

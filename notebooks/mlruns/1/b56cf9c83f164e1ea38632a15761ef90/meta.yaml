@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b56cf9c83f164e1ea38632a15761ef90/artifacts
+end_time: 1669943336022
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b56cf9c83f164e1ea38632a15761ef90
+run_name: auspicious-stork-604
+run_uuid: b56cf9c83f164e1ea38632a15761ef90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242362205
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9dc6e80ede024fb5b88d2c05e0a6a669/artifacts
+end_time: 1669949152389
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dc6e80ede024fb5b88d2c05e0a6a669
+run_name: rebellious-midge-84
+run_uuid: 9dc6e80ede024fb5b88d2c05e0a6a669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241066451
+status: 3
+tags: []
+user_id: unknown

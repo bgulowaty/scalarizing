@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/76446aa8862c4ee69ffb2686c8a3ea38/artifacts
+end_time: 1669942920117
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76446aa8862c4ee69ffb2686c8a3ea38
+run_name: treasured-carp-820
+run_uuid: 76446aa8862c4ee69ffb2686c8a3ea38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242474065
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d31cd2a012b24c8fb1482f76fc2eb002/artifacts
+end_time: 1670105401640
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d31cd2a012b24c8fb1482f76fc2eb002
+run_name: intrigued-dove-821
+run_uuid: d31cd2a012b24c8fb1482f76fc2eb002
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239938582
+status: 3
+tags: []
+user_id: unknown

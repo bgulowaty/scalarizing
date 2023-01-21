@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc254e86e7724f42aa746a8349903351/artifacts
+end_time: 1669944892539
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc254e86e7724f42aa746a8349903351
+run_name: fearless-foal-10
+run_uuid: fc254e86e7724f42aa746a8349903351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241941748
+status: 3
+tags: []
+user_id: unknown

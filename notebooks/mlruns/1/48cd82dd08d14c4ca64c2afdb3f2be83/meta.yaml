@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48cd82dd08d14c4ca64c2afdb3f2be83/artifacts
+end_time: 1669952523244
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48cd82dd08d14c4ca64c2afdb3f2be83
+run_name: stately-fawn-812
+run_uuid: 48cd82dd08d14c4ca64c2afdb3f2be83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240445227
+status: 3
+tags: []
+user_id: unknown

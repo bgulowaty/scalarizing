@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1165746cb9094622b4df5a22404566a3/artifacts
+end_time: 1669942798253
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1165746cb9094622b4df5a22404566a3
+run_name: blushing-skunk-715
+run_uuid: 1165746cb9094622b4df5a22404566a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242508640
+status: 3
+tags: []
+user_id: unknown

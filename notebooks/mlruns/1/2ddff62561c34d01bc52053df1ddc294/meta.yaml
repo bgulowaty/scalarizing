@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ddff62561c34d01bc52053df1ddc294/artifacts
+end_time: 1669951604015
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ddff62561c34d01bc52053df1ddc294
+run_name: merciful-rook-646
+run_uuid: 2ddff62561c34d01bc52053df1ddc294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240587356
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c7630d6215cb4c8890f7a7991bc1ac85/artifacts
+end_time: 1669948557353
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7630d6215cb4c8890f7a7991bc1ac85
+run_name: sneaky-midge-584
+run_uuid: c7630d6215cb4c8890f7a7991bc1ac85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241147178
+status: 3
+tags: []
+user_id: unknown

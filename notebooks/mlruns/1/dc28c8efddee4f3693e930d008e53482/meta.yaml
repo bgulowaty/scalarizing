@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dc28c8efddee4f3693e930d008e53482/artifacts
+end_time: 1669952220708
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc28c8efddee4f3693e930d008e53482
+run_name: charming-donkey-663
+run_uuid: dc28c8efddee4f3693e930d008e53482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240493902
+status: 3
+tags: []
+user_id: unknown

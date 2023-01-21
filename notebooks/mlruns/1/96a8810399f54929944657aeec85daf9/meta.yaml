@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/96a8810399f54929944657aeec85daf9/artifacts
+end_time: 1669946360539
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 96a8810399f54929944657aeec85daf9
+run_name: rumbling-bee-422
+run_uuid: 96a8810399f54929944657aeec85daf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241592573
+status: 3
+tags: []
+user_id: unknown

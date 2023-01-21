@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6e60091e975547c7a0b7c41a1dd96491/artifacts
+end_time: 1670103804992
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e60091e975547c7a0b7c41a1dd96491
+run_name: bouncy-eel-790
+run_uuid: 6e60091e975547c7a0b7c41a1dd96491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240032690
+status: 3
+tags: []
+user_id: unknown

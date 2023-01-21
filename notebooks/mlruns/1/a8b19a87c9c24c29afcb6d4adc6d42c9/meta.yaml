@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a8b19a87c9c24c29afcb6d4adc6d42c9/artifacts
+end_time: 1669953488941
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8b19a87c9c24c29afcb6d4adc6d42c9
+run_name: sincere-fox-525
+run_uuid: a8b19a87c9c24c29afcb6d4adc6d42c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240330326
+status: 3
+tags: []
+user_id: unknown

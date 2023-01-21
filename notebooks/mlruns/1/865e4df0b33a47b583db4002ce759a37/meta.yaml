@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/865e4df0b33a47b583db4002ce759a37/artifacts
+end_time: 1669942991688
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 865e4df0b33a47b583db4002ce759a37
+run_name: fearless-stork-914
+run_uuid: 865e4df0b33a47b583db4002ce759a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242454578
+status: 3
+tags: []
+user_id: unknown

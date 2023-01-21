@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/adae3ea1905341feb730f6d708bb30d5/artifacts
+end_time: 1669945704248
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adae3ea1905341feb730f6d708bb30d5
+run_name: caring-shrike-751
+run_uuid: adae3ea1905341feb730f6d708bb30d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241804078
+status: 3
+tags: []
+user_id: unknown

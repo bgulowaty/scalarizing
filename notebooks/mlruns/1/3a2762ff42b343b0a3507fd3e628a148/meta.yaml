@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3a2762ff42b343b0a3507fd3e628a148/artifacts
+end_time: 1669946980622
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a2762ff42b343b0a3507fd3e628a148
+run_name: rogue-roo-624
+run_uuid: 3a2762ff42b343b0a3507fd3e628a148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241450310
+status: 3
+tags: []
+user_id: unknown

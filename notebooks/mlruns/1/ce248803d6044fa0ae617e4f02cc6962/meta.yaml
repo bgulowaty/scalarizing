@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce248803d6044fa0ae617e4f02cc6962/artifacts
+end_time: 1669943321032
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce248803d6044fa0ae617e4f02cc6962
+run_name: charming-perch-613
+run_uuid: ce248803d6044fa0ae617e4f02cc6962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242358436
+status: 3
+tags: []
+user_id: unknown

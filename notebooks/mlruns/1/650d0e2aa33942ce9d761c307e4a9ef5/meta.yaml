@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/650d0e2aa33942ce9d761c307e4a9ef5/artifacts
+end_time: 1670180874343
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 650d0e2aa33942ce9d761c307e4a9ef5
+run_name: enchanting-wren-306
+run_uuid: 650d0e2aa33942ce9d761c307e4a9ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241422044
+status: 3
+tags: []
+user_id: unknown

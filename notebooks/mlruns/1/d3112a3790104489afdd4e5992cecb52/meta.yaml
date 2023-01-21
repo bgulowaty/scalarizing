@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d3112a3790104489afdd4e5992cecb52/artifacts
+end_time: 1669947017800
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3112a3790104489afdd4e5992cecb52
+run_name: amusing-cub-388
+run_uuid: d3112a3790104489afdd4e5992cecb52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241443192
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dad719d256ef47dfa7b77cdd4d57cb29/artifacts
+end_time: 1669954757325
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dad719d256ef47dfa7b77cdd4d57cb29
+run_name: placid-zebra-158
+run_uuid: dad719d256ef47dfa7b77cdd4d57cb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240187468
+status: 3
+tags: []
+user_id: unknown

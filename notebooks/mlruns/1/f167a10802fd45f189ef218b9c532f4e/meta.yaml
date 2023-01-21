@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f167a10802fd45f189ef218b9c532f4e/artifacts
+end_time: 1669950095809
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f167a10802fd45f189ef218b9c532f4e
+run_name: kindly-dolphin-606
+run_uuid: f167a10802fd45f189ef218b9c532f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240817887
+status: 3
+tags: []
+user_id: unknown

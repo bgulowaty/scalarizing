@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3b8eaf5960744e9884bb56b18f2d91b0/artifacts
+end_time: 1669942254216
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b8eaf5960744e9884bb56b18f2d91b0
+run_name: upbeat-toad-654
+run_uuid: 3b8eaf5960744e9884bb56b18f2d91b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242871296
+status: 3
+tags: []
+user_id: unknown

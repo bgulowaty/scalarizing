@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c0164125d04c48be94e80c6be4875286/artifacts
+end_time: 1670103506297
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0164125d04c48be94e80c6be4875286
+run_name: carefree-bat-975
+run_uuid: c0164125d04c48be94e80c6be4875286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240274805
+status: 3
+tags: []
+user_id: unknown

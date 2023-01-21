@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5341f6e6d6f240a4899ae4a84952c152/artifacts
+end_time: 1669954060949
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5341f6e6d6f240a4899ae4a84952c152
+run_name: delicate-snake-429
+run_uuid: 5341f6e6d6f240a4899ae4a84952c152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240271892
+status: 3
+tags: []
+user_id: unknown

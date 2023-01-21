@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c201ff3fd5154c02bc65b397e8ce324a/artifacts
+end_time: 1669954561257
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c201ff3fd5154c02bc65b397e8ce324a
+run_name: tasteful-calf-674
+run_uuid: c201ff3fd5154c02bc65b397e8ce324a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240218568
+status: 3
+tags: []
+user_id: unknown

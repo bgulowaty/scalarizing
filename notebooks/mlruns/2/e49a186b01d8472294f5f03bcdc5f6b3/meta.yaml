@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e49a186b01d8472294f5f03bcdc5f6b3/artifacts
+end_time: 1670162620170
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e49a186b01d8472294f5f03bcdc5f6b3
+run_name: masked-sloth-468
+run_uuid: e49a186b01d8472294f5f03bcdc5f6b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150243058
+status: 3
+tags: []
+user_id: unknown

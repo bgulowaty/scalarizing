@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/215e90515dfd4dea933c2494cd4f61b7/artifacts
+end_time: 1670105020048
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 215e90515dfd4dea933c2494cd4f61b7
+run_name: skittish-frog-201
+run_uuid: 215e90515dfd4dea933c2494cd4f61b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239966183
+status: 3
+tags: []
+user_id: unknown

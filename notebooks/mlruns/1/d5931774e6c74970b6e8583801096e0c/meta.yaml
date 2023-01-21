@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d5931774e6c74970b6e8583801096e0c/artifacts
+end_time: 1669949150803
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5931774e6c74970b6e8583801096e0c
+run_name: legendary-sponge-800
+run_uuid: d5931774e6c74970b6e8583801096e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241034600
+status: 3
+tags: []
+user_id: unknown

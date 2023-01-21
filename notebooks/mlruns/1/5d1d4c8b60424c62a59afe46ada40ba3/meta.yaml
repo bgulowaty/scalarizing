@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5d1d4c8b60424c62a59afe46ada40ba3/artifacts
+end_time: 1669951306069
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d1d4c8b60424c62a59afe46ada40ba3
+run_name: fun-fox-87
+run_uuid: 5d1d4c8b60424c62a59afe46ada40ba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240615356
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ecc6415aa8b54a59bb96ed5f5afc564e/artifacts
+end_time: 1670162828769
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ecc6415aa8b54a59bb96ed5f5afc564e
+run_name: adorable-jay-299
+run_uuid: ecc6415aa8b54a59bb96ed5f5afc564e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150204287
+status: 3
+tags: []
+user_id: unknown

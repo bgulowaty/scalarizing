@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fe3e333b390048f6ab6b9a04797ab3af/artifacts
+end_time: 1670162541872
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fe3e333b390048f6ab6b9a04797ab3af
+run_name: bedecked-loon-675
+run_uuid: fe3e333b390048f6ab6b9a04797ab3af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150279602
+status: 3
+tags: []
+user_id: unknown

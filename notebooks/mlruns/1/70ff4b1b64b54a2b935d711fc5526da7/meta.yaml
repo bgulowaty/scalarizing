@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/70ff4b1b64b54a2b935d711fc5526da7/artifacts
+end_time: 1670103798055
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70ff4b1b64b54a2b935d711fc5526da7
+run_name: stylish-squirrel-408
+run_uuid: 70ff4b1b64b54a2b935d711fc5526da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240064439
+status: 3
+tags: []
+user_id: unknown

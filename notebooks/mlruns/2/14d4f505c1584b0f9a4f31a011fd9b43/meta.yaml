@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/14d4f505c1584b0f9a4f31a011fd9b43/artifacts
+end_time: 1670161974888
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 14d4f505c1584b0f9a4f31a011fd9b43
+run_name: vaunted-crab-831
+run_uuid: 14d4f505c1584b0f9a4f31a011fd9b43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150502090
+status: 3
+tags: []
+user_id: unknown

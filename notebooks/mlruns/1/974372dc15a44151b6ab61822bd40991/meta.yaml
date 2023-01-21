@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/974372dc15a44151b6ab61822bd40991/artifacts
+end_time: 1670103807412
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 974372dc15a44151b6ab61822bd40991
+run_name: defiant-hen-448
+run_uuid: 974372dc15a44151b6ab61822bd40991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240035925
+status: 3
+tags: []
+user_id: unknown

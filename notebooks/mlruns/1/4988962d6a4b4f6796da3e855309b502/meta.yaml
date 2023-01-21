@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4988962d6a4b4f6796da3e855309b502/artifacts
+end_time: 1670104743795
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4988962d6a4b4f6796da3e855309b502
+run_name: popular-gnu-185
+run_uuid: 4988962d6a4b4f6796da3e855309b502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239967969
+status: 3
+tags: []
+user_id: unknown

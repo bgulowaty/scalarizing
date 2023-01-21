@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/48961ee8030e445090ba50a1d00b91c1/artifacts
+end_time: 1670162392588
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 48961ee8030e445090ba50a1d00b91c1
+run_name: fearless-auk-944
+run_uuid: 48961ee8030e445090ba50a1d00b91c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150345344
+status: 3
+tags: []
+user_id: unknown

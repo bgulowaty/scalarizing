@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5158dd82e7f643c682c6724aff1e052a/artifacts
+end_time: 1669953164781
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5158dd82e7f643c682c6724aff1e052a
+run_name: thundering-bee-804
+run_uuid: 5158dd82e7f643c682c6724aff1e052a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240368027
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/53e81bae0a44442184c0351450dcd5dd/artifacts
+end_time: 1670104779795
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53e81bae0a44442184c0351450dcd5dd
+run_name: rebellious-squid-637
+run_uuid: 53e81bae0a44442184c0351450dcd5dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239968828
+status: 3
+tags: []
+user_id: unknown

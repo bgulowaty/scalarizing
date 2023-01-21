@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/12cba83ff1bc4a3facf7e4088d4176c2/artifacts
+end_time: 1669949435040
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12cba83ff1bc4a3facf7e4088d4176c2
+run_name: rare-foal-131
+run_uuid: 12cba83ff1bc4a3facf7e4088d4176c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240977458
+status: 3
+tags: []
+user_id: unknown

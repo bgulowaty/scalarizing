@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/075200564aaf410c9e2f461ca315dbdf/artifacts
+end_time: 1669948535255
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 075200564aaf410c9e2f461ca315dbdf
+run_name: victorious-kit-462
+run_uuid: 075200564aaf410c9e2f461ca315dbdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241172801
+status: 3
+tags: []
+user_id: unknown

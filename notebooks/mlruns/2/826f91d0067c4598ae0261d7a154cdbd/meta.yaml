@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/826f91d0067c4598ae0261d7a154cdbd/artifacts
+end_time: 1670162186253
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 826f91d0067c4598ae0261d7a154cdbd
+run_name: adorable-doe-235
+run_uuid: 826f91d0067c4598ae0261d7a154cdbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150392585
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/31378a071e744c79975a2e6313b280e8/artifacts
+end_time: 1669955011565
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 31378a071e744c79975a2e6313b280e8
+run_name: burly-bee-506
+run_uuid: 31378a071e744c79975a2e6313b280e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240184608
+status: 3
+tags: []
+user_id: unknown

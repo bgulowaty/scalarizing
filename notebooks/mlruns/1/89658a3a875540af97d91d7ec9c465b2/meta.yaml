@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89658a3a875540af97d91d7ec9c465b2/artifacts
+end_time: 1669955303104
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89658a3a875540af97d91d7ec9c465b2
+run_name: whimsical-kit-44
+run_uuid: 89658a3a875540af97d91d7ec9c465b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240146039
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/4c386e8f7b024cbe9500e6862700768c/artifacts
+end_time: 1670162744987
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4c386e8f7b024cbe9500e6862700768c
+run_name: sedate-moth-266
+run_uuid: 4c386e8f7b024cbe9500e6862700768c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150207985
+status: 3
+tags: []
+user_id: unknown

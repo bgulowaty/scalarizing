@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8827c88053544393a5b117aee3c99ed5/artifacts
+end_time: 1669946927550
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8827c88053544393a5b117aee3c99ed5
+run_name: colorful-ram-4
+run_uuid: 8827c88053544393a5b117aee3c99ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241473645
+status: 3
+tags: []
+user_id: unknown

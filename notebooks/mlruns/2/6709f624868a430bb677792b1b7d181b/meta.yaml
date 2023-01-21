@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6709f624868a430bb677792b1b7d181b/artifacts
+end_time: 1670162292386
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6709f624868a430bb677792b1b7d181b
+run_name: thundering-ray-391
+run_uuid: 6709f624868a430bb677792b1b7d181b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150353236
+status: 3
+tags: []
+user_id: unknown

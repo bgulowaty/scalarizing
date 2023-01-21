@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8eda7fbd87b54a61aec61725735168ee/artifacts
+end_time: 1669948477221
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8eda7fbd87b54a61aec61725735168ee
+run_name: thundering-loon-457
+run_uuid: 8eda7fbd87b54a61aec61725735168ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241164645
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0518b563d50e470885802a09ecd0a001/artifacts
+end_time: 1670180499117
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0518b563d50e470885802a09ecd0a001
+run_name: peaceful-calf-53
+run_uuid: 0518b563d50e470885802a09ecd0a001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242850591
+status: 3
+tags: []
+user_id: unknown

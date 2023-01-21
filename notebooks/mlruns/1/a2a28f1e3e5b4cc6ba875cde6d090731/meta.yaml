@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a2a28f1e3e5b4cc6ba875cde6d090731/artifacts
+end_time: 1670180812366
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2a28f1e3e5b4cc6ba875cde6d090731
+run_name: rare-stork-593
+run_uuid: a2a28f1e3e5b4cc6ba875cde6d090731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241926065
+status: 3
+tags: []
+user_id: unknown

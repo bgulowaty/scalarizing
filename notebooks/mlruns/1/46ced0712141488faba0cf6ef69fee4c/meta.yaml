@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46ced0712141488faba0cf6ef69fee4c/artifacts
+end_time: 1670103800818
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46ced0712141488faba0cf6ef69fee4c
+run_name: likeable-conch-162
+run_uuid: 46ced0712141488faba0cf6ef69fee4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240035575
+status: 3
+tags: []
+user_id: unknown

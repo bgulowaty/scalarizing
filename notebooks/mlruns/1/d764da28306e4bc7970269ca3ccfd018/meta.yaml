@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d764da28306e4bc7970269ca3ccfd018/artifacts
+end_time: 1670181483738
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d764da28306e4bc7970269ca3ccfd018
+run_name: judicious-trout-772
+run_uuid: d764da28306e4bc7970269ca3ccfd018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240066545
+status: 3
+tags: []
+user_id: unknown

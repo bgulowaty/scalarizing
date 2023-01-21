@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da38b307074840e6b3aec77abec3c7a9/artifacts
+end_time: 1669952577468
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da38b307074840e6b3aec77abec3c7a9
+run_name: skittish-smelt-330
+run_uuid: da38b307074840e6b3aec77abec3c7a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240427965
+status: 3
+tags: []
+user_id: unknown

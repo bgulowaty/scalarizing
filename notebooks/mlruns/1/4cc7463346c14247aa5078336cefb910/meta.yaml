@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4cc7463346c14247aa5078336cefb910/artifacts
+end_time: 1669952276764
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4cc7463346c14247aa5078336cefb910
+run_name: colorful-hen-249
+run_uuid: 4cc7463346c14247aa5078336cefb910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240464041
+status: 3
+tags: []
+user_id: unknown

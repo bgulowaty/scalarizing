@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e60ceefed6d4e9c8113e40e69e0763d/artifacts
+end_time: 1670180611749
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e60ceefed6d4e9c8113e40e69e0763d
+run_name: rebellious-wasp-390
+run_uuid: 4e60ceefed6d4e9c8113e40e69e0763d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242251229
+status: 3
+tags: []
+user_id: unknown

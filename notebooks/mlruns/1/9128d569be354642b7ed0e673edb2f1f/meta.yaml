@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9128d569be354642b7ed0e673edb2f1f/artifacts
+end_time: 1669950062168
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9128d569be354642b7ed0e673edb2f1f
+run_name: polite-mole-45
+run_uuid: 9128d569be354642b7ed0e673edb2f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240859668
+status: 3
+tags: []
+user_id: unknown

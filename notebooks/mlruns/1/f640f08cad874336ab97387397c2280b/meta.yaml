@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f640f08cad874336ab97387397c2280b/artifacts
+end_time: 1669945710009
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f640f08cad874336ab97387397c2280b
+run_name: able-seal-698
+run_uuid: f640f08cad874336ab97387397c2280b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241743893
+status: 3
+tags: []
+user_id: unknown

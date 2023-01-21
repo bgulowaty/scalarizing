@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48c2fd1d844040af9f208a2d1da0e90b/artifacts
+end_time: 1670105362785
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48c2fd1d844040af9f208a2d1da0e90b
+run_name: unruly-pig-297
+run_uuid: 48c2fd1d844040af9f208a2d1da0e90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239938415
+status: 3
+tags: []
+user_id: unknown

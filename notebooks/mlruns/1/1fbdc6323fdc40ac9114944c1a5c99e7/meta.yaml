@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1fbdc6323fdc40ac9114944c1a5c99e7/artifacts
+end_time: 1669949746928
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1fbdc6323fdc40ac9114944c1a5c99e7
+run_name: dazzling-cub-531
+run_uuid: 1fbdc6323fdc40ac9114944c1a5c99e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240897995
+status: 3
+tags: []
+user_id: unknown

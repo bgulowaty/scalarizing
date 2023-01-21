@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e816ffcfb83e4999a76380d0ac892c52/artifacts
+end_time: 1669944787968
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e816ffcfb83e4999a76380d0ac892c52
+run_name: inquisitive-deer-902
+run_uuid: e816ffcfb83e4999a76380d0ac892c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241986507
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c4606bf687c247419abb483a5375218d/artifacts
+end_time: 1669942382300
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4606bf687c247419abb483a5375218d
+run_name: polite-jay-502
+run_uuid: c4606bf687c247419abb483a5375218d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242795166
+status: 3
+tags: []
+user_id: unknown

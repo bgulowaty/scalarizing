@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e1fdc2767d2447e09e5dd51648f91e9e/artifacts
+end_time: 1669942288539
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1fdc2767d2447e09e5dd51648f91e9e
+run_name: treasured-dove-74
+run_uuid: e1fdc2767d2447e09e5dd51648f91e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242873224
+status: 3
+tags: []
+user_id: unknown

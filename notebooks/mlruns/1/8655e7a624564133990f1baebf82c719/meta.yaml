@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8655e7a624564133990f1baebf82c719/artifacts
+end_time: 1669944577756
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8655e7a624564133990f1baebf82c719
+run_name: bald-seal-871
+run_uuid: 8655e7a624564133990f1baebf82c719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242035031
+status: 3
+tags: []
+user_id: unknown

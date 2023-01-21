@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/39e888de01834019bace1805293ff01d/artifacts
+end_time: 1670161852207
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 39e888de01834019bace1805293ff01d
+run_name: wise-elk-864
+run_uuid: 39e888de01834019bace1805293ff01d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150541506
+status: 3
+tags: []
+user_id: unknown

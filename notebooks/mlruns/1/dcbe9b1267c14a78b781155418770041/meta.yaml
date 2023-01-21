@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dcbe9b1267c14a78b781155418770041/artifacts
+end_time: 1670105022985
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcbe9b1267c14a78b781155418770041
+run_name: suave-dog-799
+run_uuid: dcbe9b1267c14a78b781155418770041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239963829
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3c00cf5c87e45e993e21a8fa91c253f/artifacts
+end_time: 1670105337761
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3c00cf5c87e45e993e21a8fa91c253f
+run_name: fortunate-fawn-984
+run_uuid: e3c00cf5c87e45e993e21a8fa91c253f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239947031
+status: 3
+tags: []
+user_id: unknown

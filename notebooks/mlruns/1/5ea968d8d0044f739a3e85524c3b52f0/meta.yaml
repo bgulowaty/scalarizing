@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5ea968d8d0044f739a3e85524c3b52f0/artifacts
+end_time: 1669947241563
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ea968d8d0044f739a3e85524c3b52f0
+run_name: sassy-midge-692
+run_uuid: 5ea968d8d0044f739a3e85524c3b52f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241410091
+status: 3
+tags: []
+user_id: unknown

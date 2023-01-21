@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/79df465e323b4512ae4a1bec1da812ae/artifacts
+end_time: 1669951611850
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79df465e323b4512ae4a1bec1da812ae
+run_name: aged-midge-504
+run_uuid: 79df465e323b4512ae4a1bec1da812ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240582661
+status: 3
+tags: []
+user_id: unknown

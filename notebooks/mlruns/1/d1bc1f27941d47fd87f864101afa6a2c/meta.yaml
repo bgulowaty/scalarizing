@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d1bc1f27941d47fd87f864101afa6a2c/artifacts
+end_time: 1670105680044
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1bc1f27941d47fd87f864101afa6a2c
+run_name: worried-mule-734
+run_uuid: d1bc1f27941d47fd87f864101afa6a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239917756
+status: 3
+tags: []
+user_id: unknown

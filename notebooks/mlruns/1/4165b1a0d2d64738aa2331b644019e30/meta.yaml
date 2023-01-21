@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4165b1a0d2d64738aa2331b644019e30/artifacts
+end_time: 1670102024129
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4165b1a0d2d64738aa2331b644019e30
+run_name: merciful-asp-876
+run_uuid: 4165b1a0d2d64738aa2331b644019e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242699842
+status: 3
+tags: []
+user_id: unknown

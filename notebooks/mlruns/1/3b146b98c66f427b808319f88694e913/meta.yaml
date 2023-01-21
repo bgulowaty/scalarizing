@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3b146b98c66f427b808319f88694e913/artifacts
+end_time: 1669948197478
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b146b98c66f427b808319f88694e913
+run_name: marvelous-steed-856
+run_uuid: 3b146b98c66f427b808319f88694e913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241223245
+status: 3
+tags: []
+user_id: unknown

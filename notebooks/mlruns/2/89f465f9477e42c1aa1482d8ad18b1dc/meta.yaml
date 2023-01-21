@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/89f465f9477e42c1aa1482d8ad18b1dc/artifacts
+end_time: 1670162394522
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 89f465f9477e42c1aa1482d8ad18b1dc
+run_name: adorable-ape-194
+run_uuid: 89f465f9477e42c1aa1482d8ad18b1dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150342077
+status: 3
+tags: []
+user_id: unknown

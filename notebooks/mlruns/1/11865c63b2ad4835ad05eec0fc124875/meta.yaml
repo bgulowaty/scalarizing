@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/11865c63b2ad4835ad05eec0fc124875/artifacts
+end_time: 1669956220515
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11865c63b2ad4835ad05eec0fc124875
+run_name: agreeable-sheep-710
+run_uuid: 11865c63b2ad4835ad05eec0fc124875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240076705
+status: 3
+tags: []
+user_id: unknown

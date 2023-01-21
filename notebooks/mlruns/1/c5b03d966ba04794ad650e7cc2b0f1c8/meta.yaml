@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c5b03d966ba04794ad650e7cc2b0f1c8/artifacts
+end_time: 1670102415681
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5b03d966ba04794ad650e7cc2b0f1c8
+run_name: sincere-mole-959
+run_uuid: c5b03d966ba04794ad650e7cc2b0f1c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242583110
+status: 3
+tags: []
+user_id: unknown

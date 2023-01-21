@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a097be115404453bba57ceecd07a95c4/artifacts
+end_time: 1669952528251
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a097be115404453bba57ceecd07a95c4
+run_name: grandiose-finch-853
+run_uuid: a097be115404453bba57ceecd07a95c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240435382
+status: 3
+tags: []
+user_id: unknown

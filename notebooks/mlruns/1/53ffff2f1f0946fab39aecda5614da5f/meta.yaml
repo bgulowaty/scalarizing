@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/53ffff2f1f0946fab39aecda5614da5f/artifacts
+end_time: 1669948152892
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53ffff2f1f0946fab39aecda5614da5f
+run_name: bald-carp-519
+run_uuid: 53ffff2f1f0946fab39aecda5614da5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241267161
+status: 3
+tags: []
+user_id: unknown

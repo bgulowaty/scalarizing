@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/14afe029313b4642961d337d7cebe2e8/artifacts
+end_time: 1670180566842
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14afe029313b4642961d337d7cebe2e8
+run_name: unequaled-finch-607
+run_uuid: 14afe029313b4642961d337d7cebe2e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242470802
+status: 3
+tags: []
+user_id: unknown

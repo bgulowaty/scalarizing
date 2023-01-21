@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0f702fe8c5a44053821998b5bbd62f02/artifacts
+end_time: 1669955010563
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f702fe8c5a44053821998b5bbd62f02
+run_name: peaceful-conch-980
+run_uuid: 0f702fe8c5a44053821998b5bbd62f02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240185445
+status: 3
+tags: []
+user_id: unknown

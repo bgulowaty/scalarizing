@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dae76eb3a9e74704a82114ae2e777201/artifacts
+end_time: 1669949426318
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dae76eb3a9e74704a82114ae2e777201
+run_name: delicate-goat-739
+run_uuid: dae76eb3a9e74704a82114ae2e777201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240996681
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fb64138faced498586b51b9186621418/artifacts
+end_time: 1670162515665
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fb64138faced498586b51b9186621418
+run_name: caring-shrew-743
+run_uuid: fb64138faced498586b51b9186621418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150276005
+status: 3
+tags: []
+user_id: unknown

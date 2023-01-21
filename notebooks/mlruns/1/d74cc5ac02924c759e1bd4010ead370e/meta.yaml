@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d74cc5ac02924c759e1bd4010ead370e/artifacts
+end_time: 1669943950516
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d74cc5ac02924c759e1bd4010ead370e
+run_name: handsome-owl-670
+run_uuid: d74cc5ac02924c759e1bd4010ead370e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242190476
+status: 3
+tags: []
+user_id: unknown

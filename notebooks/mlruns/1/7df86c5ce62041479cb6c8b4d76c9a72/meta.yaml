@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7df86c5ce62041479cb6c8b4d76c9a72/artifacts
+end_time: 1669943278579
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7df86c5ce62041479cb6c8b4d76c9a72
+run_name: capable-whale-925
+run_uuid: 7df86c5ce62041479cb6c8b4d76c9a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242379876
+status: 3
+tags: []
+user_id: unknown

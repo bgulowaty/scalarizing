@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2e8c39aab1b6477ba17e26f209b81381/artifacts
+end_time: 1669952216988
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e8c39aab1b6477ba17e26f209b81381
+run_name: capricious-hare-269
+run_uuid: 2e8c39aab1b6477ba17e26f209b81381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240481284
+status: 3
+tags: []
+user_id: unknown

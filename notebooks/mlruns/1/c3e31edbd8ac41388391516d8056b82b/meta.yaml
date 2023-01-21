@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c3e31edbd8ac41388391516d8056b82b/artifacts
+end_time: 1669945712219
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3e31edbd8ac41388391516d8056b82b
+run_name: nosy-panda-786
+run_uuid: c3e31edbd8ac41388391516d8056b82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241745321
+status: 3
+tags: []
+user_id: unknown

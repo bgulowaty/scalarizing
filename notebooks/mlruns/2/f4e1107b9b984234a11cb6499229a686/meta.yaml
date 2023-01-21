@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f4e1107b9b984234a11cb6499229a686/artifacts
+end_time: 1670162725183
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f4e1107b9b984234a11cb6499229a686
+run_name: aged-steed-552
+run_uuid: f4e1107b9b984234a11cb6499229a686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150222531
+status: 3
+tags: []
+user_id: unknown

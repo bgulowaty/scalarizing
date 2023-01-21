@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dcae1916ce544c5aa2356fd3cd82db80/artifacts
+end_time: 1669943561741
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcae1916ce544c5aa2356fd3cd82db80
+run_name: merciful-shrimp-523
+run_uuid: dcae1916ce544c5aa2356fd3cd82db80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242400207
+status: 3
+tags: []
+user_id: unknown

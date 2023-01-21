@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e0ca191d52df4f018bb2d60715bd828e/artifacts
+end_time: 1670180508543
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0ca191d52df4f018bb2d60715bd828e
+run_name: skillful-jay-574
+run_uuid: e0ca191d52df4f018bb2d60715bd828e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242761280
+status: 3
+tags: []
+user_id: unknown

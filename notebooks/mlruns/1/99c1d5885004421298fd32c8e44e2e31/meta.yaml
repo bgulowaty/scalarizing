@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/99c1d5885004421298fd32c8e44e2e31/artifacts
+end_time: 1669947294411
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99c1d5885004421298fd32c8e44e2e31
+run_name: bustling-mouse-308
+run_uuid: 99c1d5885004421298fd32c8e44e2e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241382519
+status: 3
+tags: []
+user_id: unknown

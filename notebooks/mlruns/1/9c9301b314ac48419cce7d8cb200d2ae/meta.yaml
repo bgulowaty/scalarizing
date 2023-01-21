@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9c9301b314ac48419cce7d8cb200d2ae/artifacts
+end_time: 1670181734031
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c9301b314ac48419cce7d8cb200d2ae
+run_name: gaudy-goat-289
+run_uuid: 9c9301b314ac48419cce7d8cb200d2ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240013310
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c178522b38d74f928343205a4da78377/artifacts
+end_time: 1669955615688
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c178522b38d74f928343205a4da78377
+run_name: funny-swan-908
+run_uuid: c178522b38d74f928343205a4da78377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240131840
+status: 3
+tags: []
+user_id: unknown

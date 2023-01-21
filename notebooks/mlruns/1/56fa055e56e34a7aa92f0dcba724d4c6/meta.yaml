@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/56fa055e56e34a7aa92f0dcba724d4c6/artifacts
+end_time: 1669955973772
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56fa055e56e34a7aa92f0dcba724d4c6
+run_name: capricious-mare-440
+run_uuid: 56fa055e56e34a7aa92f0dcba724d4c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240090538
+status: 3
+tags: []
+user_id: unknown

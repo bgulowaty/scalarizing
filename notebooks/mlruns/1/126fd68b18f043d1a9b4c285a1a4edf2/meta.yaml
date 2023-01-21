@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/126fd68b18f043d1a9b4c285a1a4edf2/artifacts
+end_time: 1669942407861
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 126fd68b18f043d1a9b4c285a1a4edf2
+run_name: adorable-stork-710
+run_uuid: 126fd68b18f043d1a9b4c285a1a4edf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242782979
+status: 3
+tags: []
+user_id: unknown

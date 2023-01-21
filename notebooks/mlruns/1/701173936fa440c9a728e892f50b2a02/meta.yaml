@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/701173936fa440c9a728e892f50b2a02/artifacts
+end_time: 1669950095387
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 701173936fa440c9a728e892f50b2a02
+run_name: fearless-bird-968
+run_uuid: 701173936fa440c9a728e892f50b2a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240828409
+status: 3
+tags: []
+user_id: unknown

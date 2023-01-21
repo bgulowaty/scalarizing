@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/88a758d1997e445c952f17148066bbc9/artifacts
+end_time: 1669947558611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 88a758d1997e445c952f17148066bbc9
+run_name: aged-slug-459
+run_uuid: 88a758d1997e445c952f17148066bbc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241353346
+status: 3
+tags: []
+user_id: unknown

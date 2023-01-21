@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9a76b7918f6640beb108e7d83148672b/artifacts
+end_time: 1670102342511
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a76b7918f6640beb108e7d83148672b
+run_name: worried-hog-495
+run_uuid: 9a76b7918f6640beb108e7d83148672b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242637555
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/35020dfccc4b4abfa5a289f504844503/artifacts
+end_time: 1670162623493
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 35020dfccc4b4abfa5a289f504844503
+run_name: indecisive-mare-878
+run_uuid: 35020dfccc4b4abfa5a289f504844503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150246956
+status: 3
+tags: []
+user_id: unknown

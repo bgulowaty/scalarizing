@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/214bad3ba7dd4981a4ef82d140b82ebd/artifacts
+end_time: 1669946009262
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 214bad3ba7dd4981a4ef82d140b82ebd
+run_name: worried-swan-542
+run_uuid: 214bad3ba7dd4981a4ef82d140b82ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241828089
+status: 3
+tags: []
+user_id: unknown

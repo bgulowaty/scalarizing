@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/04539913280348d3ad1c73d30b2cce77/artifacts
+end_time: 1669953900591
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04539913280348d3ad1c73d30b2cce77
+run_name: rebellious-stork-625
+run_uuid: 04539913280348d3ad1c73d30b2cce77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240285766
+status: 3
+tags: []
+user_id: unknown

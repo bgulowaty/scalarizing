@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/af8a51eff5034a048fd72cc757cf8408/artifacts
+end_time: 1670104414117
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af8a51eff5034a048fd72cc757cf8408
+run_name: gaudy-conch-460
+run_uuid: af8a51eff5034a048fd72cc757cf8408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240002503
+status: 3
+tags: []
+user_id: unknown

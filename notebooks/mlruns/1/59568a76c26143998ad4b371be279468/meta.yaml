@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59568a76c26143998ad4b371be279468/artifacts
+end_time: 1669943734047
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59568a76c26143998ad4b371be279468
+run_name: charming-moth-652
+run_uuid: 59568a76c26143998ad4b371be279468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242335250
+status: 3
+tags: []
+user_id: unknown

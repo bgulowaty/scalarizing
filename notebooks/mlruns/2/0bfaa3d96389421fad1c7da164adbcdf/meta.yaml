@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0bfaa3d96389421fad1c7da164adbcdf/artifacts
+end_time: 1670162833946
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0bfaa3d96389421fad1c7da164adbcdf
+run_name: orderly-tern-381
+run_uuid: 0bfaa3d96389421fad1c7da164adbcdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150192152
+status: 3
+tags: []
+user_id: unknown

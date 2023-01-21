@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/366a620bde99458a8a8f81c80e090830/artifacts
+end_time: 1669943539996
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 366a620bde99458a8a8f81c80e090830
+run_name: powerful-toad-200
+run_uuid: 366a620bde99458a8a8f81c80e090830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242405039
+status: 3
+tags: []
+user_id: unknown

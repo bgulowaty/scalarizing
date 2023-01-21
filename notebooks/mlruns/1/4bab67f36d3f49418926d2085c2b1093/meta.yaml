@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4bab67f36d3f49418926d2085c2b1093/artifacts
+end_time: 1669952834371
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4bab67f36d3f49418926d2085c2b1093
+run_name: resilient-elk-113
+run_uuid: 4bab67f36d3f49418926d2085c2b1093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240409145
+status: 3
+tags: []
+user_id: unknown

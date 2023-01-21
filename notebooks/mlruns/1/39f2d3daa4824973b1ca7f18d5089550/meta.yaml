@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39f2d3daa4824973b1ca7f18d5089550/artifacts
+end_time: 1669952898052
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39f2d3daa4824973b1ca7f18d5089550
+run_name: lyrical-turtle-485
+run_uuid: 39f2d3daa4824973b1ca7f18d5089550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240384877
+status: 3
+tags: []
+user_id: unknown

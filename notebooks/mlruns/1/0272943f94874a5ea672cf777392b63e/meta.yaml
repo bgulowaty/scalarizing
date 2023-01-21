@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0272943f94874a5ea672cf777392b63e/artifacts
+end_time: 1669945679730
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0272943f94874a5ea672cf777392b63e
+run_name: skittish-lamb-357
+run_uuid: 0272943f94874a5ea672cf777392b63e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241755001
+status: 3
+tags: []
+user_id: unknown

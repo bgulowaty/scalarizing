@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac57f860678347618d03d3f8057dbc2a/artifacts
+end_time: 1669953784595
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac57f860678347618d03d3f8057dbc2a
+run_name: gaudy-moth-177
+run_uuid: ac57f860678347618d03d3f8057dbc2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240307192
+status: 3
+tags: []
+user_id: unknown

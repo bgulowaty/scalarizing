@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1d3b8c1bb2674f19984cc118a74d6013/artifacts
+end_time: 1669947542854
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d3b8c1bb2674f19984cc118a74d6013
+run_name: unequaled-carp-751
+run_uuid: 1d3b8c1bb2674f19984cc118a74d6013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241350497
+status: 3
+tags: []
+user_id: unknown

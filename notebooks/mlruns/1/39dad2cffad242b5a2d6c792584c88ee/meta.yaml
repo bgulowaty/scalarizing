@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39dad2cffad242b5a2d6c792584c88ee/artifacts
+end_time: 1669947571997
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39dad2cffad242b5a2d6c792584c88ee
+run_name: rare-fish-800
+run_uuid: 39dad2cffad242b5a2d6c792584c88ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241339180
+status: 3
+tags: []
+user_id: unknown

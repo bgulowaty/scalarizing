@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3cca2b2013c7459f821709ecd0ef6cc8/artifacts
+end_time: 1669948559779
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3cca2b2013c7459f821709ecd0ef6cc8
+run_name: learned-gnat-496
+run_uuid: 3cca2b2013c7459f821709ecd0ef6cc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241146414
+status: 3
+tags: []
+user_id: unknown

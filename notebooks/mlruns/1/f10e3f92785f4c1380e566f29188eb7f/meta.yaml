@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f10e3f92785f4c1380e566f29188eb7f/artifacts
+end_time: 1669955068387
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f10e3f92785f4c1380e566f29188eb7f
+run_name: stately-hound-251
+run_uuid: f10e3f92785f4c1380e566f29188eb7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240162082
+status: 3
+tags: []
+user_id: unknown

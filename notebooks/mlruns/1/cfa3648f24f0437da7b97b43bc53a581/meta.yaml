@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cfa3648f24f0437da7b97b43bc53a581/artifacts
+end_time: 1669946978828
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfa3648f24f0437da7b97b43bc53a581
+run_name: rumbling-sponge-793
+run_uuid: cfa3648f24f0437da7b97b43bc53a581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241451474
+status: 3
+tags: []
+user_id: unknown

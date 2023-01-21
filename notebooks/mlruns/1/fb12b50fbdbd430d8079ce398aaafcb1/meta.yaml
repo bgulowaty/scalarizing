@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb12b50fbdbd430d8079ce398aaafcb1/artifacts
+end_time: 1669942491424
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb12b50fbdbd430d8079ce398aaafcb1
+run_name: useful-wren-444
+run_uuid: fb12b50fbdbd430d8079ce398aaafcb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242756369
+status: 3
+tags: []
+user_id: unknown

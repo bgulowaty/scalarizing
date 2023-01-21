@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/90f6173c2c584e37a6160e44de1d1fb2/artifacts
+end_time: 1669951318760
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90f6173c2c584e37a6160e44de1d1fb2
+run_name: righteous-colt-912
+run_uuid: 90f6173c2c584e37a6160e44de1d1fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240603865
+status: 3
+tags: []
+user_id: unknown

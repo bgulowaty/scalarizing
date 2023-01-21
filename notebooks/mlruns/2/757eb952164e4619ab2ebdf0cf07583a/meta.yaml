@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/757eb952164e4619ab2ebdf0cf07583a/artifacts
+end_time: 1670162730042
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 757eb952164e4619ab2ebdf0cf07583a
+run_name: carefree-koi-822
+run_uuid: 757eb952164e4619ab2ebdf0cf07583a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150205295
+status: 3
+tags: []
+user_id: unknown

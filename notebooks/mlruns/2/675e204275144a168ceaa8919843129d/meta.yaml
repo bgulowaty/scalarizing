@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/675e204275144a168ceaa8919843129d/artifacts
+end_time: 1670162505452
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 675e204275144a168ceaa8919843129d
+run_name: receptive-stoat-368
+run_uuid: 675e204275144a168ceaa8919843129d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150309009
+status: 3
+tags: []
+user_id: unknown

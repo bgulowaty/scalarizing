@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a49216b515044c608a056c515e37dc45/artifacts
+end_time: 1670180847474
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a49216b515044c608a056c515e37dc45
+run_name: wise-trout-85
+run_uuid: a49216b515044c608a056c515e37dc45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241521387
+status: 3
+tags: []
+user_id: unknown

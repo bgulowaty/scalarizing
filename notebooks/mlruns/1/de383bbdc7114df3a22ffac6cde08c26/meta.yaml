@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/de383bbdc7114df3a22ffac6cde08c26/artifacts
+end_time: 1669955665391
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de383bbdc7114df3a22ffac6cde08c26
+run_name: melodic-lamb-934
+run_uuid: de383bbdc7114df3a22ffac6cde08c26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240108669
+status: 3
+tags: []
+user_id: unknown

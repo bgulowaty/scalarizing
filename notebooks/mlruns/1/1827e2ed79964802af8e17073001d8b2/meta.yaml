@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1827e2ed79964802af8e17073001d8b2/artifacts
+end_time: 1669948195773
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1827e2ed79964802af8e17073001d8b2
+run_name: stately-ram-561
+run_uuid: 1827e2ed79964802af8e17073001d8b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241214578
+status: 3
+tags: []
+user_id: unknown

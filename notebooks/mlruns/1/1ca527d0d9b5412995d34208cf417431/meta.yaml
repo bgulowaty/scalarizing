@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ca527d0d9b5412995d34208cf417431/artifacts
+end_time: 1669954415440
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ca527d0d9b5412995d34208cf417431
+run_name: awesome-grub-358
+run_uuid: 1ca527d0d9b5412995d34208cf417431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240246517
+status: 3
+tags: []
+user_id: unknown

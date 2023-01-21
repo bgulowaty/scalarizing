@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b5b3af2a4c3749fc87c50d8ed158a7cc/artifacts
+end_time: 1670162728516
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b5b3af2a4c3749fc87c50d8ed158a7cc
+run_name: spiffy-shark-290
+run_uuid: b5b3af2a4c3749fc87c50d8ed158a7cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150216551
+status: 3
+tags: []
+user_id: unknown

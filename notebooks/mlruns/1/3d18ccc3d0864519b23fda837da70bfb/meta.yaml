@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3d18ccc3d0864519b23fda837da70bfb/artifacts
+end_time: 1670105642240
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d18ccc3d0864519b23fda837da70bfb
+run_name: judicious-conch-560
+run_uuid: 3d18ccc3d0864519b23fda837da70bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239930984
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/39fa107948044d40acba0a34dc7fcab9/artifacts
+end_time: 1669951047167
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39fa107948044d40acba0a34dc7fcab9
+run_name: intelligent-bug-245
+run_uuid: 39fa107948044d40acba0a34dc7fcab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240639128
+status: 3
+tags: []
+user_id: unknown

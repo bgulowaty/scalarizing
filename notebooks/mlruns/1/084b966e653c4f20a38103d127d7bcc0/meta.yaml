@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/084b966e653c4f20a38103d127d7bcc0/artifacts
+end_time: 1669942813894
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 084b966e653c4f20a38103d127d7bcc0
+run_name: zealous-ray-545
+run_uuid: 084b966e653c4f20a38103d127d7bcc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242760721
+status: 3
+tags: []
+user_id: unknown

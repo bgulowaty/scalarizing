@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/25865ec271b140ef8c2f7f9bea0114fb/artifacts
+end_time: 1669953788188
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25865ec271b140ef8c2f7f9bea0114fb
+run_name: righteous-toad-368
+run_uuid: 25865ec271b140ef8c2f7f9bea0114fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240305653
+status: 3
+tags: []
+user_id: unknown

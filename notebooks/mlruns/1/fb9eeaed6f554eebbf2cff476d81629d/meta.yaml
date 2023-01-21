@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fb9eeaed6f554eebbf2cff476d81629d/artifacts
+end_time: 1669949803644
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb9eeaed6f554eebbf2cff476d81629d
+run_name: amusing-bee-955
+run_uuid: fb9eeaed6f554eebbf2cff476d81629d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240862198
+status: 3
+tags: []
+user_id: unknown

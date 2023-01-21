@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0c39f9df4b664757a321d36ff381331a/artifacts
+end_time: 1670161975383
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0c39f9df4b664757a321d36ff381331a
+run_name: worried-dog-863
+run_uuid: 0c39f9df4b664757a321d36ff381331a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150504872
+status: 3
+tags: []
+user_id: unknown

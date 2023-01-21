@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ad1fdb3ed2e04ecda03f553ce013e353/artifacts
+end_time: 1670104716745
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad1fdb3ed2e04ecda03f553ce013e353
+run_name: lyrical-goat-521
+run_uuid: ad1fdb3ed2e04ecda03f553ce013e353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239973766
+status: 3
+tags: []
+user_id: unknown

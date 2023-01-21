@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9eb82e066800428bb14e6ae305a2e4cf/artifacts
+end_time: 1669946952303
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9eb82e066800428bb14e6ae305a2e4cf
+run_name: bittersweet-grub-758
+run_uuid: 9eb82e066800428bb14e6ae305a2e4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241486127
+status: 3
+tags: []
+user_id: unknown

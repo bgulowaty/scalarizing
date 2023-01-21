@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7e21b086aed7402a9fed248333611832/artifacts
+end_time: 1670105960029
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e21b086aed7402a9fed248333611832
+run_name: gaudy-sheep-265
+run_uuid: 7e21b086aed7402a9fed248333611832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239916787
+status: 3
+tags: []
+user_id: unknown

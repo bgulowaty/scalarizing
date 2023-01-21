@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cb1c3fe3bfe747aeae010cfb2118fd1c/artifacts
+end_time: 1670181787502
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb1c3fe3bfe747aeae010cfb2118fd1c
+run_name: bouncy-colt-393
+run_uuid: cb1c3fe3bfe747aeae010cfb2118fd1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904172
+status: 3
+tags: []
+user_id: unknown

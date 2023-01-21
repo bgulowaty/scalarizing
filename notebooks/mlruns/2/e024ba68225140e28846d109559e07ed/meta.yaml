@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e024ba68225140e28846d109559e07ed/artifacts
+end_time: 1670162828779
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e024ba68225140e28846d109559e07ed
+run_name: learned-bass-388
+run_uuid: e024ba68225140e28846d109559e07ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150203429
+status: 3
+tags: []
+user_id: unknown

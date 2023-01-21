@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eb4e1731b7044b5a988ed673b7005ff0/artifacts
+end_time: 1669953840355
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb4e1731b7044b5a988ed673b7005ff0
+run_name: beautiful-sponge-213
+run_uuid: eb4e1731b7044b5a988ed673b7005ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240283660
+status: 3
+tags: []
+user_id: unknown

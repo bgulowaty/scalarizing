@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ffb62c672d414534b591e279fbdb53dd/artifacts
+end_time: 1669955920597
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffb62c672d414534b591e279fbdb53dd
+run_name: agreeable-hound-595
+run_uuid: ffb62c672d414534b591e279fbdb53dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240101018
+status: 3
+tags: []
+user_id: unknown

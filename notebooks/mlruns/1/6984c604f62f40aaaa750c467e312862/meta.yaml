@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6984c604f62f40aaaa750c467e312862/artifacts
+end_time: 1670105742270
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6984c604f62f40aaaa750c467e312862
+run_name: bright-ram-246
+run_uuid: 6984c604f62f40aaaa750c467e312862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239918769
+status: 3
+tags: []
+user_id: unknown

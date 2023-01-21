@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/61837c1f47e14181aeed62a40367b09c/artifacts
+end_time: 1669955069480
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61837c1f47e14181aeed62a40367b09c
+run_name: chill-crane-27
+run_uuid: 61837c1f47e14181aeed62a40367b09c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240164925
+status: 3
+tags: []
+user_id: unknown

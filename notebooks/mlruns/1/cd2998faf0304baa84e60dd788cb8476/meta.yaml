@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cd2998faf0304baa84e60dd788cb8476/artifacts
+end_time: 1669954124050
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd2998faf0304baa84e60dd788cb8476
+run_name: carefree-gnat-489
+run_uuid: cd2998faf0304baa84e60dd788cb8476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240255660
+status: 3
+tags: []
+user_id: unknown

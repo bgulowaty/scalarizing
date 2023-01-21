@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8710cc4ff0274b1fa99c96c39bb52bc7/artifacts
+end_time: 1669956231189
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8710cc4ff0274b1fa99c96c39bb52bc7
+run_name: adventurous-wolf-31
+run_uuid: 8710cc4ff0274b1fa99c96c39bb52bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240076234
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8e2adc6cca3e47f58735725efefd211b/artifacts
+end_time: 1669951296544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e2adc6cca3e47f58735725efefd211b
+run_name: unleashed-robin-610
+run_uuid: 8e2adc6cca3e47f58735725efefd211b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240619270
+status: 3
+tags: []
+user_id: unknown

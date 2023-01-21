@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/18330f55901447beb9892a88ab0dd783/artifacts
+end_time: 1669954224703
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18330f55901447beb9892a88ab0dd783
+run_name: mysterious-goose-496
+run_uuid: 18330f55901447beb9892a88ab0dd783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240258884
+status: 3
+tags: []
+user_id: unknown

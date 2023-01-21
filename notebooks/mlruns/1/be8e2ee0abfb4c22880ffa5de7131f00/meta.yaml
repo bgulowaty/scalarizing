@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/be8e2ee0abfb4c22880ffa5de7131f00/artifacts
+end_time: 1670181452640
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be8e2ee0abfb4c22880ffa5de7131f00
+run_name: painted-shoat-170
+run_uuid: be8e2ee0abfb4c22880ffa5de7131f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240256862
+status: 3
+tags: []
+user_id: unknown

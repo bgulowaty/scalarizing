@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c3a229e56e1044ae9f976c366f35524f/artifacts
+end_time: 1669947615210
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3a229e56e1044ae9f976c366f35524f
+run_name: peaceful-wolf-658
+run_uuid: c3a229e56e1044ae9f976c366f35524f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241325255
+status: 3
+tags: []
+user_id: unknown

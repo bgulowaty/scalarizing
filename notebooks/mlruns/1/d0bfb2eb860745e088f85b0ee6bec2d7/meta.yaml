@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d0bfb2eb860745e088f85b0ee6bec2d7/artifacts
+end_time: 1669951298046
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0bfb2eb860745e088f85b0ee6bec2d7
+run_name: brawny-squirrel-941
+run_uuid: d0bfb2eb860745e088f85b0ee6bec2d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240615640
+status: 3
+tags: []
+user_id: unknown

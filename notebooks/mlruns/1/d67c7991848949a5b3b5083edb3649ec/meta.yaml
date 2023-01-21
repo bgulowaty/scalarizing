@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d67c7991848949a5b3b5083edb3649ec/artifacts
+end_time: 1669949492690
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d67c7991848949a5b3b5083edb3649ec
+run_name: mercurial-horse-620
+run_uuid: d67c7991848949a5b3b5083edb3649ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240924920
+status: 3
+tags: []
+user_id: unknown

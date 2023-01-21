@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/adaac5dbc0504018b09c186d408004bd/artifacts
+end_time: 1669955082748
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adaac5dbc0504018b09c186d408004bd
+run_name: mysterious-elk-303
+run_uuid: adaac5dbc0504018b09c186d408004bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240164460
+status: 3
+tags: []
+user_id: unknown

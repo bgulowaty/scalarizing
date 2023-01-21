@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e7e4ff42ed3c4af3a0186d679fba9016/artifacts
+end_time: 1669942498533
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7e4ff42ed3c4af3a0186d679fba9016
+run_name: melodic-boar-515
+run_uuid: e7e4ff42ed3c4af3a0186d679fba9016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242755747
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c2336749543e4e0d8f6c22c2a9f06637/artifacts
+end_time: 1669947268239
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2336749543e4e0d8f6c22c2a9f06637
+run_name: treasured-grouse-458
+run_uuid: c2336749543e4e0d8f6c22c2a9f06637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241404912
+status: 3
+tags: []
+user_id: unknown

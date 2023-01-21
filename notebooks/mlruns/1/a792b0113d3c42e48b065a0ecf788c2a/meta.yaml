@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a792b0113d3c42e48b065a0ecf788c2a/artifacts
+end_time: 1669947852060
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a792b0113d3c42e48b065a0ecf788c2a
+run_name: carefree-duck-963
+run_uuid: a792b0113d3c42e48b065a0ecf788c2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241318478
+status: 3
+tags: []
+user_id: unknown

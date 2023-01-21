@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/888f8beea51a438f80b06d2569cfb0f2/artifacts
+end_time: 1670105345688
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 888f8beea51a438f80b06d2569cfb0f2
+run_name: welcoming-smelt-743
+run_uuid: 888f8beea51a438f80b06d2569cfb0f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239939364
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/fdb9f3028c094bbbbf92eae94d0c8536/artifacts
+end_time: 1670162623278
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fdb9f3028c094bbbbf92eae94d0c8536
+run_name: gentle-grub-57
+run_uuid: fdb9f3028c094bbbbf92eae94d0c8536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150255768
+status: 3
+tags: []
+user_id: unknown

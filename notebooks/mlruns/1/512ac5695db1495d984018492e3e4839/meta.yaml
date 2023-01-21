@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/512ac5695db1495d984018492e3e4839/artifacts
+end_time: 1669950058096
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 512ac5695db1495d984018492e3e4839
+run_name: dashing-deer-525
+run_uuid: 512ac5695db1495d984018492e3e4839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240840590
+status: 3
+tags: []
+user_id: unknown

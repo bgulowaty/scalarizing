@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1f22b254a690423b8f194a11de74f2ee/artifacts
+end_time: 1670162511317
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1f22b254a690423b8f194a11de74f2ee
+run_name: chill-shrew-299
+run_uuid: 1f22b254a690423b8f194a11de74f2ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150281162
+status: 3
+tags: []
+user_id: unknown

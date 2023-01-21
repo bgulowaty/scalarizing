@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c8f83752c4c2424cb5bf17b5aafe14fd/artifacts
+end_time: 1669945452903
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8f83752c4c2424cb5bf17b5aafe14fd
+run_name: peaceful-bat-567
+run_uuid: c8f83752c4c2424cb5bf17b5aafe14fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241797615
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4f68f94dd9ca442da8d3b4c0059da72c/artifacts
+end_time: 1669947558903
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f68f94dd9ca442da8d3b4c0059da72c
+run_name: receptive-ram-269
+run_uuid: 4f68f94dd9ca442da8d3b4c0059da72c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241362899
+status: 3
+tags: []
+user_id: unknown

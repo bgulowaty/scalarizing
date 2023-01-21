@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bfb18cc057b448af89c95f44a09163b9/artifacts
+end_time: 1669943287130
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfb18cc057b448af89c95f44a09163b9
+run_name: spiffy-cub-230
+run_uuid: bfb18cc057b448af89c95f44a09163b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242384293
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b2da6f20f0454bc28bbbb6fa9219cbd9/artifacts
+end_time: 1669945523673
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b2da6f20f0454bc28bbbb6fa9219cbd9
+run_name: debonair-flea-760
+run_uuid: b2da6f20f0454bc28bbbb6fa9219cbd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241793503
+status: 3
+tags: []
+user_id: unknown

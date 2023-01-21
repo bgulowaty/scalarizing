@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/11937005aac94360a10b13874f24c30d/artifacts
+end_time: 1669954703355
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11937005aac94360a10b13874f24c30d
+run_name: salty-gnat-12
+run_uuid: 11937005aac94360a10b13874f24c30d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240208976
+status: 3
+tags: []
+user_id: unknown

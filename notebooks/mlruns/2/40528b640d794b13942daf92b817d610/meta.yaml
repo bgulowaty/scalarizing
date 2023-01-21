@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/40528b640d794b13942daf92b817d610/artifacts
+end_time: 1670162510772
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 40528b640d794b13942daf92b817d610
+run_name: dapper-ram-76
+run_uuid: 40528b640d794b13942daf92b817d610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150287786
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2fda9dc7f829460797fe0eb217458bee/artifacts
+end_time: 1669947261091
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2fda9dc7f829460797fe0eb217458bee
+run_name: wistful-deer-729
+run_uuid: 2fda9dc7f829460797fe0eb217458bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241397469
+status: 3
+tags: []
+user_id: unknown

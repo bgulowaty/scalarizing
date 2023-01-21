@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d2d861b6b21c4f46852950fbd9288fc9/artifacts
+end_time: 1669948282562
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2d861b6b21c4f46852950fbd9288fc9
+run_name: puzzled-hawk-912
+run_uuid: d2d861b6b21c4f46852950fbd9288fc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241242636
+status: 3
+tags: []
+user_id: unknown

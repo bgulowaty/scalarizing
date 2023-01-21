@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/edd3ac10e9d044c0bec874d590245493/artifacts
+end_time: 1670105966151
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edd3ac10e9d044c0bec874d590245493
+run_name: valuable-grouse-223
+run_uuid: edd3ac10e9d044c0bec874d590245493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239911987
+status: 3
+tags: []
+user_id: unknown

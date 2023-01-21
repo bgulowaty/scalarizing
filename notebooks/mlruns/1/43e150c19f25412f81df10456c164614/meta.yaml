@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/43e150c19f25412f81df10456c164614/artifacts
+end_time: 1669955302245
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43e150c19f25412f81df10456c164614
+run_name: calm-moth-792
+run_uuid: 43e150c19f25412f81df10456c164614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240145611
+status: 3
+tags: []
+user_id: unknown

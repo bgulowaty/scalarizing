@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/06290f8fc36c49d985aefeef54381b22/artifacts
+end_time: 1669943059920
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 06290f8fc36c49d985aefeef54381b22
+run_name: skittish-pig-105
+run_uuid: 06290f8fc36c49d985aefeef54381b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242431449
+status: 3
+tags: []
+user_id: unknown

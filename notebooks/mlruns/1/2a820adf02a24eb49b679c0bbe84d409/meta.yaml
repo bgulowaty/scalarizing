@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2a820adf02a24eb49b679c0bbe84d409/artifacts
+end_time: 1670106583597
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a820adf02a24eb49b679c0bbe84d409
+run_name: burly-hawk-979
+run_uuid: 2a820adf02a24eb49b679c0bbe84d409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239894618
+status: 3
+tags: []
+user_id: unknown

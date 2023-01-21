@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/58662174d8ec40f69954061107b5d021/artifacts
+end_time: 1670181124442
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58662174d8ec40f69954061107b5d021
+run_name: industrious-wren-322
+run_uuid: 58662174d8ec40f69954061107b5d021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241022133
+status: 3
+tags: []
+user_id: unknown

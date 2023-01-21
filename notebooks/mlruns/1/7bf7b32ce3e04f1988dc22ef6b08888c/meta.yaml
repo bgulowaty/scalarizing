@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7bf7b32ce3e04f1988dc22ef6b08888c/artifacts
+end_time: 1669953531971
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7bf7b32ce3e04f1988dc22ef6b08888c
+run_name: receptive-fly-470
+run_uuid: 7bf7b32ce3e04f1988dc22ef6b08888c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240314860
+status: 3
+tags: []
+user_id: unknown

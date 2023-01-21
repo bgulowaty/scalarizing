@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/65f42486154c4f36af77fd304ec9ee62/artifacts
+end_time: 1669949005150
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65f42486154c4f36af77fd304ec9ee62
+run_name: bemused-shad-444
+run_uuid: 65f42486154c4f36af77fd304ec9ee62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241136413
+status: 3
+tags: []
+user_id: unknown

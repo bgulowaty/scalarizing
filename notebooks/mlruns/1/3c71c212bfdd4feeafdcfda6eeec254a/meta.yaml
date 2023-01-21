@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c71c212bfdd4feeafdcfda6eeec254a/artifacts
+end_time: 1669947582233
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c71c212bfdd4feeafdcfda6eeec254a
+run_name: receptive-trout-868
+run_uuid: 3c71c212bfdd4feeafdcfda6eeec254a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241342919
+status: 3
+tags: []
+user_id: unknown

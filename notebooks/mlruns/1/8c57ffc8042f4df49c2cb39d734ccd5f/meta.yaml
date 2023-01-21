@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8c57ffc8042f4df49c2cb39d734ccd5f/artifacts
+end_time: 1669955014057
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c57ffc8042f4df49c2cb39d734ccd5f
+run_name: legendary-snail-694
+run_uuid: 8c57ffc8042f4df49c2cb39d734ccd5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240181223
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/453ec0ef5b624a97a7566e99eb407393/artifacts
+end_time: 1669951055322
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 453ec0ef5b624a97a7566e99eb407393
+run_name: magnificent-frog-759
+run_uuid: 453ec0ef5b624a97a7566e99eb407393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240634664
+status: 3
+tags: []
+user_id: unknown

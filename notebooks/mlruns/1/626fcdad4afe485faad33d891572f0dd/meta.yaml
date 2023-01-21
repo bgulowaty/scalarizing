@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/626fcdad4afe485faad33d891572f0dd/artifacts
+end_time: 1669944945394
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 626fcdad4afe485faad33d891572f0dd
+run_name: hilarious-skink-184
+run_uuid: 626fcdad4afe485faad33d891572f0dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241936574
+status: 3
+tags: []
+user_id: unknown

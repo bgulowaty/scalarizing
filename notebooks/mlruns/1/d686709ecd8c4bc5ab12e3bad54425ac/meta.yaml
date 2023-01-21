@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d686709ecd8c4bc5ab12e3bad54425ac/artifacts
+end_time: 1669949729843
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d686709ecd8c4bc5ab12e3bad54425ac
+run_name: amusing-stork-67
+run_uuid: d686709ecd8c4bc5ab12e3bad54425ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240886284
+status: 3
+tags: []
+user_id: unknown

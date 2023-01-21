@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/379d8b6f93f3494997f6a5f05f3d5033/artifacts
+end_time: 1670162288396
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 379d8b6f93f3494997f6a5f05f3d5033
+run_name: bright-smelt-192
+run_uuid: 379d8b6f93f3494997f6a5f05f3d5033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150364343
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/509a7973949f464f8de955751d86dfb6/artifacts
+end_time: 1670104404563
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 509a7973949f464f8de955751d86dfb6
+run_name: shivering-deer-701
+run_uuid: 509a7973949f464f8de955751d86dfb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240002128
+status: 3
+tags: []
+user_id: unknown

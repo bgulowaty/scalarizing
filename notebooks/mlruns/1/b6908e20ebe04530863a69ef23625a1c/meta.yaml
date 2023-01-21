@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b6908e20ebe04530863a69ef23625a1c/artifacts
+end_time: 1669951982802
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6908e20ebe04530863a69ef23625a1c
+run_name: skillful-panda-440
+run_uuid: b6908e20ebe04530863a69ef23625a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240503666
+status: 3
+tags: []
+user_id: unknown

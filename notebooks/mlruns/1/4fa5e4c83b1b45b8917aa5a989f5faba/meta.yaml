@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4fa5e4c83b1b45b8917aa5a989f5faba/artifacts
+end_time: 1670106264295
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4fa5e4c83b1b45b8917aa5a989f5faba
+run_name: inquisitive-fawn-691
+run_uuid: 4fa5e4c83b1b45b8917aa5a989f5faba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904633
+status: 3
+tags: []
+user_id: unknown

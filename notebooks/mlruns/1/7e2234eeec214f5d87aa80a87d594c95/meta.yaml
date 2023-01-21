@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7e2234eeec214f5d87aa80a87d594c95/artifacts
+end_time: 1669946608268
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e2234eeec214f5d87aa80a87d594c95
+run_name: placid-fowl-402
+run_uuid: 7e2234eeec214f5d87aa80a87d594c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241545193
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c3f9c1bac67b4801a6a40e123357623c/artifacts
+end_time: 1669955937769
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3f9c1bac67b4801a6a40e123357623c
+run_name: secretive-auk-60
+run_uuid: c3f9c1bac67b4801a6a40e123357623c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240096806
+status: 3
+tags: []
+user_id: unknown

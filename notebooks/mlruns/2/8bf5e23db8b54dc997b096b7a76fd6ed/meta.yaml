@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8bf5e23db8b54dc997b096b7a76fd6ed/artifacts
+end_time: 1670162291829
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8bf5e23db8b54dc997b096b7a76fd6ed
+run_name: delightful-mouse-496
+run_uuid: 8bf5e23db8b54dc997b096b7a76fd6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150380476
+status: 3
+tags: []
+user_id: unknown

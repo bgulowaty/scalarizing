@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7499ad54ca9245ec86c668200c923092/artifacts
+end_time: 1669950994535
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7499ad54ca9245ec86c668200c923092
+run_name: traveling-rook-25
+run_uuid: 7499ad54ca9245ec86c668200c923092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240668070
+status: 3
+tags: []
+user_id: unknown

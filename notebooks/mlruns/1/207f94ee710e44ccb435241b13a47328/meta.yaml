@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/207f94ee710e44ccb435241b13a47328/artifacts
+end_time: 1669951912426
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 207f94ee710e44ccb435241b13a47328
+run_name: intrigued-grouse-821
+run_uuid: 207f94ee710e44ccb435241b13a47328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240541253
+status: 3
+tags: []
+user_id: unknown

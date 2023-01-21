@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/95fe1a99fe364926b4ba2e56a60f64c3/artifacts
+end_time: 1669953842600
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95fe1a99fe364926b4ba2e56a60f64c3
+run_name: entertaining-sow-153
+run_uuid: 95fe1a99fe364926b4ba2e56a60f64c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240289483
+status: 3
+tags: []
+user_id: unknown

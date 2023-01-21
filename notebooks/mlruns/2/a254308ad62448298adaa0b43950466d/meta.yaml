@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a254308ad62448298adaa0b43950466d/artifacts
+end_time: 1670162832664
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a254308ad62448298adaa0b43950466d
+run_name: delightful-snipe-128
+run_uuid: a254308ad62448298adaa0b43950466d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150187421
+status: 3
+tags: []
+user_id: unknown

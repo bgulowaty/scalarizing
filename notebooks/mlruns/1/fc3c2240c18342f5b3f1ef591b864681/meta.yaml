@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc3c2240c18342f5b3f1ef591b864681/artifacts
+end_time: 1669949127868
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc3c2240c18342f5b3f1ef591b864681
+run_name: omniscient-snake-334
+run_uuid: fc3c2240c18342f5b3f1ef591b864681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241035920
+status: 3
+tags: []
+user_id: unknown

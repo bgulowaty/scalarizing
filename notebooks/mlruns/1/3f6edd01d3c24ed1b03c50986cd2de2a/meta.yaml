@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3f6edd01d3c24ed1b03c50986cd2de2a/artifacts
+end_time: 1669943985963
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f6edd01d3c24ed1b03c50986cd2de2a
+run_name: flawless-rook-920
+run_uuid: 3f6edd01d3c24ed1b03c50986cd2de2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242176185
+status: 3
+tags: []
+user_id: unknown

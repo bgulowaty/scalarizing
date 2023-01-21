@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bc2d6893322b445187c534b303e72236/artifacts
+end_time: 1670102041880
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc2d6893322b445187c534b303e72236
+run_name: learned-chimp-850
+run_uuid: bc2d6893322b445187c534b303e72236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242679254
+status: 3
+tags: []
+user_id: unknown

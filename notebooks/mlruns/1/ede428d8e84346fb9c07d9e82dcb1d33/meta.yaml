@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ede428d8e84346fb9c07d9e82dcb1d33/artifacts
+end_time: 1670104125953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ede428d8e84346fb9c07d9e82dcb1d33
+run_name: awesome-turtle-417
+run_uuid: ede428d8e84346fb9c07d9e82dcb1d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240006751
+status: 3
+tags: []
+user_id: unknown

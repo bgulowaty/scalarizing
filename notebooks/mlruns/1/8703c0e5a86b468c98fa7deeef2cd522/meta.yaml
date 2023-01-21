@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8703c0e5a86b468c98fa7deeef2cd522/artifacts
+end_time: 1670104119137
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8703c0e5a86b468c98fa7deeef2cd522
+run_name: enchanting-bee-481
+run_uuid: 8703c0e5a86b468c98fa7deeef2cd522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240009559
+status: 3
+tags: []
+user_id: unknown

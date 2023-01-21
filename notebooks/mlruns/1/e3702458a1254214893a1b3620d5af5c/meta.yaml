@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3702458a1254214893a1b3620d5af5c/artifacts
+end_time: 1669945004201
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3702458a1254214893a1b3620d5af5c
+run_name: fortunate-conch-210
+run_uuid: e3702458a1254214893a1b3620d5af5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242055449
+status: 3
+tags: []
+user_id: unknown

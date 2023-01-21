@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bd7ce522ca964a53a4df6564ff85bbe2/artifacts
+end_time: 1669948256330
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd7ce522ca964a53a4df6564ff85bbe2
+run_name: nimble-finch-36
+run_uuid: bd7ce522ca964a53a4df6564ff85bbe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241200729
+status: 3
+tags: []
+user_id: unknown

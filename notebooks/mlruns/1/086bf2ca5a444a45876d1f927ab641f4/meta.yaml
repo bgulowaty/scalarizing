@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/086bf2ca5a444a45876d1f927ab641f4/artifacts
+end_time: 1670105653756
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 086bf2ca5a444a45876d1f927ab641f4
+run_name: intrigued-midge-74
+run_uuid: 086bf2ca5a444a45876d1f927ab641f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239924218
+status: 3
+tags: []
+user_id: unknown

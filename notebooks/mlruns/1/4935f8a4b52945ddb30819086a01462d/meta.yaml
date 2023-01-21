@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4935f8a4b52945ddb30819086a01462d/artifacts
+end_time: 1669947882766
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4935f8a4b52945ddb30819086a01462d
+run_name: mysterious-goat-970
+run_uuid: 4935f8a4b52945ddb30819086a01462d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241283713
+status: 3
+tags: []
+user_id: unknown

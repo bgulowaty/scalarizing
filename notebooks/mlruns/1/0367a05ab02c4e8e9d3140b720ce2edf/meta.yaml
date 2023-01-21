@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0367a05ab02c4e8e9d3140b720ce2edf/artifacts
+end_time: 1669955357140
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0367a05ab02c4e8e9d3140b720ce2edf
+run_name: rebellious-moth-217
+run_uuid: 0367a05ab02c4e8e9d3140b720ce2edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240141424
+status: 3
+tags: []
+user_id: unknown

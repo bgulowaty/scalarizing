@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8cde193690e24d0980afe4bff1d82767/artifacts
+end_time: 1669951296616
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8cde193690e24d0980afe4bff1d82767
+run_name: popular-duck-781
+run_uuid: 8cde193690e24d0980afe4bff1d82767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240628960
+status: 3
+tags: []
+user_id: unknown

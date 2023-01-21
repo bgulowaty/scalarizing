@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e1ba8a60cf924082b3e73ed1f82b7369/artifacts
+end_time: 1670105333109
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1ba8a60cf924082b3e73ed1f82b7369
+run_name: bustling-stork-139
+run_uuid: e1ba8a60cf924082b3e73ed1f82b7369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239944679
+status: 3
+tags: []
+user_id: unknown

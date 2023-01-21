@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7901be61d59b439b871f21c763d7f2d3/artifacts
+end_time: 1670162506178
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7901be61d59b439b871f21c763d7f2d3
+run_name: bold-rook-999
+run_uuid: 7901be61d59b439b871f21c763d7f2d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150292318
+status: 3
+tags: []
+user_id: unknown

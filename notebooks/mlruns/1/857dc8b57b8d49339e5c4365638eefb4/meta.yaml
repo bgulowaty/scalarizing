@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/857dc8b57b8d49339e5c4365638eefb4/artifacts
+end_time: 1669955356913
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 857dc8b57b8d49339e5c4365638eefb4
+run_name: popular-finch-245
+run_uuid: 857dc8b57b8d49339e5c4365638eefb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240137278
+status: 3
+tags: []
+user_id: unknown

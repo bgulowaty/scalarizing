@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59d67f295a014d3198baf3d331b801cc/artifacts
+end_time: 1670106582367
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59d67f295a014d3198baf3d331b801cc
+run_name: auspicious-carp-85
+run_uuid: 59d67f295a014d3198baf3d331b801cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239888366
+status: 3
+tags: []
+user_id: unknown

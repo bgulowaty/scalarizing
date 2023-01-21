@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c60269c413244b0997b542f5970c4201/artifacts
+end_time: 1669944823694
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c60269c413244b0997b542f5970c4201
+run_name: popular-bat-869
+run_uuid: c60269c413244b0997b542f5970c4201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241996541
+status: 3
+tags: []
+user_id: unknown

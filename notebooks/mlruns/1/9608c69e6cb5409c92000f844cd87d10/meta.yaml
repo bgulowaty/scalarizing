@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9608c69e6cb5409c92000f844cd87d10/artifacts
+end_time: 1669955306186
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9608c69e6cb5409c92000f844cd87d10
+run_name: beautiful-quail-139
+run_uuid: 9608c69e6cb5409c92000f844cd87d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240157456
+status: 3
+tags: []
+user_id: unknown

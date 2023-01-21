@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b85d11afeb5541ebac22cda534bf96dc/artifacts
+end_time: 1669948406264
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b85d11afeb5541ebac22cda534bf96dc
+run_name: rumbling-stoat-460
+run_uuid: b85d11afeb5541ebac22cda534bf96dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241224767
+status: 3
+tags: []
+user_id: unknown

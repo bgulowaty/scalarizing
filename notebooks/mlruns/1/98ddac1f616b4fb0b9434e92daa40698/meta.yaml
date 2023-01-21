@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/98ddac1f616b4fb0b9434e92daa40698/artifacts
+end_time: 1669956627786
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98ddac1f616b4fb0b9434e92daa40698
+run_name: secretive-bird-676
+run_uuid: 98ddac1f616b4fb0b9434e92daa40698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240060689
+status: 3
+tags: []
+user_id: unknown

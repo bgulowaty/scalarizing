@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ad7c6dd32ef341bbbf9a92892afa2055/artifacts
+end_time: 1669943676685
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad7c6dd32ef341bbbf9a92892afa2055
+run_name: nervous-whale-464
+run_uuid: ad7c6dd32ef341bbbf9a92892afa2055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242279943
+status: 3
+tags: []
+user_id: unknown

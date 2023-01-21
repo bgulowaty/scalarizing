@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8ee179a3d07e403f83df270f6f26b730/artifacts
+end_time: 1669948474161
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ee179a3d07e403f83df270f6f26b730
+run_name: agreeable-dove-985
+run_uuid: 8ee179a3d07e403f83df270f6f26b730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241163528
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6ba8997df6d445a0825a1587d8851b9f/artifacts
+end_time: 1669946609571
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ba8997df6d445a0825a1587d8851b9f
+run_name: overjoyed-rook-902
+run_uuid: 6ba8997df6d445a0825a1587d8851b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241550038
+status: 3
+tags: []
+user_id: unknown

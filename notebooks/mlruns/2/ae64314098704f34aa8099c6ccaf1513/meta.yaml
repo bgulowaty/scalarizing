@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ae64314098704f34aa8099c6ccaf1513/artifacts
+end_time: 1670162614205
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ae64314098704f34aa8099c6ccaf1513
+run_name: rare-crane-687
+run_uuid: ae64314098704f34aa8099c6ccaf1513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150263163
+status: 3
+tags: []
+user_id: unknown

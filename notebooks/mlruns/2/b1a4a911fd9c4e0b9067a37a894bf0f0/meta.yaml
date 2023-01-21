@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b1a4a911fd9c4e0b9067a37a894bf0f0/artifacts
+end_time: 1670162615965
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b1a4a911fd9c4e0b9067a37a894bf0f0
+run_name: resilient-lamb-525
+run_uuid: b1a4a911fd9c4e0b9067a37a894bf0f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150257879
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e594b899c4974c3e9b6a7e71ca34fb7c/artifacts
+end_time: 1669950347016
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e594b899c4974c3e9b6a7e71ca34fb7c
+run_name: redolent-wolf-904
+run_uuid: e594b899c4974c3e9b6a7e71ca34fb7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240808486
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3572935edc664683ad89097d3a51acdc/artifacts
+end_time: 1669954403087
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3572935edc664683ad89097d3a51acdc
+run_name: dashing-wasp-710
+run_uuid: 3572935edc664683ad89097d3a51acdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240240398
+status: 3
+tags: []
+user_id: unknown

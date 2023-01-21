@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0612d8a80a554df0baca5abc02295eaf/artifacts
+end_time: 1669948818743
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0612d8a80a554df0baca5abc02295eaf
+run_name: salty-smelt-624
+run_uuid: 0612d8a80a554df0baca5abc02295eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241115925
+status: 3
+tags: []
+user_id: unknown

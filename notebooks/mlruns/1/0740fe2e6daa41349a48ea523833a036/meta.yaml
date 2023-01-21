@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0740fe2e6daa41349a48ea523833a036/artifacts
+end_time: 1669943538032
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0740fe2e6daa41349a48ea523833a036
+run_name: powerful-shrimp-729
+run_uuid: 0740fe2e6daa41349a48ea523833a036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242327878
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f1170efc66384458af4dda3728b9db2d/artifacts
+end_time: 1669946671915
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1170efc66384458af4dda3728b9db2d
+run_name: ambitious-vole-505
+run_uuid: f1170efc66384458af4dda3728b9db2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241518280
+status: 3
+tags: []
+user_id: unknown

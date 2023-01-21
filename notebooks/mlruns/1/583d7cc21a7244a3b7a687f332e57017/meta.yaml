@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/583d7cc21a7244a3b7a687f332e57017/artifacts
+end_time: 1669948595234
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 583d7cc21a7244a3b7a687f332e57017
+run_name: learned-eel-779
+run_uuid: 583d7cc21a7244a3b7a687f332e57017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241132501
+status: 3
+tags: []
+user_id: unknown

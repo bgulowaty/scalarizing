@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/84f446ce5e194965b08e1455ea979924/artifacts
+end_time: 1670162284230
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 84f446ce5e194965b08e1455ea979924
+run_name: valuable-dog-274
+run_uuid: 84f446ce5e194965b08e1455ea979924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150382280
+status: 3
+tags: []
+user_id: unknown

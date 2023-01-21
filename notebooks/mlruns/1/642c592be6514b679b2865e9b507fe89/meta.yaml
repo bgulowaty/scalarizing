@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/642c592be6514b679b2865e9b507fe89/artifacts
+end_time: 1669955940069
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 642c592be6514b679b2865e9b507fe89
+run_name: magnificent-crow-574
+run_uuid: 642c592be6514b679b2865e9b507fe89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240097402
+status: 3
+tags: []
+user_id: unknown

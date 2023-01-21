@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8097e99ec9f546aeae1ad4cdcecc4948/artifacts
+end_time: 1669950043834
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8097e99ec9f546aeae1ad4cdcecc4948
+run_name: dashing-fly-405
+run_uuid: 8097e99ec9f546aeae1ad4cdcecc4948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240846490
+status: 3
+tags: []
+user_id: unknown

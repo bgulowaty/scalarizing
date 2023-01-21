@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7d53b2d66195431b9cf71e4635581b97/artifacts
+end_time: 1669943171554
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d53b2d66195431b9cf71e4635581b97
+run_name: trusting-gnat-665
+run_uuid: 7d53b2d66195431b9cf71e4635581b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242400792
+status: 3
+tags: []
+user_id: unknown

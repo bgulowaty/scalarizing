@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/17dbbff9645d4d6dae70eb00896782bd/artifacts
+end_time: 1669943659410
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17dbbff9645d4d6dae70eb00896782bd
+run_name: vaunted-auk-717
+run_uuid: 17dbbff9645d4d6dae70eb00896782bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242284583
+status: 3
+tags: []
+user_id: unknown

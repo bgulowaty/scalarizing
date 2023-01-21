@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5f636000ad6748e1bf9cd6c671cd5591/artifacts
+end_time: 1670162288308
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5f636000ad6748e1bf9cd6c671cd5591
+run_name: suave-shrimp-794
+run_uuid: 5f636000ad6748e1bf9cd6c671cd5591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150372848
+status: 3
+tags: []
+user_id: unknown

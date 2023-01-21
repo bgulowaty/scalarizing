@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a20a816db0514017bb099ccde8d577b1/artifacts
+end_time: 1670162175317
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a20a816db0514017bb099ccde8d577b1
+run_name: gregarious-foal-894
+run_uuid: a20a816db0514017bb099ccde8d577b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150425918
+status: 3
+tags: []
+user_id: unknown

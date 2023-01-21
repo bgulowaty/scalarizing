@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6fc0a52e86a045eb98622a5f7728251e/artifacts
+end_time: 1669947940544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6fc0a52e86a045eb98622a5f7728251e
+run_name: gifted-moose-324
+run_uuid: 6fc0a52e86a045eb98622a5f7728251e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241269536
+status: 3
+tags: []
+user_id: unknown

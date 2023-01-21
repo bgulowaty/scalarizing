@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/67d673e36e67444f980bb3dcc0ce445b/artifacts
+end_time: 1669948472651
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 67d673e36e67444f980bb3dcc0ce445b
+run_name: popular-wren-768
+run_uuid: 67d673e36e67444f980bb3dcc0ce445b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241182049
+status: 3
+tags: []
+user_id: unknown

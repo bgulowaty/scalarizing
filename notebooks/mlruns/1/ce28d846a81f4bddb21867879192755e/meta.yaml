@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce28d846a81f4bddb21867879192755e/artifacts
+end_time: 1669949279007
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce28d846a81f4bddb21867879192755e
+run_name: powerful-lark-235
+run_uuid: ce28d846a81f4bddb21867879192755e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241090550
+status: 3
+tags: []
+user_id: unknown

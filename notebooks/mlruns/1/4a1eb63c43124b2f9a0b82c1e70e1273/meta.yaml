@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4a1eb63c43124b2f9a0b82c1e70e1273/artifacts
+end_time: 1670104402134
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a1eb63c43124b2f9a0b82c1e70e1273
+run_name: burly-dog-387
+run_uuid: 4a1eb63c43124b2f9a0b82c1e70e1273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239998384
+status: 3
+tags: []
+user_id: unknown

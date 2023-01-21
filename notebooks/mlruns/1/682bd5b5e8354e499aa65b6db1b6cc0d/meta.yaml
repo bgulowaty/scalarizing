@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/682bd5b5e8354e499aa65b6db1b6cc0d/artifacts
+end_time: 1669942924966
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 682bd5b5e8354e499aa65b6db1b6cc0d
+run_name: overjoyed-jay-303
+run_uuid: 682bd5b5e8354e499aa65b6db1b6cc0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242465548
+status: 3
+tags: []
+user_id: unknown

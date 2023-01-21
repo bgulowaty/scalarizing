@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9871680ba6084f1f9120074e3c9c2918/artifacts
+end_time: 1669956257185
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9871680ba6084f1f9120074e3c9c2918
+run_name: angry-skink-500
+run_uuid: 9871680ba6084f1f9120074e3c9c2918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240070440
+status: 3
+tags: []
+user_id: unknown

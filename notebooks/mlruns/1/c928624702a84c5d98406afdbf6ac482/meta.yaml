@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c928624702a84c5d98406afdbf6ac482/artifacts
+end_time: 1669950037398
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c928624702a84c5d98406afdbf6ac482
+run_name: skillful-shad-805
+run_uuid: c928624702a84c5d98406afdbf6ac482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240843142
+status: 3
+tags: []
+user_id: unknown

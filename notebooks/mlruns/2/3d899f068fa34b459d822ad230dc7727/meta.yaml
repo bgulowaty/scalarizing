@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3d899f068fa34b459d822ad230dc7727/artifacts
+end_time: 1670162501253
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3d899f068fa34b459d822ad230dc7727
+run_name: popular-crane-77
+run_uuid: 3d899f068fa34b459d822ad230dc7727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150311350
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/76e90aafaead4e72b6300993c772eafc/artifacts
+end_time: 1669950711157
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76e90aafaead4e72b6300993c772eafc
+run_name: rumbling-cat-986
+run_uuid: 76e90aafaead4e72b6300993c772eafc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240696028
+status: 3
+tags: []
+user_id: unknown

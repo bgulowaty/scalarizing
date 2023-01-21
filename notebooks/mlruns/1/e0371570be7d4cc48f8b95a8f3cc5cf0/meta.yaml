@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e0371570be7d4cc48f8b95a8f3cc5cf0/artifacts
+end_time: 1670105674957
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0371570be7d4cc48f8b95a8f3cc5cf0
+run_name: delicate-bat-72
+run_uuid: e0371570be7d4cc48f8b95a8f3cc5cf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239921017
+status: 3
+tags: []
+user_id: unknown

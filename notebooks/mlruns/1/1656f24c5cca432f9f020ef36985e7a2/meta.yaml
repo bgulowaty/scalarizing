@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1656f24c5cca432f9f020ef36985e7a2/artifacts
+end_time: 1670180905201
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1656f24c5cca432f9f020ef36985e7a2
+run_name: selective-loon-987
+run_uuid: 1656f24c5cca432f9f020ef36985e7a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241254890
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5b99e37cc7d74ff28d227dd1aeaadbc7/artifacts
+end_time: 1669953843457
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b99e37cc7d74ff28d227dd1aeaadbc7
+run_name: luminous-jay-805
+run_uuid: 5b99e37cc7d74ff28d227dd1aeaadbc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240282867
+status: 3
+tags: []
+user_id: unknown

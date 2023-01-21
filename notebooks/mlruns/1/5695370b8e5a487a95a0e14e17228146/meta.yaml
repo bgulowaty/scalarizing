@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5695370b8e5a487a95a0e14e17228146/artifacts
+end_time: 1669944017202
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5695370b8e5a487a95a0e14e17228146
+run_name: peaceful-hen-239
+run_uuid: 5695370b8e5a487a95a0e14e17228146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242171133
+status: 3
+tags: []
+user_id: unknown

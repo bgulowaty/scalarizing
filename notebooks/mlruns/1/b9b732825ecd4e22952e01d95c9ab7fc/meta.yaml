@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b9b732825ecd4e22952e01d95c9ab7fc/artifacts
+end_time: 1669952592447
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b9b732825ecd4e22952e01d95c9ab7fc
+run_name: flawless-colt-693
+run_uuid: b9b732825ecd4e22952e01d95c9ab7fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240425080
+status: 3
+tags: []
+user_id: unknown

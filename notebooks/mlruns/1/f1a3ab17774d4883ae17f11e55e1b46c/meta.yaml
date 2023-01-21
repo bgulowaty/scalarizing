@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f1a3ab17774d4883ae17f11e55e1b46c/artifacts
+end_time: 1669956248362
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1a3ab17774d4883ae17f11e55e1b46c
+run_name: sincere-robin-192
+run_uuid: f1a3ab17774d4883ae17f11e55e1b46c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240074755
+status: 3
+tags: []
+user_id: unknown

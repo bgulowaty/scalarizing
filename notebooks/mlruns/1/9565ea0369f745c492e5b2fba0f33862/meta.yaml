@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9565ea0369f745c492e5b2fba0f33862/artifacts
+end_time: 1669955918989
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9565ea0369f745c492e5b2fba0f33862
+run_name: gifted-cow-196
+run_uuid: 9565ea0369f745c492e5b2fba0f33862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240102859
+status: 3
+tags: []
+user_id: unknown

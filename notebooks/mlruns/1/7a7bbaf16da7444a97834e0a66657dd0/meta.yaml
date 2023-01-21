@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7a7bbaf16da7444a97834e0a66657dd0/artifacts
+end_time: 1670105672878
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a7bbaf16da7444a97834e0a66657dd0
+run_name: calm-fawn-435
+run_uuid: 7a7bbaf16da7444a97834e0a66657dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239930926
+status: 3
+tags: []
+user_id: unknown

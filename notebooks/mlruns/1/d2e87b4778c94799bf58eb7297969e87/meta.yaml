@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d2e87b4778c94799bf58eb7297969e87/artifacts
+end_time: 1670104524082
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2e87b4778c94799bf58eb7297969e87
+run_name: wise-flea-854
+run_uuid: d2e87b4778c94799bf58eb7297969e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240003079
+status: 3
+tags: []
+user_id: unknown

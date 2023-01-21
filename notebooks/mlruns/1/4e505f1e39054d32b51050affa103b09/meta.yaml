@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e505f1e39054d32b51050affa103b09/artifacts
+end_time: 1669946382678
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e505f1e39054d32b51050affa103b09
+run_name: silent-sloth-283
+run_uuid: 4e505f1e39054d32b51050affa103b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241592809
+status: 3
+tags: []
+user_id: unknown

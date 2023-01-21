@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/eaad72ac342c4346ae0cc9d7c681ff42/artifacts
+end_time: 1669955615369
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eaad72ac342c4346ae0cc9d7c681ff42
+run_name: gifted-sow-820
+run_uuid: eaad72ac342c4346ae0cc9d7c681ff42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240121537
+status: 3
+tags: []
+user_id: unknown

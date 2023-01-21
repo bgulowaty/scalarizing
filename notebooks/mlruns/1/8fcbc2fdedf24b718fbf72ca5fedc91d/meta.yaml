@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8fcbc2fdedf24b718fbf72ca5fedc91d/artifacts
+end_time: 1670180512165
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8fcbc2fdedf24b718fbf72ca5fedc91d
+run_name: bouncy-hen-257
+run_uuid: 8fcbc2fdedf24b718fbf72ca5fedc91d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242651391
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c3426b7924141049ddb22dcdd992312/artifacts
+end_time: 1669955641497
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c3426b7924141049ddb22dcdd992312
+run_name: shivering-cat-500
+run_uuid: 3c3426b7924141049ddb22dcdd992312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240120034
+status: 3
+tags: []
+user_id: unknown

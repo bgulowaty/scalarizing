@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6cbb3a9723b24405b144a557f13874f4/artifacts
+end_time: 1669948685373
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6cbb3a9723b24405b144a557f13874f4
+run_name: melodic-lynx-585
+run_uuid: 6cbb3a9723b24405b144a557f13874f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241165644
+status: 3
+tags: []
+user_id: unknown

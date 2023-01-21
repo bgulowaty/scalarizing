@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/569bb2197b284c5b9d7c6c32a3e70bdb/artifacts
+end_time: 1669945397278
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 569bb2197b284c5b9d7c6c32a3e70bdb
+run_name: puzzled-grub-253
+run_uuid: 569bb2197b284c5b9d7c6c32a3e70bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241841031
+status: 3
+tags: []
+user_id: unknown

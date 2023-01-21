@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9dcc45392f284d9181274edf5b03406d/artifacts
+end_time: 1669953843213
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dcc45392f284d9181274edf5b03406d
+run_name: bustling-stag-538
+run_uuid: 9dcc45392f284d9181274edf5b03406d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240290843
+status: 3
+tags: []
+user_id: unknown

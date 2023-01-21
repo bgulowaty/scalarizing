@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/800059ec56eb4ed88b4b94df0d01dc86/artifacts
+end_time: 1669948217410
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 800059ec56eb4ed88b4b94df0d01dc86
+run_name: marvelous-skunk-278
+run_uuid: 800059ec56eb4ed88b4b94df0d01dc86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241224384
+status: 3
+tags: []
+user_id: unknown

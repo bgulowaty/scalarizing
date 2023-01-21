@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cf603da9ccc045f5a691cd92a5090baf/artifacts
+end_time: 1669949495441
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf603da9ccc045f5a691cd92a5090baf
+run_name: overjoyed-bear-882
+run_uuid: cf603da9ccc045f5a691cd92a5090baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240916030
+status: 3
+tags: []
+user_id: unknown

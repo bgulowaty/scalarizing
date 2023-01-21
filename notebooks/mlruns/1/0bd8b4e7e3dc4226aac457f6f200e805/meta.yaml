@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0bd8b4e7e3dc4226aac457f6f200e805/artifacts
+end_time: 1670181728854
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0bd8b4e7e3dc4226aac457f6f200e805
+run_name: calm-goat-511
+run_uuid: 0bd8b4e7e3dc4226aac457f6f200e805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240013914
+status: 3
+tags: []
+user_id: unknown

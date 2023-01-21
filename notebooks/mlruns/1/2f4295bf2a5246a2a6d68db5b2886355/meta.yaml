@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2f4295bf2a5246a2a6d68db5b2886355/artifacts
+end_time: 1669952582878
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f4295bf2a5246a2a6d68db5b2886355
+run_name: zealous-hog-195
+run_uuid: 2f4295bf2a5246a2a6d68db5b2886355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240426963
+status: 3
+tags: []
+user_id: unknown

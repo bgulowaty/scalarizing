@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9ed0c4774b7f4504beb3ba4ab0381259/artifacts
+end_time: 1669955664591
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ed0c4774b7f4504beb3ba4ab0381259
+run_name: clumsy-sheep-554
+run_uuid: 9ed0c4774b7f4504beb3ba4ab0381259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240108112
+status: 3
+tags: []
+user_id: unknown

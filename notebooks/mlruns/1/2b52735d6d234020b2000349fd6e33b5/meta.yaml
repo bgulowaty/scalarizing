@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2b52735d6d234020b2000349fd6e33b5/artifacts
+end_time: 1670102413521
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b52735d6d234020b2000349fd6e33b5
+run_name: crawling-dove-177
+run_uuid: 2b52735d6d234020b2000349fd6e33b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242587423
+status: 3
+tags: []
+user_id: unknown

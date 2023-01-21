@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87cbadf16c514b9ba795f39a72135519/artifacts
+end_time: 1669949168159
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87cbadf16c514b9ba795f39a72135519
+run_name: youthful-trout-939
+run_uuid: 87cbadf16c514b9ba795f39a72135519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241047356
+status: 3
+tags: []
+user_id: unknown

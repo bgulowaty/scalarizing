@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e349b889d52a4621b3d3511d59ec7ea5/artifacts
+end_time: 1669954757239
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e349b889d52a4621b3d3511d59ec7ea5
+run_name: painted-grub-304
+run_uuid: e349b889d52a4621b3d3511d59ec7ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240192322
+status: 3
+tags: []
+user_id: unknown

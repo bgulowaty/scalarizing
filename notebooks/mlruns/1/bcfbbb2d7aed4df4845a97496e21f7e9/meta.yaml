@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bcfbbb2d7aed4df4845a97496e21f7e9/artifacts
+end_time: 1669954090574
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcfbbb2d7aed4df4845a97496e21f7e9
+run_name: charming-pug-853
+run_uuid: bcfbbb2d7aed4df4845a97496e21f7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240268366
+status: 3
+tags: []
+user_id: unknown

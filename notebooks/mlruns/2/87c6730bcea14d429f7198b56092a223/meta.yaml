@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/87c6730bcea14d429f7198b56092a223/artifacts
+end_time: 1670162395356
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 87c6730bcea14d429f7198b56092a223
+run_name: skillful-pug-300
+run_uuid: 87c6730bcea14d429f7198b56092a223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150333986
+status: 3
+tags: []
+user_id: unknown

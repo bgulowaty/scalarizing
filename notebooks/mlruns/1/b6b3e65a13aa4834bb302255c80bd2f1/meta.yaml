@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b6b3e65a13aa4834bb302255c80bd2f1/artifacts
+end_time: 1669942738355
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6b3e65a13aa4834bb302255c80bd2f1
+run_name: dapper-grub-873
+run_uuid: b6b3e65a13aa4834bb302255c80bd2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242524993
+status: 3
+tags: []
+user_id: unknown

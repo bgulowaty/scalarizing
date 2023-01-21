@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09eff6572e7c465a97acc4f3ca043965/artifacts
+end_time: 1669949487180
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09eff6572e7c465a97acc4f3ca043965
+run_name: trusting-bass-157
+run_uuid: 09eff6572e7c465a97acc4f3ca043965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240999185
+status: 3
+tags: []
+user_id: unknown

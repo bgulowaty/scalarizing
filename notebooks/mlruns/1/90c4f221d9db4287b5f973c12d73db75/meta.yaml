@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/90c4f221d9db4287b5f973c12d73db75/artifacts
+end_time: 1669953231173
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90c4f221d9db4287b5f973c12d73db75
+run_name: bittersweet-fly-806
+run_uuid: 90c4f221d9db4287b5f973c12d73db75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240349759
+status: 3
+tags: []
+user_id: unknown

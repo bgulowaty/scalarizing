@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/af5e5f4f4f244739b824b3b2ceb5c6b5/artifacts
+end_time: 1669951351685
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af5e5f4f4f244739b824b3b2ceb5c6b5
+run_name: puzzled-dog-125
+run_uuid: af5e5f4f4f244739b824b3b2ceb5c6b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240598061
+status: 3
+tags: []
+user_id: unknown

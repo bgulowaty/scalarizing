@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fdbb17d7e3d74b5d8f6865354e7d13b1/artifacts
+end_time: 1669943487223
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdbb17d7e3d74b5d8f6865354e7d13b1
+run_name: defiant-mare-696
+run_uuid: fdbb17d7e3d74b5d8f6865354e7d13b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242323797
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ac097a2df8604276878008c2031e33d8/artifacts
+end_time: 1669947627677
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac097a2df8604276878008c2031e33d8
+run_name: nebulous-koi-60
+run_uuid: ac097a2df8604276878008c2031e33d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241313479
+status: 3
+tags: []
+user_id: unknown

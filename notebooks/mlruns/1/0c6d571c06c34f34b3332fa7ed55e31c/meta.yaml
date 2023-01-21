@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0c6d571c06c34f34b3332fa7ed55e31c/artifacts
+end_time: 1670105659611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c6d571c06c34f34b3332fa7ed55e31c
+run_name: mercurial-whale-457
+run_uuid: 0c6d571c06c34f34b3332fa7ed55e31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239924662
+status: 3
+tags: []
+user_id: unknown

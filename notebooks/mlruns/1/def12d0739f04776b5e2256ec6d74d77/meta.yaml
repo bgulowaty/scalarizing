@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/def12d0739f04776b5e2256ec6d74d77/artifacts
+end_time: 1669950343504
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: def12d0739f04776b5e2256ec6d74d77
+run_name: chill-hare-820
+run_uuid: def12d0739f04776b5e2256ec6d74d77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240796282
+status: 3
+tags: []
+user_id: unknown

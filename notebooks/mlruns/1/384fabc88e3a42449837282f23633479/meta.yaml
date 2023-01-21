@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/384fabc88e3a42449837282f23633479/artifacts
+end_time: 1669955303438
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 384fabc88e3a42449837282f23633479
+run_name: placid-asp-580
+run_uuid: 384fabc88e3a42449837282f23633479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240155232
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/60e24196076a4365b9e6c75eedb7478a/artifacts
+end_time: 1669955056213
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60e24196076a4365b9e6c75eedb7478a
+run_name: bald-pug-863
+run_uuid: 60e24196076a4365b9e6c75eedb7478a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240187710
+status: 3
+tags: []
+user_id: unknown

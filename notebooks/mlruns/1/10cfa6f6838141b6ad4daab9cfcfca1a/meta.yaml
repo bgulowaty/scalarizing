@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/10cfa6f6838141b6ad4daab9cfcfca1a/artifacts
+end_time: 1669943299679
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10cfa6f6838141b6ad4daab9cfcfca1a
+run_name: blushing-snail-630
+run_uuid: 10cfa6f6838141b6ad4daab9cfcfca1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242370729
+status: 3
+tags: []
+user_id: unknown

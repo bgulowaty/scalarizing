@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/de9f3ab56db9419dbbe77b95668e5766/artifacts
+end_time: 1669955923390
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de9f3ab56db9419dbbe77b95668e5766
+run_name: bittersweet-ox-773
+run_uuid: de9f3ab56db9419dbbe77b95668e5766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240103860
+status: 3
+tags: []
+user_id: unknown

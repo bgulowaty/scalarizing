@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a052901ec0c9441a9a0c0976995efc18/artifacts
+end_time: 1670162728790
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a052901ec0c9441a9a0c0976995efc18
+run_name: polite-lynx-438
+run_uuid: a052901ec0c9441a9a0c0976995efc18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150218122
+status: 3
+tags: []
+user_id: unknown

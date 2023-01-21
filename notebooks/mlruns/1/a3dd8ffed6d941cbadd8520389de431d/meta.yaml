@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a3dd8ffed6d941cbadd8520389de431d/artifacts
+end_time: 1669946610474
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3dd8ffed6d941cbadd8520389de431d
+run_name: enchanting-owl-537
+run_uuid: a3dd8ffed6d941cbadd8520389de431d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241550693
+status: 3
+tags: []
+user_id: unknown

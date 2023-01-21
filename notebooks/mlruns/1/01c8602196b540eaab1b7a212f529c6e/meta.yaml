@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/01c8602196b540eaab1b7a212f529c6e/artifacts
+end_time: 1670181795808
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01c8602196b540eaab1b7a212f529c6e
+run_name: enthused-fly-70
+run_uuid: 01c8602196b540eaab1b7a212f529c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904449
+status: 3
+tags: []
+user_id: unknown

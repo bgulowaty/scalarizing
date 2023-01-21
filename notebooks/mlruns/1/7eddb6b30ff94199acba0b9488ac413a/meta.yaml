@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7eddb6b30ff94199acba0b9488ac413a/artifacts
+end_time: 1670105027988
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7eddb6b30ff94199acba0b9488ac413a
+run_name: mercurial-shad-883
+run_uuid: 7eddb6b30ff94199acba0b9488ac413a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239962155
+status: 3
+tags: []
+user_id: unknown

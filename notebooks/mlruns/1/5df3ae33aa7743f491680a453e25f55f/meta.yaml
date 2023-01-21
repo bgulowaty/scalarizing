@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5df3ae33aa7743f491680a453e25f55f/artifacts
+end_time: 1669943204663
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5df3ae33aa7743f491680a453e25f55f
+run_name: dapper-gnat-914
+run_uuid: 5df3ae33aa7743f491680a453e25f55f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242394731
+status: 3
+tags: []
+user_id: unknown

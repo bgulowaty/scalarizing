@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a4962bb2dab94cdba31317ab1edcd8af/artifacts
+end_time: 1670181452358
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4962bb2dab94cdba31317ab1edcd8af
+run_name: dashing-steed-880
+run_uuid: a4962bb2dab94cdba31317ab1edcd8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240212316
+status: 3
+tags: []
+user_id: unknown

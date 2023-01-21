@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/278606a5ae624a29b2766c8cdf31aedb/artifacts
+end_time: 1669947540451
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 278606a5ae624a29b2766c8cdf31aedb
+run_name: funny-boar-310
+run_uuid: 278606a5ae624a29b2766c8cdf31aedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241357290
+status: 3
+tags: []
+user_id: unknown

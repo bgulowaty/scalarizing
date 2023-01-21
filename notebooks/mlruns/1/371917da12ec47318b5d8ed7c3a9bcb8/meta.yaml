@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/371917da12ec47318b5d8ed7c3a9bcb8/artifacts
+end_time: 1670181791455
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 371917da12ec47318b5d8ed7c3a9bcb8
+run_name: peaceful-steed-783
+run_uuid: 371917da12ec47318b5d8ed7c3a9bcb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239933183
+status: 3
+tags: []
+user_id: unknown

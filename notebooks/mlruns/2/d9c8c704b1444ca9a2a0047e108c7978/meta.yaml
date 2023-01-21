@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d9c8c704b1444ca9a2a0047e108c7978/artifacts
+end_time: 1670162833553
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d9c8c704b1444ca9a2a0047e108c7978
+run_name: capricious-hound-117
+run_uuid: d9c8c704b1444ca9a2a0047e108c7978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150200800
+status: 3
+tags: []
+user_id: unknown

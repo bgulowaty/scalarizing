@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/66ecef45b30d4ad28ef7e0a569cbc3f3/artifacts
+end_time: 1669948259930
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66ecef45b30d4ad28ef7e0a569cbc3f3
+run_name: loud-whale-759
+run_uuid: 66ecef45b30d4ad28ef7e0a569cbc3f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241204746
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7aa80f9172f04f4285010ae4220c0a96/artifacts
+end_time: 1669945815621
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7aa80f9172f04f4285010ae4220c0a96
+run_name: judicious-tern-57
+run_uuid: 7aa80f9172f04f4285010ae4220c0a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241745809
+status: 3
+tags: []
+user_id: unknown

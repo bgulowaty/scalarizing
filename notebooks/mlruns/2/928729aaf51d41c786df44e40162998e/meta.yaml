@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/928729aaf51d41c786df44e40162998e/artifacts
+end_time: 1670162611167
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 928729aaf51d41c786df44e40162998e
+run_name: gregarious-hare-601
+run_uuid: 928729aaf51d41c786df44e40162998e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150270675
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09b0c6282e9c49668be42207ee67c4c6/artifacts
+end_time: 1669951676566
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09b0c6282e9c49668be42207ee67c4c6
+run_name: glamorous-mouse-598
+run_uuid: 09b0c6282e9c49668be42207ee67c4c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240556320
+status: 3
+tags: []
+user_id: unknown

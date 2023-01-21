@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/03c8113ca866411a858936ff98785e3e/artifacts
+end_time: 1669949216831
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 03c8113ca866411a858936ff98785e3e
+run_name: angry-goose-243
+run_uuid: 03c8113ca866411a858936ff98785e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241018057
+status: 3
+tags: []
+user_id: unknown

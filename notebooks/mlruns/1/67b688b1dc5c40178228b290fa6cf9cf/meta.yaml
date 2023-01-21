@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/67b688b1dc5c40178228b290fa6cf9cf/artifacts
+end_time: 1669950709657
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 67b688b1dc5c40178228b290fa6cf9cf
+run_name: efficient-snake-510
+run_uuid: 67b688b1dc5c40178228b290fa6cf9cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240706451
+status: 3
+tags: []
+user_id: unknown

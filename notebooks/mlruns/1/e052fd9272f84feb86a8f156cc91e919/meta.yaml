@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e052fd9272f84feb86a8f156cc91e919/artifacts
+end_time: 1670106260491
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e052fd9272f84feb86a8f156cc91e919
+run_name: serious-vole-634
+run_uuid: e052fd9272f84feb86a8f156cc91e919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904541
+status: 3
+tags: []
+user_id: unknown

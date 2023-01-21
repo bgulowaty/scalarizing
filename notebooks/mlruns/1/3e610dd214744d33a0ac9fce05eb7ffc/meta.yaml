@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e610dd214744d33a0ac9fce05eb7ffc/artifacts
+end_time: 1670180577375
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e610dd214744d33a0ac9fce05eb7ffc
+run_name: dazzling-sow-741
+run_uuid: 3e610dd214744d33a0ac9fce05eb7ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242315053
+status: 3
+tags: []
+user_id: unknown

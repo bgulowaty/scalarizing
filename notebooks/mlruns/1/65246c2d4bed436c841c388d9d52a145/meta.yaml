@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/65246c2d4bed436c841c388d9d52a145/artifacts
+end_time: 1669945452735
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65246c2d4bed436c841c388d9d52a145
+run_name: judicious-pig-388
+run_uuid: 65246c2d4bed436c841c388d9d52a145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241802670
+status: 3
+tags: []
+user_id: unknown

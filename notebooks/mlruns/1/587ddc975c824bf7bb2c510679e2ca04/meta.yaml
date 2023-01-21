@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/587ddc975c824bf7bb2c510679e2ca04/artifacts
+end_time: 1669943070093
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 587ddc975c824bf7bb2c510679e2ca04
+run_name: worried-worm-416
+run_uuid: 587ddc975c824bf7bb2c510679e2ca04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242432232
+status: 3
+tags: []
+user_id: unknown

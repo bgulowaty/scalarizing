@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8f1e56a2b01547fea5758c89092b51cf/artifacts
+end_time: 1669945694439
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f1e56a2b01547fea5758c89092b51cf
+run_name: big-moth-319
+run_uuid: 8f1e56a2b01547fea5758c89092b51cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241746105
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f6830b4145f34872bc7f1984eb8cb893/artifacts
+end_time: 1669946361129
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6830b4145f34872bc7f1984eb8cb893
+run_name: exultant-rat-167
+run_uuid: f6830b4145f34872bc7f1984eb8cb893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241589617
+status: 3
+tags: []
+user_id: unknown

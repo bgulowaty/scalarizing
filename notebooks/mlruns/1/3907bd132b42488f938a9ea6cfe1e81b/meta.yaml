@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3907bd132b42488f938a9ea6cfe1e81b/artifacts
+end_time: 1669953477240
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3907bd132b42488f938a9ea6cfe1e81b
+run_name: illustrious-shad-430
+run_uuid: 3907bd132b42488f938a9ea6cfe1e81b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240337517
+status: 3
+tags: []
+user_id: unknown

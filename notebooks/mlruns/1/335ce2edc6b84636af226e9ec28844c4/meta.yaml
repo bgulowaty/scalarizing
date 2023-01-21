@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/335ce2edc6b84636af226e9ec28844c4/artifacts
+end_time: 1669949751996
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 335ce2edc6b84636af226e9ec28844c4
+run_name: nosy-perch-6
+run_uuid: 335ce2edc6b84636af226e9ec28844c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240884124
+status: 3
+tags: []
+user_id: unknown

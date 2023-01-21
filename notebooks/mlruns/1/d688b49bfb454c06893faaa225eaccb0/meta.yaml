@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d688b49bfb454c06893faaa225eaccb0/artifacts
+end_time: 1669949134910
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d688b49bfb454c06893faaa225eaccb0
+run_name: magnificent-hawk-682
+run_uuid: d688b49bfb454c06893faaa225eaccb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241065265
+status: 3
+tags: []
+user_id: unknown

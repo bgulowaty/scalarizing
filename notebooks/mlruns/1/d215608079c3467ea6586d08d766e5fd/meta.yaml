@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d215608079c3467ea6586d08d766e5fd/artifacts
+end_time: 1669953164485
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d215608079c3467ea6586d08d766e5fd
+run_name: sincere-turtle-524
+run_uuid: d215608079c3467ea6586d08d766e5fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240381717
+status: 3
+tags: []
+user_id: unknown

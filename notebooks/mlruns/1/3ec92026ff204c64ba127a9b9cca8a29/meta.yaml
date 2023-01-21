@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3ec92026ff204c64ba127a9b9cca8a29/artifacts
+end_time: 1669952523105
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ec92026ff204c64ba127a9b9cca8a29
+run_name: monumental-panda-610
+run_uuid: 3ec92026ff204c64ba127a9b9cca8a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240445889
+status: 3
+tags: []
+user_id: unknown

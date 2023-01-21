@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/41a6b946d92d41ddba426f3964e882c7/artifacts
+end_time: 1669945449566
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41a6b946d92d41ddba426f3964e882c7
+run_name: calm-chimp-914
+run_uuid: 41a6b946d92d41ddba426f3964e882c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241793293
+status: 3
+tags: []
+user_id: unknown

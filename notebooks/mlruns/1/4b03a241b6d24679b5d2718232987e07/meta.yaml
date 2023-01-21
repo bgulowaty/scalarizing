@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4b03a241b6d24679b5d2718232987e07/artifacts
+end_time: 1669945428699
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4b03a241b6d24679b5d2718232987e07
+run_name: mercurial-bass-94
+run_uuid: 4b03a241b6d24679b5d2718232987e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241810526
+status: 3
+tags: []
+user_id: unknown

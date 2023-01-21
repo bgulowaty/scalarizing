@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/25f466ea6e5a40038aa5beef2a0dd5b4/artifacts
+end_time: 1670162505291
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 25f466ea6e5a40038aa5beef2a0dd5b4
+run_name: salty-crane-111
+run_uuid: 25f466ea6e5a40038aa5beef2a0dd5b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150309525
+status: 3
+tags: []
+user_id: unknown

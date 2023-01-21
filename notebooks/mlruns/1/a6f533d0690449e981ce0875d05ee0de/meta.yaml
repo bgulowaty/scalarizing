@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a6f533d0690449e981ce0875d05ee0de/artifacts
+end_time: 1669955676461
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6f533d0690449e981ce0875d05ee0de
+run_name: caring-roo-983
+run_uuid: a6f533d0690449e981ce0875d05ee0de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240110481
+status: 3
+tags: []
+user_id: unknown

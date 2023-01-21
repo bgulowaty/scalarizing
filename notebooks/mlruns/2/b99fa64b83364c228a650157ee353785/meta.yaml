@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b99fa64b83364c228a650157ee353785/artifacts
+end_time: 1670162079363
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b99fa64b83364c228a650157ee353785
+run_name: receptive-mole-667
+run_uuid: b99fa64b83364c228a650157ee353785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150433114
+status: 3
+tags: []
+user_id: unknown

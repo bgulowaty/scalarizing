@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6df5cc33bd094706801d0b69647ba446/artifacts
+end_time: 1669952576881
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6df5cc33bd094706801d0b69647ba446
+run_name: amazing-bat-112
+run_uuid: 6df5cc33bd094706801d0b69647ba446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240427143
+status: 3
+tags: []
+user_id: unknown

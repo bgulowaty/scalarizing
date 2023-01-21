@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/09a4874c21e94d7085604e0b14bce1ad/artifacts
+end_time: 1670104148485
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09a4874c21e94d7085604e0b14bce1ad
+run_name: upset-rook-401
+run_uuid: 09a4874c21e94d7085604e0b14bce1ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240008133
+status: 3
+tags: []
+user_id: unknown

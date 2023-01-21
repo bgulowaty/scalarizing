@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc8a592c1a0a40b798ac5781edcaa032/artifacts
+end_time: 1669946629653
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc8a592c1a0a40b798ac5781edcaa032
+run_name: puzzled-koi-474
+run_uuid: cc8a592c1a0a40b798ac5781edcaa032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241538898
+status: 3
+tags: []
+user_id: unknown

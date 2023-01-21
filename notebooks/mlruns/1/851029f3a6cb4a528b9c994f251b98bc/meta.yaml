@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/851029f3a6cb4a528b9c994f251b98bc/artifacts
+end_time: 1669946031161
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 851029f3a6cb4a528b9c994f251b98bc
+run_name: nosy-pig-991
+run_uuid: 851029f3a6cb4a528b9c994f251b98bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241672127
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/876a566a0fc64ff18d425f5da46d5cc9/artifacts
+end_time: 1670162414734
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 876a566a0fc64ff18d425f5da46d5cc9
+run_name: rogue-ant-919
+run_uuid: 876a566a0fc64ff18d425f5da46d5cc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150365230
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ecd8e0cdcf24456cbb4bc29d13bb2a68/artifacts
+end_time: 1670162292164
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ecd8e0cdcf24456cbb4bc29d13bb2a68
+run_name: caring-whale-523
+run_uuid: ecd8e0cdcf24456cbb4bc29d13bb2a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150382815
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c83fae33525f4a3484a83c231aca4560/artifacts
+end_time: 1669950083736
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c83fae33525f4a3484a83c231aca4560
+run_name: grandiose-deer-698
+run_uuid: c83fae33525f4a3484a83c231aca4560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240832241
+status: 3
+tags: []
+user_id: unknown

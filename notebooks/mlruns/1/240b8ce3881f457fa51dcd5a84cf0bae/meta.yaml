@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/240b8ce3881f457fa51dcd5a84cf0bae/artifacts
+end_time: 1669944243264
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 240b8ce3881f457fa51dcd5a84cf0bae
+run_name: bittersweet-dove-306
+run_uuid: 240b8ce3881f457fa51dcd5a84cf0bae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242113006
+status: 3
+tags: []
+user_id: unknown

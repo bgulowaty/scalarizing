@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/53ebca1ed40c4113b1b1bbf8106a8682/artifacts
+end_time: 1669955067544
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53ebca1ed40c4113b1b1bbf8106a8682
+run_name: fun-vole-422
+run_uuid: 53ebca1ed40c4113b1b1bbf8106a8682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240160338
+status: 3
+tags: []
+user_id: unknown

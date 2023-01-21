@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f903fe8c30cc412b81ac18b89b02f5ad/artifacts
+end_time: 1670162723604
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f903fe8c30cc412b81ac18b89b02f5ad
+run_name: abundant-jay-870
+run_uuid: f903fe8c30cc412b81ac18b89b02f5ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150231622
+status: 3
+tags: []
+user_id: unknown

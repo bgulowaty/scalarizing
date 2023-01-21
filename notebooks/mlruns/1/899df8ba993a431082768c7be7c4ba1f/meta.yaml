@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/899df8ba993a431082768c7be7c4ba1f/artifacts
+end_time: 1670102131251
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 899df8ba993a431082768c7be7c4ba1f
+run_name: wistful-hound-462
+run_uuid: 899df8ba993a431082768c7be7c4ba1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242649635
+status: 3
+tags: []
+user_id: unknown

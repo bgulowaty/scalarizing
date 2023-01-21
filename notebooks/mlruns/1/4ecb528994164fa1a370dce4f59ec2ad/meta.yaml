@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ecb528994164fa1a370dce4f59ec2ad/artifacts
+end_time: 1669955607966
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ecb528994164fa1a370dce4f59ec2ad
+run_name: rumbling-seal-869
+run_uuid: 4ecb528994164fa1a370dce4f59ec2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240119706
+status: 3
+tags: []
+user_id: unknown

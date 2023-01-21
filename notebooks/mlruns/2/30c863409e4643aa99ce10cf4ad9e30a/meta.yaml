@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/30c863409e4643aa99ce10cf4ad9e30a/artifacts
+end_time: 1670162217122
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 30c863409e4643aa99ce10cf4ad9e30a
+run_name: sneaky-carp-41
+run_uuid: 30c863409e4643aa99ce10cf4ad9e30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150388120
+status: 3
+tags: []
+user_id: unknown

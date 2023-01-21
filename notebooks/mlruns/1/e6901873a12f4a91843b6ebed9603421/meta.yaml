@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e6901873a12f4a91843b6ebed9603421/artifacts
+end_time: 1669953483382
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6901873a12f4a91843b6ebed9603421
+run_name: sedate-steed-87
+run_uuid: e6901873a12f4a91843b6ebed9603421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240339727
+status: 3
+tags: []
+user_id: unknown

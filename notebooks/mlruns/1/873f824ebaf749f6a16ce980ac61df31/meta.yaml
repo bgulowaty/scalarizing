@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/873f824ebaf749f6a16ce980ac61df31/artifacts
+end_time: 1669946509713
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 873f824ebaf749f6a16ce980ac61df31
+run_name: luminous-wren-799
+run_uuid: 873f824ebaf749f6a16ce980ac61df31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241634176
+status: 3
+tags: []
+user_id: unknown

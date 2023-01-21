@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e41dba08ffd4d72845db4ca3326bf10/artifacts
+end_time: 1670105330983
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e41dba08ffd4d72845db4ca3326bf10
+run_name: polite-newt-222
+run_uuid: 3e41dba08ffd4d72845db4ca3326bf10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239945470
+status: 3
+tags: []
+user_id: unknown

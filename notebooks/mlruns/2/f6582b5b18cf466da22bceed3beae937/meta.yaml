@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f6582b5b18cf466da22bceed3beae937/artifacts
+end_time: 1670162078809
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f6582b5b18cf466da22bceed3beae937
+run_name: charming-quail-891
+run_uuid: f6582b5b18cf466da22bceed3beae937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150437385
+status: 3
+tags: []
+user_id: unknown

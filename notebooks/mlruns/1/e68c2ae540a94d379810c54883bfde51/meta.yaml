@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e68c2ae540a94d379810c54883bfde51/artifacts
+end_time: 1669947239053
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e68c2ae540a94d379810c54883bfde51
+run_name: orderly-mole-265
+run_uuid: e68c2ae540a94d379810c54883bfde51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241427822
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f5129a5e2037430a90f84d0754c45b51/artifacts
+end_time: 1669945303531
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5129a5e2037430a90f84d0754c45b51
+run_name: enthused-donkey-334
+run_uuid: f5129a5e2037430a90f84d0754c45b51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241881096
+status: 3
+tags: []
+user_id: unknown

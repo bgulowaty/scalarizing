@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ad4204d5db4c4ae2be9025b6c41b3d6e/artifacts
+end_time: 1669952896062
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad4204d5db4c4ae2be9025b6c41b3d6e
+run_name: nebulous-shark-354
+run_uuid: ad4204d5db4c4ae2be9025b6c41b3d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240389276
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/34f8977b0c324b8293ff90bdccc99a55/artifacts
+end_time: 1669947567783
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34f8977b0c324b8293ff90bdccc99a55
+run_name: enchanting-deer-697
+run_uuid: 34f8977b0c324b8293ff90bdccc99a55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241336406
+status: 3
+tags: []
+user_id: unknown

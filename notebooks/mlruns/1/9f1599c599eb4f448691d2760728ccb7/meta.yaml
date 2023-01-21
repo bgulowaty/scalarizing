@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f1599c599eb4f448691d2760728ccb7/artifacts
+end_time: 1669953535944
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f1599c599eb4f448691d2760728ccb7
+run_name: valuable-colt-534
+run_uuid: 9f1599c599eb4f448691d2760728ccb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240315487
+status: 3
+tags: []
+user_id: unknown

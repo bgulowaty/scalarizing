@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/81a2a774c5f84452aa5d69199e9cefa0/artifacts
+end_time: 1669943339888
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81a2a774c5f84452aa5d69199e9cefa0
+run_name: enchanting-snail-898
+run_uuid: 81a2a774c5f84452aa5d69199e9cefa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242368961
+status: 3
+tags: []
+user_id: unknown

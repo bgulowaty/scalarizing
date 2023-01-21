@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bacb05b19c0b4ded9c00276ed140008d/artifacts
+end_time: 1670106587325
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bacb05b19c0b4ded9c00276ed140008d
+run_name: blushing-cod-699
+run_uuid: bacb05b19c0b4ded9c00276ed140008d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239890008
+status: 3
+tags: []
+user_id: unknown

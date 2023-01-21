@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ecca522f583647c98db117ea000c5b56/artifacts
+end_time: 1670162403438
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ecca522f583647c98db117ea000c5b56
+run_name: blushing-mole-45
+run_uuid: ecca522f583647c98db117ea000c5b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150320050
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7be0b1c0537844b497015bfb7dd6244c/artifacts
+end_time: 1669944568805
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7be0b1c0537844b497015bfb7dd6244c
+run_name: luminous-pig-479
+run_uuid: 7be0b1c0537844b497015bfb7dd6244c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242030767
+status: 3
+tags: []
+user_id: unknown

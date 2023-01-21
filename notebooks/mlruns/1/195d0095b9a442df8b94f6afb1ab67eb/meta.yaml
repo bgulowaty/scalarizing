@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/195d0095b9a442df8b94f6afb1ab67eb/artifacts
+end_time: 1669955306946
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 195d0095b9a442df8b94f6afb1ab67eb
+run_name: angry-fawn-875
+run_uuid: 195d0095b9a442df8b94f6afb1ab67eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240157922
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/219e915bd7b54af0aa5d6278ff9fc68b/artifacts
+end_time: 1669951060683
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 219e915bd7b54af0aa5d6278ff9fc68b
+run_name: salty-sow-68
+run_uuid: 219e915bd7b54af0aa5d6278ff9fc68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240637891
+status: 3
+tags: []
+user_id: unknown

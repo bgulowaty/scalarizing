@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7dd54d55eca54d9084f1e93e3acf59fa/artifacts
+end_time: 1669949204550
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7dd54d55eca54d9084f1e93e3acf59fa
+run_name: big-skunk-227
+run_uuid: 7dd54d55eca54d9084f1e93e3acf59fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241023660
+status: 3
+tags: []
+user_id: unknown

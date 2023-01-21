@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4f6fa459937147b6aea86de794f83e64/artifacts
+end_time: 1670104716483
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f6fa459937147b6aea86de794f83e64
+run_name: mysterious-duck-511
+run_uuid: 4f6fa459937147b6aea86de794f83e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239979633
+status: 3
+tags: []
+user_id: unknown

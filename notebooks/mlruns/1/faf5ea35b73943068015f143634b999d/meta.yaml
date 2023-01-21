@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/faf5ea35b73943068015f143634b999d/artifacts
+end_time: 1669949461987
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: faf5ea35b73943068015f143634b999d
+run_name: caring-bass-38
+run_uuid: faf5ea35b73943068015f143634b999d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240943726
+status: 3
+tags: []
+user_id: unknown

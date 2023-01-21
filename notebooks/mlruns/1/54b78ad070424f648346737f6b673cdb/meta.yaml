@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/54b78ad070424f648346737f6b673cdb/artifacts
+end_time: 1670181181270
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54b78ad070424f648346737f6b673cdb
+run_name: selective-stag-764
+run_uuid: 54b78ad070424f648346737f6b673cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240478507
+status: 3
+tags: []
+user_id: unknown

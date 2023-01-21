@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/86de4399a84d4b35a5683ce0768b6803/artifacts
+end_time: 1669949129042
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86de4399a84d4b35a5683ce0768b6803
+run_name: adaptable-shrike-967
+run_uuid: 86de4399a84d4b35a5683ce0768b6803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241048366
+status: 3
+tags: []
+user_id: unknown

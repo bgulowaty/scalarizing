@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1c6d1568b0d746969abfa1bfde6887ea/artifacts
+end_time: 1669943569827
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c6d1568b0d746969abfa1bfde6887ea
+run_name: charming-boar-440
+run_uuid: 1c6d1568b0d746969abfa1bfde6887ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242301645
+status: 3
+tags: []
+user_id: unknown

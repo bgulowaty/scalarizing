@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/06168e5442324a2daa7bcf6c0893eb25/artifacts
+end_time: 1669953163729
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 06168e5442324a2daa7bcf6c0893eb25
+run_name: rogue-donkey-431
+run_uuid: 06168e5442324a2daa7bcf6c0893eb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240373122
+status: 3
+tags: []
+user_id: unknown

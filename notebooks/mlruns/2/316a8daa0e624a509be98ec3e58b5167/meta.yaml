@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/316a8daa0e624a509be98ec3e58b5167/artifacts
+end_time: 1670161982731
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 316a8daa0e624a509be98ec3e58b5167
+run_name: valuable-dolphin-590
+run_uuid: 316a8daa0e624a509be98ec3e58b5167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150493002
+status: 3
+tags: []
+user_id: unknown

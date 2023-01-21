@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9a74cbb9ee754870a0efac02d4d2423f/artifacts
+end_time: 1669945411090
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a74cbb9ee754870a0efac02d4d2423f
+run_name: caring-rook-425
+run_uuid: 9a74cbb9ee754870a0efac02d4d2423f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241833962
+status: 3
+tags: []
+user_id: unknown

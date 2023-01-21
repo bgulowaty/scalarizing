@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a07b51199ae54a5f85440c8e30be4986/artifacts
+end_time: 1670162610096
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a07b51199ae54a5f85440c8e30be4986
+run_name: fearless-kite-666
+run_uuid: a07b51199ae54a5f85440c8e30be4986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150272392
+status: 3
+tags: []
+user_id: unknown

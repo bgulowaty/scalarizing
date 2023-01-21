@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/41d5bf1bd41a489fb5c45e7b33ddf12e/artifacts
+end_time: 1670102394496
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41d5bf1bd41a489fb5c45e7b33ddf12e
+run_name: suave-shad-382
+run_uuid: 41d5bf1bd41a489fb5c45e7b33ddf12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242613308
+status: 3
+tags: []
+user_id: unknown

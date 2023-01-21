@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6d457844f736451391a397abc91ce289/artifacts
+end_time: 1669949128447
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6d457844f736451391a397abc91ce289
+run_name: wistful-cow-571
+run_uuid: 6d457844f736451391a397abc91ce289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241053970
+status: 3
+tags: []
+user_id: unknown

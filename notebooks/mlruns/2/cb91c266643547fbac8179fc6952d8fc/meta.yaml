@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/cb91c266643547fbac8179fc6952d8fc/artifacts
+end_time: 1670162069254
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cb91c266643547fbac8179fc6952d8fc
+run_name: amazing-sheep-870
+run_uuid: cb91c266643547fbac8179fc6952d8fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150464253
+status: 3
+tags: []
+user_id: unknown

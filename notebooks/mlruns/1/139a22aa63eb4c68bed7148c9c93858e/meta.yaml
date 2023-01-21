@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/139a22aa63eb4c68bed7148c9c93858e/artifacts
+end_time: 1670106268863
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 139a22aa63eb4c68bed7148c9c93858e
+run_name: merciful-ram-892
+run_uuid: 139a22aa63eb4c68bed7148c9c93858e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239902570
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/018201033e49403eacd74b730452d3bf/artifacts
+end_time: 1669956562328
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 018201033e49403eacd74b730452d3bf
+run_name: capricious-lamb-271
+run_uuid: 018201033e49403eacd74b730452d3bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240057193
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/79fedb70130d49cca4b8125fc7c4af79/artifacts
+end_time: 1669951971657
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79fedb70130d49cca4b8125fc7c4af79
+run_name: valuable-ape-567
+run_uuid: 79fedb70130d49cca4b8125fc7c4af79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240509238
+status: 3
+tags: []
+user_id: unknown

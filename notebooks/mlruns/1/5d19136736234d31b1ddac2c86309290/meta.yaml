@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5d19136736234d31b1ddac2c86309290/artifacts
+end_time: 1669943750039
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d19136736234d31b1ddac2c86309290
+run_name: stately-penguin-174
+run_uuid: 5d19136736234d31b1ddac2c86309290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242259943
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/63f096c1d2db4220a6dfbccdb2a70fc6/artifacts
+end_time: 1669944170123
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63f096c1d2db4220a6dfbccdb2a70fc6
+run_name: mercurial-conch-882
+run_uuid: 63f096c1d2db4220a6dfbccdb2a70fc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242133483
+status: 3
+tags: []
+user_id: unknown

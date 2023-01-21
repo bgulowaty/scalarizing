@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/60a6a77666e148a08e566d722b4381f7/artifacts
+end_time: 1669954125330
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60a6a77666e148a08e566d722b4381f7
+run_name: funny-owl-11
+run_uuid: 60a6a77666e148a08e566d722b4381f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240260982
+status: 3
+tags: []
+user_id: unknown

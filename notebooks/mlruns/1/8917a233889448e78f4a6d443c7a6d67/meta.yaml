@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8917a233889448e78f4a6d443c7a6d67/artifacts
+end_time: 1669946698693
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8917a233889448e78f4a6d443c7a6d67
+run_name: rumbling-shrike-571
+run_uuid: 8917a233889448e78f4a6d443c7a6d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241527349
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a3f265817e364b0a95e03d6319f7e6b3/artifacts
+end_time: 1669954095513
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3f265817e364b0a95e03d6319f7e6b3
+run_name: awesome-kite-845
+run_uuid: a3f265817e364b0a95e03d6319f7e6b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240271053
+status: 3
+tags: []
+user_id: unknown

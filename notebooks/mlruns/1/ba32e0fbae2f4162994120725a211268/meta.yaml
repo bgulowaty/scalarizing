@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ba32e0fbae2f4162994120725a211268/artifacts
+end_time: 1669943623404
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba32e0fbae2f4162994120725a211268
+run_name: burly-quail-859
+run_uuid: ba32e0fbae2f4162994120725a211268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242419126
+status: 3
+tags: []
+user_id: unknown

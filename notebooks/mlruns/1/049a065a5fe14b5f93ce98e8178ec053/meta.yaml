@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/049a065a5fe14b5f93ce98e8178ec053/artifacts
+end_time: 1669951362527
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 049a065a5fe14b5f93ce98e8178ec053
+run_name: mysterious-smelt-116
+run_uuid: 049a065a5fe14b5f93ce98e8178ec053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240588997
+status: 3
+tags: []
+user_id: unknown

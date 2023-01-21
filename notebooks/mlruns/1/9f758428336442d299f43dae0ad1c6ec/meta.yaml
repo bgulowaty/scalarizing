@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f758428336442d299f43dae0ad1c6ec/artifacts
+end_time: 1670106579067
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f758428336442d299f43dae0ad1c6ec
+run_name: sassy-slug-274
+run_uuid: 9f758428336442d299f43dae0ad1c6ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239891393
+status: 3
+tags: []
+user_id: unknown

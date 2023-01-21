@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/068cf834b7474f6e91268a463ba1776d/artifacts
+end_time: 1669944976867
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 068cf834b7474f6e91268a463ba1776d
+run_name: exultant-moth-276
+run_uuid: 068cf834b7474f6e91268a463ba1776d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241926544
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/13775d8a128f4902b7783a52e6c875ed/artifacts
+end_time: 1670105332953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13775d8a128f4902b7783a52e6c875ed
+run_name: exultant-hog-722
+run_uuid: 13775d8a128f4902b7783a52e6c875ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239945887
+status: 3
+tags: []
+user_id: unknown

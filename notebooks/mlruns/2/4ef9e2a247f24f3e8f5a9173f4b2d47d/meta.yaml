@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/4ef9e2a247f24f3e8f5a9173f4b2d47d/artifacts
+end_time: 1670162611516
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4ef9e2a247f24f3e8f5a9173f4b2d47d
+run_name: lyrical-fox-700
+run_uuid: 4ef9e2a247f24f3e8f5a9173f4b2d47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150270316
+status: 3
+tags: []
+user_id: unknown

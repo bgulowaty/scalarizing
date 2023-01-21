@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a514509c658342b7a6332e552c612f90/artifacts
+end_time: 1669947846669
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a514509c658342b7a6332e552c612f90
+run_name: nervous-gull-652
+run_uuid: a514509c658342b7a6332e552c612f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241311315
+status: 3
+tags: []
+user_id: unknown

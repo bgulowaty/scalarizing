@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87d91a3c88c14286bcee33efc6ce6357/artifacts
+end_time: 1669954126809
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87d91a3c88c14286bcee33efc6ce6357
+run_name: bald-toad-663
+run_uuid: 87d91a3c88c14286bcee33efc6ce6357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240254347
+status: 3
+tags: []
+user_id: unknown

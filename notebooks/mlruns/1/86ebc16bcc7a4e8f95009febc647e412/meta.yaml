@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/86ebc16bcc7a4e8f95009febc647e412/artifacts
+end_time: 1670105028452
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86ebc16bcc7a4e8f95009febc647e412
+run_name: gregarious-skunk-58
+run_uuid: 86ebc16bcc7a4e8f95009febc647e412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239957594
+status: 3
+tags: []
+user_id: unknown

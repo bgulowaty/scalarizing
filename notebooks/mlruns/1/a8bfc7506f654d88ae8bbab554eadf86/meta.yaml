@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a8bfc7506f654d88ae8bbab554eadf86/artifacts
+end_time: 1669942733901
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8bfc7506f654d88ae8bbab554eadf86
+run_name: bald-fawn-830
+run_uuid: a8bfc7506f654d88ae8bbab554eadf86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242540264
+status: 3
+tags: []
+user_id: unknown

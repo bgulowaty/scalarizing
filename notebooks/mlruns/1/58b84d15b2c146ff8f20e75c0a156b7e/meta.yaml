@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/58b84d15b2c146ff8f20e75c0a156b7e/artifacts
+end_time: 1669948870175
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58b84d15b2c146ff8f20e75c0a156b7e
+run_name: brawny-bear-137
+run_uuid: 58b84d15b2c146ff8f20e75c0a156b7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241082386
+status: 3
+tags: []
+user_id: unknown

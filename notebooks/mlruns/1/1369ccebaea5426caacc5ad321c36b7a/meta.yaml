@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1369ccebaea5426caacc5ad321c36b7a/artifacts
+end_time: 1670106270982
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1369ccebaea5426caacc5ad321c36b7a
+run_name: caring-mule-473
+run_uuid: 1369ccebaea5426caacc5ad321c36b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239905107
+status: 3
+tags: []
+user_id: unknown

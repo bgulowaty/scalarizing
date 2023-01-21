@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0e2954b4d3f14e7187e8227ea531b63b/artifacts
+end_time: 1669952840779
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0e2954b4d3f14e7187e8227ea531b63b
+run_name: merciful-grub-991
+run_uuid: 0e2954b4d3f14e7187e8227ea531b63b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240397642
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d9eba0f4381245f6b2be79b4de1eef2b/artifacts
+end_time: 1670162074859
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d9eba0f4381245f6b2be79b4de1eef2b
+run_name: unleashed-yak-388
+run_uuid: d9eba0f4381245f6b2be79b4de1eef2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150441646
+status: 3
+tags: []
+user_id: unknown

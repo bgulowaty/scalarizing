@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/56ab0cae0ceb46e693a1ee197deb4d4e/artifacts
+end_time: 1669948256418
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56ab0cae0ceb46e693a1ee197deb4d4e
+run_name: thoughtful-hawk-303
+run_uuid: 56ab0cae0ceb46e693a1ee197deb4d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241192877
+status: 3
+tags: []
+user_id: unknown

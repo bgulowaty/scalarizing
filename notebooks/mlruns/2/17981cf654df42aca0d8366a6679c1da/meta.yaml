@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/17981cf654df42aca0d8366a6679c1da/artifacts
+end_time: 1670162746882
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 17981cf654df42aca0d8366a6679c1da
+run_name: redolent-grouse-930
+run_uuid: 17981cf654df42aca0d8366a6679c1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150218599
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/01ae6bc9d7334e48baa2ff5d94bb96e3/artifacts
+end_time: 1669946300417
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01ae6bc9d7334e48baa2ff5d94bb96e3
+run_name: treasured-wolf-619
+run_uuid: 01ae6bc9d7334e48baa2ff5d94bb96e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241615734
+status: 3
+tags: []
+user_id: unknown

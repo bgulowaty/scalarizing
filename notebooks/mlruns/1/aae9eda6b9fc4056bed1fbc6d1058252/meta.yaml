@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aae9eda6b9fc4056bed1fbc6d1058252/artifacts
+end_time: 1669950362553
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aae9eda6b9fc4056bed1fbc6d1058252
+run_name: bedecked-croc-755
+run_uuid: aae9eda6b9fc4056bed1fbc6d1058252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240806731
+status: 3
+tags: []
+user_id: unknown

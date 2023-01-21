@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/861042832a7f4374846024b1ff9fa437/artifacts
+end_time: 1669948501587
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 861042832a7f4374846024b1ff9fa437
+run_name: skillful-crow-727
+run_uuid: 861042832a7f4374846024b1ff9fa437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241156456
+status: 3
+tags: []
+user_id: unknown

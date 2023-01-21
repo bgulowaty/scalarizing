@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a886ac9990414b918c98124cd1bf9159/artifacts
+end_time: 1669943273918
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a886ac9990414b918c98124cd1bf9159
+run_name: righteous-swan-574
+run_uuid: a886ac9990414b918c98124cd1bf9159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242379596
+status: 3
+tags: []
+user_id: unknown

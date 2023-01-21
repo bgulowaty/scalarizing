@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a894ef467f2b48f59893ef0c6912e22a/artifacts
+end_time: 1669950646277
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a894ef467f2b48f59893ef0c6912e22a
+run_name: grandiose-sheep-828
+run_uuid: a894ef467f2b48f59893ef0c6912e22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240734897
+status: 3
+tags: []
+user_id: unknown

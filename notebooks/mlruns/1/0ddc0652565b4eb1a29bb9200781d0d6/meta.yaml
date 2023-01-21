@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0ddc0652565b4eb1a29bb9200781d0d6/artifacts
+end_time: 1669942896924
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ddc0652565b4eb1a29bb9200781d0d6
+run_name: big-dove-297
+run_uuid: 0ddc0652565b4eb1a29bb9200781d0d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242474887
+status: 3
+tags: []
+user_id: unknown

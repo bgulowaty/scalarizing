@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/1e101b8a46c14b95b1e52ff29db5d1dd/artifacts
+end_time: 1670162074238
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1e101b8a46c14b95b1e52ff29db5d1dd
+run_name: honorable-stoat-732
+run_uuid: 1e101b8a46c14b95b1e52ff29db5d1dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150445135
+status: 3
+tags: []
+user_id: unknown

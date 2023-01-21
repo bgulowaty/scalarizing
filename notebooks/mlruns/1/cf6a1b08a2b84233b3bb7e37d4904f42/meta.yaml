@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cf6a1b08a2b84233b3bb7e37d4904f42/artifacts
+end_time: 1669946009457
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf6a1b08a2b84233b3bb7e37d4904f42
+run_name: legendary-goose-101
+run_uuid: cf6a1b08a2b84233b3bb7e37d4904f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241677123
+status: 3
+tags: []
+user_id: unknown

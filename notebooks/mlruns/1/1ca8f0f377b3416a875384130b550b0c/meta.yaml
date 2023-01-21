@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1ca8f0f377b3416a875384130b550b0c/artifacts
+end_time: 1670181122521
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ca8f0f377b3416a875384130b550b0c
+run_name: amusing-owl-840
+run_uuid: 1ca8f0f377b3416a875384130b550b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241132975
+status: 3
+tags: []
+user_id: unknown

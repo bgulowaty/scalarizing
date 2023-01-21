@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d5f9adaab9a348738c82565fc591651c/artifacts
+end_time: 1669951971632
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5f9adaab9a348738c82565fc591651c
+run_name: caring-goose-466
+run_uuid: d5f9adaab9a348738c82565fc591651c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240514151
+status: 3
+tags: []
+user_id: unknown

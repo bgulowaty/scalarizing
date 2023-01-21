@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/de986ca2357b46e0ba3b38632f1b5fdc/artifacts
+end_time: 1669955671365
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de986ca2357b46e0ba3b38632f1b5fdc
+run_name: stylish-stoat-606
+run_uuid: de986ca2357b46e0ba3b38632f1b5fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240112275
+status: 3
+tags: []
+user_id: unknown

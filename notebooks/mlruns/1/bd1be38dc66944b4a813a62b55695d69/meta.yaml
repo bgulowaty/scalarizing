@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bd1be38dc66944b4a813a62b55695d69/artifacts
+end_time: 1669955927822
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd1be38dc66944b4a813a62b55695d69
+run_name: gaudy-whale-825
+run_uuid: bd1be38dc66944b4a813a62b55695d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240101095
+status: 3
+tags: []
+user_id: unknown

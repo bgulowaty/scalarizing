@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89e00256cd85424ead326d2ab93eb96d/artifacts
+end_time: 1669946929440
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89e00256cd85424ead326d2ab93eb96d
+run_name: silent-rook-562
+run_uuid: 89e00256cd85424ead326d2ab93eb96d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241500368
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ffd2cc9ae614c65b82a6e685eccddd8/artifacts
+end_time: 1669951072011
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ffd2cc9ae614c65b82a6e685eccddd8
+run_name: casual-conch-91
+run_uuid: 2ffd2cc9ae614c65b82a6e685eccddd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240652424
+status: 3
+tags: []
+user_id: unknown

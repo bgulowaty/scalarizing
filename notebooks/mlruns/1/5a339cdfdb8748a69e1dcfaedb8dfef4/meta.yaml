@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5a339cdfdb8748a69e1dcfaedb8dfef4/artifacts
+end_time: 1669950655578
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a339cdfdb8748a69e1dcfaedb8dfef4
+run_name: classy-gull-737
+run_uuid: 5a339cdfdb8748a69e1dcfaedb8dfef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240760775
+status: 3
+tags: []
+user_id: unknown

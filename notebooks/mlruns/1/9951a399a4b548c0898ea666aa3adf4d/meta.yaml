@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9951a399a4b548c0898ea666aa3adf4d/artifacts
+end_time: 1670103498229
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9951a399a4b548c0898ea666aa3adf4d
+run_name: merciful-koi-752
+run_uuid: 9951a399a4b548c0898ea666aa3adf4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240349950
+status: 3
+tags: []
+user_id: unknown

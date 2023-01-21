@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3d1dff32c4374ee8ae9d9e68f4c7142c/artifacts
+end_time: 1670103202949
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d1dff32c4374ee8ae9d9e68f4c7142c
+run_name: upbeat-snipe-734
+run_uuid: 3d1dff32c4374ee8ae9d9e68f4c7142c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240929145
+status: 3
+tags: []
+user_id: unknown

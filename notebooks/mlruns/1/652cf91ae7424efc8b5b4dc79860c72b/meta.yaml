@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/652cf91ae7424efc8b5b4dc79860c72b/artifacts
+end_time: 1669943647874
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 652cf91ae7424efc8b5b4dc79860c72b
+run_name: thoughtful-gnu-376
+run_uuid: 652cf91ae7424efc8b5b4dc79860c72b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242280206
+status: 3
+tags: []
+user_id: unknown

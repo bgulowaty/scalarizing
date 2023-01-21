@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/92eec7551847471a8d85c10ac6301da9/artifacts
+end_time: 1669945740455
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92eec7551847471a8d85c10ac6301da9
+run_name: classy-shark-595
+run_uuid: 92eec7551847471a8d85c10ac6301da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241733971
+status: 3
+tags: []
+user_id: unknown

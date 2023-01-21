@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d89ba7632f764522adbdbdf8c848a24f/artifacts
+end_time: 1669943234123
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d89ba7632f764522adbdbdf8c848a24f
+run_name: rumbling-doe-980
+run_uuid: d89ba7632f764522adbdbdf8c848a24f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242389254
+status: 3
+tags: []
+user_id: unknown

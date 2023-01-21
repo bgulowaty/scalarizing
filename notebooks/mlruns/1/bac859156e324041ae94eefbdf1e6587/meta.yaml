@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bac859156e324041ae94eefbdf1e6587/artifacts
+end_time: 1670102349638
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bac859156e324041ae94eefbdf1e6587
+run_name: luminous-roo-196
+run_uuid: bac859156e324041ae94eefbdf1e6587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242607751
+status: 3
+tags: []
+user_id: unknown

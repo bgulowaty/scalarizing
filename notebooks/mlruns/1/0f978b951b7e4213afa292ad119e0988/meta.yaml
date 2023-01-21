@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0f978b951b7e4213afa292ad119e0988/artifacts
+end_time: 1669944476429
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f978b951b7e4213afa292ad119e0988
+run_name: sincere-wren-288
+run_uuid: 0f978b951b7e4213afa292ad119e0988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242049388
+status: 3
+tags: []
+user_id: unknown

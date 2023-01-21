@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2ec8081bdbd64ee093adf8db8e9bec34/artifacts
+end_time: 1669944414612
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ec8081bdbd64ee093adf8db8e9bec34
+run_name: placid-ram-740
+run_uuid: 2ec8081bdbd64ee093adf8db8e9bec34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242091403
+status: 3
+tags: []
+user_id: unknown

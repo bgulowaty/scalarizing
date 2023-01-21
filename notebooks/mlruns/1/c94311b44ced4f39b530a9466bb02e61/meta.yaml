@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c94311b44ced4f39b530a9466bb02e61/artifacts
+end_time: 1669949573359
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c94311b44ced4f39b530a9466bb02e61
+run_name: suave-grouse-510
+run_uuid: c94311b44ced4f39b530a9466bb02e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240955721
+status: 3
+tags: []
+user_id: unknown

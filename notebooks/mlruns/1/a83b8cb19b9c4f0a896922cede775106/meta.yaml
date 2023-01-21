@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a83b8cb19b9c4f0a896922cede775106/artifacts
+end_time: 1669950717145
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a83b8cb19b9c4f0a896922cede775106
+run_name: treasured-eel-471
+run_uuid: a83b8cb19b9c4f0a896922cede775106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240701276
+status: 3
+tags: []
+user_id: unknown

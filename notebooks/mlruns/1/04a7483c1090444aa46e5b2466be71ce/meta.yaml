@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/04a7483c1090444aa46e5b2466be71ce/artifacts
+end_time: 1670102021765
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04a7483c1090444aa46e5b2466be71ce
+run_name: unequaled-toad-688
+run_uuid: 04a7483c1090444aa46e5b2466be71ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242685725
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dc420e798c714dc5b2c6d9a72a0e2ede/artifacts
+end_time: 1670104124098
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc420e798c714dc5b2c6d9a72a0e2ede
+run_name: delightful-hawk-773
+run_uuid: dc420e798c714dc5b2c6d9a72a0e2ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240006256
+status: 3
+tags: []
+user_id: unknown

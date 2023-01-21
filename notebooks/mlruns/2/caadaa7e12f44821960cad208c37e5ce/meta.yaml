@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/caadaa7e12f44821960cad208c37e5ce/artifacts
+end_time: 1670162838646
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: caadaa7e12f44821960cad208c37e5ce
+run_name: painted-snake-888
+run_uuid: caadaa7e12f44821960cad208c37e5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150204662
+status: 3
+tags: []
+user_id: unknown

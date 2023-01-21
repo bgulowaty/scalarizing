@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c86a995793af4fdf9f59f8397045384d/artifacts
+end_time: 1669943053823
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c86a995793af4fdf9f59f8397045384d
+run_name: valuable-turtle-468
+run_uuid: c86a995793af4fdf9f59f8397045384d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242433641
+status: 3
+tags: []
+user_id: unknown

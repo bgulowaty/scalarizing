@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d4ce1ed35cc44c8fb3c3a53ae727bf90/artifacts
+end_time: 1669954695967
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4ce1ed35cc44c8fb3c3a53ae727bf90
+run_name: unequaled-hawk-158
+run_uuid: d4ce1ed35cc44c8fb3c3a53ae727bf90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240208136
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46890b42f074469284cef8aca536b4ff/artifacts
+end_time: 1670102624296
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46890b42f074469284cef8aca536b4ff
+run_name: luminous-sloth-647
+run_uuid: 46890b42f074469284cef8aca536b4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242565072
+status: 3
+tags: []
+user_id: unknown

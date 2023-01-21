@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ea7fa2f0c90948b2a6a4bb79e20775c9/artifacts
+end_time: 1670162074660
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ea7fa2f0c90948b2a6a4bb79e20775c9
+run_name: indecisive-mule-722
+run_uuid: ea7fa2f0c90948b2a6a4bb79e20775c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150439198
+status: 3
+tags: []
+user_id: unknown

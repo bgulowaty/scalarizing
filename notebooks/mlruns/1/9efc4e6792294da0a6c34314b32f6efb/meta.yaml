@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9efc4e6792294da0a6c34314b32f6efb/artifacts
+end_time: 1669948196806
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9efc4e6792294da0a6c34314b32f6efb
+run_name: serious-turtle-469
+run_uuid: 9efc4e6792294da0a6c34314b32f6efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241231414
+status: 3
+tags: []
+user_id: unknown

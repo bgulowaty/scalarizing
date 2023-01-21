@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3b83cc76b7ab4c6cbf026fed013abb96/artifacts
+end_time: 1670106578019
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b83cc76b7ab4c6cbf026fed013abb96
+run_name: aged-mouse-31
+run_uuid: 3b83cc76b7ab4c6cbf026fed013abb96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239891336
+status: 3
+tags: []
+user_id: unknown

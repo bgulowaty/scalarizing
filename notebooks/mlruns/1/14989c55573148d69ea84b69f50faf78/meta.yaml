@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/14989c55573148d69ea84b69f50faf78/artifacts
+end_time: 1669953475887
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14989c55573148d69ea84b69f50faf78
+run_name: thoughtful-horse-400
+run_uuid: 14989c55573148d69ea84b69f50faf78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240347283
+status: 3
+tags: []
+user_id: unknown

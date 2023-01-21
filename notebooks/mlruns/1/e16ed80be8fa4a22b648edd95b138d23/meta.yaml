@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e16ed80be8fa4a22b648edd95b138d23/artifacts
+end_time: 1669950992648
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e16ed80be8fa4a22b648edd95b138d23
+run_name: handsome-eel-911
+run_uuid: e16ed80be8fa4a22b648edd95b138d23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240663727
+status: 3
+tags: []
+user_id: unknown

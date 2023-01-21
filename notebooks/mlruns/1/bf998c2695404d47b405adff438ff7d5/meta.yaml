@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bf998c2695404d47b405adff438ff7d5/artifacts
+end_time: 1669948225099
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf998c2695404d47b405adff438ff7d5
+run_name: masked-moose-617
+run_uuid: bf998c2695404d47b405adff438ff7d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241216146
+status: 3
+tags: []
+user_id: unknown

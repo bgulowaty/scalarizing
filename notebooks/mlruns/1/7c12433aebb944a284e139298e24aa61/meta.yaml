@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7c12433aebb944a284e139298e24aa61/artifacts
+end_time: 1669942870708
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c12433aebb944a284e139298e24aa61
+run_name: gregarious-bird-648
+run_uuid: 7c12433aebb944a284e139298e24aa61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242817061
+status: 3
+tags: []
+user_id: unknown

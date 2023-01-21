@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/78b81a52843c442197d6231d70d89562/artifacts
+end_time: 1669943047531
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78b81a52843c442197d6231d70d89562
+run_name: rogue-sloth-249
+run_uuid: 78b81a52843c442197d6231d70d89562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242432747
+status: 3
+tags: []
+user_id: unknown

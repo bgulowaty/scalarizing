@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/39fce10e4f484787a3d179ec1e06715a/artifacts
+end_time: 1670162185907
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 39fce10e4f484787a3d179ec1e06715a
+run_name: secretive-sheep-65
+run_uuid: 39fce10e4f484787a3d179ec1e06715a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150392077
+status: 3
+tags: []
+user_id: unknown

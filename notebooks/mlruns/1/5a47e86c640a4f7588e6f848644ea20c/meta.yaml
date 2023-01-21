@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5a47e86c640a4f7588e6f848644ea20c/artifacts
+end_time: 1669953796701
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a47e86c640a4f7588e6f848644ea20c
+run_name: bald-smelt-541
+run_uuid: 5a47e86c640a4f7588e6f848644ea20c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240294884
+status: 3
+tags: []
+user_id: unknown

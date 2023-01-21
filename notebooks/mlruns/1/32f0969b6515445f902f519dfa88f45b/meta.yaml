@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/32f0969b6515445f902f519dfa88f45b/artifacts
+end_time: 1670180500085
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32f0969b6515445f902f519dfa88f45b
+run_name: intrigued-hare-760
+run_uuid: 32f0969b6515445f902f519dfa88f45b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242806685
+status: 3
+tags: []
+user_id: unknown

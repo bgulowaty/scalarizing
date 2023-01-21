@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5b69ac2d5a9c4d6aa713f0bdc8e0a888/artifacts
+end_time: 1670105970851
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b69ac2d5a9c4d6aa713f0bdc8e0a888
+run_name: wise-skunk-870
+run_uuid: 5b69ac2d5a9c4d6aa713f0bdc8e0a888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239917313
+status: 3
+tags: []
+user_id: unknown

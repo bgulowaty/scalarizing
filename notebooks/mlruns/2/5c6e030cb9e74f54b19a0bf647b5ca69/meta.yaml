@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5c6e030cb9e74f54b19a0bf647b5ca69/artifacts
+end_time: 1670162392593
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5c6e030cb9e74f54b19a0bf647b5ca69
+run_name: indecisive-seal-216
+run_uuid: 5c6e030cb9e74f54b19a0bf647b5ca69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150346776
+status: 3
+tags: []
+user_id: unknown

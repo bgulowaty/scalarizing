@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/af2ab366d8f44d85988a1db6572c03dc/artifacts
+end_time: 1669951993840
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af2ab366d8f44d85988a1db6572c03dc
+run_name: trusting-rat-853
+run_uuid: af2ab366d8f44d85988a1db6572c03dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240505766
+status: 3
+tags: []
+user_id: unknown

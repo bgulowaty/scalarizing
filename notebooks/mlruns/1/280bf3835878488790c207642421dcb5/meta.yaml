@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/280bf3835878488790c207642421dcb5/artifacts
+end_time: 1670181424643
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 280bf3835878488790c207642421dcb5
+run_name: luxuriant-flea-253
+run_uuid: 280bf3835878488790c207642421dcb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240302939
+status: 3
+tags: []
+user_id: unknown

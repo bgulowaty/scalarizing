@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8e3af1836901423dae2c5faaf9ed6c32/artifacts
+end_time: 1669945699639
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e3af1836901423dae2c5faaf9ed6c32
+run_name: whimsical-yak-936
+run_uuid: 8e3af1836901423dae2c5faaf9ed6c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241746336
+status: 3
+tags: []
+user_id: unknown

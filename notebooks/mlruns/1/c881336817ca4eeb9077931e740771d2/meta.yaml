@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c881336817ca4eeb9077931e740771d2/artifacts
+end_time: 1670105357352
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c881336817ca4eeb9077931e740771d2
+run_name: nosy-shoat-410
+run_uuid: c881336817ca4eeb9077931e740771d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239935533
+status: 3
+tags: []
+user_id: unknown

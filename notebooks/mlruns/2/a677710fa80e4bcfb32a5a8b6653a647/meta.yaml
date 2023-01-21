@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a677710fa80e4bcfb32a5a8b6653a647/artifacts
+end_time: 1670162394580
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a677710fa80e4bcfb32a5a8b6653a647
+run_name: tasteful-dolphin-841
+run_uuid: a677710fa80e4bcfb32a5a8b6653a647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150334690
+status: 3
+tags: []
+user_id: unknown

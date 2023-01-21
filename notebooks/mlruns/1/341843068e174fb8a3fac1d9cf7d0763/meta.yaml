@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/341843068e174fb8a3fac1d9cf7d0763/artifacts
+end_time: 1670105019529
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 341843068e174fb8a3fac1d9cf7d0763
+run_name: nervous-loon-495
+run_uuid: 341843068e174fb8a3fac1d9cf7d0763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239966791
+status: 3
+tags: []
+user_id: unknown

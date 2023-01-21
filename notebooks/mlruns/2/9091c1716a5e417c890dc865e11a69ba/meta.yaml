@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9091c1716a5e417c890dc865e11a69ba/artifacts
+end_time: 1670162293469
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9091c1716a5e417c890dc865e11a69ba
+run_name: bald-robin-214
+run_uuid: 9091c1716a5e417c890dc865e11a69ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150354053
+status: 3
+tags: []
+user_id: unknown

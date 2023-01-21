@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9810d76ffc2541b99e8ba3e3a68cd9d4/artifacts
+end_time: 1670105049497
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9810d76ffc2541b99e8ba3e3a68cd9d4
+run_name: burly-crane-305
+run_uuid: 9810d76ffc2541b99e8ba3e3a68cd9d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239950102
+status: 3
+tags: []
+user_id: unknown

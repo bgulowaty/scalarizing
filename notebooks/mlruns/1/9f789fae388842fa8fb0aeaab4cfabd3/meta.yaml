@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f789fae388842fa8fb0aeaab4cfabd3/artifacts
+end_time: 1669950036096
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f789fae388842fa8fb0aeaab4cfabd3
+run_name: mysterious-whale-509
+run_uuid: 9f789fae388842fa8fb0aeaab4cfabd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240843323
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1719c3ec7d684d37bcdf39b8d1f41a39/artifacts
+end_time: 1669944331014
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1719c3ec7d684d37bcdf39b8d1f41a39
+run_name: nebulous-mare-221
+run_uuid: 1719c3ec7d684d37bcdf39b8d1f41a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242087492
+status: 3
+tags: []
+user_id: unknown

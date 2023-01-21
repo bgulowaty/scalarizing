@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a39598328d604429ba12cc36012a2133/artifacts
+end_time: 1669946961235
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a39598328d604429ba12cc36012a2133
+run_name: luminous-cod-438
+run_uuid: a39598328d604429ba12cc36012a2133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241498389
+status: 3
+tags: []
+user_id: unknown

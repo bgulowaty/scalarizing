@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6f2c50c505be4cc8b3890130c69fd68d/artifacts
+end_time: 1670162399196
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6f2c50c505be4cc8b3890130c69fd68d
+run_name: righteous-calf-591
+run_uuid: 6f2c50c505be4cc8b3890130c69fd68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150326156
+status: 3
+tags: []
+user_id: unknown

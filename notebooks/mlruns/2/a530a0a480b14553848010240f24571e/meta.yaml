@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a530a0a480b14553848010240f24571e/artifacts
+end_time: 1670162076873
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a530a0a480b14553848010240f24571e
+run_name: nimble-turtle-810
+run_uuid: a530a0a480b14553848010240f24571e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150440849
+status: 3
+tags: []
+user_id: unknown

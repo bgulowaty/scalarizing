@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5a8011c70bc3443e9c379d1559c41651/artifacts
+end_time: 1670181452440
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a8011c70bc3443e9c379d1559c41651
+run_name: judicious-wolf-549
+run_uuid: 5a8011c70bc3443e9c379d1559c41651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240241067
+status: 3
+tags: []
+user_id: unknown

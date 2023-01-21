@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d8615ae9655f4340abd7f0977b994a43/artifacts
+end_time: 1669949435137
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8615ae9655f4340abd7f0977b994a43
+run_name: amusing-newt-442
+run_uuid: d8615ae9655f4340abd7f0977b994a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240999357
+status: 3
+tags: []
+user_id: unknown

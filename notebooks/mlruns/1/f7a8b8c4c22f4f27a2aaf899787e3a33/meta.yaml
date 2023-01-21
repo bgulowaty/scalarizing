@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f7a8b8c4c22f4f27a2aaf899787e3a33/artifacts
+end_time: 1670106592947
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7a8b8c4c22f4f27a2aaf899787e3a33
+run_name: resilient-shrew-742
+run_uuid: f7a8b8c4c22f4f27a2aaf899787e3a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239887892
+status: 3
+tags: []
+user_id: unknown

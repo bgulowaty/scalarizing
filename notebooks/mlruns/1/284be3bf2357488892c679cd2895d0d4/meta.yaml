@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/284be3bf2357488892c679cd2895d0d4/artifacts
+end_time: 1670180817091
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 284be3bf2357488892c679cd2895d0d4
+run_name: resilient-squid-149
+run_uuid: 284be3bf2357488892c679cd2895d0d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241775089
+status: 3
+tags: []
+user_id: unknown

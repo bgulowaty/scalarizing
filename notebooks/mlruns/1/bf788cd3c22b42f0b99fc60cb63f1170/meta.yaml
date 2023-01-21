@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bf788cd3c22b42f0b99fc60cb63f1170/artifacts
+end_time: 1669952546408
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf788cd3c22b42f0b99fc60cb63f1170
+run_name: dashing-rat-919
+run_uuid: bf788cd3c22b42f0b99fc60cb63f1170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240432392
+status: 3
+tags: []
+user_id: unknown

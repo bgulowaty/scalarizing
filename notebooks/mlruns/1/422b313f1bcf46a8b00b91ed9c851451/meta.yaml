@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/422b313f1bcf46a8b00b91ed9c851451/artifacts
+end_time: 1669948817521
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 422b313f1bcf46a8b00b91ed9c851451
+run_name: peaceful-mole-845
+run_uuid: 422b313f1bcf46a8b00b91ed9c851451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241094233
+status: 3
+tags: []
+user_id: unknown

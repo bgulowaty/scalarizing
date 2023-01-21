@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e5057423e1cd4b90ad450adc6f4f8a0b/artifacts
+end_time: 1669955919838
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5057423e1cd4b90ad450adc6f4f8a0b
+run_name: carefree-moth-418
+run_uuid: e5057423e1cd4b90ad450adc6f4f8a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240103331
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d43637e9b7c84e1b925db4ff068fa23f/artifacts
+end_time: 1669942960289
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d43637e9b7c84e1b925db4ff068fa23f
+run_name: abrasive-mare-98
+run_uuid: d43637e9b7c84e1b925db4ff068fa23f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242458713
+status: 3
+tags: []
+user_id: unknown

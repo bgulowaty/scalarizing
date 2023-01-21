@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/ed13d44686164307898b66d53ad25f98/artifacts
+end_time: 1670162831984
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ed13d44686164307898b66d53ad25f98
+run_name: bemused-perch-950
+run_uuid: ed13d44686164307898b66d53ad25f98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150192619
+status: 3
+tags: []
+user_id: unknown

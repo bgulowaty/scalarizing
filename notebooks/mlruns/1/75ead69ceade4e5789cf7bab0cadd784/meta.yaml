@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/75ead69ceade4e5789cf7bab0cadd784/artifacts
+end_time: 1670181421475
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75ead69ceade4e5789cf7bab0cadd784
+run_name: unequaled-grouse-66
+run_uuid: 75ead69ceade4e5789cf7bab0cadd784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240401613
+status: 3
+tags: []
+user_id: unknown

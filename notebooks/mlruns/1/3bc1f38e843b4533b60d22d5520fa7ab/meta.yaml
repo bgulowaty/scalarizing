@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3bc1f38e843b4533b60d22d5520fa7ab/artifacts
+end_time: 1670102060747
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3bc1f38e843b4533b60d22d5520fa7ab
+run_name: polite-sheep-604
+run_uuid: 3bc1f38e843b4533b60d22d5520fa7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242683721
+status: 3
+tags: []
+user_id: unknown

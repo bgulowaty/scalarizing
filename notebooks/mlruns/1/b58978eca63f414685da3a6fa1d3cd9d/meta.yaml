@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b58978eca63f414685da3a6fa1d3cd9d/artifacts
+end_time: 1669946361925
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b58978eca63f414685da3a6fa1d3cd9d
+run_name: big-smelt-620
+run_uuid: b58978eca63f414685da3a6fa1d3cd9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241597415
+status: 3
+tags: []
+user_id: unknown

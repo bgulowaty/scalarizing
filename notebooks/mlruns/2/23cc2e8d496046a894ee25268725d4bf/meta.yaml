@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/23cc2e8d496046a894ee25268725d4bf/artifacts
+end_time: 1670162392528
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 23cc2e8d496046a894ee25268725d4bf
+run_name: wise-ram-763
+run_uuid: 23cc2e8d496046a894ee25268725d4bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150346095
+status: 3
+tags: []
+user_id: unknown

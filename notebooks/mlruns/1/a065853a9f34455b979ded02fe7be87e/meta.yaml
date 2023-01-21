@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a065853a9f34455b979ded02fe7be87e/artifacts
+end_time: 1670104181076
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a065853a9f34455b979ded02fe7be87e
+run_name: gregarious-panda-804
+run_uuid: a065853a9f34455b979ded02fe7be87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240007184
+status: 3
+tags: []
+user_id: unknown

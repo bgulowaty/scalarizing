@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/34227a50c29c4c68be5eea2b59ec6543/artifacts
+end_time: 1669947930366
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34227a50c29c4c68be5eea2b59ec6543
+run_name: legendary-shad-967
+run_uuid: 34227a50c29c4c68be5eea2b59ec6543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241277499
+status: 3
+tags: []
+user_id: unknown

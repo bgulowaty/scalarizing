@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/84dd21f8c15a423da2b82470259be06a/artifacts
+end_time: 1670104096940
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84dd21f8c15a423da2b82470259be06a
+run_name: gregarious-perch-121
+run_uuid: 84dd21f8c15a423da2b82470259be06a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240018824
+status: 3
+tags: []
+user_id: unknown

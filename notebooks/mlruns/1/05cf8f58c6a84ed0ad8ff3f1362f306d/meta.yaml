@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/05cf8f58c6a84ed0ad8ff3f1362f306d/artifacts
+end_time: 1670105653637
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 05cf8f58c6a84ed0ad8ff3f1362f306d
+run_name: abrasive-mole-878
+run_uuid: 05cf8f58c6a84ed0ad8ff3f1362f306d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239923933
+status: 3
+tags: []
+user_id: unknown

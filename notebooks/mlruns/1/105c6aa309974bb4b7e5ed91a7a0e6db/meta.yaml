@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/105c6aa309974bb4b7e5ed91a7a0e6db/artifacts
+end_time: 1669943262858
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 105c6aa309974bb4b7e5ed91a7a0e6db
+run_name: thoughtful-cow-264
+run_uuid: 105c6aa309974bb4b7e5ed91a7a0e6db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242853230
+status: 3
+tags: []
+user_id: unknown

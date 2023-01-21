@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/2eacdf7a0ca54373ad2c1689a5b0b23e/artifacts
+end_time: 1670162190332
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2eacdf7a0ca54373ad2c1689a5b0b23e
+run_name: peaceful-dolphin-199
+run_uuid: 2eacdf7a0ca54373ad2c1689a5b0b23e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150406617
+status: 3
+tags: []
+user_id: unknown

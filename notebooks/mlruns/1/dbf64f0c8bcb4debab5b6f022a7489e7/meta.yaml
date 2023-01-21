@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dbf64f0c8bcb4debab5b6f022a7489e7/artifacts
+end_time: 1669947255660
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbf64f0c8bcb4debab5b6f022a7489e7
+run_name: nebulous-grub-122
+run_uuid: dbf64f0c8bcb4debab5b6f022a7489e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241409201
+status: 3
+tags: []
+user_id: unknown

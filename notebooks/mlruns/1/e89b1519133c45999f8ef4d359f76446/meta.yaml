@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e89b1519133c45999f8ef4d359f76446/artifacts
+end_time: 1669945166082
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e89b1519133c45999f8ef4d359f76446
+run_name: redolent-squid-686
+run_uuid: e89b1519133c45999f8ef4d359f76446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241859253
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1e103b7aa42f485ebef040031acb518e/artifacts
+end_time: 1670181150309
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e103b7aa42f485ebef040031acb518e
+run_name: debonair-penguin-682
+run_uuid: 1e103b7aa42f485ebef040031acb518e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240774068
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3ea37e24813e4f8cad267931595e3f54/artifacts
+end_time: 1669949130394
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ea37e24813e4f8cad267931595e3f54
+run_name: puzzled-bird-598
+run_uuid: 3ea37e24813e4f8cad267931595e3f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241040157
+status: 3
+tags: []
+user_id: unknown

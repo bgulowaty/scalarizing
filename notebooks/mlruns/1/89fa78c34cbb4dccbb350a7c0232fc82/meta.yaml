@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89fa78c34cbb4dccbb350a7c0232fc82/artifacts
+end_time: 1670105670017
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89fa78c34cbb4dccbb350a7c0232fc82
+run_name: beautiful-skink-265
+run_uuid: 89fa78c34cbb4dccbb350a7c0232fc82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239924475
+status: 3
+tags: []
+user_id: unknown

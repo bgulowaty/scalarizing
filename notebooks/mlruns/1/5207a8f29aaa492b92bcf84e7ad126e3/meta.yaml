@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5207a8f29aaa492b92bcf84e7ad126e3/artifacts
+end_time: 1669943589586
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5207a8f29aaa492b92bcf84e7ad126e3
+run_name: mysterious-owl-350
+run_uuid: 5207a8f29aaa492b92bcf84e7ad126e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242306887
+status: 3
+tags: []
+user_id: unknown

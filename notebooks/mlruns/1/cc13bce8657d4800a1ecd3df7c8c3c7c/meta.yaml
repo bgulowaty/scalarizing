@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc13bce8657d4800a1ecd3df7c8c3c7c/artifacts
+end_time: 1670105021470
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc13bce8657d4800a1ecd3df7c8c3c7c
+run_name: bedecked-moose-306
+run_uuid: cc13bce8657d4800a1ecd3df7c8c3c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239963155
+status: 3
+tags: []
+user_id: unknown

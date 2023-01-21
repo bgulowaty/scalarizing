@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d6d34b859e554ab2991fba936c420ef8/artifacts
+end_time: 1669945435264
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6d34b859e554ab2991fba936c420ef8
+run_name: lyrical-finch-83
+run_uuid: d6d34b859e554ab2991fba936c420ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241837680
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6e98502951154678856ea0542017d671/artifacts
+end_time: 1669943109189
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e98502951154678856ea0542017d671
+run_name: awesome-carp-702
+run_uuid: 6e98502951154678856ea0542017d671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242416297
+status: 3
+tags: []
+user_id: unknown

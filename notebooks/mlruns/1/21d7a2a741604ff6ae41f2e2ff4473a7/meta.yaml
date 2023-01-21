@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/21d7a2a741604ff6ae41f2e2ff4473a7/artifacts
+end_time: 1669952273325
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21d7a2a741604ff6ae41f2e2ff4473a7
+run_name: sassy-shrew-224
+run_uuid: 21d7a2a741604ff6ae41f2e2ff4473a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240460722
+status: 3
+tags: []
+user_id: unknown

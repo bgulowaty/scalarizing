@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2892bcd22f314fd0aed087142561e9dd/artifacts
+end_time: 1669955664258
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2892bcd22f314fd0aed087142561e9dd
+run_name: popular-skink-393
+run_uuid: 2892bcd22f314fd0aed087142561e9dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240110401
+status: 3
+tags: []
+user_id: unknown

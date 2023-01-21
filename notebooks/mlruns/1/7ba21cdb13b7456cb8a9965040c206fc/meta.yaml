@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ba21cdb13b7456cb8a9965040c206fc/artifacts
+end_time: 1669950342933
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ba21cdb13b7456cb8a9965040c206fc
+run_name: gentle-deer-853
+run_uuid: 7ba21cdb13b7456cb8a9965040c206fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240809342
+status: 3
+tags: []
+user_id: unknown

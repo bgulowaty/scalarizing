@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/83745ff325d64868b68f1a2d485c0fc8/artifacts
+end_time: 1670104087921
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83745ff325d64868b68f1a2d485c0fc8
+run_name: bittersweet-pug-344
+run_uuid: 83745ff325d64868b68f1a2d485c0fc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240028913
+status: 3
+tags: []
+user_id: unknown

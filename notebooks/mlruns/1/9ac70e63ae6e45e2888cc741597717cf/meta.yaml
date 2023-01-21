@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9ac70e63ae6e45e2888cc741597717cf/artifacts
+end_time: 1669949213242
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ac70e63ae6e45e2888cc741597717cf
+run_name: delightful-doe-348
+run_uuid: 9ac70e63ae6e45e2888cc741597717cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241029674
+status: 3
+tags: []
+user_id: unknown

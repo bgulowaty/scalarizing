@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1af4c9109bb8487d868a7f3b5f0cd89a/artifacts
+end_time: 1669948424223
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1af4c9109bb8487d868a7f3b5f0cd89a
+run_name: loud-kit-70
+run_uuid: 1af4c9109bb8487d868a7f3b5f0cd89a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241252614
+status: 3
+tags: []
+user_id: unknown

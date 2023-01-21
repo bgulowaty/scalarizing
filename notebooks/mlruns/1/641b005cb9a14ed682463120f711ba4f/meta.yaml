@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/641b005cb9a14ed682463120f711ba4f/artifacts
+end_time: 1669947944908
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 641b005cb9a14ed682463120f711ba4f
+run_name: chill-boar-728
+run_uuid: 641b005cb9a14ed682463120f711ba4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241251700
+status: 3
+tags: []
+user_id: unknown

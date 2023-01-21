@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/480a5faaf17b4db5be474d413c93bf06/artifacts
+end_time: 1669949754643
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 480a5faaf17b4db5be474d413c93bf06
+run_name: auspicious-slug-520
+run_uuid: 480a5faaf17b4db5be474d413c93bf06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240881878
+status: 3
+tags: []
+user_id: unknown

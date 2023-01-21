@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/590801b862a94c84b3334d0c41469cd1/artifacts
+end_time: 1670161862474
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 590801b862a94c84b3334d0c41469cd1
+run_name: aged-hare-567
+run_uuid: 590801b862a94c84b3334d0c41469cd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150523185
+status: 3
+tags: []
+user_id: unknown

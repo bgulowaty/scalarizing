@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6f6e7ee8399e461d990ec7dc392d1276/artifacts
+end_time: 1670161742276
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6f6e7ee8399e461d990ec7dc392d1276
+run_name: mercurial-moose-860
+run_uuid: 6f6e7ee8399e461d990ec7dc392d1276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150577796
+status: 3
+tags: []
+user_id: unknown

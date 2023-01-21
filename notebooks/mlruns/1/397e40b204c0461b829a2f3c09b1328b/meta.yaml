@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/397e40b204c0461b829a2f3c09b1328b/artifacts
+end_time: 1669948870817
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 397e40b204c0461b829a2f3c09b1328b
+run_name: redolent-frog-997
+run_uuid: 397e40b204c0461b829a2f3c09b1328b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241075948
+status: 3
+tags: []
+user_id: unknown

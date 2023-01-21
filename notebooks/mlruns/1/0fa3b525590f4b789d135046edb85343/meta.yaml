@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0fa3b525590f4b789d135046edb85343/artifacts
+end_time: 1669954461045
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0fa3b525590f4b789d135046edb85343
+run_name: burly-asp-789
+run_uuid: 0fa3b525590f4b789d135046edb85343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240222779
+status: 3
+tags: []
+user_id: unknown

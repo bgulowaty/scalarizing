@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aee0ae8b8ae14335a2494b23efbeae49/artifacts
+end_time: 1669952532080
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aee0ae8b8ae14335a2494b23efbeae49
+run_name: omniscient-hog-350
+run_uuid: aee0ae8b8ae14335a2494b23efbeae49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240454939
+status: 3
+tags: []
+user_id: unknown

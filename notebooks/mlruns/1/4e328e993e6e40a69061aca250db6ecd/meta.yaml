@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e328e993e6e40a69061aca250db6ecd/artifacts
+end_time: 1669951605295
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e328e993e6e40a69061aca250db6ecd
+run_name: abundant-kite-524
+run_uuid: 4e328e993e6e40a69061aca250db6ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240577160
+status: 3
+tags: []
+user_id: unknown

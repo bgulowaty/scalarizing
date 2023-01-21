@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8afa0a6184ca4798846326d88593d5bb/artifacts
+end_time: 1669947549977
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8afa0a6184ca4798846326d88593d5bb
+run_name: stately-bee-984
+run_uuid: 8afa0a6184ca4798846326d88593d5bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241361826
+status: 3
+tags: []
+user_id: unknown

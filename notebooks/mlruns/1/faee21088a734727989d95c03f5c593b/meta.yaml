@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/faee21088a734727989d95c03f5c593b/artifacts
+end_time: 1669948520768
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: faee21088a734727989d95c03f5c593b
+run_name: smiling-loon-766
+run_uuid: faee21088a734727989d95c03f5c593b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241178965
+status: 3
+tags: []
+user_id: unknown

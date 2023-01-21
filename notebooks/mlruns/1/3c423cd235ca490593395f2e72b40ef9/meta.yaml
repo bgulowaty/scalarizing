@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c423cd235ca490593395f2e72b40ef9/artifacts
+end_time: 1669944528686
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c423cd235ca490593395f2e72b40ef9
+run_name: classy-bee-396
+run_uuid: 3c423cd235ca490593395f2e72b40ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242340732
+status: 3
+tags: []
+user_id: unknown

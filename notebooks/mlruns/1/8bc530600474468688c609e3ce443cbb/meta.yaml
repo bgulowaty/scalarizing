@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8bc530600474468688c609e3ce443cbb/artifacts
+end_time: 1669946704736
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8bc530600474468688c609e3ce443cbb
+run_name: redolent-mouse-711
+run_uuid: 8bc530600474468688c609e3ce443cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241530616
+status: 3
+tags: []
+user_id: unknown

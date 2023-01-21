@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4306c8a778dc4223a2de1afa2185f36e/artifacts
+end_time: 1669943109558
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4306c8a778dc4223a2de1afa2185f36e
+run_name: suave-foal-785
+run_uuid: 4306c8a778dc4223a2de1afa2185f36e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242420141
+status: 3
+tags: []
+user_id: unknown

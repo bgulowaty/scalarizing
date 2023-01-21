@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dda90024e599415fb2ef3fd15c9d5368/artifacts
+end_time: 1670181424662
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dda90024e599415fb2ef3fd15c9d5368
+run_name: sincere-slug-564
+run_uuid: dda90024e599415fb2ef3fd15c9d5368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240307082
+status: 3
+tags: []
+user_id: unknown

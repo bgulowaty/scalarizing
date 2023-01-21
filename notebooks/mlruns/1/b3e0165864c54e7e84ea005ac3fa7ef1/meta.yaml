@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b3e0165864c54e7e84ea005ac3fa7ef1/artifacts
+end_time: 1669943743038
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3e0165864c54e7e84ea005ac3fa7ef1
+run_name: fortunate-goat-920
+run_uuid: b3e0165864c54e7e84ea005ac3fa7ef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242256364
+status: 3
+tags: []
+user_id: unknown

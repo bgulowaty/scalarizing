@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/12e1b5d3af184d09a9aa8b6f72305b96/artifacts
+end_time: 1669944834911
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12e1b5d3af184d09a9aa8b6f72305b96
+run_name: exultant-mole-54
+run_uuid: 12e1b5d3af184d09a9aa8b6f72305b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241967716
+status: 3
+tags: []
+user_id: unknown

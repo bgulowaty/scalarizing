@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/23b707ffedac4fc6b8536d8727fe0150/artifacts
+end_time: 1670162504374
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 23b707ffedac4fc6b8536d8727fe0150
+run_name: receptive-swan-5
+run_uuid: 23b707ffedac4fc6b8536d8727fe0150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150305502
+status: 3
+tags: []
+user_id: unknown

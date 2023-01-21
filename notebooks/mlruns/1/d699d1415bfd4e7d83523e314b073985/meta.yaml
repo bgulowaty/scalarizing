@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d699d1415bfd4e7d83523e314b073985/artifacts
+end_time: 1670180565019
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d699d1415bfd4e7d83523e314b073985
+run_name: fortunate-jay-862
+run_uuid: d699d1415bfd4e7d83523e314b073985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242410801
+status: 3
+tags: []
+user_id: unknown

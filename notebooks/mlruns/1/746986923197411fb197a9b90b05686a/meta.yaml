@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/746986923197411fb197a9b90b05686a/artifacts
+end_time: 1669942270148
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 746986923197411fb197a9b90b05686a
+run_name: clean-tern-505
+run_uuid: 746986923197411fb197a9b90b05686a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242870932
+status: 3
+tags: []
+user_id: unknown

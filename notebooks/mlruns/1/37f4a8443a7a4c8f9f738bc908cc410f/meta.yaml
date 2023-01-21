@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/37f4a8443a7a4c8f9f738bc908cc410f/artifacts
+end_time: 1670105040032
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 37f4a8443a7a4c8f9f738bc908cc410f
+run_name: stylish-snail-710
+run_uuid: 37f4a8443a7a4c8f9f738bc908cc410f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239957001
+status: 3
+tags: []
+user_id: unknown

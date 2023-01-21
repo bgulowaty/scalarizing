@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fa5734fdea464723ab6372991a9fe021/artifacts
+end_time: 1669955919676
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa5734fdea464723ab6372991a9fe021
+run_name: shivering-koi-882
+run_uuid: fa5734fdea464723ab6372991a9fe021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240100689
+status: 3
+tags: []
+user_id: unknown

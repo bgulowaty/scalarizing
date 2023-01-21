@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e5336f30e4bf4794bab49494411faacc/artifacts
+end_time: 1670103510373
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5336f30e4bf4794bab49494411faacc
+run_name: vaunted-hare-94
+run_uuid: e5336f30e4bf4794bab49494411faacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240373475
+status: 3
+tags: []
+user_id: unknown

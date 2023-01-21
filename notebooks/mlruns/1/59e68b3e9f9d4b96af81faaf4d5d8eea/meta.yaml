@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/59e68b3e9f9d4b96af81faaf4d5d8eea/artifacts
+end_time: 1670105035643
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59e68b3e9f9d4b96af81faaf4d5d8eea
+run_name: glamorous-crane-812
+run_uuid: 59e68b3e9f9d4b96af81faaf4d5d8eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239961309
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/98ec49e183824160a88850f27c2a3ff2/artifacts
+end_time: 1670105337676
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98ec49e183824160a88850f27c2a3ff2
+run_name: honorable-kite-221
+run_uuid: 98ec49e183824160a88850f27c2a3ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239946876
+status: 3
+tags: []
+user_id: unknown

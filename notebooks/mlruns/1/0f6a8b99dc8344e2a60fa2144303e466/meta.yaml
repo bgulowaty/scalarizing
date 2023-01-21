@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0f6a8b99dc8344e2a60fa2144303e466/artifacts
+end_time: 1669948497198
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f6a8b99dc8344e2a60fa2144303e466
+run_name: upset-stoat-425
+run_uuid: 0f6a8b99dc8344e2a60fa2144303e466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241178280
+status: 3
+tags: []
+user_id: unknown

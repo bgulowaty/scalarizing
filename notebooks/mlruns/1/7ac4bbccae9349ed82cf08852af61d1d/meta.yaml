@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7ac4bbccae9349ed82cf08852af61d1d/artifacts
+end_time: 1669943147292
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ac4bbccae9349ed82cf08852af61d1d
+run_name: smiling-carp-346
+run_uuid: 7ac4bbccae9349ed82cf08852af61d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242407423
+status: 3
+tags: []
+user_id: unknown

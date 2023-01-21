@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/09ce119d4ecb4df8a235bbebae1c66ce/artifacts
+end_time: 1670162513246
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 09ce119d4ecb4df8a235bbebae1c66ce
+run_name: bold-squid-736
+run_uuid: 09ce119d4ecb4df8a235bbebae1c66ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150278634
+status: 3
+tags: []
+user_id: unknown

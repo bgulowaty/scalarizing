@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aeddbfbf5167426da27bcea9e16c6cb7/artifacts
+end_time: 1670106278410
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aeddbfbf5167426da27bcea9e16c6cb7
+run_name: dapper-crow-741
+run_uuid: aeddbfbf5167426da27bcea9e16c6cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239902534
+status: 3
+tags: []
+user_id: unknown

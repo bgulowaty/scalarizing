@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/51cc1a1b04514c90ab6718a09eade45c/artifacts
+end_time: 1670162730015
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 51cc1a1b04514c90ab6718a09eade45c
+run_name: abrasive-fawn-554
+run_uuid: 51cc1a1b04514c90ab6718a09eade45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150205946
+status: 3
+tags: []
+user_id: unknown

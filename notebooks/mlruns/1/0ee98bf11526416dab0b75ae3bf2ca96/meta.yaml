@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0ee98bf11526416dab0b75ae3bf2ca96/artifacts
+end_time: 1669951319712
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ee98bf11526416dab0b75ae3bf2ca96
+run_name: luxuriant-donkey-487
+run_uuid: 0ee98bf11526416dab0b75ae3bf2ca96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240609458
+status: 3
+tags: []
+user_id: unknown

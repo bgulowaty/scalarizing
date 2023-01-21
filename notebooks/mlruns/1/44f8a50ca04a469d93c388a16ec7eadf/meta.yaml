@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/44f8a50ca04a469d93c388a16ec7eadf/artifacts
+end_time: 1669953236598
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44f8a50ca04a469d93c388a16ec7eadf
+run_name: handsome-fowl-897
+run_uuid: 44f8a50ca04a469d93c388a16ec7eadf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240352992
+status: 3
+tags: []
+user_id: unknown

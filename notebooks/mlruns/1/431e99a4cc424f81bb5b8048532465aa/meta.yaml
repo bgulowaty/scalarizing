@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/431e99a4cc424f81bb5b8048532465aa/artifacts
+end_time: 1669948233012
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 431e99a4cc424f81bb5b8048532465aa
+run_name: bemused-mink-258
+run_uuid: 431e99a4cc424f81bb5b8048532465aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241213094
+status: 3
+tags: []
+user_id: unknown

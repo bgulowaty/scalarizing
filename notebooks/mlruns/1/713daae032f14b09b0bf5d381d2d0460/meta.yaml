@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/713daae032f14b09b0bf5d381d2d0460/artifacts
+end_time: 1669948197339
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 713daae032f14b09b0bf5d381d2d0460
+run_name: melodic-snipe-427
+run_uuid: 713daae032f14b09b0bf5d381d2d0460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241243620
+status: 3
+tags: []
+user_id: unknown

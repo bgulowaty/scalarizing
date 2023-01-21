@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c7925162338f456baba1c43eb903888f/artifacts
+end_time: 1670105340536
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7925162338f456baba1c43eb903888f
+run_name: receptive-shad-632
+run_uuid: c7925162338f456baba1c43eb903888f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239940146
+status: 3
+tags: []
+user_id: unknown

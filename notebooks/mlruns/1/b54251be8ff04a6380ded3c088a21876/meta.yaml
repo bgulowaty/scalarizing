@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b54251be8ff04a6380ded3c088a21876/artifacts
+end_time: 1670104443277
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b54251be8ff04a6380ded3c088a21876
+run_name: beautiful-fowl-991
+run_uuid: b54251be8ff04a6380ded3c088a21876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239985788
+status: 3
+tags: []
+user_id: unknown

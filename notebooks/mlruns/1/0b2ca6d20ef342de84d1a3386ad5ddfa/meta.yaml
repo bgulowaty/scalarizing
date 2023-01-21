@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0b2ca6d20ef342de84d1a3386ad5ddfa/artifacts
+end_time: 1669944538871
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b2ca6d20ef342de84d1a3386ad5ddfa
+run_name: silent-ray-539
+run_uuid: 0b2ca6d20ef342de84d1a3386ad5ddfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242038272
+status: 3
+tags: []
+user_id: unknown

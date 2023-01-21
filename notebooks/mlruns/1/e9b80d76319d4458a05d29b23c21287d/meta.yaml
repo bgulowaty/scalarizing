@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e9b80d76319d4458a05d29b23c21287d/artifacts
+end_time: 1669946131195
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9b80d76319d4458a05d29b23c21287d
+run_name: spiffy-yak-219
+run_uuid: e9b80d76319d4458a05d29b23c21287d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241691691
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/78f1361049f14316988245a80f14aa3b/artifacts
+end_time: 1669942513772
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78f1361049f14316988245a80f14aa3b
+run_name: rebellious-panda-832
+run_uuid: 78f1361049f14316988245a80f14aa3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242775095
+status: 3
+tags: []
+user_id: unknown

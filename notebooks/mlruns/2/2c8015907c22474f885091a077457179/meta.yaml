@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/2c8015907c22474f885091a077457179/artifacts
+end_time: 1670162118395
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2c8015907c22474f885091a077457179
+run_name: thundering-swan-625
+run_uuid: 2c8015907c22474f885091a077457179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150448088
+status: 3
+tags: []
+user_id: unknown

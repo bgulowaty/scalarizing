@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b3827d13d8a14aa3a07d4b96bd7f4fd4/artifacts
+end_time: 1670102412142
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3827d13d8a14aa3a07d4b96bd7f4fd4
+run_name: stately-moose-375
+run_uuid: b3827d13d8a14aa3a07d4b96bd7f4fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242594533
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/231a3ed42d5a4d17aa057b90f4a9b73e/artifacts
+end_time: 1670180842382
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 231a3ed42d5a4d17aa057b90f4a9b73e
+run_name: dazzling-croc-221
+run_uuid: 231a3ed42d5a4d17aa057b90f4a9b73e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241724685
+status: 3
+tags: []
+user_id: unknown

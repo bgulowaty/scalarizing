@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/e9b9ec91ae2645d98382b33dd3e57ba2/artifacts
+end_time: 1670162077188
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e9b9ec91ae2645d98382b33dd3e57ba2
+run_name: carefree-hound-986
+run_uuid: e9b9ec91ae2645d98382b33dd3e57ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150517891
+status: 3
+tags: []
+user_id: unknown

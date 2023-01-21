@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2adc8fc138994243af151a3caf572ec0/artifacts
+end_time: 1669946951298
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2adc8fc138994243af151a3caf572ec0
+run_name: placid-deer-403
+run_uuid: 2adc8fc138994243af151a3caf572ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241508081
+status: 3
+tags: []
+user_id: unknown

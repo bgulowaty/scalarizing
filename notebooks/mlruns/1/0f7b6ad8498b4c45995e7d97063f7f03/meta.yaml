@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0f7b6ad8498b4c45995e7d97063f7f03/artifacts
+end_time: 1670181183713
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f7b6ad8498b4c45995e7d97063f7f03
+run_name: nimble-skunk-966
+run_uuid: 0f7b6ad8498b4c45995e7d97063f7f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240460268
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d0260e3c28854055afad3f3b5794d19c/artifacts
+end_time: 1670104127296
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0260e3c28854055afad3f3b5794d19c
+run_name: luxuriant-lamb-354
+run_uuid: d0260e3c28854055afad3f3b5794d19c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240009367
+status: 3
+tags: []
+user_id: unknown

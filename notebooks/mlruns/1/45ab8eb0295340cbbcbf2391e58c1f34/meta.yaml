@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45ab8eb0295340cbbcbf2391e58c1f34/artifacts
+end_time: 1670105034304
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45ab8eb0295340cbbcbf2391e58c1f34
+run_name: unequaled-frog-205
+run_uuid: 45ab8eb0295340cbbcbf2391e58c1f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239963569
+status: 3
+tags: []
+user_id: unknown

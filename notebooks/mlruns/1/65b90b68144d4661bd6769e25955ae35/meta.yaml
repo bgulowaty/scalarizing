@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/65b90b68144d4661bd6769e25955ae35/artifacts
+end_time: 1670181728098
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65b90b68144d4661bd6769e25955ae35
+run_name: industrious-yak-522
+run_uuid: 65b90b68144d4661bd6769e25955ae35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239973075
+status: 3
+tags: []
+user_id: unknown

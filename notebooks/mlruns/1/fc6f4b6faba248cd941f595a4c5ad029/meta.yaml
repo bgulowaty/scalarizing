@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc6f4b6faba248cd941f595a4c5ad029/artifacts
+end_time: 1669943857847
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc6f4b6faba248cd941f595a4c5ad029
+run_name: serious-hawk-318
+run_uuid: fc6f4b6faba248cd941f595a4c5ad029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242246213
+status: 3
+tags: []
+user_id: unknown

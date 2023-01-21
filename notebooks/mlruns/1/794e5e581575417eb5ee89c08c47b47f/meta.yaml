@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/794e5e581575417eb5ee89c08c47b47f/artifacts
+end_time: 1670105971514
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 794e5e581575417eb5ee89c08c47b47f
+run_name: overjoyed-stork-44
+run_uuid: 794e5e581575417eb5ee89c08c47b47f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239917420
+status: 3
+tags: []
+user_id: unknown

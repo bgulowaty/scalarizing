@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/04ba4886381d49a6858311863f9a55cc/artifacts
+end_time: 1669954119426
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04ba4886381d49a6858311863f9a55cc
+run_name: sincere-gnu-196
+run_uuid: 04ba4886381d49a6858311863f9a55cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240259195
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b3ed735a76fc43d8a6bc3cb91550c381/artifacts
+end_time: 1669942400148
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3ed735a76fc43d8a6bc3cb91550c381
+run_name: marvelous-sow-964
+run_uuid: b3ed735a76fc43d8a6bc3cb91550c381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242804381
+status: 3
+tags: []
+user_id: unknown

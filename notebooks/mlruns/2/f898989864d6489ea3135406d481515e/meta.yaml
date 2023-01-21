@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/f898989864d6489ea3135406d481515e/artifacts
+end_time: 1670162517927
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f898989864d6489ea3135406d481515e
+run_name: unruly-skink-88
+run_uuid: f898989864d6489ea3135406d481515e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150273861
+status: 3
+tags: []
+user_id: unknown

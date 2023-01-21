@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fee8ce00ecc44da8adfcc0a898438655/artifacts
+end_time: 1669955024670
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fee8ce00ecc44da8adfcc0a898438655
+run_name: colorful-wolf-417
+run_uuid: fee8ce00ecc44da8adfcc0a898438655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240175345
+status: 3
+tags: []
+user_id: unknown

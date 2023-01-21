@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a8b75f38426f475dbafef3c4f4427d86/artifacts
+end_time: 1670181151586
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8b75f38426f475dbafef3c4f4427d86
+run_name: melodic-penguin-72
+run_uuid: a8b75f38426f475dbafef3c4f4427d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240700380
+status: 3
+tags: []
+user_id: unknown

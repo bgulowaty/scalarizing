@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c5f06b5c523043c8a3a7794aee2db760/artifacts
+end_time: 1669944650810
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5f06b5c523043c8a3a7794aee2db760
+run_name: awesome-lynx-744
+run_uuid: c5f06b5c523043c8a3a7794aee2db760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242026502
+status: 3
+tags: []
+user_id: unknown

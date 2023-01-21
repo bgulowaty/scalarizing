@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/875bb2bf49e64bbea772a6133929a2f8/artifacts
+end_time: 1669945452304
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 875bb2bf49e64bbea772a6133929a2f8
+run_name: chill-penguin-224
+run_uuid: 875bb2bf49e64bbea772a6133929a2f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241788699
+status: 3
+tags: []
+user_id: unknown

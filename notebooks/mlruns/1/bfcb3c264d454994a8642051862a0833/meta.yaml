@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bfcb3c264d454994a8642051862a0833/artifacts
+end_time: 1669955616610
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfcb3c264d454994a8642051862a0833
+run_name: chill-perch-663
+run_uuid: bfcb3c264d454994a8642051862a0833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240121914
+status: 3
+tags: []
+user_id: unknown

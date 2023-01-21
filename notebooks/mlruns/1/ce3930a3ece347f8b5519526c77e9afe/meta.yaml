@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce3930a3ece347f8b5519526c77e9afe/artifacts
+end_time: 1669942374433
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce3930a3ece347f8b5519526c77e9afe
+run_name: marvelous-dove-606
+run_uuid: ce3930a3ece347f8b5519526c77e9afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242789322
+status: 3
+tags: []
+user_id: unknown

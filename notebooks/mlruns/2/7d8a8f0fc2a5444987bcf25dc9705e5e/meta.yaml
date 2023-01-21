@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7d8a8f0fc2a5444987bcf25dc9705e5e/artifacts
+end_time: 1670162076849
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7d8a8f0fc2a5444987bcf25dc9705e5e
+run_name: fortunate-deer-350
+run_uuid: 7d8a8f0fc2a5444987bcf25dc9705e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150453928
+status: 3
+tags: []
+user_id: unknown

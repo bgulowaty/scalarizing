@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/215d2f0f98ba4f76a4bd1f4398ecc2ac/artifacts
+end_time: 1669947546059
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 215d2f0f98ba4f76a4bd1f4398ecc2ac
+run_name: resilient-mare-813
+run_uuid: 215d2f0f98ba4f76a4bd1f4398ecc2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241364701
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cd53aa82cc354d8492a6473f1f78f3eb/artifacts
+end_time: 1669949187822
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd53aa82cc354d8492a6473f1f78f3eb
+run_name: wise-squirrel-531
+run_uuid: cd53aa82cc354d8492a6473f1f78f3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241024728
+status: 3
+tags: []
+user_id: unknown

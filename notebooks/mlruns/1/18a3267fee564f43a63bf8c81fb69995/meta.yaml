@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/18a3267fee564f43a63bf8c81fb69995/artifacts
+end_time: 1669943240373
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18a3267fee564f43a63bf8c81fb69995
+run_name: receptive-crab-740
+run_uuid: 18a3267fee564f43a63bf8c81fb69995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242389016
+status: 3
+tags: []
+user_id: unknown

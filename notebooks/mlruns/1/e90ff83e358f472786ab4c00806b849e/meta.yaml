@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e90ff83e358f472786ab4c00806b849e/artifacts
+end_time: 1669951614266
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e90ff83e358f472786ab4c00806b849e
+run_name: capable-turtle-73
+run_uuid: e90ff83e358f472786ab4c00806b849e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240574735
+status: 3
+tags: []
+user_id: unknown

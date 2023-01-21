@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/00364520ebf744dbaf8d42c5837930c3/artifacts
+end_time: 1670162724932
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 00364520ebf744dbaf8d42c5837930c3
+run_name: treasured-fox-836
+run_uuid: 00364520ebf744dbaf8d42c5837930c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150223629
+status: 3
+tags: []
+user_id: unknown

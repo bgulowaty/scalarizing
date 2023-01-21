@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ca9a95ef13514235a243ab8e4cc22eb5/artifacts
+end_time: 1669946305931
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca9a95ef13514235a243ab8e4cc22eb5
+run_name: gentle-toad-414
+run_uuid: ca9a95ef13514235a243ab8e4cc22eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241605823
+status: 3
+tags: []
+user_id: unknown

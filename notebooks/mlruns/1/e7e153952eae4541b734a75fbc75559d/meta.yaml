@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e7e153952eae4541b734a75fbc75559d/artifacts
+end_time: 1669945398922
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7e153952eae4541b734a75fbc75559d
+run_name: unleashed-sponge-43
+run_uuid: e7e153952eae4541b734a75fbc75559d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241808808
+status: 3
+tags: []
+user_id: unknown

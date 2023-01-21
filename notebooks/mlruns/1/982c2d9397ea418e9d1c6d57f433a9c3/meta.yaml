@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/982c2d9397ea418e9d1c6d57f433a9c3/artifacts
+end_time: 1669945868661
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 982c2d9397ea418e9d1c6d57f433a9c3
+run_name: dapper-bass-640
+run_uuid: 982c2d9397ea418e9d1c6d57f433a9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241769384
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/adcd2e38d1fd40868b22aacbcd60157f/artifacts
+end_time: 1669949468453
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adcd2e38d1fd40868b22aacbcd60157f
+run_name: worried-mouse-542
+run_uuid: adcd2e38d1fd40868b22aacbcd60157f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240925975
+status: 3
+tags: []
+user_id: unknown

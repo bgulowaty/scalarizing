@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/db55d46021214304b854097a82671904/artifacts
+end_time: 1669949145236
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db55d46021214304b854097a82671904
+run_name: calm-sloth-440
+run_uuid: db55d46021214304b854097a82671904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241054578
+status: 3
+tags: []
+user_id: unknown

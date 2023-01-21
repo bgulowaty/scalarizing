@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0ffe907f5fb04ad89409cc6a9136a559/artifacts
+end_time: 1669949902944
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ffe907f5fb04ad89409cc6a9136a559
+run_name: bustling-pig-106
+run_uuid: 0ffe907f5fb04ad89409cc6a9136a559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240873847
+status: 3
+tags: []
+user_id: unknown

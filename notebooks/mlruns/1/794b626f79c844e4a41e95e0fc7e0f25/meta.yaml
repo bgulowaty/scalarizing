@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/794b626f79c844e4a41e95e0fc7e0f25/artifacts
+end_time: 1670181152582
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 794b626f79c844e4a41e95e0fc7e0f25
+run_name: sedate-trout-137
+run_uuid: 794b626f79c844e4a41e95e0fc7e0f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240764873
+status: 3
+tags: []
+user_id: unknown

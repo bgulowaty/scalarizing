@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/784f3c437b5a4744a07566901be9bf86/artifacts
+end_time: 1669955976292
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 784f3c437b5a4744a07566901be9bf86
+run_name: invincible-sloth-84
+run_uuid: 784f3c437b5a4744a07566901be9bf86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240088471
+status: 3
+tags: []
+user_id: unknown

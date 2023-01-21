@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/21ab91d6ff874aee8c0a9e5d411c0cda/artifacts
+end_time: 1669948497592
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21ab91d6ff874aee8c0a9e5d411c0cda
+run_name: receptive-mink-600
+run_uuid: 21ab91d6ff874aee8c0a9e5d411c0cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241172257
+status: 3
+tags: []
+user_id: unknown

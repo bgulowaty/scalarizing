@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/124e5646eb184613b6c508c6d202c914/artifacts
+end_time: 1669954400754
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 124e5646eb184613b6c508c6d202c914
+run_name: adorable-cat-511
+run_uuid: 124e5646eb184613b6c508c6d202c914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240231432
+status: 3
+tags: []
+user_id: unknown

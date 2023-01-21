@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1d68f5c08fdd4e95bcd2132a78953177/artifacts
+end_time: 1669949399936
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d68f5c08fdd4e95bcd2132a78953177
+run_name: dapper-frog-121
+run_uuid: 1d68f5c08fdd4e95bcd2132a78953177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240998528
+status: 3
+tags: []
+user_id: unknown

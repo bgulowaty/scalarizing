@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cda5775aaeca4f718f9b0a9a7c5f671c/artifacts
+end_time: 1670105337650
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cda5775aaeca4f718f9b0a9a7c5f671c
+run_name: intelligent-rook-407
+run_uuid: cda5775aaeca4f718f9b0a9a7c5f671c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239945370
+status: 3
+tags: []
+user_id: unknown

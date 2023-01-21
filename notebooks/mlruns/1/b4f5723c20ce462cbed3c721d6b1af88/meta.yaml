@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b4f5723c20ce462cbed3c721d6b1af88/artifacts
+end_time: 1669949729047
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4f5723c20ce462cbed3c721d6b1af88
+run_name: exultant-ram-444
+run_uuid: b4f5723c20ce462cbed3c721d6b1af88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240883425
+status: 3
+tags: []
+user_id: unknown

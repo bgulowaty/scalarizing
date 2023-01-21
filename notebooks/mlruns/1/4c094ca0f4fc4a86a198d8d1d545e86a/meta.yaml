@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4c094ca0f4fc4a86a198d8d1d545e86a/artifacts
+end_time: 1670102055603
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c094ca0f4fc4a86a198d8d1d545e86a
+run_name: receptive-elk-208
+run_uuid: 4c094ca0f4fc4a86a198d8d1d545e86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242680829
+status: 3
+tags: []
+user_id: unknown

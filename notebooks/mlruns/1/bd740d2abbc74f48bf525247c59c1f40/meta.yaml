@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bd740d2abbc74f48bf525247c59c1f40/artifacts
+end_time: 1669945764978
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd740d2abbc74f48bf525247c59c1f40
+run_name: sassy-perch-504
+run_uuid: bd740d2abbc74f48bf525247c59c1f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241741555
+status: 3
+tags: []
+user_id: unknown

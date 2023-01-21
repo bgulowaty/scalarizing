@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3c9b208b5c3242588c232bc4769d3c1a/artifacts
+end_time: 1669947945097
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c9b208b5c3242588c232bc4769d3c1a
+run_name: dapper-deer-518
+run_uuid: 3c9b208b5c3242588c232bc4769d3c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241275434
+status: 3
+tags: []
+user_id: unknown

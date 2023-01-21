@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/782537115c5644f98c7d072052e9b33a/artifacts
+end_time: 1670104437741
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 782537115c5644f98c7d072052e9b33a
+run_name: bedecked-finch-912
+run_uuid: 782537115c5644f98c7d072052e9b33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239985712
+status: 3
+tags: []
+user_id: unknown

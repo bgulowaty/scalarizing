@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fe5b6e702e144f69a9988a8b2de5681d/artifacts
+end_time: 1669944925447
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe5b6e702e144f69a9988a8b2de5681d
+run_name: skittish-mole-244
+run_uuid: fe5b6e702e144f69a9988a8b2de5681d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241945606
+status: 3
+tags: []
+user_id: unknown

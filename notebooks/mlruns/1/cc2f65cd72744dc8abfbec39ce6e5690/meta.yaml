@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cc2f65cd72744dc8abfbec39ce6e5690/artifacts
+end_time: 1669948315357
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc2f65cd72744dc8abfbec39ce6e5690
+run_name: marvelous-gnu-925
+run_uuid: cc2f65cd72744dc8abfbec39ce6e5690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241222863
+status: 3
+tags: []
+user_id: unknown

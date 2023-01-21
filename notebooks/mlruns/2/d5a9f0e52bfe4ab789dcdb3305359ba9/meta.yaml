@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d5a9f0e52bfe4ab789dcdb3305359ba9/artifacts
+end_time: 1670161974676
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d5a9f0e52bfe4ab789dcdb3305359ba9
+run_name: flawless-shrike-43
+run_uuid: d5a9f0e52bfe4ab789dcdb3305359ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150471591
+status: 3
+tags: []
+user_id: unknown

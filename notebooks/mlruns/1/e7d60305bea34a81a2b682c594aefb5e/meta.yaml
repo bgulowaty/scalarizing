@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e7d60305bea34a81a2b682c594aefb5e/artifacts
+end_time: 1669944063703
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7d60305bea34a81a2b682c594aefb5e
+run_name: classy-gnat-953
+run_uuid: e7d60305bea34a81a2b682c594aefb5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242165933
+status: 3
+tags: []
+user_id: unknown

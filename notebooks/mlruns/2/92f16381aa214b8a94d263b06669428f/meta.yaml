@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/92f16381aa214b8a94d263b06669428f/artifacts
+end_time: 1670162293186
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 92f16381aa214b8a94d263b06669428f
+run_name: stylish-horse-342
+run_uuid: 92f16381aa214b8a94d263b06669428f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150372318
+status: 3
+tags: []
+user_id: unknown

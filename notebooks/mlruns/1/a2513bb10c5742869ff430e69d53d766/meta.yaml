@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a2513bb10c5742869ff430e69d53d766/artifacts
+end_time: 1669949785338
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2513bb10c5742869ff430e69d53d766
+run_name: nervous-stork-208
+run_uuid: a2513bb10c5742869ff430e69d53d766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240870788
+status: 3
+tags: []
+user_id: unknown

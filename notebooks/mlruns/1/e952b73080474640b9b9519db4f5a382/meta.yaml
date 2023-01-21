@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e952b73080474640b9b9519db4f5a382/artifacts
+end_time: 1669946638841
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e952b73080474640b9b9519db4f5a382
+run_name: bedecked-sow-481
+run_uuid: e952b73080474640b9b9519db4f5a382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241553004
+status: 3
+tags: []
+user_id: unknown

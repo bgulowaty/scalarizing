@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/97075cd164f545e89c8e56d75bd67473/artifacts
+end_time: 1670106578485
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97075cd164f545e89c8e56d75bd67473
+run_name: worried-calf-466
+run_uuid: 97075cd164f545e89c8e56d75bd67473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239890736
+status: 3
+tags: []
+user_id: unknown

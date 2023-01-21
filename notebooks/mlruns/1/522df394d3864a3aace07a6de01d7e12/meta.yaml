@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/522df394d3864a3aace07a6de01d7e12/artifacts
+end_time: 1669945192338
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 522df394d3864a3aace07a6de01d7e12
+run_name: delightful-gull-356
+run_uuid: 522df394d3864a3aace07a6de01d7e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241852910
+status: 3
+tags: []
+user_id: unknown

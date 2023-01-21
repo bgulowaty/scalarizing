@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/806a9d32685d450ba28aa1c90c50186d/artifacts
+end_time: 1669943649352
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 806a9d32685d450ba28aa1c90c50186d
+run_name: hilarious-smelt-337
+run_uuid: 806a9d32685d450ba28aa1c90c50186d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242282280
+status: 3
+tags: []
+user_id: unknown

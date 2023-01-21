@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3322d2b3ca534201a3df85e284183545/artifacts
+end_time: 1669946633903
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3322d2b3ca534201a3df85e284183545
+run_name: capricious-skunk-223
+run_uuid: 3322d2b3ca534201a3df85e284183545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241562064
+status: 3
+tags: []
+user_id: unknown

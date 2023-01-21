@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dde9a7a508dc4e22b7fa0f2cc41356b4/artifacts
+end_time: 1670105961510
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dde9a7a508dc4e22b7fa0f2cc41356b4
+run_name: enchanting-tern-637
+run_uuid: dde9a7a508dc4e22b7fa0f2cc41356b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239913673
+status: 3
+tags: []
+user_id: unknown

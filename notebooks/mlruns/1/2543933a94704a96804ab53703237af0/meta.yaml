@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2543933a94704a96804ab53703237af0/artifacts
+end_time: 1669952578486
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2543933a94704a96804ab53703237af0
+run_name: ambitious-duck-584
+run_uuid: 2543933a94704a96804ab53703237af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240419484
+status: 3
+tags: []
+user_id: unknown

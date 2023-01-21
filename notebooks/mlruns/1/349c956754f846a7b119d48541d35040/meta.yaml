@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/349c956754f846a7b119d48541d35040/artifacts
+end_time: 1669947852533
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 349c956754f846a7b119d48541d35040
+run_name: skittish-sponge-676
+run_uuid: 349c956754f846a7b119d48541d35040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241303125
+status: 3
+tags: []
+user_id: unknown

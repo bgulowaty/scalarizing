@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8a5b9d4bd4e640ac862f0c5d4be7a28c/artifacts
+end_time: 1669949759819
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a5b9d4bd4e640ac862f0c5d4be7a28c
+run_name: nosy-mink-858
+run_uuid: 8a5b9d4bd4e640ac862f0c5d4be7a28c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240906782
+status: 3
+tags: []
+user_id: unknown

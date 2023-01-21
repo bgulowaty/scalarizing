@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bc1f62fd24814a87bb32571ec3475de7/artifacts
+end_time: 1669950097177
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc1f62fd24814a87bb32571ec3475de7
+run_name: hilarious-colt-934
+run_uuid: bc1f62fd24814a87bb32571ec3475de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240824820
+status: 3
+tags: []
+user_id: unknown

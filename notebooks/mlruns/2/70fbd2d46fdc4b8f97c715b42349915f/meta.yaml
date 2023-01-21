@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/70fbd2d46fdc4b8f97c715b42349915f/artifacts
+end_time: 1670162393495
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 70fbd2d46fdc4b8f97c715b42349915f
+run_name: shivering-goat-925
+run_uuid: 70fbd2d46fdc4b8f97c715b42349915f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150346230
+status: 3
+tags: []
+user_id: unknown

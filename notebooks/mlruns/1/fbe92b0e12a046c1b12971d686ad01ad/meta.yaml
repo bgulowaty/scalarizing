@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fbe92b0e12a046c1b12971d686ad01ad/artifacts
+end_time: 1669952865212
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fbe92b0e12a046c1b12971d686ad01ad
+run_name: incongruous-lark-528
+run_uuid: fbe92b0e12a046c1b12971d686ad01ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240395758
+status: 3
+tags: []
+user_id: unknown

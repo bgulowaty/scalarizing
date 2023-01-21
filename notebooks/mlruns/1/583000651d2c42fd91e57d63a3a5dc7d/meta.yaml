@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/583000651d2c42fd91e57d63a3a5dc7d/artifacts
+end_time: 1670102075273
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 583000651d2c42fd91e57d63a3a5dc7d
+run_name: gifted-sloth-660
+run_uuid: 583000651d2c42fd91e57d63a3a5dc7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242674306
+status: 3
+tags: []
+user_id: unknown

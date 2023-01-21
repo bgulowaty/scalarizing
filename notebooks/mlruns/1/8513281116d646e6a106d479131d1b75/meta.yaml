@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8513281116d646e6a106d479131d1b75/artifacts
+end_time: 1669951967021
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8513281116d646e6a106d479131d1b75
+run_name: resilient-chimp-945
+run_uuid: 8513281116d646e6a106d479131d1b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240513544
+status: 3
+tags: []
+user_id: unknown

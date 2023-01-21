@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/51d3da226e1b4cfeaa01bf43fdb55144/artifacts
+end_time: 1669942236956
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51d3da226e1b4cfeaa01bf43fdb55144
+run_name: masked-crow-111
+run_uuid: 51d3da226e1b4cfeaa01bf43fdb55144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242844287
+status: 3
+tags: []
+user_id: unknown

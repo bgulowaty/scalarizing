@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6e547f226a6b4cffb9b6dc3b63c6143a/artifacts
+end_time: 1669945085116
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e547f226a6b4cffb9b6dc3b63c6143a
+run_name: useful-asp-537
+run_uuid: 6e547f226a6b4cffb9b6dc3b63c6143a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241895944
+status: 3
+tags: []
+user_id: unknown

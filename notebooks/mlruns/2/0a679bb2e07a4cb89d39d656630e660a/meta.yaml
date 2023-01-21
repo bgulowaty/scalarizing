@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/0a679bb2e07a4cb89d39d656630e660a/artifacts
+end_time: 1670162723269
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0a679bb2e07a4cb89d39d656630e660a
+run_name: blushing-foal-195
+run_uuid: 0a679bb2e07a4cb89d39d656630e660a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150232687
+status: 3
+tags: []
+user_id: unknown

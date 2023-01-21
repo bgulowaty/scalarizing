@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a631a28027a841b882fbce24b81476ed/artifacts
+end_time: 1669955923464
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a631a28027a841b882fbce24b81476ed
+run_name: salty-worm-450
+run_uuid: a631a28027a841b882fbce24b81476ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240101973
+status: 3
+tags: []
+user_id: unknown

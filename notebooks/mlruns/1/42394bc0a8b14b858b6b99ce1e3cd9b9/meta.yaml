@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/42394bc0a8b14b858b6b99ce1e3cd9b9/artifacts
+end_time: 1669951629577
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42394bc0a8b14b858b6b99ce1e3cd9b9
+run_name: bemused-wasp-285
+run_uuid: 42394bc0a8b14b858b6b99ce1e3cd9b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240583799
+status: 3
+tags: []
+user_id: unknown

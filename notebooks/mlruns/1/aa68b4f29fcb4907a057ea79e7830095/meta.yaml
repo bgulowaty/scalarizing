@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/aa68b4f29fcb4907a057ea79e7830095/artifacts
+end_time: 1670105026409
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa68b4f29fcb4907a057ea79e7830095
+run_name: likeable-doe-182
+run_uuid: aa68b4f29fcb4907a057ea79e7830095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239961740
+status: 3
+tags: []
+user_id: unknown

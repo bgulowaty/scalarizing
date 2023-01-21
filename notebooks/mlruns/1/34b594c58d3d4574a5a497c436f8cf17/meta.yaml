@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/34b594c58d3d4574a5a497c436f8cf17/artifacts
+end_time: 1670106262755
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34b594c58d3d4574a5a497c436f8cf17
+run_name: rare-mole-787
+run_uuid: 34b594c58d3d4574a5a497c436f8cf17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239904927
+status: 3
+tags: []
+user_id: unknown

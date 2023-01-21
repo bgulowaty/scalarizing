@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5eba6d56da47473389974a8ad5b72418/artifacts
+end_time: 1669950038928
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5eba6d56da47473389974a8ad5b72418
+run_name: masked-fawn-801
+run_uuid: 5eba6d56da47473389974a8ad5b72418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240857055
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8834d330b84948b1a68b23af00c53f1a/artifacts
+end_time: 1670102696832
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8834d330b84948b1a68b23af00c53f1a
+run_name: blushing-boar-817
+run_uuid: 8834d330b84948b1a68b23af00c53f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242100840
+status: 3
+tags: []
+user_id: unknown

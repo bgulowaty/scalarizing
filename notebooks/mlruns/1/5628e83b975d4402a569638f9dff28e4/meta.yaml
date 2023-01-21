@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5628e83b975d4402a569638f9dff28e4/artifacts
+end_time: 1669953781992
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5628e83b975d4402a569638f9dff28e4
+run_name: ambitious-cat-240
+run_uuid: 5628e83b975d4402a569638f9dff28e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240306421
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8d21b7d85623477fa994fff2dcbb4ac0/artifacts
+end_time: 1669950665178
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d21b7d85623477fa994fff2dcbb4ac0
+run_name: gifted-toad-378
+run_uuid: 8d21b7d85623477fa994fff2dcbb4ac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240730069
+status: 3
+tags: []
+user_id: unknown

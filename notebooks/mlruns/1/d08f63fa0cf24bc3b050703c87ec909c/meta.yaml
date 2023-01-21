@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d08f63fa0cf24bc3b050703c87ec909c/artifacts
+end_time: 1669948845453
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d08f63fa0cf24bc3b050703c87ec909c
+run_name: judicious-donkey-804
+run_uuid: d08f63fa0cf24bc3b050703c87ec909c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241089821
+status: 3
+tags: []
+user_id: unknown

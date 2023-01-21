@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e7ca8a709d1e479880986f628cfc2004/artifacts
+end_time: 1669943294090
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7ca8a709d1e479880986f628cfc2004
+run_name: hilarious-sow-913
+run_uuid: e7ca8a709d1e479880986f628cfc2004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242367568
+status: 3
+tags: []
+user_id: unknown

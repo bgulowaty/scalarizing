@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce976c4a74aa4d179f3963c9ae64f451/artifacts
+end_time: 1670105960574
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce976c4a74aa4d179f3963c9ae64f451
+run_name: fortunate-vole-248
+run_uuid: ce976c4a74aa4d179f3963c9ae64f451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239912495
+status: 3
+tags: []
+user_id: unknown

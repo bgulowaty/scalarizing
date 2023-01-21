@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/31563e41cd064e0a935baf19c54716cc/artifacts
+end_time: 1669955300875
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 31563e41cd064e0a935baf19c54716cc
+run_name: gregarious-crane-280
+run_uuid: 31563e41cd064e0a935baf19c54716cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240156162
+status: 3
+tags: []
+user_id: unknown

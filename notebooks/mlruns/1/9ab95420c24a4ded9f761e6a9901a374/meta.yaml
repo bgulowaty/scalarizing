@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9ab95420c24a4ded9f761e6a9901a374/artifacts
+end_time: 1670104094686
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ab95420c24a4ded9f761e6a9901a374
+run_name: nimble-kite-83
+run_uuid: 9ab95420c24a4ded9f761e6a9901a374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240021036
+status: 3
+tags: []
+user_id: unknown

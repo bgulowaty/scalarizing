@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a49282c21f9a4da9b59547a07bc3cbf2/artifacts
+end_time: 1670180550996
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a49282c21f9a4da9b59547a07bc3cbf2
+run_name: zealous-grub-634
+run_uuid: a49282c21f9a4da9b59547a07bc3cbf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242593810
+status: 3
+tags: []
+user_id: unknown

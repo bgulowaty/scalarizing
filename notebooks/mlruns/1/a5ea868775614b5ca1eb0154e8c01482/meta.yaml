@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a5ea868775614b5ca1eb0154e8c01482/artifacts
+end_time: 1669953903497
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5ea868775614b5ca1eb0154e8c01482
+run_name: bemused-finch-441
+run_uuid: a5ea868775614b5ca1eb0154e8c01482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240282979
+status: 3
+tags: []
+user_id: unknown

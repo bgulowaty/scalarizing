@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e5a1c375469443188bd495ca12c67c20/artifacts
+end_time: 1669950994269
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5a1c375469443188bd495ca12c67c20
+run_name: funny-conch-161
+run_uuid: e5a1c375469443188bd495ca12c67c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240654420
+status: 3
+tags: []
+user_id: unknown

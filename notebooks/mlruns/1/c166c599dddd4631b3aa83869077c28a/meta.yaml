@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c166c599dddd4631b3aa83869077c28a/artifacts
+end_time: 1670105330824
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c166c599dddd4631b3aa83869077c28a
+run_name: luxuriant-shoat-553
+run_uuid: c166c599dddd4631b3aa83869077c28a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239943942
+status: 3
+tags: []
+user_id: unknown

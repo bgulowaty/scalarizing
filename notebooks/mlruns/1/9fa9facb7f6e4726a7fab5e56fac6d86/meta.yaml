@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9fa9facb7f6e4726a7fab5e56fac6d86/artifacts
+end_time: 1669948259506
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9fa9facb7f6e4726a7fab5e56fac6d86
+run_name: blushing-moose-14
+run_uuid: 9fa9facb7f6e4726a7fab5e56fac6d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241205024
+status: 3
+tags: []
+user_id: unknown

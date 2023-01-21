@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e1c267aa95c42d5acaafb66992faef0/artifacts
+end_time: 1669947295260
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e1c267aa95c42d5acaafb66992faef0
+run_name: righteous-jay-314
+run_uuid: 4e1c267aa95c42d5acaafb66992faef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241391570
+status: 3
+tags: []
+user_id: unknown

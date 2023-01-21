@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e1d08f19d02e4485a40e9f650fb27085/artifacts
+end_time: 1669944326142
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1d08f19d02e4485a40e9f650fb27085
+run_name: unequaled-quail-57
+run_uuid: e1d08f19d02e4485a40e9f650fb27085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242091154
+status: 3
+tags: []
+user_id: unknown

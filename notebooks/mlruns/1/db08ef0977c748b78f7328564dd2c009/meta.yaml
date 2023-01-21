@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/db08ef0977c748b78f7328564dd2c009/artifacts
+end_time: 1669943740561
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db08ef0977c748b78f7328564dd2c009
+run_name: capricious-calf-526
+run_uuid: db08ef0977c748b78f7328564dd2c009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242257459
+status: 3
+tags: []
+user_id: unknown

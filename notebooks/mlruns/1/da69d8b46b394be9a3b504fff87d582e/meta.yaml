@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da69d8b46b394be9a3b504fff87d582e/artifacts
+end_time: 1669948782246
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da69d8b46b394be9a3b504fff87d582e
+run_name: stylish-quail-392
+run_uuid: da69d8b46b394be9a3b504fff87d582e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241122661
+status: 3
+tags: []
+user_id: unknown

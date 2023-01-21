@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cbef5c0cb2164f818ba02cc25010b7d8/artifacts
+end_time: 1669953163687
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbef5c0cb2164f818ba02cc25010b7d8
+run_name: sedate-bird-806
+run_uuid: cbef5c0cb2164f818ba02cc25010b7d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240362647
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/edb3a9081a804196b904ad51c9bfb796/artifacts
+end_time: 1669952296733
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edb3a9081a804196b904ad51c9bfb796
+run_name: mysterious-gnat-83
+run_uuid: edb3a9081a804196b904ad51c9bfb796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240466098
+status: 3
+tags: []
+user_id: unknown

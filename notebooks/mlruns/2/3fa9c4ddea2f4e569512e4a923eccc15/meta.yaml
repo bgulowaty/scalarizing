@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3fa9c4ddea2f4e569512e4a923eccc15/artifacts
+end_time: 1670162178143
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3fa9c4ddea2f4e569512e4a923eccc15
+run_name: selective-turtle-925
+run_uuid: 3fa9c4ddea2f4e569512e4a923eccc15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150418745
+status: 3
+tags: []
+user_id: unknown

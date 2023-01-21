@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/acefb9044474421e92d055ea9383e267/artifacts
+end_time: 1670161852942
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: acefb9044474421e92d055ea9383e267
+run_name: bold-grouse-515
+run_uuid: acefb9044474421e92d055ea9383e267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150550249
+status: 3
+tags: []
+user_id: unknown

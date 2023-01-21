@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/def2f69ed7b5463483bea17998f0a82c/artifacts
+end_time: 1670162179240
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: def2f69ed7b5463483bea17998f0a82c
+run_name: sneaky-duck-480
+run_uuid: def2f69ed7b5463483bea17998f0a82c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150414042
+status: 3
+tags: []
+user_id: unknown

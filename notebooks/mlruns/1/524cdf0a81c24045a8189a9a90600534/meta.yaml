@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/524cdf0a81c24045a8189a9a90600534/artifacts
+end_time: 1669951672244
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 524cdf0a81c24045a8189a9a90600534
+run_name: efficient-hog-625
+run_uuid: 524cdf0a81c24045a8189a9a90600534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240552844
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c583d2933cfc40289d64c8d219e48cc1/artifacts
+end_time: 1669945768198
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c583d2933cfc40289d64c8d219e48cc1
+run_name: casual-perch-926
+run_uuid: c583d2933cfc40289d64c8d219e48cc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241786054
+status: 3
+tags: []
+user_id: unknown

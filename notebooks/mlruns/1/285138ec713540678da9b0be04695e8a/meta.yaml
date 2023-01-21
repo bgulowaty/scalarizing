@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/285138ec713540678da9b0be04695e8a/artifacts
+end_time: 1669955609847
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 285138ec713540678da9b0be04695e8a
+run_name: melodic-whale-942
+run_uuid: 285138ec713540678da9b0be04695e8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240122222
+status: 3
+tags: []
+user_id: unknown

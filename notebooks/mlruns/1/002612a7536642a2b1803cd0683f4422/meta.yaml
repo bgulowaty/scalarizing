@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/002612a7536642a2b1803cd0683f4422/artifacts
+end_time: 1669942713411
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 002612a7536642a2b1803cd0683f4422
+run_name: popular-sheep-454
+run_uuid: 002612a7536642a2b1803cd0683f4422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242527463
+status: 3
+tags: []
+user_id: unknown

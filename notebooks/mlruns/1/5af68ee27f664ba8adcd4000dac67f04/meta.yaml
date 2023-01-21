@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5af68ee27f664ba8adcd4000dac67f04/artifacts
+end_time: 1669953839411
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5af68ee27f664ba8adcd4000dac67f04
+run_name: adventurous-kit-101
+run_uuid: 5af68ee27f664ba8adcd4000dac67f04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240287420
+status: 3
+tags: []
+user_id: unknown

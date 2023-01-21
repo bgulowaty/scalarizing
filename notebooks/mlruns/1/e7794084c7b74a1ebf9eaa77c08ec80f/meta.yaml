@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e7794084c7b74a1ebf9eaa77c08ec80f/artifacts
+end_time: 1670181756264
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7794084c7b74a1ebf9eaa77c08ec80f
+run_name: skittish-dove-263
+run_uuid: e7794084c7b74a1ebf9eaa77c08ec80f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239924712
+status: 3
+tags: []
+user_id: unknown

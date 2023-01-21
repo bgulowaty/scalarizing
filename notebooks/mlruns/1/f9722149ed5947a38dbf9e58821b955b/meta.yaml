@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f9722149ed5947a38dbf9e58821b955b/artifacts
+end_time: 1670181117145
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9722149ed5947a38dbf9e58821b955b
+run_name: calm-turtle-228
+run_uuid: f9722149ed5947a38dbf9e58821b955b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241150008
+status: 3
+tags: []
+user_id: unknown

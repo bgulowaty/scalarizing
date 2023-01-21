@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/315660f816e64708bbab52c59df3ed84/artifacts
+end_time: 1669945408803
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 315660f816e64708bbab52c59df3ed84
+run_name: thoughtful-trout-921
+run_uuid: 315660f816e64708bbab52c59df3ed84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241834247
+status: 3
+tags: []
+user_id: unknown

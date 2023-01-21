@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dba0864d24774ce1993a271d257717ae/artifacts
+end_time: 1669955050175
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dba0864d24774ce1993a271d257717ae
+run_name: fortunate-auk-43
+run_uuid: dba0864d24774ce1993a271d257717ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240168464
+status: 3
+tags: []
+user_id: unknown

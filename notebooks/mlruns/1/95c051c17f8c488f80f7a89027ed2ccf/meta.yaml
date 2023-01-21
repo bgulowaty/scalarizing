@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/95c051c17f8c488f80f7a89027ed2ccf/artifacts
+end_time: 1670180542483
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95c051c17f8c488f80f7a89027ed2ccf
+run_name: luminous-lynx-821
+run_uuid: 95c051c17f8c488f80f7a89027ed2ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242579807
+status: 3
+tags: []
+user_id: unknown

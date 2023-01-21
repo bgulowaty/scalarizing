@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/619d76c9b20343f8b3ffa320ed95481f/artifacts
+end_time: 1669945726220
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 619d76c9b20343f8b3ffa320ed95481f
+run_name: brawny-seal-855
+run_uuid: 619d76c9b20343f8b3ffa320ed95481f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241894668
+status: 3
+tags: []
+user_id: unknown

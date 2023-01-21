@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dd1f62dd4d2f46a6ba2ef4e7da59e4e2/artifacts
+end_time: 1669946059394
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd1f62dd4d2f46a6ba2ef4e7da59e4e2
+run_name: indecisive-fly-922
+run_uuid: dd1f62dd4d2f46a6ba2ef4e7da59e4e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241665008
+status: 3
+tags: []
+user_id: unknown

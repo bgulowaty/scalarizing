@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/630fd06af615455b9a4665e8ebe17d36/artifacts
+end_time: 1669947259899
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 630fd06af615455b9a4665e8ebe17d36
+run_name: dashing-auk-842
+run_uuid: 630fd06af615455b9a4665e8ebe17d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241406823
+status: 3
+tags: []
+user_id: unknown

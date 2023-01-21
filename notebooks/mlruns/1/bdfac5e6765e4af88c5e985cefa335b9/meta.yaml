@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bdfac5e6765e4af88c5e985cefa335b9/artifacts
+end_time: 1669950736941
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bdfac5e6765e4af88c5e985cefa335b9
+run_name: salty-snake-724
+run_uuid: bdfac5e6765e4af88c5e985cefa335b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240686273
+status: 3
+tags: []
+user_id: unknown

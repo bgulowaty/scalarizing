@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b136f54015e6404eb8d207cd6b015630/artifacts
+end_time: 1669948469869
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b136f54015e6404eb8d207cd6b015630
+run_name: resilient-shark-249
+run_uuid: b136f54015e6404eb8d207cd6b015630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241161282
+status: 3
+tags: []
+user_id: unknown

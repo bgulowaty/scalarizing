@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b68ba8a9f7834479b2476af05aef6225/artifacts
+end_time: 1669954119984
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b68ba8a9f7834479b2476af05aef6225
+run_name: shivering-chimp-967
+run_uuid: b68ba8a9f7834479b2476af05aef6225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240261503
+status: 3
+tags: []
+user_id: unknown

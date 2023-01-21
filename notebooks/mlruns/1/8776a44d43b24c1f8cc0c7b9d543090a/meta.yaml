@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8776a44d43b24c1f8cc0c7b9d543090a/artifacts
+end_time: 1669952854961
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8776a44d43b24c1f8cc0c7b9d543090a
+run_name: enchanting-bug-430
+run_uuid: 8776a44d43b24c1f8cc0c7b9d543090a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240396377
+status: 3
+tags: []
+user_id: unknown

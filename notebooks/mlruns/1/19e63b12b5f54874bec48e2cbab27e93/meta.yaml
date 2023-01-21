@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/19e63b12b5f54874bec48e2cbab27e93/artifacts
+end_time: 1669946194941
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19e63b12b5f54874bec48e2cbab27e93
+run_name: sedate-wolf-679
+run_uuid: 19e63b12b5f54874bec48e2cbab27e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241662864
+status: 3
+tags: []
+user_id: unknown

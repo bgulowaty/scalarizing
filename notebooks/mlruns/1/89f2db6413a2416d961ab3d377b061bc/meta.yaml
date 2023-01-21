@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89f2db6413a2416d961ab3d377b061bc/artifacts
+end_time: 1669945455913
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89f2db6413a2416d961ab3d377b061bc
+run_name: worried-ray-593
+run_uuid: 89f2db6413a2416d961ab3d377b061bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241877895
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/72e76bc87cf041279b9c9e6c61fd6403/artifacts
+end_time: 1670102622580
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72e76bc87cf041279b9c9e6c61fd6403
+run_name: secretive-zebra-357
+run_uuid: 72e76bc87cf041279b9c9e6c61fd6403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242552529
+status: 3
+tags: []
+user_id: unknown

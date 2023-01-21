@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c500e6bf3b5349c1b066eae3003fd5a7/artifacts
+end_time: 1670162733561
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c500e6bf3b5349c1b066eae3003fd5a7
+run_name: melodic-squirrel-189
+run_uuid: c500e6bf3b5349c1b066eae3003fd5a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150226481
+status: 3
+tags: []
+user_id: unknown

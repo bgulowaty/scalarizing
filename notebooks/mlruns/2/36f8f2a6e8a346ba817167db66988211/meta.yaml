@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/36f8f2a6e8a346ba817167db66988211/artifacts
+end_time: 1670162617189
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 36f8f2a6e8a346ba817167db66988211
+run_name: grandiose-snake-768
+run_uuid: 36f8f2a6e8a346ba817167db66988211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150251171
+status: 3
+tags: []
+user_id: unknown

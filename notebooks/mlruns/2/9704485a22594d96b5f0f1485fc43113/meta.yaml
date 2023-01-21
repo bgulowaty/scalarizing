@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/9704485a22594d96b5f0f1485fc43113/artifacts
+end_time: 1670162192699
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9704485a22594d96b5f0f1485fc43113
+run_name: aged-jay-220
+run_uuid: 9704485a22594d96b5f0f1485fc43113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150393490
+status: 3
+tags: []
+user_id: unknown

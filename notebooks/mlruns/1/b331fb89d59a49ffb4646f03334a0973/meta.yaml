@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b331fb89d59a49ffb4646f03334a0973/artifacts
+end_time: 1669945682452
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b331fb89d59a49ffb4646f03334a0973
+run_name: worried-carp-550
+run_uuid: b331fb89d59a49ffb4646f03334a0973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241748419
+status: 3
+tags: []
+user_id: unknown

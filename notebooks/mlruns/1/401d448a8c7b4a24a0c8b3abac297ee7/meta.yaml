@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/401d448a8c7b4a24a0c8b3abac297ee7/artifacts
+end_time: 1669948384894
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 401d448a8c7b4a24a0c8b3abac297ee7
+run_name: salty-dove-500
+run_uuid: 401d448a8c7b4a24a0c8b3abac297ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241201718
+status: 3
+tags: []
+user_id: unknown

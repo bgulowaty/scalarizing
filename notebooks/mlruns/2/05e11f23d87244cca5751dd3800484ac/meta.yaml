@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/05e11f23d87244cca5751dd3800484ac/artifacts
+end_time: 1670162723915
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 05e11f23d87244cca5751dd3800484ac
+run_name: hilarious-hen-300
+run_uuid: 05e11f23d87244cca5751dd3800484ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150224304
+status: 3
+tags: []
+user_id: unknown

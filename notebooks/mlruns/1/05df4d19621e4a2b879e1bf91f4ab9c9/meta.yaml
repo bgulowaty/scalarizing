@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/05df4d19621e4a2b879e1bf91f4ab9c9/artifacts
+end_time: 1670181787316
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 05df4d19621e4a2b879e1bf91f4ab9c9
+run_name: suave-wasp-409
+run_uuid: 05df4d19621e4a2b879e1bf91f4ab9c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239889091
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/10ed2eb6150b4101a83d4a071346c98c/artifacts
+end_time: 1669943736467
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10ed2eb6150b4101a83d4a071346c98c
+run_name: peaceful-ox-758
+run_uuid: 10ed2eb6150b4101a83d4a071346c98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242290320
+status: 3
+tags: []
+user_id: unknown

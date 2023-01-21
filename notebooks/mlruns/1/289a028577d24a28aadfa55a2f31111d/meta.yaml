@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/289a028577d24a28aadfa55a2f31111d/artifacts
+end_time: 1670105342304
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 289a028577d24a28aadfa55a2f31111d
+run_name: hilarious-cod-142
+run_uuid: 289a028577d24a28aadfa55a2f31111d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239943331
+status: 3
+tags: []
+user_id: unknown

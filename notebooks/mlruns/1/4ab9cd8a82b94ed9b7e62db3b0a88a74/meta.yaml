@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4ab9cd8a82b94ed9b7e62db3b0a88a74/artifacts
+end_time: 1669945205315
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ab9cd8a82b94ed9b7e62db3b0a88a74
+run_name: caring-snake-239
+run_uuid: 4ab9cd8a82b94ed9b7e62db3b0a88a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241860023
+status: 3
+tags: []
+user_id: unknown

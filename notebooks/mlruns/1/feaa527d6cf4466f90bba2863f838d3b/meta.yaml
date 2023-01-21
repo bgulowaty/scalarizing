@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/feaa527d6cf4466f90bba2863f838d3b/artifacts
+end_time: 1669953134839
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: feaa527d6cf4466f90bba2863f838d3b
+run_name: treasured-bird-173
+run_uuid: feaa527d6cf4466f90bba2863f838d3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240379542
+status: 3
+tags: []
+user_id: unknown

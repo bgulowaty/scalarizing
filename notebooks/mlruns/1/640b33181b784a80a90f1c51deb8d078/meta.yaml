@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/640b33181b784a80a90f1c51deb8d078/artifacts
+end_time: 1670180843783
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 640b33181b784a80a90f1c51deb8d078
+run_name: bustling-grouse-266
+run_uuid: 640b33181b784a80a90f1c51deb8d078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241535272
+status: 3
+tags: []
+user_id: unknown

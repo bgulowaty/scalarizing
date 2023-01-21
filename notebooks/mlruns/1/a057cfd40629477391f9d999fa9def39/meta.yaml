@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a057cfd40629477391f9d999fa9def39/artifacts
+end_time: 1669942382841
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a057cfd40629477391f9d999fa9def39
+run_name: funny-fox-104
+run_uuid: a057cfd40629477391f9d999fa9def39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242789617
+status: 3
+tags: []
+user_id: unknown

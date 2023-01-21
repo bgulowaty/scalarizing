@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/215352be2c2d48a6a6797775b0d23315/artifacts
+end_time: 1669946630814
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 215352be2c2d48a6a6797775b0d23315
+run_name: bustling-quail-471
+run_uuid: 215352be2c2d48a6a6797775b0d23315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241556386
+status: 3
+tags: []
+user_id: unknown

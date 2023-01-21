@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c8afeae3a5274886a8c2a51be66ca8c8/artifacts
+end_time: 1669950118412
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8afeae3a5274886a8c2a51be66ca8c8
+run_name: entertaining-yak-419
+run_uuid: c8afeae3a5274886a8c2a51be66ca8c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240817067
+status: 3
+tags: []
+user_id: unknown

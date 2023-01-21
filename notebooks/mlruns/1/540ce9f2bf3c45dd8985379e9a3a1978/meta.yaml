@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/540ce9f2bf3c45dd8985379e9a3a1978/artifacts
+end_time: 1669947938229
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 540ce9f2bf3c45dd8985379e9a3a1978
+run_name: masked-ant-728
+run_uuid: 540ce9f2bf3c45dd8985379e9a3a1978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241285117
+status: 3
+tags: []
+user_id: unknown

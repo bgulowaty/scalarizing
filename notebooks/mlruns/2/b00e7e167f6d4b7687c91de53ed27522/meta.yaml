@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b00e7e167f6d4b7687c91de53ed27522/artifacts
+end_time: 1670162068831
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b00e7e167f6d4b7687c91de53ed27522
+run_name: adaptable-steed-855
+run_uuid: b00e7e167f6d4b7687c91de53ed27522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150449382
+status: 3
+tags: []
+user_id: unknown

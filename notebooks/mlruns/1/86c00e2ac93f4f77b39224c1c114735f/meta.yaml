@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/86c00e2ac93f4f77b39224c1c114735f/artifacts
+end_time: 1669948870795
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86c00e2ac93f4f77b39224c1c114735f
+run_name: legendary-calf-788
+run_uuid: 86c00e2ac93f4f77b39224c1c114735f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241080689
+status: 3
+tags: []
+user_id: unknown

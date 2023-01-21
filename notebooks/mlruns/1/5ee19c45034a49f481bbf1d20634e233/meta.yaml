@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5ee19c45034a49f481bbf1d20634e233/artifacts
+end_time: 1669949491232
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ee19c45034a49f481bbf1d20634e233
+run_name: kindly-mouse-125
+run_uuid: 5ee19c45034a49f481bbf1d20634e233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240914739
+status: 3
+tags: []
+user_id: unknown

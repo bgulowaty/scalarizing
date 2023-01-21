@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ee93cef5d570442b9b1c27525939906e/artifacts
+end_time: 1670181185018
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee93cef5d570442b9b1c27525939906e
+run_name: classy-crab-326
+run_uuid: ee93cef5d570442b9b1c27525939906e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240591867
+status: 3
+tags: []
+user_id: unknown

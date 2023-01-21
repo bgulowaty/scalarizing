@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a2fa6eef2c4b4d14b16d2d20211c4622/artifacts
+end_time: 1670162403152
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a2fa6eef2c4b4d14b16d2d20211c4622
+run_name: welcoming-colt-406
+run_uuid: a2fa6eef2c4b4d14b16d2d20211c4622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150335973
+status: 3
+tags: []
+user_id: unknown

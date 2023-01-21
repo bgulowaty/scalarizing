@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a013c31afdfd49faaa2c5e5d0d43bf89/artifacts
+end_time: 1669952906029
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a013c31afdfd49faaa2c5e5d0d43bf89
+run_name: colorful-panda-662
+run_uuid: a013c31afdfd49faaa2c5e5d0d43bf89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240388266
+status: 3
+tags: []
+user_id: unknown

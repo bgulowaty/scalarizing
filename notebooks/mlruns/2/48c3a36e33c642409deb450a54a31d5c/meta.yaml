@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/48c3a36e33c642409deb450a54a31d5c/artifacts
+end_time: 1670162079744
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 48c3a36e33c642409deb450a54a31d5c
+run_name: beautiful-auk-822
+run_uuid: 48c3a36e33c642409deb450a54a31d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150431378
+status: 3
+tags: []
+user_id: unknown

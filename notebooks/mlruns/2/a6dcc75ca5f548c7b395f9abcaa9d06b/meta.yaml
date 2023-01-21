@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a6dcc75ca5f548c7b395f9abcaa9d06b/artifacts
+end_time: 1670162831713
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a6dcc75ca5f548c7b395f9abcaa9d06b
+run_name: secretive-wren-60
+run_uuid: a6dcc75ca5f548c7b395f9abcaa9d06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150197462
+status: 3
+tags: []
+user_id: unknown

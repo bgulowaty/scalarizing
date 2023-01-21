@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/494be019b54f4810aca351fb0ad8c8a0/artifacts
+end_time: 1669948814050
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 494be019b54f4810aca351fb0ad8c8a0
+run_name: adaptable-worm-412
+run_uuid: 494be019b54f4810aca351fb0ad8c8a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241093170
+status: 3
+tags: []
+user_id: unknown

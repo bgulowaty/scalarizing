@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/066c980768bb49eeb075e7c4f58ec67c/artifacts
+end_time: 1669955301885
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 066c980768bb49eeb075e7c4f58ec67c
+run_name: omniscient-carp-531
+run_uuid: 066c980768bb49eeb075e7c4f58ec67c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240151706
+status: 3
+tags: []
+user_id: unknown

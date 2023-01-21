@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6695fd5431fe4f4fa14f58fd5931b974/artifacts
+end_time: 1669952579917
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6695fd5431fe4f4fa14f58fd5931b974
+run_name: likeable-dog-169
+run_uuid: 6695fd5431fe4f4fa14f58fd5931b974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240421639
+status: 3
+tags: []
+user_id: unknown

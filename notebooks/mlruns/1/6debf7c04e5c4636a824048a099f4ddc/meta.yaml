@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6debf7c04e5c4636a824048a099f4ddc/artifacts
+end_time: 1670106580283
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6debf7c04e5c4636a824048a099f4ddc
+run_name: awesome-ray-375
+run_uuid: 6debf7c04e5c4636a824048a099f4ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239893990
+status: 3
+tags: []
+user_id: unknown

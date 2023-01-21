@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/35fa3679e25c467fb5edd26173b33cbc/artifacts
+end_time: 1669949396031
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35fa3679e25c467fb5edd26173b33cbc
+run_name: kindly-hog-75
+run_uuid: 35fa3679e25c467fb5edd26173b33cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241019022
+status: 3
+tags: []
+user_id: unknown

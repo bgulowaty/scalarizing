@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/80462796d06f49a39772c6bbd83eca03/artifacts
+end_time: 1670104409609
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80462796d06f49a39772c6bbd83eca03
+run_name: blushing-dolphin-159
+run_uuid: 80462796d06f49a39772c6bbd83eca03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239993895
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e16193a2d91b4ad4b05ce1ce1b087545/artifacts
+end_time: 1670105713492
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e16193a2d91b4ad4b05ce1ce1b087545
+run_name: funny-grouse-33
+run_uuid: e16193a2d91b4ad4b05ce1ce1b087545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239923984
+status: 3
+tags: []
+user_id: unknown

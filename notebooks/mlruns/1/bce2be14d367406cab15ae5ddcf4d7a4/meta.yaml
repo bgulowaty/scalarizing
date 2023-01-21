@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bce2be14d367406cab15ae5ddcf4d7a4/artifacts
+end_time: 1669945500579
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bce2be14d367406cab15ae5ddcf4d7a4
+run_name: illustrious-mole-240
+run_uuid: bce2be14d367406cab15ae5ddcf4d7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241792437
+status: 3
+tags: []
+user_id: unknown

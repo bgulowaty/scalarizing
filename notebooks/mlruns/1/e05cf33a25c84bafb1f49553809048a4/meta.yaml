@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e05cf33a25c84bafb1f49553809048a4/artifacts
+end_time: 1670180873787
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e05cf33a25c84bafb1f49553809048a4
+run_name: smiling-rook-661
+run_uuid: e05cf33a25c84bafb1f49553809048a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241267418
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c3f2bc08bc504f33b96c6548a343b5b4/artifacts
+end_time: 1670162289063
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c3f2bc08bc504f33b96c6548a343b5b4
+run_name: debonair-kite-141
+run_uuid: c3f2bc08bc504f33b96c6548a343b5b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150379236
+status: 3
+tags: []
+user_id: unknown

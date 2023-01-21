@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/8ad287826cf94bf687dfd90c95aea396/artifacts
+end_time: 1670162072209
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8ad287826cf94bf687dfd90c95aea396
+run_name: skillful-shark-67
+run_uuid: 8ad287826cf94bf687dfd90c95aea396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150450810
+status: 3
+tags: []
+user_id: unknown

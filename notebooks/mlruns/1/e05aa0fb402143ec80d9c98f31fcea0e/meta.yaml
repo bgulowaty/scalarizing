@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e05aa0fb402143ec80d9c98f31fcea0e/artifacts
+end_time: 1669945694222
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e05aa0fb402143ec80d9c98f31fcea0e
+run_name: fun-shrew-894
+run_uuid: e05aa0fb402143ec80d9c98f31fcea0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241746562
+status: 3
+tags: []
+user_id: unknown

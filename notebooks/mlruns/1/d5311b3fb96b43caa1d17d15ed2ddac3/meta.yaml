@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d5311b3fb96b43caa1d17d15ed2ddac3/artifacts
+end_time: 1669945703570
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5311b3fb96b43caa1d17d15ed2ddac3
+run_name: illustrious-deer-236
+run_uuid: d5311b3fb96b43caa1d17d15ed2ddac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241742968
+status: 3
+tags: []
+user_id: unknown

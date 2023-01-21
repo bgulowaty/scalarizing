@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/888acfe426a14b5f9e9445c1c03b738f/artifacts
+end_time: 1669945403232
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 888acfe426a14b5f9e9445c1c03b738f
+run_name: bald-dove-857
+run_uuid: 888acfe426a14b5f9e9445c1c03b738f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241821489
+status: 3
+tags: []
+user_id: unknown

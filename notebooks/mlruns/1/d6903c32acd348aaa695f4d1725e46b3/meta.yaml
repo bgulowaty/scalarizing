@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d6903c32acd348aaa695f4d1725e46b3/artifacts
+end_time: 1669945160104
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6903c32acd348aaa695f4d1725e46b3
+run_name: masked-bee-230
+run_uuid: d6903c32acd348aaa695f4d1725e46b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241909380
+status: 3
+tags: []
+user_id: unknown

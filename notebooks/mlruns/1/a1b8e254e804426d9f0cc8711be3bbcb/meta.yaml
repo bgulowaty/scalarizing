@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a1b8e254e804426d9f0cc8711be3bbcb/artifacts
+end_time: 1669945557659
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1b8e254e804426d9f0cc8711be3bbcb
+run_name: salty-duck-895
+run_uuid: a1b8e254e804426d9f0cc8711be3bbcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241844674
+status: 3
+tags: []
+user_id: unknown

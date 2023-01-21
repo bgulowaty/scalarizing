@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/507fe9530cea4daa90a98368c1508b39/artifacts
+end_time: 1669955067269
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 507fe9530cea4daa90a98368c1508b39
+run_name: abrasive-trout-824
+run_uuid: 507fe9530cea4daa90a98368c1508b39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240163588
+status: 3
+tags: []
+user_id: unknown

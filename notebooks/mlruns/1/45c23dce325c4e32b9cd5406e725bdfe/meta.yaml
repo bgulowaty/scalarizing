@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/45c23dce325c4e32b9cd5406e725bdfe/artifacts
+end_time: 1669955321692
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45c23dce325c4e32b9cd5406e725bdfe
+run_name: serious-crab-539
+run_uuid: 45c23dce325c4e32b9cd5406e725bdfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240146616
+status: 3
+tags: []
+user_id: unknown

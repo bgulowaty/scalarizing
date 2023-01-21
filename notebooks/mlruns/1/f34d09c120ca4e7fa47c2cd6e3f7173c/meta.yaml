@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f34d09c120ca4e7fa47c2cd6e3f7173c/artifacts
+end_time: 1669956286205
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f34d09c120ca4e7fa47c2cd6e3f7173c
+run_name: gifted-crab-730
+run_uuid: f34d09c120ca4e7fa47c2cd6e3f7173c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240063932
+status: 3
+tags: []
+user_id: unknown

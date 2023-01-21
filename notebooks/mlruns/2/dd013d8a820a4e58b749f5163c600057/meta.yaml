@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/dd013d8a820a4e58b749f5163c600057/artifacts
+end_time: 1670162397613
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: dd013d8a820a4e58b749f5163c600057
+run_name: polite-goose-604
+run_uuid: dd013d8a820a4e58b749f5163c600057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150325898
+status: 3
+tags: []
+user_id: unknown

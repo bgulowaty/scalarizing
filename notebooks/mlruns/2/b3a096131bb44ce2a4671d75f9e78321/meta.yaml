@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b3a096131bb44ce2a4671d75f9e78321/artifacts
+end_time: 1670162072905
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b3a096131bb44ce2a4671d75f9e78321
+run_name: chill-asp-727
+run_uuid: b3a096131bb44ce2a4671d75f9e78321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150446025
+status: 3
+tags: []
+user_id: unknown

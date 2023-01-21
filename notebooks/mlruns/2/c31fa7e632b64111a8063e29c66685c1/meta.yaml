@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c31fa7e632b64111a8063e29c66685c1/artifacts
+end_time: 1670162179371
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c31fa7e632b64111a8063e29c66685c1
+run_name: youthful-dove-431
+run_uuid: c31fa7e632b64111a8063e29c66685c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150417378
+status: 3
+tags: []
+user_id: unknown

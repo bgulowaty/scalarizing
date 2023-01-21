@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/917628aa8bc24a84a6ee6ad9375667f1/artifacts
+end_time: 1669950681324
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 917628aa8bc24a84a6ee6ad9375667f1
+run_name: calm-sponge-713
+run_uuid: 917628aa8bc24a84a6ee6ad9375667f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240718442
+status: 3
+tags: []
+user_id: unknown

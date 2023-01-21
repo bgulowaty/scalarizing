@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8f2f76966f9243f4a0cac60616315a58/artifacts
+end_time: 1670104743858
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f2f76966f9243f4a0cac60616315a58
+run_name: nervous-perch-292
+run_uuid: 8f2f76966f9243f4a0cac60616315a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239969601
+status: 3
+tags: []
+user_id: unknown

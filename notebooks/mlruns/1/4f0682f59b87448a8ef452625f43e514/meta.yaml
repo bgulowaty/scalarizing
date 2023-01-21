@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4f0682f59b87448a8ef452625f43e514/artifacts
+end_time: 1669942444534
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f0682f59b87448a8ef452625f43e514
+run_name: enthused-dog-20
+run_uuid: 4f0682f59b87448a8ef452625f43e514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242778606
+status: 3
+tags: []
+user_id: unknown

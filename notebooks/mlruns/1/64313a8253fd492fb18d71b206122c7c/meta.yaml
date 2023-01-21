@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/64313a8253fd492fb18d71b206122c7c/artifacts
+end_time: 1670105362283
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64313a8253fd492fb18d71b206122c7c
+run_name: popular-roo-182
+run_uuid: 64313a8253fd492fb18d71b206122c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239934550
+status: 3
+tags: []
+user_id: unknown

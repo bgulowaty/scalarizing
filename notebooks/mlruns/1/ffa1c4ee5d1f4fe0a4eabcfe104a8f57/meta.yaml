@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ffa1c4ee5d1f4fe0a4eabcfe104a8f57/artifacts
+end_time: 1670104131730
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffa1c4ee5d1f4fe0a4eabcfe104a8f57
+run_name: bittersweet-jay-752
+run_uuid: ffa1c4ee5d1f4fe0a4eabcfe104a8f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240020086
+status: 3
+tags: []
+user_id: unknown

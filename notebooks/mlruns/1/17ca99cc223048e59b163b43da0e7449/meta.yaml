@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/17ca99cc223048e59b163b43da0e7449/artifacts
+end_time: 1669951910030
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17ca99cc223048e59b163b43da0e7449
+run_name: angry-sponge-652
+run_uuid: 17ca99cc223048e59b163b43da0e7449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240520741
+status: 3
+tags: []
+user_id: unknown

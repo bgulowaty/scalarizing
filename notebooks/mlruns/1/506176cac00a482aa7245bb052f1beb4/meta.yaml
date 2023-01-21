@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/506176cac00a482aa7245bb052f1beb4/artifacts
+end_time: 1670106291029
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 506176cac00a482aa7245bb052f1beb4
+run_name: melodic-rat-496
+run_uuid: 506176cac00a482aa7245bb052f1beb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239898464
+status: 3
+tags: []
+user_id: unknown

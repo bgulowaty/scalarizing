@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e78b51ee999f4d86b1ae29757e2f96ff/artifacts
+end_time: 1669951988628
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e78b51ee999f4d86b1ae29757e2f96ff
+run_name: salty-rook-884
+run_uuid: e78b51ee999f4d86b1ae29757e2f96ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240509439
+status: 3
+tags: []
+user_id: unknown

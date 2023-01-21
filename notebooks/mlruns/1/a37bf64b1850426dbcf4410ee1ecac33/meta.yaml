@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a37bf64b1850426dbcf4410ee1ecac33/artifacts
+end_time: 1669943460861
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a37bf64b1850426dbcf4410ee1ecac33
+run_name: bustling-shrimp-550
+run_uuid: a37bf64b1850426dbcf4410ee1ecac33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242327602
+status: 3
+tags: []
+user_id: unknown

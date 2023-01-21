@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9372346e9f664637965476000476e923/artifacts
+end_time: 1670180822288
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9372346e9f664637965476000476e923
+run_name: unequaled-moose-559
+run_uuid: 9372346e9f664637965476000476e923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241948333
+status: 3
+tags: []
+user_id: unknown

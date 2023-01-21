@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6021a278be154e0989dc4dc444289afa/artifacts
+end_time: 1669953521109
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6021a278be154e0989dc4dc444289afa
+run_name: bouncy-frog-722
+run_uuid: 6021a278be154e0989dc4dc444289afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240341151
+status: 3
+tags: []
+user_id: unknown

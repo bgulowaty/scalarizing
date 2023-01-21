@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3d08961502f04cdb828f1be480870fdb/artifacts
+end_time: 1670181484876
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d08961502f04cdb828f1be480870fdb
+run_name: bright-flea-325
+run_uuid: 3d08961502f04cdb828f1be480870fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240114425
+status: 3
+tags: []
+user_id: unknown

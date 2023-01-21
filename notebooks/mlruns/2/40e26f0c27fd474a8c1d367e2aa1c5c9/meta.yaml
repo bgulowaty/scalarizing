@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/40e26f0c27fd474a8c1d367e2aa1c5c9/artifacts
+end_time: 1670162071718
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 40e26f0c27fd474a8c1d367e2aa1c5c9
+run_name: likeable-shoat-853
+run_uuid: 40e26f0c27fd474a8c1d367e2aa1c5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150448216
+status: 3
+tags: []
+user_id: unknown

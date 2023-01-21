@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/35702dcb31bb43668e55cb8d7106ae7b/artifacts
+end_time: 1669945199905
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35702dcb31bb43668e55cb8d7106ae7b
+run_name: selective-bee-906
+run_uuid: 35702dcb31bb43668e55cb8d7106ae7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241853445
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/22f64f5de32648a09f7016c78cf0b094/artifacts
+end_time: 1669952525051
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22f64f5de32648a09f7016c78cf0b094
+run_name: silent-trout-780
+run_uuid: 22f64f5de32648a09f7016c78cf0b094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240435525
+status: 3
+tags: []
+user_id: unknown

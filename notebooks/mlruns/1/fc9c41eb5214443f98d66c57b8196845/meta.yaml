@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc9c41eb5214443f98d66c57b8196845/artifacts
+end_time: 1669946611806
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc9c41eb5214443f98d66c57b8196845
+run_name: honorable-cod-726
+run_uuid: fc9c41eb5214443f98d66c57b8196845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241544481
+status: 3
+tags: []
+user_id: unknown

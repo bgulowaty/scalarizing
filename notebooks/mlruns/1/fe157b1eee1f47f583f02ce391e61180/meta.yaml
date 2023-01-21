@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fe157b1eee1f47f583f02ce391e61180/artifacts
+end_time: 1669951602935
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe157b1eee1f47f583f02ce391e61180
+run_name: placid-shrew-302
+run_uuid: fe157b1eee1f47f583f02ce391e61180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240567620
+status: 3
+tags: []
+user_id: unknown

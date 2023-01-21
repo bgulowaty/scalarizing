@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dad30bd3b16e461ca82ca2a994d04a5b/artifacts
+end_time: 1669951968229
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dad30bd3b16e461ca82ca2a994d04a5b
+run_name: unruly-gnu-972
+run_uuid: dad30bd3b16e461ca82ca2a994d04a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240506808
+status: 3
+tags: []
+user_id: unknown

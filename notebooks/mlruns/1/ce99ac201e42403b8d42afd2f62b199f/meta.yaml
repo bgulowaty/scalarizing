@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ce99ac201e42403b8d42afd2f62b199f/artifacts
+end_time: 1669944235899
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce99ac201e42403b8d42afd2f62b199f
+run_name: bemused-shrike-282
+run_uuid: ce99ac201e42403b8d42afd2f62b199f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242116513
+status: 3
+tags: []
+user_id: unknown

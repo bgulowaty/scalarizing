@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/be6e4110ab1c4118921bfefcd3aa660a/artifacts
+end_time: 1669948506835
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be6e4110ab1c4118921bfefcd3aa660a
+run_name: vaunted-bear-608
+run_uuid: be6e4110ab1c4118921bfefcd3aa660a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241157307
+status: 3
+tags: []
+user_id: unknown

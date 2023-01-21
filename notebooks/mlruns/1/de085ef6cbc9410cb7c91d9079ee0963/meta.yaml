@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/de085ef6cbc9410cb7c91d9079ee0963/artifacts
+end_time: 1669944230014
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de085ef6cbc9410cb7c91d9079ee0963
+run_name: nervous-grub-426
+run_uuid: de085ef6cbc9410cb7c91d9079ee0963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242115660
+status: 3
+tags: []
+user_id: unknown

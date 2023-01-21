@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a00f41608e4e47c28525d772849435dd/artifacts
+end_time: 1669944911614
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a00f41608e4e47c28525d772849435dd
+run_name: salty-robin-344
+run_uuid: a00f41608e4e47c28525d772849435dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241951145
+status: 3
+tags: []
+user_id: unknown

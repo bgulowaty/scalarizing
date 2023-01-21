@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8f42fc7bad5449a494597307a43e8838/artifacts
+end_time: 1669943958937
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f42fc7bad5449a494597307a43e8838
+run_name: chill-owl-352
+run_uuid: 8f42fc7bad5449a494597307a43e8838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242185326
+status: 3
+tags: []
+user_id: unknown

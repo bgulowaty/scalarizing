@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/17f8782642ad49178a1c7cd04c988bba/artifacts
+end_time: 1669949815419
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17f8782642ad49178a1c7cd04c988bba
+run_name: bemused-gull-465
+run_uuid: 17f8782642ad49178a1c7cd04c988bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240864502
+status: 3
+tags: []
+user_id: unknown

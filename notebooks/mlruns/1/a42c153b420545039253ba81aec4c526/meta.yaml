@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a42c153b420545039253ba81aec4c526/artifacts
+end_time: 1669953785265
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a42c153b420545039253ba81aec4c526
+run_name: angry-robin-112
+run_uuid: a42c153b420545039253ba81aec4c526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240307517
+status: 3
+tags: []
+user_id: unknown

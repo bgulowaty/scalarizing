@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dd1183aac66c472c8ded477e0d9ab21d/artifacts
+end_time: 1670180840247
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd1183aac66c472c8ded477e0d9ab21d
+run_name: welcoming-sponge-385
+run_uuid: dd1183aac66c472c8ded477e0d9ab21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241566235
+status: 4
+tags: []
+user_id: unknown

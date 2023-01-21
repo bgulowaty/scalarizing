@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a17f0deca0684a758709a67a82962c78/artifacts
+end_time: 1669943482570
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a17f0deca0684a758709a67a82962c78
+run_name: selective-rook-289
+run_uuid: a17f0deca0684a758709a67a82962c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242358768
+status: 3
+tags: []
+user_id: unknown

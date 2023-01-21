@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/660d78b724df46fa9fe99153f01ecccd/artifacts
+end_time: 1670162185945
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 660d78b724df46fa9fe99153f01ecccd
+run_name: victorious-fawn-487
+run_uuid: 660d78b724df46fa9fe99153f01ecccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150389930
+status: 3
+tags: []
+user_id: unknown

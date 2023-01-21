@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/640130c14b0842b58d656b3206314d71/artifacts
+end_time: 1670162742873
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 640130c14b0842b58d656b3206314d71
+run_name: whimsical-rat-270
+run_uuid: 640130c14b0842b58d656b3206314d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150210777
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2fa38b4276834f9abe5ad30588303e73/artifacts
+end_time: 1670104405024
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2fa38b4276834f9abe5ad30588303e73
+run_name: dashing-midge-667
+run_uuid: 2fa38b4276834f9abe5ad30588303e73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240000536
+status: 3
+tags: []
+user_id: unknown

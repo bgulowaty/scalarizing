@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/591e7eea5db64292b27c90d8cd554283/artifacts
+end_time: 1670162406694
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 591e7eea5db64292b27c90d8cd554283
+run_name: bustling-doe-675
+run_uuid: 591e7eea5db64292b27c90d8cd554283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150316945
+status: 3
+tags: []
+user_id: unknown

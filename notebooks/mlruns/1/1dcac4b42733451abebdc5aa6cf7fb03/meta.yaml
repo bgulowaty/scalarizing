@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1dcac4b42733451abebdc5aa6cf7fb03/artifacts
+end_time: 1669944333243
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1dcac4b42733451abebdc5aa6cf7fb03
+run_name: rebellious-koi-151
+run_uuid: 1dcac4b42733451abebdc5aa6cf7fb03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242088826
+status: 3
+tags: []
+user_id: unknown

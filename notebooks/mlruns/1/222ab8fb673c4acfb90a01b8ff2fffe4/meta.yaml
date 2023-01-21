@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/222ab8fb673c4acfb90a01b8ff2fffe4/artifacts
+end_time: 1669950217403
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 222ab8fb673c4acfb90a01b8ff2fffe4
+run_name: bold-vole-432
+run_uuid: 222ab8fb673c4acfb90a01b8ff2fffe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240837898
+status: 3
+tags: []
+user_id: unknown

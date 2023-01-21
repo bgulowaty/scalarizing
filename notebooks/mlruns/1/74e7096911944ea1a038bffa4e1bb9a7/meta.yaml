@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/74e7096911944ea1a038bffa4e1bb9a7/artifacts
+end_time: 1669945101088
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74e7096911944ea1a038bffa4e1bb9a7
+run_name: masked-jay-114
+run_uuid: 74e7096911944ea1a038bffa4e1bb9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241910036
+status: 3
+tags: []
+user_id: unknown

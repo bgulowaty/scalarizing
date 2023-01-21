@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d8b42afa41e945eda712777828ad124b/artifacts
+end_time: 1669949520346
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8b42afa41e945eda712777828ad124b
+run_name: gentle-panda-268
+run_uuid: d8b42afa41e945eda712777828ad124b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240929981
+status: 3
+tags: []
+user_id: unknown

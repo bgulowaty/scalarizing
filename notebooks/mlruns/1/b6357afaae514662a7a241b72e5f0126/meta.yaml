@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b6357afaae514662a7a241b72e5f0126/artifacts
+end_time: 1670106581781
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6357afaae514662a7a241b72e5f0126
+run_name: youthful-calf-450
+run_uuid: b6357afaae514662a7a241b72e5f0126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239889787
+status: 3
+tags: []
+user_id: unknown

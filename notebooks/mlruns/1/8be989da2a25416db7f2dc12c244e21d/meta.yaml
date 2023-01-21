@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8be989da2a25416db7f2dc12c244e21d/artifacts
+end_time: 1669947920007
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8be989da2a25416db7f2dc12c244e21d
+run_name: burly-ram-111
+run_uuid: 8be989da2a25416db7f2dc12c244e21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241291845
+status: 3
+tags: []
+user_id: unknown

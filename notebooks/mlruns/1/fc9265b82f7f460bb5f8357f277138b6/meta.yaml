@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fc9265b82f7f460bb5f8357f277138b6/artifacts
+end_time: 1669954098322
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc9265b82f7f460bb5f8357f277138b6
+run_name: stylish-loon-939
+run_uuid: fc9265b82f7f460bb5f8357f277138b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240271160
+status: 3
+tags: []
+user_id: unknown

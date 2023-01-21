@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cec0a4d78b7744a7afff36a67d689bdf/artifacts
+end_time: 1669943716210
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cec0a4d78b7744a7afff36a67d689bdf
+run_name: chill-zebra-572
+run_uuid: cec0a4d78b7744a7afff36a67d689bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242264423
+status: 3
+tags: []
+user_id: unknown

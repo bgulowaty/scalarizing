@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/658e976b60eb49b19f9b91370169ea36/artifacts
+end_time: 1669947020159
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 658e976b60eb49b19f9b91370169ea36
+run_name: sneaky-asp-344
+run_uuid: 658e976b60eb49b19f9b91370169ea36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241440982
+status: 3
+tags: []
+user_id: unknown

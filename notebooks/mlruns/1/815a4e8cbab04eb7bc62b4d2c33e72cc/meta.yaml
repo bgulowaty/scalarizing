@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/815a4e8cbab04eb7bc62b4d2c33e72cc/artifacts
+end_time: 1669955664552
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 815a4e8cbab04eb7bc62b4d2c33e72cc
+run_name: efficient-mouse-210
+run_uuid: 815a4e8cbab04eb7bc62b4d2c33e72cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240111306
+status: 3
+tags: []
+user_id: unknown

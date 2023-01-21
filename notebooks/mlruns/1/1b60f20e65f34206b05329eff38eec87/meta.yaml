@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1b60f20e65f34206b05329eff38eec87/artifacts
+end_time: 1669946924765
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b60f20e65f34206b05329eff38eec87
+run_name: fortunate-colt-534
+run_uuid: 1b60f20e65f34206b05329eff38eec87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241496613
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/267dc64c88214bb3b85d8538111ed03e/artifacts
+end_time: 1669942383629
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 267dc64c88214bb3b85d8538111ed03e
+run_name: dashing-skink-970
+run_uuid: 267dc64c88214bb3b85d8538111ed03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242803082
+status: 3
+tags: []
+user_id: unknown

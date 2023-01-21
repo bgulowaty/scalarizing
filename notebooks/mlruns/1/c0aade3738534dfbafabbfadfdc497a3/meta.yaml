@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c0aade3738534dfbafabbfadfdc497a3/artifacts
+end_time: 1669951910992
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0aade3738534dfbafabbfadfdc497a3
+run_name: carefree-jay-889
+run_uuid: c0aade3738534dfbafabbfadfdc497a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240521547
+status: 3
+tags: []
+user_id: unknown

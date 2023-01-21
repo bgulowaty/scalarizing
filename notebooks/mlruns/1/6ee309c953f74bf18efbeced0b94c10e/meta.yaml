@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6ee309c953f74bf18efbeced0b94c10e/artifacts
+end_time: 1670104727703
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ee309c953f74bf18efbeced0b94c10e
+run_name: serious-bird-134
+run_uuid: 6ee309c953f74bf18efbeced0b94c10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239982315
+status: 3
+tags: []
+user_id: unknown

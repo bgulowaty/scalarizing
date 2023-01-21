@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/46cf98b6c2d242a1b18678e21240e0fe/artifacts
+end_time: 1669950362989
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46cf98b6c2d242a1b18678e21240e0fe
+run_name: useful-donkey-235
+run_uuid: 46cf98b6c2d242a1b18678e21240e0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240797341
+status: 3
+tags: []
+user_id: unknown

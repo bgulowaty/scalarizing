@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/408f3b83adbd4cf69cfe205780a8aae5/artifacts
+end_time: 1670104405641
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 408f3b83adbd4cf69cfe205780a8aae5
+run_name: abrasive-vole-595
+run_uuid: 408f3b83adbd4cf69cfe205780a8aae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239998309
+status: 3
+tags: []
+user_id: unknown

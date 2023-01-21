@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cea8f157064b49758ff4eacac7582498/artifacts
+end_time: 1670104718452
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cea8f157064b49758ff4eacac7582498
+run_name: burly-calf-180
+run_uuid: cea8f157064b49758ff4eacac7582498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239982823
+status: 3
+tags: []
+user_id: unknown

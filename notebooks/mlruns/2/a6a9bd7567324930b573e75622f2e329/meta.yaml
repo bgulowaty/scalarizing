@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a6a9bd7567324930b573e75622f2e329/artifacts
+end_time: 1670162637443
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a6a9bd7567324930b573e75622f2e329
+run_name: capable-hare-30
+run_uuid: a6a9bd7567324930b573e75622f2e329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150288237
+status: 3
+tags: []
+user_id: unknown

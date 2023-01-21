@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b1a02778001a4c0b9aa01276cb3aafa7/artifacts
+end_time: 1669946059107
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b1a02778001a4c0b9aa01276cb3aafa7
+run_name: gifted-goose-589
+run_uuid: b1a02778001a4c0b9aa01276cb3aafa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241658182
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fdd67c47f243473aaed4c19d82ad7c57/artifacts
+end_time: 1669951638176
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdd67c47f243473aaed4c19d82ad7c57
+run_name: abundant-tern-126
+run_uuid: fdd67c47f243473aaed4c19d82ad7c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240580795
+status: 3
+tags: []
+user_id: unknown

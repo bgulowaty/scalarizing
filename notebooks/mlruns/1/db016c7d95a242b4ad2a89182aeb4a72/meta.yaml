@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/db016c7d95a242b4ad2a89182aeb4a72/artifacts
+end_time: 1669950666978
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db016c7d95a242b4ad2a89182aeb4a72
+run_name: enchanting-ox-417
+run_uuid: db016c7d95a242b4ad2a89182aeb4a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240759526
+status: 3
+tags: []
+user_id: unknown

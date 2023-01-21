@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/0ce769e5c2f6407cb6467644cf393259/artifacts
+end_time: 1669948874037
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ce769e5c2f6407cb6467644cf393259
+run_name: tasteful-swan-792
+run_uuid: 0ce769e5c2f6407cb6467644cf393259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241069316
+status: 3
+tags: []
+user_id: unknown

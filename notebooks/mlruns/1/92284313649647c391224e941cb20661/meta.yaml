@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/92284313649647c391224e941cb20661/artifacts
+end_time: 1669945646807
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92284313649647c391224e941cb20661
+run_name: delicate-robin-417
+run_uuid: 92284313649647c391224e941cb20661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241797843
+status: 3
+tags: []
+user_id: unknown

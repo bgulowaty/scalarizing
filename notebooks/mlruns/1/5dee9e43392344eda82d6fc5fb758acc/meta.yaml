@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5dee9e43392344eda82d6fc5fb758acc/artifacts
+end_time: 1669950995948
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5dee9e43392344eda82d6fc5fb758acc
+run_name: stylish-yak-560
+run_uuid: 5dee9e43392344eda82d6fc5fb758acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240677989
+status: 3
+tags: []
+user_id: unknown

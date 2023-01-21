@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/dec7622f19314d2ab130f8e60a106e68/artifacts
+end_time: 1669953808477
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dec7622f19314d2ab130f8e60a106e68
+run_name: amusing-bird-989
+run_uuid: dec7622f19314d2ab130f8e60a106e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240312752
+status: 3
+tags: []
+user_id: unknown

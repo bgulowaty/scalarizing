@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/88ffaf1ac1504a1188d92c8a5e91c521/artifacts
+end_time: 1670104711898
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 88ffaf1ac1504a1188d92c8a5e91c521
+run_name: gregarious-mole-384
+run_uuid: 88ffaf1ac1504a1188d92c8a5e91c521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239979068
+status: 3
+tags: []
+user_id: unknown

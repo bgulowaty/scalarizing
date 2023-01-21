@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/188204470c7840bf86381a70ec7cf585/artifacts
+end_time: 1669955010636
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 188204470c7840bf86381a70ec7cf585
+run_name: bouncy-mule-910
+run_uuid: 188204470c7840bf86381a70ec7cf585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240180366
+status: 3
+tags: []
+user_id: unknown

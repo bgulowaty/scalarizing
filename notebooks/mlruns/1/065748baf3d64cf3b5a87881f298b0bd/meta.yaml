@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/065748baf3d64cf3b5a87881f298b0bd/artifacts
+end_time: 1669942947094
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 065748baf3d64cf3b5a87881f298b0bd
+run_name: nosy-flea-221
+run_uuid: 065748baf3d64cf3b5a87881f298b0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242470468
+status: 3
+tags: []
+user_id: unknown

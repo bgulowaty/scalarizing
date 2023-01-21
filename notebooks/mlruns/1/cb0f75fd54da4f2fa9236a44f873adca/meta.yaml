@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/cb0f75fd54da4f2fa9236a44f873adca/artifacts
+end_time: 1669950343981
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb0f75fd54da4f2fa9236a44f873adca
+run_name: legendary-kit-120
+run_uuid: cb0f75fd54da4f2fa9236a44f873adca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240784987
+status: 3
+tags: []
+user_id: unknown

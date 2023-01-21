@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f797c92fe1840a1861356dfffc892aa/artifacts
+end_time: 1669942964481
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f797c92fe1840a1861356dfffc892aa
+run_name: big-flea-216
+run_uuid: 9f797c92fe1840a1861356dfffc892aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242466420
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1d21e57c56ed415a9f5bc21a5f0be532/artifacts
+end_time: 1669950347908
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d21e57c56ed415a9f5bc21a5f0be532
+run_name: resilient-flea-990
+run_uuid: 1d21e57c56ed415a9f5bc21a5f0be532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240804046
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/214e3f5bfe4648eca37c8ea80b52dad2/artifacts
+end_time: 1669945101214
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 214e3f5bfe4648eca37c8ea80b52dad2
+run_name: worried-fawn-240
+run_uuid: 214e3f5bfe4648eca37c8ea80b52dad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241892068
+status: 3
+tags: []
+user_id: unknown

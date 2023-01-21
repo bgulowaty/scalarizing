@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7382ff349ae44651af1c477bceb1aa7a/artifacts
+end_time: 1669944895783
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7382ff349ae44651af1c477bceb1aa7a
+run_name: upset-crane-40
+run_uuid: 7382ff349ae44651af1c477bceb1aa7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241969032
+status: 3
+tags: []
+user_id: unknown

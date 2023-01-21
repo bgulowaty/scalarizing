@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a48e8852445b46f6a1688d2501ebf562/artifacts
+end_time: 1670162728735
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a48e8852445b46f6a1688d2501ebf562
+run_name: angry-hawk-941
+run_uuid: a48e8852445b46f6a1688d2501ebf562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150211489
+status: 3
+tags: []
+user_id: unknown

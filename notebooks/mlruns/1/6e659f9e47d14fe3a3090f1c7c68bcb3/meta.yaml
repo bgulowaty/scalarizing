@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6e659f9e47d14fe3a3090f1c7c68bcb3/artifacts
+end_time: 1670181423662
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e659f9e47d14fe3a3090f1c7c68bcb3
+run_name: wise-loon-507
+run_uuid: 6e659f9e47d14fe3a3090f1c7c68bcb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240321336
+status: 3
+tags: []
+user_id: unknown

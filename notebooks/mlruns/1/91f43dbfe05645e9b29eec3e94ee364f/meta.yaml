@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/91f43dbfe05645e9b29eec3e94ee364f/artifacts
+end_time: 1669951987043
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91f43dbfe05645e9b29eec3e94ee364f
+run_name: legendary-seal-51
+run_uuid: 91f43dbfe05645e9b29eec3e94ee364f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240507997
+status: 3
+tags: []
+user_id: unknown

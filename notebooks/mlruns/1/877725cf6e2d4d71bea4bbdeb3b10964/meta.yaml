@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/877725cf6e2d4d71bea4bbdeb3b10964/artifacts
+end_time: 1669950451590
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 877725cf6e2d4d71bea4bbdeb3b10964
+run_name: dashing-moose-887
+run_uuid: 877725cf6e2d4d71bea4bbdeb3b10964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240789389
+status: 3
+tags: []
+user_id: unknown

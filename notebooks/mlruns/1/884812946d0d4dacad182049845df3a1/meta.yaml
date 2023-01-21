@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/884812946d0d4dacad182049845df3a1/artifacts
+end_time: 1669955391454
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 884812946d0d4dacad182049845df3a1
+run_name: intelligent-fish-5
+run_uuid: 884812946d0d4dacad182049845df3a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240136316
+status: 3
+tags: []
+user_id: unknown

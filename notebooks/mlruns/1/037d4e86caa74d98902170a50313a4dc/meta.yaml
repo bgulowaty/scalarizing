@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/037d4e86caa74d98902170a50313a4dc/artifacts
+end_time: 1669951911883
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 037d4e86caa74d98902170a50313a4dc
+run_name: delightful-skink-372
+run_uuid: 037d4e86caa74d98902170a50313a4dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240524171
+status: 3
+tags: []
+user_id: unknown

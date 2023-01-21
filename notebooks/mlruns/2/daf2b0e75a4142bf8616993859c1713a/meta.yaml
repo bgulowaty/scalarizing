@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/daf2b0e75a4142bf8616993859c1713a/artifacts
+end_time: 1670162832333
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: daf2b0e75a4142bf8616993859c1713a
+run_name: upbeat-ant-372
+run_uuid: daf2b0e75a4142bf8616993859c1713a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150201037
+status: 3
+tags: []
+user_id: unknown

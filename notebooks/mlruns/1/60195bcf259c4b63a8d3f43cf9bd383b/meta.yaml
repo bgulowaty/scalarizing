@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/60195bcf259c4b63a8d3f43cf9bd383b/artifacts
+end_time: 1669955975305
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60195bcf259c4b63a8d3f43cf9bd383b
+run_name: wise-fish-721
+run_uuid: 60195bcf259c4b63a8d3f43cf9bd383b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240087026
+status: 3
+tags: []
+user_id: unknown

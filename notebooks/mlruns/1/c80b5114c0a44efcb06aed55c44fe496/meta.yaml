@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c80b5114c0a44efcb06aed55c44fe496/artifacts
+end_time: 1669943737391
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c80b5114c0a44efcb06aed55c44fe496
+run_name: painted-skink-16
+run_uuid: c80b5114c0a44efcb06aed55c44fe496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242256623
+status: 3
+tags: []
+user_id: unknown

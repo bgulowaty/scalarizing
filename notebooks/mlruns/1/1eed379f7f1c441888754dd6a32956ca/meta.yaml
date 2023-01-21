@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/1eed379f7f1c441888754dd6a32956ca/artifacts
+end_time: 1669956283078
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1eed379f7f1c441888754dd6a32956ca
+run_name: redolent-stag-230
+run_uuid: 1eed379f7f1c441888754dd6a32956ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240069121
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a5fcd352a2904d0f8a7d3a16c743a784/artifacts
+end_time: 1670104401663
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5fcd352a2904d0f8a7d3a16c743a784
+run_name: rumbling-moose-804
+run_uuid: a5fcd352a2904d0f8a7d3a16c743a784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240001508
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/923322b4ba5b470da7199334950680ff/artifacts
+end_time: 1670104739259
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 923322b4ba5b470da7199334950680ff
+run_name: sassy-snipe-722
+run_uuid: 923322b4ba5b470da7199334950680ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239970764
+status: 3
+tags: []
+user_id: unknown

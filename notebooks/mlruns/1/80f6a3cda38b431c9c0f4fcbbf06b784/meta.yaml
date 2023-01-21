@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/80f6a3cda38b431c9c0f4fcbbf06b784/artifacts
+end_time: 1669951377087
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80f6a3cda38b431c9c0f4fcbbf06b784
+run_name: nebulous-hare-95
+run_uuid: 80f6a3cda38b431c9c0f4fcbbf06b784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240599499
+status: 3
+tags: []
+user_id: unknown

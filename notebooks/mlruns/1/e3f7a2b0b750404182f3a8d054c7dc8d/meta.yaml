@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e3f7a2b0b750404182f3a8d054c7dc8d/artifacts
+end_time: 1669946825844
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3f7a2b0b750404182f3a8d054c7dc8d
+run_name: luminous-calf-102
+run_uuid: e3f7a2b0b750404182f3a8d054c7dc8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241534615
+status: 3
+tags: []
+user_id: unknown

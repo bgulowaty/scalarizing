@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/23f1a36174864f7d84ff83b9758e0413/artifacts
+end_time: 1669947259363
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23f1a36174864f7d84ff83b9758e0413
+run_name: tasteful-yak-593
+run_uuid: 23f1a36174864f7d84ff83b9758e0413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241398123
+status: 3
+tags: []
+user_id: unknown

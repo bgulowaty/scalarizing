@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7124c25a226f4ef19d720ea9d7441eda/artifacts
+end_time: 1670102090269
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7124c25a226f4ef19d720ea9d7441eda
+run_name: bittersweet-fowl-842
+run_uuid: 7124c25a226f4ef19d720ea9d7441eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242702558
+status: 3
+tags: []
+user_id: unknown

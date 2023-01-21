@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/3e86cadea7774ee9ab8c59c82db2cc51/artifacts
+end_time: 1670105653557
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e86cadea7774ee9ab8c59c82db2cc51
+run_name: ambitious-lynx-724
+run_uuid: 3e86cadea7774ee9ab8c59c82db2cc51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239925027
+status: 3
+tags: []
+user_id: unknown

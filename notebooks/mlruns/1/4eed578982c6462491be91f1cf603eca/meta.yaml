@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4eed578982c6462491be91f1cf603eca/artifacts
+end_time: 1669942873777
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4eed578982c6462491be91f1cf603eca
+run_name: caring-skink-429
+run_uuid: 4eed578982c6462491be91f1cf603eca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242493890
+status: 3
+tags: []
+user_id: unknown

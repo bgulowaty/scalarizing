@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/697e466eea9e4697a344c8d67adf306c/artifacts
+end_time: 1669947998781
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 697e466eea9e4697a344c8d67adf306c
+run_name: welcoming-ray-861
+run_uuid: 697e466eea9e4697a344c8d67adf306c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241301305
+status: 3
+tags: []
+user_id: unknown

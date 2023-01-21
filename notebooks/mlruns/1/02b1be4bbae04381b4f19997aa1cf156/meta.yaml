@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/02b1be4bbae04381b4f19997aa1cf156/artifacts
+end_time: 1669952241727
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02b1be4bbae04381b4f19997aa1cf156
+run_name: nosy-tern-731
+run_uuid: 02b1be4bbae04381b4f19997aa1cf156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240476279
+status: 3
+tags: []
+user_id: unknown

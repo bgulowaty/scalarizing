@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e57bebb7a0d747bf9e9c88037330e963/artifacts
+end_time: 1669954698283
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e57bebb7a0d747bf9e9c88037330e963
+run_name: efficient-ape-645
+run_uuid: e57bebb7a0d747bf9e9c88037330e963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240203787
+status: 3
+tags: []
+user_id: unknown

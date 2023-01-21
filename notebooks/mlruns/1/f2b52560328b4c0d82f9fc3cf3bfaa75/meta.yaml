@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f2b52560328b4c0d82f9fc3cf3bfaa75/artifacts
+end_time: 1669949184505
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2b52560328b4c0d82f9fc3cf3bfaa75
+run_name: inquisitive-calf-292
+run_uuid: f2b52560328b4c0d82f9fc3cf3bfaa75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241017362
+status: 3
+tags: []
+user_id: unknown

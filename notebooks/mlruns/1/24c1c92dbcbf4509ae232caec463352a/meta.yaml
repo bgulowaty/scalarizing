@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/24c1c92dbcbf4509ae232caec463352a/artifacts
+end_time: 1669951299581
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24c1c92dbcbf4509ae232caec463352a
+run_name: fearless-worm-465
+run_uuid: 24c1c92dbcbf4509ae232caec463352a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240627324
+status: 3
+tags: []
+user_id: unknown

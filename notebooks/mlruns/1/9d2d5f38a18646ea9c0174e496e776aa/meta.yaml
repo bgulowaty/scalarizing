@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9d2d5f38a18646ea9c0174e496e776aa/artifacts
+end_time: 1669947257243
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9d2d5f38a18646ea9c0174e496e776aa
+run_name: peaceful-sheep-777
+run_uuid: 9d2d5f38a18646ea9c0174e496e776aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241409628
+status: 3
+tags: []
+user_id: unknown

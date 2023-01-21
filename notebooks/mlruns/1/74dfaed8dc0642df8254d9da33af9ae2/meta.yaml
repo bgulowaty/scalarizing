@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/74dfaed8dc0642df8254d9da33af9ae2/artifacts
+end_time: 1670180531832
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74dfaed8dc0642df8254d9da33af9ae2
+run_name: treasured-ant-233
+run_uuid: 74dfaed8dc0642df8254d9da33af9ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242611648
+status: 4
+tags: []
+user_id: unknown

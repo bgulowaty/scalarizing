@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/617133668eb8477b8624b349541b4088/artifacts
+end_time: 1670105374389
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 617133668eb8477b8624b349541b4088
+run_name: luminous-swan-969
+run_uuid: 617133668eb8477b8624b349541b4088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239935308
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/88c3ebd084ac4927800149634f3e3124/artifacts
+end_time: 1669948951328
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 88c3ebd084ac4927800149634f3e3124
+run_name: caring-fly-286
+run_uuid: 88c3ebd084ac4927800149634f3e3124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241150563
+status: 3
+tags: []
+user_id: unknown

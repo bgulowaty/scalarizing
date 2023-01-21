@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/485a928811d14418882332085c2d034c/artifacts
+end_time: 1670181451419
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 485a928811d14418882332085c2d034c
+run_name: serious-cod-2
+run_uuid: 485a928811d14418882332085c2d034c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240235607
+status: 3
+tags: []
+user_id: unknown

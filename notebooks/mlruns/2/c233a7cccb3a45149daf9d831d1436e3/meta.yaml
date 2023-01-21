@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c233a7cccb3a45149daf9d831d1436e3/artifacts
+end_time: 1670162184872
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c233a7cccb3a45149daf9d831d1436e3
+run_name: delightful-kite-4
+run_uuid: c233a7cccb3a45149daf9d831d1436e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150396850
+status: 3
+tags: []
+user_id: unknown

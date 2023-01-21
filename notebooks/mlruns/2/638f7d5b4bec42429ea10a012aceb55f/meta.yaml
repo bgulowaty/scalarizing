@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/638f7d5b4bec42429ea10a012aceb55f/artifacts
+end_time: 1670162068951
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 638f7d5b4bec42429ea10a012aceb55f
+run_name: delightful-quail-356
+run_uuid: 638f7d5b4bec42429ea10a012aceb55f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150450257
+status: 3
+tags: []
+user_id: unknown

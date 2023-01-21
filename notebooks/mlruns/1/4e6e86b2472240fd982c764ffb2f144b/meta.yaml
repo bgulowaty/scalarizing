@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4e6e86b2472240fd982c764ffb2f144b/artifacts
+end_time: 1669950674195
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e6e86b2472240fd982c764ffb2f144b
+run_name: likeable-ant-61
+run_uuid: 4e6e86b2472240fd982c764ffb2f144b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240710429
+status: 3
+tags: []
+user_id: unknown

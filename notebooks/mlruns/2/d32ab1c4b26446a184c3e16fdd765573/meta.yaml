@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d32ab1c4b26446a184c3e16fdd765573/artifacts
+end_time: 1670161854071
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d32ab1c4b26446a184c3e16fdd765573
+run_name: burly-wasp-463
+run_uuid: d32ab1c4b26446a184c3e16fdd765573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150549810
+status: 3
+tags: []
+user_id: unknown

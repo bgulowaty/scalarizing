@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/5129ec3382d343fda7c3e4d0301a09ba/artifacts
+end_time: 1670162291505
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5129ec3382d343fda7c3e4d0301a09ba
+run_name: glamorous-sponge-338
+run_uuid: 5129ec3382d343fda7c3e4d0301a09ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150358428
+status: 3
+tags: []
+user_id: unknown

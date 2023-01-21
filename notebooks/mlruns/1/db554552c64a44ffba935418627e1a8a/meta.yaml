@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/db554552c64a44ffba935418627e1a8a/artifacts
+end_time: 1670180881803
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db554552c64a44ffba935418627e1a8a
+run_name: welcoming-shad-364
+run_uuid: db554552c64a44ffba935418627e1a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241254297
+status: 4
+tags: []
+user_id: unknown

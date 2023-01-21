@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/978e003793994904963690cfc8ac3d95/artifacts
+end_time: 1670162394275
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 978e003793994904963690cfc8ac3d95
+run_name: rare-snake-401
+run_uuid: 978e003793994904963690cfc8ac3d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150346642
+status: 3
+tags: []
+user_id: unknown

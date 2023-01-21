@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/a54c904395a94cc9ab27c3e2a7fc2990/artifacts
+end_time: 1670162224900
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a54c904395a94cc9ab27c3e2a7fc2990
+run_name: melodic-hound-780
+run_uuid: a54c904395a94cc9ab27c3e2a7fc2990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150444434
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/87ec88720b6b401ba9e715524705196c/artifacts
+end_time: 1670181455243
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87ec88720b6b401ba9e715524705196c
+run_name: gregarious-rook-641
+run_uuid: 87ec88720b6b401ba9e715524705196c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240148550
+status: 3
+tags: []
+user_id: unknown

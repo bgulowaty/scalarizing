@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d0c3bb8a1acb47de8a9cb9fa8b4998c0/artifacts
+end_time: 1670104741978
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0c3bb8a1acb47de8a9cb9fa8b4998c0
+run_name: melodic-doe-314
+run_uuid: d0c3bb8a1acb47de8a9cb9fa8b4998c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239975657
+status: 3
+tags: []
+user_id: unknown

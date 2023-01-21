@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/107aa1baedef4fadbab6da3f43eb9555/artifacts
+end_time: 1670180505104
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 107aa1baedef4fadbab6da3f43eb9555
+run_name: resilient-ram-352
+run_uuid: 107aa1baedef4fadbab6da3f43eb9555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242642648
+status: 3
+tags: []
+user_id: unknown

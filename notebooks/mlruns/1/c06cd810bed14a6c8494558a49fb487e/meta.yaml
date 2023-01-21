@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c06cd810bed14a6c8494558a49fb487e/artifacts
+end_time: 1669955357994
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c06cd810bed14a6c8494558a49fb487e
+run_name: suave-squid-245
+run_uuid: c06cd810bed14a6c8494558a49fb487e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240137653
+status: 3
+tags: []
+user_id: unknown

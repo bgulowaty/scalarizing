@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e494b0a3b8d54b49a54e2f1d5cecacc6/artifacts
+end_time: 1669955663787
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e494b0a3b8d54b49a54e2f1d5cecacc6
+run_name: rare-cow-444
+run_uuid: e494b0a3b8d54b49a54e2f1d5cecacc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240122297
+status: 3
+tags: []
+user_id: unknown

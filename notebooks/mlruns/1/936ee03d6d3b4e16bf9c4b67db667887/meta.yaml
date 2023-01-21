@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/936ee03d6d3b4e16bf9c4b67db667887/artifacts
+end_time: 1670104091418
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 936ee03d6d3b4e16bf9c4b67db667887
+run_name: vaunted-horse-906
+run_uuid: 936ee03d6d3b4e16bf9c4b67db667887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240028233
+status: 3
+tags: []
+user_id: unknown

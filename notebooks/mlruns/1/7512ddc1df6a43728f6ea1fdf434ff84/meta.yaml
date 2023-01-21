@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7512ddc1df6a43728f6ea1fdf434ff84/artifacts
+end_time: 1670181150556
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7512ddc1df6a43728f6ea1fdf434ff84
+run_name: thoughtful-fox-22
+run_uuid: 7512ddc1df6a43728f6ea1fdf434ff84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240803582
+status: 3
+tags: []
+user_id: unknown

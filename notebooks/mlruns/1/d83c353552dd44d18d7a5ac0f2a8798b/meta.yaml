@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d83c353552dd44d18d7a5ac0f2a8798b/artifacts
+end_time: 1670104451874
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d83c353552dd44d18d7a5ac0f2a8798b
+run_name: aged-duck-91
+run_uuid: d83c353552dd44d18d7a5ac0f2a8798b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239992853
+status: 3
+tags: []
+user_id: unknown

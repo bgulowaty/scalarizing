@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6f265e474da24ce18ab9227e869c62ea/artifacts
+end_time: 1669947855174
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f265e474da24ce18ab9227e869c62ea
+run_name: legendary-croc-261
+run_uuid: 6f265e474da24ce18ab9227e869c62ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241309479
+status: 3
+tags: []
+user_id: unknown

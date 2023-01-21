@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3d9d0894cbcf49a29d1165578f96e13b/artifacts
+end_time: 1670161859754
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3d9d0894cbcf49a29d1165578f96e13b
+run_name: charming-fox-858
+run_uuid: 3d9d0894cbcf49a29d1165578f96e13b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150527403
+status: 3
+tags: []
+user_id: unknown

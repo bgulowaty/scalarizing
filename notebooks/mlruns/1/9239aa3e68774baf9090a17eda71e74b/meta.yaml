@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9239aa3e68774baf9090a17eda71e74b/artifacts
+end_time: 1669950990198
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9239aa3e68774baf9090a17eda71e74b
+run_name: monumental-toad-839
+run_uuid: 9239aa3e68774baf9090a17eda71e74b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240665122
+status: 3
+tags: []
+user_id: unknown

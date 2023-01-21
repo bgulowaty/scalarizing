@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/48586db6a5fa4bad81d43cdcd0006780/artifacts
+end_time: 1669944097156
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48586db6a5fa4bad81d43cdcd0006780
+run_name: fun-swan-574
+run_uuid: 48586db6a5fa4bad81d43cdcd0006780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242168036
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/2e1de32f63f745c9bd385595a88c35ae/artifacts
+end_time: 1669949130409
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e1de32f63f745c9bd385595a88c35ae
+run_name: funny-sponge-522
+run_uuid: 2e1de32f63f745c9bd385595a88c35ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241056976
+status: 3
+tags: []
+user_id: unknown

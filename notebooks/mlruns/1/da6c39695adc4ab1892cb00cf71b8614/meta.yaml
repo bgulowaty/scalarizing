@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/da6c39695adc4ab1892cb00cf71b8614/artifacts
+end_time: 1669943400794
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da6c39695adc4ab1892cb00cf71b8614
+run_name: secretive-shrew-338
+run_uuid: da6c39695adc4ab1892cb00cf71b8614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242360673
+status: 3
+tags: []
+user_id: unknown

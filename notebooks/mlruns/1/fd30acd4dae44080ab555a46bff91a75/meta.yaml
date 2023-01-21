@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/fd30acd4dae44080ab555a46bff91a75/artifacts
+end_time: 1669943586776
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd30acd4dae44080ab555a46bff91a75
+run_name: gregarious-colt-724
+run_uuid: fd30acd4dae44080ab555a46bff91a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242308558
+status: 3
+tags: []
+user_id: unknown

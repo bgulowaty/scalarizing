@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/785f9ca5386446e2aa628a201d70bba5/artifacts
+end_time: 1669955618179
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 785f9ca5386446e2aa628a201d70bba5
+run_name: resilient-croc-113
+run_uuid: 785f9ca5386446e2aa628a201d70bba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240120528
+status: 3
+tags: []
+user_id: unknown

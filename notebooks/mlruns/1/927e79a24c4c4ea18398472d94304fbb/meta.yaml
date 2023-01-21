@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/927e79a24c4c4ea18398472d94304fbb/artifacts
+end_time: 1670102129488
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 927e79a24c4c4ea18398472d94304fbb
+run_name: upset-carp-667
+run_uuid: 927e79a24c4c4ea18398472d94304fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242671914
+status: 3
+tags: []
+user_id: unknown

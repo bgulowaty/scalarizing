@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/6ff0297796af48e69e5eff4621c411c4/artifacts
+end_time: 1669956591930
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ff0297796af48e69e5eff4621c411c4
+run_name: rogue-elk-428
+run_uuid: 6ff0297796af48e69e5eff4621c411c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240039957
+status: 3
+tags: []
+user_id: unknown

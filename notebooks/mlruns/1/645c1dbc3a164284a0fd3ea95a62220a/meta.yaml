@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/645c1dbc3a164284a0fd3ea95a62220a/artifacts
+end_time: 1669949728554
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 645c1dbc3a164284a0fd3ea95a62220a
+run_name: overjoyed-worm-713
+run_uuid: 645c1dbc3a164284a0fd3ea95a62220a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240883958
+status: 3
+tags: []
+user_id: unknown

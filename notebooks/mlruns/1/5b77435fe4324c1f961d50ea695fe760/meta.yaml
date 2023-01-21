@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/5b77435fe4324c1f961d50ea695fe760/artifacts
+end_time: 1670181183590
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b77435fe4324c1f961d50ea695fe760
+run_name: painted-bat-610
+run_uuid: 5b77435fe4324c1f961d50ea695fe760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240610357
+status: 3
+tags: []
+user_id: unknown

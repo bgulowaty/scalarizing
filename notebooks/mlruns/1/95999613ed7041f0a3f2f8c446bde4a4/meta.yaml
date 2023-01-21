@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/95999613ed7041f0a3f2f8c446bde4a4/artifacts
+end_time: 1669945255171
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95999613ed7041f0a3f2f8c446bde4a4
+run_name: worried-stag-287
+run_uuid: 95999613ed7041f0a3f2f8c446bde4a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242126349
+status: 3
+tags: []
+user_id: unknown

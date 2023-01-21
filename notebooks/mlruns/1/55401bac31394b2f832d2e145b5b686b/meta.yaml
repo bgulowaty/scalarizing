@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/55401bac31394b2f832d2e145b5b686b/artifacts
+end_time: 1670181727443
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55401bac31394b2f832d2e145b5b686b
+run_name: masked-frog-523
+run_uuid: 55401bac31394b2f832d2e145b5b686b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239988092
+status: 3
+tags: []
+user_id: unknown

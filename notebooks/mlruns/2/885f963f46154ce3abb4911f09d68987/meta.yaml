@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/885f963f46154ce3abb4911f09d68987/artifacts
+end_time: 1670161973899
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 885f963f46154ce3abb4911f09d68987
+run_name: bold-wolf-658
+run_uuid: 885f963f46154ce3abb4911f09d68987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150479167
+status: 3
+tags: []
+user_id: unknown

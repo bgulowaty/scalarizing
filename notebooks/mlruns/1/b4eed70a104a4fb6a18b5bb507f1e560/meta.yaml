@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b4eed70a104a4fb6a18b5bb507f1e560/artifacts
+end_time: 1669952274652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4eed70a104a4fb6a18b5bb507f1e560
+run_name: overjoyed-bat-949
+run_uuid: b4eed70a104a4fb6a18b5bb507f1e560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240462341
+status: 3
+tags: []
+user_id: unknown

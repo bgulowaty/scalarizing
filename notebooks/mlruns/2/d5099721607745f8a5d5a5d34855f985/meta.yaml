@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/d5099721607745f8a5d5a5d34855f985/artifacts
+end_time: 1670161745385
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d5099721607745f8a5d5a5d34855f985
+run_name: skittish-calf-518
+run_uuid: d5099721607745f8a5d5a5d34855f985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150571342
+status: 3
+tags: []
+user_id: unknown

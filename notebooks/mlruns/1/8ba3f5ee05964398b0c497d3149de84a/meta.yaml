@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/8ba3f5ee05964398b0c497d3149de84a/artifacts
+end_time: 1669949187326
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ba3f5ee05964398b0c497d3149de84a
+run_name: vaunted-goose-577
+run_uuid: 8ba3f5ee05964398b0c497d3149de84a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241032304
+status: 3
+tags: []
+user_id: unknown

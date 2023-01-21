@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/be2354ba1f50403496b94efc10abcdae/artifacts
+end_time: 1669946310408
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be2354ba1f50403496b94efc10abcdae
+run_name: secretive-koi-904
+run_uuid: be2354ba1f50403496b94efc10abcdae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241642096
+status: 3
+tags: []
+user_id: unknown

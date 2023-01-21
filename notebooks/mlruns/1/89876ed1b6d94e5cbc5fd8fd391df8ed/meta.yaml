@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/89876ed1b6d94e5cbc5fd8fd391df8ed/artifacts
+end_time: 1669944917614
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89876ed1b6d94e5cbc5fd8fd391df8ed
+run_name: unleashed-jay-248
+run_uuid: 89876ed1b6d94e5cbc5fd8fd391df8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241947559
+status: 3
+tags: []
+user_id: unknown

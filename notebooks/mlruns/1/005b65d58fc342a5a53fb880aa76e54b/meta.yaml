@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/005b65d58fc342a5a53fb880aa76e54b/artifacts
+end_time: 1669944912739
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 005b65d58fc342a5a53fb880aa76e54b
+run_name: mysterious-bird-296
+run_uuid: 005b65d58fc342a5a53fb880aa76e54b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241950493
+status: 3
+tags: []
+user_id: unknown

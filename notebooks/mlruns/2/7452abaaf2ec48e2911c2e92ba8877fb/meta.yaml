@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/7452abaaf2ec48e2911c2e92ba8877fb/artifacts
+end_time: 1670162504969
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7452abaaf2ec48e2911c2e92ba8877fb
+run_name: dashing-hen-952
+run_uuid: 7452abaaf2ec48e2911c2e92ba8877fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150299993
+status: 3
+tags: []
+user_id: unknown

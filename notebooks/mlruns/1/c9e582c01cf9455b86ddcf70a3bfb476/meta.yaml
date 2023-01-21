@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c9e582c01cf9455b86ddcf70a3bfb476/artifacts
+end_time: 1669946616163
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9e582c01cf9455b86ddcf70a3bfb476
+run_name: gaudy-snail-232
+run_uuid: c9e582c01cf9455b86ddcf70a3bfb476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241541327
+status: 3
+tags: []
+user_id: unknown

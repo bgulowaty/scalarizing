@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/c348a8060f4245809078c7c6fbff868e/artifacts
+end_time: 1670162613545
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c348a8060f4245809078c7c6fbff868e
+run_name: victorious-hawk-611
+run_uuid: c348a8060f4245809078c7c6fbff868e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150264013
+status: 3
+tags: []
+user_id: unknown

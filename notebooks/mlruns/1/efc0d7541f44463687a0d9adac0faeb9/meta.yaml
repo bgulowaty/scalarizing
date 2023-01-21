@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/efc0d7541f44463687a0d9adac0faeb9/artifacts
+end_time: 1669944454532
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efc0d7541f44463687a0d9adac0faeb9
+run_name: intrigued-shrike-491
+run_uuid: efc0d7541f44463687a0d9adac0faeb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242062866
+status: 3
+tags: []
+user_id: unknown

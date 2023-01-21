@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/c081b68112d74d2d9cf6c29529253a7a/artifacts
+end_time: 1669945453213
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c081b68112d74d2d9cf6c29529253a7a
+run_name: sincere-eel-262
+run_uuid: c081b68112d74d2d9cf6c29529253a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241795253
+status: 3
+tags: []
+user_id: unknown

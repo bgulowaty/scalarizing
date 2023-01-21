@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/ca7fc2647e214ba3ab04dec06fce4c1d/artifacts
+end_time: 1669944229733
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca7fc2647e214ba3ab04dec06fce4c1d
+run_name: crawling-horse-453
+run_uuid: ca7fc2647e214ba3ab04dec06fce4c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242188899
+status: 3
+tags: []
+user_id: unknown

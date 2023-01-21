@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/b3123c5b355e4656a2b38ab069b86781/artifacts
+end_time: 1670162511089
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b3123c5b355e4656a2b38ab069b86781
+run_name: carefree-shark-304
+run_uuid: b3123c5b355e4656a2b38ab069b86781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150277942
+status: 3
+tags: []
+user_id: unknown

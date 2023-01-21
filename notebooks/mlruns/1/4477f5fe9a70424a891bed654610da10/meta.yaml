@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/4477f5fe9a70424a891bed654610da10/artifacts
+end_time: 1669944779775
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4477f5fe9a70424a891bed654610da10
+run_name: puzzled-shoat-787
+run_uuid: 4477f5fe9a70424a891bed654610da10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241979619
+status: 3
+tags: []
+user_id: unknown

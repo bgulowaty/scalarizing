@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9000755f1214464da76859b268b02dd0/artifacts
+end_time: 1669949148617
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9000755f1214464da76859b268b02dd0
+run_name: unequaled-fish-331
+run_uuid: 9000755f1214464da76859b268b02dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241046727
+status: 3
+tags: []
+user_id: unknown

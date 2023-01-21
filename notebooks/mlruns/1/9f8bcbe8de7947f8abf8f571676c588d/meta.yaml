@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/9f8bcbe8de7947f8abf8f571676c588d/artifacts
+end_time: 1670104106913
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f8bcbe8de7947f8abf8f571676c588d
+run_name: stately-koi-936
+run_uuid: 9f8bcbe8de7947f8abf8f571676c588d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240013730
+status: 3
+tags: []
+user_id: unknown

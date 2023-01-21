@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/edfedb6c47b74c699ca42cf119c5720b/artifacts
+end_time: 1669952528607
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edfedb6c47b74c699ca42cf119c5720b
+run_name: adorable-fawn-779
+run_uuid: edfedb6c47b74c699ca42cf119c5720b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240458898
+status: 3
+tags: []
+user_id: unknown

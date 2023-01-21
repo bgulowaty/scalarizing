@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f56d43a0941d4cc0b28dce8b1a104b90/artifacts
+end_time: 1669954139853
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f56d43a0941d4cc0b28dce8b1a104b90
+run_name: capricious-kit-511
+run_uuid: f56d43a0941d4cc0b28dce8b1a104b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240256477
+status: 3
+tags: []
+user_id: unknown

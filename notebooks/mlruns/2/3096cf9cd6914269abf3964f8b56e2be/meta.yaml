@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/3096cf9cd6914269abf3964f8b56e2be/artifacts
+end_time: 1670162618041
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3096cf9cd6914269abf3964f8b56e2be
+run_name: mysterious-fly-121
+run_uuid: 3096cf9cd6914269abf3964f8b56e2be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150249153
+status: 3
+tags: []
+user_id: unknown

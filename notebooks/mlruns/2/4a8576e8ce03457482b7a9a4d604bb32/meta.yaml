@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/4a8576e8ce03457482b7a9a4d604bb32/artifacts
+end_time: 1670162295861
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4a8576e8ce03457482b7a9a4d604bb32
+run_name: exultant-calf-974
+run_uuid: 4a8576e8ce03457482b7a9a4d604bb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150348046
+status: 3
+tags: []
+user_id: unknown

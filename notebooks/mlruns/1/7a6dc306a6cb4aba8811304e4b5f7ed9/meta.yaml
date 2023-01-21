@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/7a6dc306a6cb4aba8811304e4b5f7ed9/artifacts
+end_time: 1669944478689
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a6dc306a6cb4aba8811304e4b5f7ed9
+run_name: nervous-jay-236
+run_uuid: 7a6dc306a6cb4aba8811304e4b5f7ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242051361
+status: 3
+tags: []
+user_id: unknown

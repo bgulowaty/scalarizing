@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/bb9a8009c57144fda2f372840445ad0f/artifacts
+end_time: 1669943259253
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb9a8009c57144fda2f372840445ad0f
+run_name: luminous-goat-717
+run_uuid: bb9a8009c57144fda2f372840445ad0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242391291
+status: 3
+tags: []
+user_id: unknown

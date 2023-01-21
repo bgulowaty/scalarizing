@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/e0fe6db7c86845ca8f90b503851f96a9/artifacts
+end_time: 1670102048201
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0fe6db7c86845ca8f90b503851f96a9
+run_name: placid-chimp-30
+run_uuid: e0fe6db7c86845ca8f90b503851f96a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242668273
+status: 3
+tags: []
+user_id: unknown

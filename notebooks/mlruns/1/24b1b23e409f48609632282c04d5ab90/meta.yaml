@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/24b1b23e409f48609632282c04d5ab90/artifacts
+end_time: 1669948817616
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24b1b23e409f48609632282c04d5ab90
+run_name: welcoming-wolf-54
+run_uuid: 24b1b23e409f48609632282c04d5ab90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241117894
+status: 3
+tags: []
+user_id: unknown

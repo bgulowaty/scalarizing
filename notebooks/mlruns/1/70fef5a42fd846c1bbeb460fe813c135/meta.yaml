@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/70fef5a42fd846c1bbeb460fe813c135/artifacts
+end_time: 1669953193290
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70fef5a42fd846c1bbeb460fe813c135
+run_name: shivering-fish-887
+run_uuid: 70fef5a42fd846c1bbeb460fe813c135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240361624
+status: 3
+tags: []
+user_id: unknown

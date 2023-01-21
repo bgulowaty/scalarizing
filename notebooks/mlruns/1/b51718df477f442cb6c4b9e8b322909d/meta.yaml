@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/b51718df477f442cb6c4b9e8b322909d/artifacts
+end_time: 1669944956375
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b51718df477f442cb6c4b9e8b322909d
+run_name: bright-shark-967
+run_uuid: b51718df477f442cb6c4b9e8b322909d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241920387
+status: 3
+tags: []
+user_id: unknown

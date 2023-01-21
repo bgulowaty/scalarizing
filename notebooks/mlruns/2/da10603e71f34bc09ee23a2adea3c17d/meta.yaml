@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/da10603e71f34bc09ee23a2adea3c17d/artifacts
+end_time: 1670161856817
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: da10603e71f34bc09ee23a2adea3c17d
+run_name: exultant-penguin-944
+run_uuid: da10603e71f34bc09ee23a2adea3c17d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150537881
+status: 3
+tags: []
+user_id: unknown

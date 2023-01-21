@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/386b19ef9ff34b979e0296972679e909/artifacts
+end_time: 1669943361502
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 386b19ef9ff34b979e0296972679e909
+run_name: luminous-fish-127
+run_uuid: 386b19ef9ff34b979e0296972679e909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242435748
+status: 3
+tags: []
+user_id: unknown

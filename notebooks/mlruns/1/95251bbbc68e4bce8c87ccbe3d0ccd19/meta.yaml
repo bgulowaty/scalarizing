@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/95251bbbc68e4bce8c87ccbe3d0ccd19/artifacts
+end_time: 1669951678755
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95251bbbc68e4bce8c87ccbe3d0ccd19
+run_name: zealous-deer-804
+run_uuid: 95251bbbc68e4bce8c87ccbe3d0ccd19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240543833
+status: 3
+tags: []
+user_id: unknown

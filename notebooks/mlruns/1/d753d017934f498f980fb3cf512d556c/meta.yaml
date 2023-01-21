@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d753d017934f498f980fb3cf512d556c/artifacts
+end_time: 1670105956234
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d753d017934f498f980fb3cf512d556c
+run_name: loud-deer-164
+run_uuid: d753d017934f498f980fb3cf512d556c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239916996
+status: 3
+tags: []
+user_id: unknown

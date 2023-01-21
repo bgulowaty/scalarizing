@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/73252adfb2c04d03a0b14fd68d408f5b/artifacts
+end_time: 1670102913986
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73252adfb2c04d03a0b14fd68d408f5b
+run_name: fearless-stoat-137
+run_uuid: 73252adfb2c04d03a0b14fd68d408f5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669241913905
+status: 3
+tags: []
+user_id: unknown

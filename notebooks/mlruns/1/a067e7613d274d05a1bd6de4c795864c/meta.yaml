@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/a067e7613d274d05a1bd6de4c795864c/artifacts
+end_time: 1670104712685
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a067e7613d274d05a1bd6de4c795864c
+run_name: bright-crane-798
+run_uuid: a067e7613d274d05a1bd6de4c795864c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239978848
+status: 3
+tags: []
+user_id: unknown

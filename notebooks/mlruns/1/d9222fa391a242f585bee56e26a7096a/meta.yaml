@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/d9222fa391a242f585bee56e26a7096a/artifacts
+end_time: 1669942744407
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9222fa391a242f585bee56e26a7096a
+run_name: beautiful-wasp-660
+run_uuid: d9222fa391a242f585bee56e26a7096a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669242517891
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/81dd712cd2f24315b63baac7447cf0eb/artifacts
+end_time: 1670181765425
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81dd712cd2f24315b63baac7447cf0eb
+run_name: skillful-owl-430
+run_uuid: 81dd712cd2f24315b63baac7447cf0eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669239930834
+status: 3
+tags: []
+user_id: unknown

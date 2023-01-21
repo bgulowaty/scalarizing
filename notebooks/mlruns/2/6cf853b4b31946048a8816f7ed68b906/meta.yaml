@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/6cf853b4b31946048a8816f7ed68b906/artifacts
+end_time: 1670162951956
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6cf853b4b31946048a8816f7ed68b906
+run_name: handsome-dove-390
+run_uuid: 6cf853b4b31946048a8816f7ed68b906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150193594
+status: 3
+tags: []
+user_id: unknown

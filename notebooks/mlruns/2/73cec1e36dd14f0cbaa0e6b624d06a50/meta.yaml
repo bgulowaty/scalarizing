@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/2/73cec1e36dd14f0cbaa0e6b624d06a50/artifacts
+end_time: 1670161970611
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 73cec1e36dd14f0cbaa0e6b624d06a50
+run_name: monumental-croc-739
+run_uuid: 73cec1e36dd14f0cbaa0e6b624d06a50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670150475711
+status: 3
+tags: []
+user_id: unknown

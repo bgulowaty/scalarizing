@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogul/scalarizing/notebooks/mlruns/1/f0785dc216b9419d87fd15e9bff3e276/artifacts
+end_time: 1669953784780
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0785dc216b9419d87fd15e9bff3e276
+run_name: calm-shrimp-328
+run_uuid: f0785dc216b9419d87fd15e9bff3e276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669240299461
+status: 3
+tags: []
+user_id: unknown
