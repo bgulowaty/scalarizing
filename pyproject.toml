@@ -14,10 +14,6 @@ norecursedirs=["libs"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-python-box = {extras = ["all"], version = "^5.4.1"}
-x-to-rules = {path = "libs/rules", develop = true}
-pandas = "1.4.0"
-sklearn = "^0.0"
 pymoo = "^0.6.0"
 imblearn = "^0.0"
 toolz = "^0.11.2"
@@ -29,10 +25,14 @@ datasets = "^2.6.1"
 DESlib = "^0.3.5"
 perceptron = "^1.1.0"
 aiocache = "^0.11.1"
+numpy = "^1.24.3"
+ml-utils = {path = "../ml-utils", develop = true}
+scikit-learn = "^1.2.2"
+python-box = {extras = ["all"], version = "^7.0.1"}
+sympy = "^1.12"
 
 [tool.poetry.group.dev.dependencies]
 bokeh = "^2.4.3"
-mlflow = "^1.23.1"
 jupyterlab = "^3.2.8"
 distributed = "^2022.10.0"
 dask = {extras = ["distributed"], version = "^2022.6.1"}

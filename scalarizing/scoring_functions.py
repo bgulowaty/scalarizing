@@ -20,7 +20,6 @@ def default_scoring_function(scorer, folds_iterator, classifiers, ensemble_size)
         best_clf_indices_by_test_accuracy = top_n_indicies(test_accuracies, ensemble_size)
         best_clf_indices = top_n_indicies(scores_for_single_fold, ensemble_size)
 
-
         voting_clf = create_voting_classifier(classifiers[best_clf_indices], x_train, y_train)
         voting_clf_by_test_acc = create_voting_classifier(classifiers[best_clf_indices_by_test_accuracy], x_train, y_train)
 
@@ -83,6 +82,3 @@ def diversity_metric_scoring_function(scorer, folds_iterator, classifiers, ensem
     }
 
     return np.mean(function_values['diversity'] + function_values['by_accuracy'])
-
-
-

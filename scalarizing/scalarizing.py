@@ -16,10 +16,6 @@ from sympy import symbols, parse_expr
 
 from rules.utils.sympy_utils import get_all_possible_expression_addresses, modify_expression
 from scalarizing.scoring_functions import default_scoring_function
-from scalarizing.utils import np_cache
-
-from aiocache import cached, Cache
-from aiocache.serializers import PickleSerializer
 
 
 balanced_accuracy = symbols('balanced_accuracy')
@@ -110,14 +106,6 @@ class FindingBestExpressionProblemCrossover(Crossover):
 
     def _do(self, problem, X, **kwargs):
         return X
-
-
-
-@dataclass
-class ScoringFunctionArguments:
-    score: float
-    y_true: List
-    y_pred: List
 
 
 class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
