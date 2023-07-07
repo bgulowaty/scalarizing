@@ -1,3 +1,0 @@
-[submodule "libs/rules"]
-	path = libs/rules
-	url = https://github.com/bgulowaty/rules.git
