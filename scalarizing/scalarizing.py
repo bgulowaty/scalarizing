@@ -13,9 +13,11 @@ from pymoo.core.sampling import Sampling
 from sklearn.metrics import balanced_accuracy_score, f1_score, accuracy_score, recall_score, precision_score
 from sklearn.model_selection import StratifiedKFold
 from sympy import symbols, parse_expr
+from mlutils.scikit.caching_wrapper import CachingClassifier
 
 from rules.utils.sympy_utils import get_all_possible_expression_addresses, modify_expression
 from scalarizing.scoring_functions import default_scoring_function
+
 
 
 balanced_accuracy = symbols('balanced_accuracy')
@@ -53,14 +55,19 @@ symbols_iter = cycle([*all_symbols])
 
 def scorer_creator(the_expression, labels=None):
     def my_custom_loss_func(y_true, y_pred):
-        subs = {
-            'balanced_accuracy': balanced_accuracy_score(y_true, y_pred),
-            'accuracy': accuracy_score(y_true, y_pred),
-            'precision': precision_score(y_true, y_pred, average='weighted', labels=labels, zero_division=0),
-            'g_mean': geometric_mean_score(y_true, y_pred, average='weighted', labels=labels),
-            'recall': recall_score(y_true, y_pred, average='weighted', labels=labels),
-            'f1': f1_score(y_true, y_pred, average='weighted', labels=labels, zero_division=0),
+        subs_lazy = {
+            'balanced_accuracy': lambda: balanced_accuracy_score(y_true, y_pred),
+            'accuracy': lambda:accuracy_score(y_true, y_pred),
+            'precision': lambda:precision_score(y_true, y_pred, average='weighted', labels=labels, zero_division=0),
+            'g_mean': lambda: geometric_mean_score(y_true, y_pred, average='weighted', labels=labels),
+            'recall': lambda: recall_score(y_true, y_pred, average='weighted', labels=labels),
+            'f1': lambda:f1_score(y_true, y_pred, average='weighted', labels=labels, zero_division=0),
         }
+
+        subs = {
+            metric: compute() for metric, compute in subs_lazy.items() if metric in str(the_expression)
+        }
+
         result = parse_expr(str(the_expression)).evalf(subs=subs)
         try:
             return float(result)
@@ -124,13 +131,9 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
         self.labels = np.unique(dataset.y)
         self.ensemble_size = ensemble_size
         self.dataset = dataset
-        self.classifiers = np.copy(classifiers)
+        self.classifiers = np.array([CachingClassifier(it) for it in classifiers])
         self.train_idx = []
         self.test_idx = []
-        self.predictions = []
-        
-        # for clf in classifiers:
-        #     clf.predict = cached(cache=Cache.MEMORY, serializer=PickleSerializer())(clf.predict)
 
         for train_idx, test_idx in splitter.split(dataset.x, dataset.y):
             self.train_idx.append(train_idx)
@@ -146,7 +149,6 @@ class FindingBestExpressionSingleDatasetProblem(ElementwiseProblem):
 
     def _evaluate(self, individual, out, *args, **kwargs):
         scorer = scorer_creator(individual[0], labels=self.labels)  # individual has just the expression
-
         out["F"] = self.scoring_function(scorer, self.folds_iterator(), self.classifiers, self.ensemble_size)
 
     def folds_iterator(self):

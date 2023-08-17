@@ -1,24 +1,27 @@
-from .utils import top_n_indicies, create_voting_classifier
-from sklearn.metrics import balanced_accuracy_score, f1_score, accuracy_score, recall_score, precision_score
+from itertools import combinations
+
 import numpy as np
 from deslib.util import diversity
-from itertools import combinations
+from joblib import delayed, Parallel
+from sklearn.metrics import accuracy_score
+
+from .utils import top_n_indicies, create_voting_classifier
 
 
 def default_scoring_function(scorer, folds_iterator, classifiers, ensemble_size):
     calculated_test_accuracies = []
 
     for x_train, y_train, x_test, y_test in folds_iterator:
-        scores_for_single_fold = []
 
         test_accuracies = [accuracy_score(clf.predict(x_test), y_test) for clf in classifiers]
 
-        for clf_idx, clf in enumerate(classifiers):  # Calculate score for every clf for this fold
-            score = scorer(y_train, clf.predict(x_train))
-            scores_for_single_fold.append(score)
+        scores_for_single_fold = Parallel(n_jobs=8, backend='threading')(
+            delayed(lambda clf: scorer(y_train, clf.predict(x_train)))(clf) for clf in classifiers
+        )
 
         best_clf_indices_by_test_accuracy = top_n_indicies(test_accuracies, ensemble_size)
         best_clf_indices = top_n_indicies(scores_for_single_fold, ensemble_size)
+
 
         voting_clf = create_voting_classifier(classifiers[best_clf_indices], x_train, y_train)
         voting_clf_by_test_acc = create_voting_classifier(classifiers[best_clf_indices_by_test_accuracy], x_train, y_train)
@@ -29,6 +32,7 @@ def default_scoring_function(scorer, folds_iterator, classifiers, ensemble_size)
         }
 
         calculated_test_accuracies.append(accuracies)
+
 
     function_values = {
         'by_accuracy': np.average([1 - accuracy['by_accuracy'] for accuracy in calculated_test_accuracies]),

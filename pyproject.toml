@@ -30,6 +30,10 @@ ml-utils = {path = "../ml-utils", develop = true}
 scikit-learn = "^1.2.2"
 python-box = {extras = ["all"], version = "^7.0.1"}
 sympy = "^1.12"
+pyyaml = "5.3.1"
+x-to-rules = {path = "../rules", develop = true}
+snakeviz = "^2.2.0"
+cachetools = "^5.3.1"
 
 [tool.poetry.group.dev.dependencies]
 bokeh = "^2.4.3"
